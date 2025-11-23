@@ -141,13 +141,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chiado_Lisbon.jpg/1200px-Chiado_Lisbon.jpg",
+      "url": "/images/attractions/chiado-hero.jpg",
       "alt": "Chiado district shopping street",
       "caption": "The elegant shopping streets of Chiado"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A_Brasileira_Chiado.jpg/1200px-A_Brasileira_Chiado.jpg",
+        "url": "/images/attractions/chiado-1.jpg",
         "alt": "A Brasileira café in Chiado",
         "caption": "The historic A Brasileira café, a Chiado landmark"
       }

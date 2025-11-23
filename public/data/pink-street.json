@@ -138,23 +138,23 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pink_Street_Lisbon_2015.jpg/1200px-Pink_Street_Lisbon_2015.jpg",
+      "url": "/images/attractions/pink-street-hero.jpg",
       "alt": "Pink Street (Rua Nova do Carvalho)",
       "caption": "The famous pink-painted street in Cais do Sodré"
     },
     "gallery": [
       {
-        "url": "https://visit-lisbon.net/wp-content/uploads/2025/06/pink-street-3.jpg",
+        "url": "/images/attractions/pink-street-1.jpg",
         "alt": "Pink Street at night with crowds and illuminated bars",
         "caption": "Pink Street transforms at night into a vibrant party destination"
       },
       {
-        "url": "https://amiroad.pt/wp-content/uploads/2024/05/rua-cor-de-rosa-3.jpg",
+        "url": "/images/attractions/pink-street-2.jpg",
         "alt": "Daytime view of Pink Street with pink pavement and traditional buildings",
         "caption": "The distinctive pink pavement that gives the street its name"
       },
       {
-        "url": "https://media.timeout.com/images/105446664/750/562/image.jpg",
+        "url": "/images/attractions/pink-street-3.jpg",
         "alt": "Pink elephant statue at Delirium Café on Pink Street",
         "caption": "The quirky pink elephant has become a popular photo opportunity"
       }

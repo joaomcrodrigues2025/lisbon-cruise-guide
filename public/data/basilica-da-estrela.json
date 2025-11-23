@@ -147,13 +147,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Basilica_da_Estrela_Lisbon.jpg/1200px-Basilica_da_Estrela_Lisbon.jpg",
+      "url": "/images/attractions/basilica-da-estrela-hero.jpg",
       "alt": "Basílica da Estrela exterior",
       "caption": "The magnificent white marble Estrela Basilica with its dome"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basilica_Estrela_interior.jpg/1200px-Basilica_Estrela_interior.jpg",
+        "url": "/images/attractions/basilica-da-estrela-1.jpg",
         "alt": "Interior of Basílica da Estrela",
         "caption": "The ornate baroque interior with pink and gray marble"
       }

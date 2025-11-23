@@ -163,13 +163,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LX_Factory_Lisbon.jpg/1200px-LX_Factory_Lisbon.jpg",
+      "url": "/images/attractions/lx-factory-hero.jpg",
       "alt": "LX Factory creative space",
       "caption": "The trendy LX Factory converted industrial complex"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LX_Factory_street_art.jpg/1200px-LX_Factory_street_art.jpg",
+        "url": "/images/attractions/lx-factory-1.jpg",
         "alt": "Street art at LX Factory",
         "caption": "Colorful street art and murals throughout LX Factory"
       }

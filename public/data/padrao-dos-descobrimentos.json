@@ -153,13 +153,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Padrao_dos_Descobrimentos_April_2009-4a.jpg/1200px-Padrao_dos_Descobrimentos_April_2009-4a.jpg",
+      "url": "/images/attractions/padrao-dos-descobrimentos-hero.jpg",
       "alt": "Padrão dos Descobrimentos monument",
       "caption": "The impressive Monument to the Discoveries overlooking the Tagus River"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padrao_Descobrimentos_360_Panorama%2C_Lisbon%2C_Portugal_-_Dec_2007.jpg/1200px-Padrao_Descobrimentos_360_Panorama%2C_Lisbon%2C_Portugal_-_Dec_2007.jpg",
+        "url": "/images/attractions/padrao-dos-descobrimentos-1.jpg",
         "alt": "Aerial view of Padrão dos Descobrimentos",
         "caption": "Panoramic view showing the monument and compass rose mosaic"
       }

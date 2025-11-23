@@ -150,13 +150,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Time_Out_Market_Lisboa_2016.jpg/1200px-Time_Out_Market_Lisboa_2016.jpg",
+      "url": "/images/attractions/time-out-market-lisboa-hero.jpg",
       "alt": "Time Out Market Lisboa interior",
       "caption": "The bustling interior of Time Out Market with food stalls and communal seating"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mercado_da_Ribeira_facade.jpg/1200px-Mercado_da_Ribeira_facade.jpg",
+        "url": "/images/attractions/time-out-market-lisboa-1.jpg",
         "alt": "Historic facade of Mercado da Ribeira",
         "caption": "The historic 19th-century facade of the market building"
       }

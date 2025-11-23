@@ -175,13 +175,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Convento_do_Carmo_ruins_Lisbon.jpg/1200px-Convento_do_Carmo_ruins_Lisbon.jpg",
+      "url": "/images/attractions/convento-do-carmo-hero.jpg",
       "alt": "Ruins of Convento do Carmo",
       "caption": "The hauntingly beautiful open-air ruins of Carmo Convent"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carmo_Archaeological_Museum.jpg/1200px-Carmo_Archaeological_Museum.jpg",
+        "url": "/images/attractions/convento-do-carmo-1.jpg",
         "alt": "Interior of Carmo Archaeological Museum",
         "caption": "The roofless nave now houses an archaeological museum"
       }

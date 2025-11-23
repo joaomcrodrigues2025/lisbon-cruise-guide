@@ -150,13 +150,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_Lisbon.jpg/1200px-Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_Lisbon.jpg",
+      "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-hero.jpg",
       "alt": "View from Miradouro de São Pedro de Alcântara",
       "caption": "Stunning panoramic views over Lisbon from the viewpoint"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A3o_Pedro_de_Alc%C3%A2ntara_viewpoint.jpg/1200px-S%C3%A3o_Pedro_de_Alc%C3%A2ntara_viewpoint.jpg",
+        "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-1.jpg",
         "alt": "Terrace at Miradouro de São Pedro de Alcântara",
         "caption": "The beautifully landscaped terrace garden with viewing area"
       }

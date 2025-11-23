@@ -143,13 +143,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rua_Augusta_Arch_Lisbon.jpg/1200px-Rua_Augusta_Arch_Lisbon.jpg",
+      "url": "/images/attractions/rua-augusta-hero.jpg",
       "alt": "Arco da Rua Augusta",
       "caption": "The triumphal Rua Augusta Arch at Praça do Comércio"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rua_Augusta_pedestrian_street.jpg/1200px-Rua_Augusta_pedestrian_street.jpg",
+        "url": "/images/attractions/rua-augusta-1.jpg",
         "alt": "Rua Augusta pedestrian street",
         "caption": "The lively pedestrian shopping street leading to the arch"
       }

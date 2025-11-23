@@ -145,13 +145,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pasteis_de_Belem_Lisbon_2019.jpg/1200px-Pasteis_de_Belem_Lisbon_2019.jpg",
+      "url": "/images/attractions/pasteis-de-belem-hero.jpg",
       "alt": "Pastéis de Belém storefront",
       "caption": "The iconic blue and white tiled facade of Pastéis de Belém"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pastel_de_nata.jpg/1200px-Pastel_de_nata.jpg",
+        "url": "/images/attractions/pasteis-de-belem-1.jpg",
         "alt": "Freshly baked pastéis de nata",
         "caption": "The famous Portuguese custard tarts with cinnamon"
       }

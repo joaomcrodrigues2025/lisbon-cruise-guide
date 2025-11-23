@@ -137,18 +137,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bairro_Alto%2C_Lisbon_%2849942934943%29.jpg/1200px-Bairro_Alto%2C_Lisbon_%2849942934943%29.jpg",
+      "url": "/images/attractions/bairro-alto-hero.jpg",
       "alt": "Colorful streets of Bairro Alto",
       "caption": "The vibrant, narrow cobblestone streets of Bairro Alto"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bairro_Alto_at_night.jpg/1200px-Bairro_Alto_at_night.jpg",
+        "url": "/images/attractions/bairro-alto-1.jpg",
         "alt": "Bairro Alto nightlife scene",
         "caption": "Bairro Alto comes alive at night with bars and street parties"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lisbon_-_Bairro_Alto.jpg/1200px-Lisbon_-_Bairro_Alto.jpg",
+        "url": "/images/attractions/bairro-alto-2.jpg",
         "alt": "Traditional buildings in Bairro Alto",
         "caption": "Historic architecture and traditional buildings in the district"
       }

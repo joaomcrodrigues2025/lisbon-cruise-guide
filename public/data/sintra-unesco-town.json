@@ -167,18 +167,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pal%C3%A1cio_da_Pena_-_Sintra_5.jpg/1200px-Pal%C3%A1cio_da_Pena_-_Sintra_5.jpg",
+      "url": "/images/attractions/sintra-unesco-town-hero.jpg",
       "alt": "Pena Palace in Sintra",
       "caption": "The colorful Pena Palace, UNESCO World Heritage Site"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quinta_da_Regaleira_-_Sintra.jpg/1200px-Quinta_da_Regaleira_-_Sintra.jpg",
+        "url": "/images/attractions/sintra-unesco-town-1.jpg",
         "alt": "Quinta da Regaleira palace",
         "caption": "The romantic Quinta da Regaleira with its mystical gardens"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sintra_-_Portugal_%2824174499179%29.jpg/1200px-Sintra_-_Portugal_%2824174499179%29.jpg",
+        "url": "/images/attractions/sintra-unesco-town-2.jpg",
         "alt": "Sintra town center",
         "caption": "The charming historic center of Sintra"
       }

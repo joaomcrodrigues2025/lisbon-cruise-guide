@@ -168,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "url": "/images/attractions/carmo-archaeological-museum-hero.jpg",
       "alt": "Lisbon cityscape",
       "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "url": "/images/attractions/carmo-archaeological-museum-1.jpg",
         "alt": "Lisbon panorama",
         "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "url": "/images/attractions/carmo-archaeological-museum-2.jpg",
         "alt": "Historic Tram 28 in Lisbon",
         "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }

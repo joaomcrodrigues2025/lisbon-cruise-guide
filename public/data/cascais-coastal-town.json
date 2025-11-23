@@ -154,13 +154,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cascais_bay_2013.jpg/1200px-Cascais_bay_2013.jpg",
+      "url": "/images/attractions/cascais-coastal-town-hero.jpg",
       "alt": "Cascais bay and marina",
       "caption": "The picturesque bay and marina of Cascais"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cascais_Portugal_beach.jpg/1200px-Cascais_Portugal_beach.jpg",
+        "url": "/images/attractions/cascais-coastal-town-1.jpg",
         "alt": "Beach in Cascais",
         "caption": "Beautiful sandy beaches along the Cascais coastline"
       }

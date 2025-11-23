@@ -151,18 +151,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lisbon_Oceanarium_-_Main_Tank.jpg/1200px-Lisbon_Oceanarium_-_Main_Tank.jpg",
+      "url": "/images/attractions/oceanario-de-lisboa-hero.jpg",
       "alt": "Main central tank at Oceanário de Lisboa with diverse marine life",
       "caption": "The spectacular 5-million-liter central ocean tank with sharks, rays, and tropical fish"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lisboa_June_2014-8a.jpg/1200px-Lisboa_June_2014-8a.jpg",
+        "url": "/images/attractions/oceanario-de-lisboa-1.jpg",
         "alt": "Oceanário de Lisboa building exterior",
         "caption": "The iconic Oceanarium building in Parque das Nações"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ocenarium_-_panoramio.jpg/1200px-Ocenarium_-_panoramio.jpg",
+        "url": "/images/attractions/oceanario-de-lisboa-2.jpg",
         "alt": "Entrance to Oceanário de Lisboa",
         "caption": "The modern entrance welcoming over 1 million annual visitors"
       }

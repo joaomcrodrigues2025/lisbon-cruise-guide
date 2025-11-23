@@ -154,13 +154,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cabo_da_Roca_lighthouse.jpg/1200px-Cabo_da_Roca_lighthouse.jpg",
+      "url": "/images/attractions/cabo-da-roca-hero.jpg",
       "alt": "Cabo da Roca lighthouse",
       "caption": "The lighthouse at Europe's westernmost point"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cabo_da_Roca_cliffs.jpg/1200px-Cabo_da_Roca_cliffs.jpg",
+        "url": "/images/attractions/cabo-da-roca-1.jpg",
         "alt": "Dramatic cliffs at Cabo da Roca",
         "caption": "Spectacular Atlantic cliffs at the edge of continental Europe"
       }

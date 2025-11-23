@@ -164,13 +164,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/MAAT_Lisbon_2016.jpg/1200px-MAAT_Lisbon_2016.jpg",
+      "url": "/images/attractions/maat-museum-hero.jpg",
       "alt": "MAAT Museum exterior",
       "caption": "The striking contemporary architecture of MAAT"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MAAT_building_by_river.jpg/1200px-MAAT_building_by_river.jpg",
+        "url": "/images/attractions/maat-museum-1.jpg",
         "alt": "MAAT by the Tagus River",
         "caption": "MAAT's white curved structure along the riverfront"
       }

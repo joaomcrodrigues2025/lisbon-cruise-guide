@@ -149,13 +149,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_S%C3%A3o_Roque_Lisbon.jpg/1200px-Igreja_de_S%C3%A3o_Roque_Lisbon.jpg",
+      "url": "/images/attractions/igreja-de-sao-roque-hero.jpg",
       "alt": "Igreja de São Roque interior",
       "caption": "The incredibly ornate Chapel of St. John the Baptist"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sao_Roque_chapel.jpg/1200px-Sao_Roque_chapel.jpg",
+        "url": "/images/attractions/igreja-de-sao-roque-1.jpg",
         "alt": "Gold chapel at São Roque",
         "caption": "The lavish gold and lapis lazuli decorated chapel"
       }

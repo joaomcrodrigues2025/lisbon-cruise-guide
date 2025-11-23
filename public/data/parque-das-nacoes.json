@@ -147,13 +147,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Parque_das_Na%C3%A7%C3%B5es_waterfront.jpg/1200px-Parque_das_Na%C3%A7%C3%B5es_waterfront.jpg",
+      "url": "/images/attractions/parque-das-nacoes-hero.jpg",
       "alt": "Parque das Nações waterfront",
       "caption": "The modern waterfront promenade at Parque das Nações"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vasco_da_Gama_Tower.jpg/800px-Vasco_da_Gama_Tower.jpg",
+        "url": "/images/attractions/parque-das-nacoes-1.jpg",
         "alt": "Vasco da Gama Tower",
         "caption": "The distinctive Vasco da Gama Tower overlooking the Tagus"
       }

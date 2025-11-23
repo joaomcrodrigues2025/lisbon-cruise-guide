@@ -149,13 +149,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elevador_da_Bica_Lisbon.jpg/1200px-Elevador_da_Bica_Lisbon.jpg",
+      "url": "/images/attractions/elevador-da-bica-hero.jpg",
       "alt": "Elevador da Bica funicular",
       "caption": "The iconic yellow Bica funicular climbing the steep street"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bica_funicular_Lisbon_2014.jpg/1200px-Bica_funicular_Lisbon_2014.jpg",
+        "url": "/images/attractions/elevador-da-bica-1.jpg",
         "alt": "View down Rua da Bica",
         "caption": "Steep Rua da Bica with colorful buildings"
       }
