@@ -1,0 +1,237 @@
+{
+  "id": "traditional-fado-dinner-show",
+  "name": "Traditional Fado Dinner Show",
+  "tagline": "Experience Portugal's Soul Music Over Authentic Portuguese Cuisine",
+  "type": "cultural-performance",
+  "categories": [
+    "fado-music",
+    "dinner-show",
+    "cultural-experience",
+    "entertainment",
+    "portuguese-cuisine"
+  ],
+  "description": {
+    "short": "Immerse yourself in Portugal's UNESCO-recognized fado music tradition while enjoying a full Portuguese dinner. Live performances by renowned fadistas create an unforgettable evening of soulful music, traditional food, and authentic Portuguese culture.",
+    "full": "A Traditional Fado Dinner Show represents one of Lisbon's most authentic cultural experiences, combining Portugal's iconic melancholic music with traditional cuisine in atmospheric venues throughout the city's historic neighborhoods. Fado, meaning 'fate' in Portuguese, is a deeply emotional musical genre characterized by mournful tunes and lyrics expressing saudade - a uniquely Portuguese feeling of longing and nostalgia. UNESCO recognized fado as Intangible Cultural Heritage of Humanity in 2011. Dinner shows typically begin at 8:00-9:00 PM with a traditional Portuguese multi-course dinner featuring local specialties like bacalhau (codfish), grilled meats, seafood rice, and Portuguese wines. As dinner progresses, the lights dim and fadistas (fado singers) take the stage, accompanied by Portuguese guitar and classical guitar. The intimate settings - often in converted houses, historic taverns, or palaces - create powerful emotional connections between performers and audience. Professional fadistas pour their hearts into performances, singing about lost love, the sea, Lisbon's neighborhoods, and Portuguese history. Audiences observe respectful silence during performances, applauding between songs. Shows feature multiple singers - both male and female fadistas - and instrumental interludes showcasing the distinctive 12-string Portuguese guitar. The evening typically includes 3-4 performance sets interspersed with dinner courses, lasting 2.5-3 hours total. Many venues occupy historic Alfama buildings where fado originated in the 1820s among sailors and working-class neighborhoods. The experience offers deep cultural immersion - you're not just watching a show but participating in a living Portuguese tradition. Premium venues like Clube de Fado, Mesa de Frades, and Sr. Vinho attract top fadistas and offer exceptional ambiance. Some shows include pre-dinner neighborhood walks to Fado museums or historic sites. This is Portugal's cultural signature - an experience no visitor should miss.",
+    "history": "Fado emerged in 1820s Lisbon among sailors, bohemians, and working-class communities in Alfama and Mouraria neighborhoods. It blends Portuguese folk traditions, Brazilian modinha, Moorish influences, and African rhythms brought by slaves. Fado gained respectability when performed in aristocratic salons, eventually becoming Portugal's national music. The legendary Amália Rodrigues (1920-1999) elevated fado to international prominence. Today fado thrives as a living tradition with new generations of singers honoring and evolving the art form.",
+    "significance": "Fado is the soul of Portuguese culture - a UNESCO Intangible Cultural Heritage. It expresses the Portuguese psyche, particularly saudade, a concept untranslatable in other languages. Experiencing fado in Lisbon connects visitors to centuries of Portuguese emotion, history, and identity. It remains a vital part of Portuguese life, not merely a tourist attraction."
+  },
+  "location": {
+    "address": {
+      "street": "Multiple venues in Alfama, Bairro Alto, and Lapa",
+      "postal_code": "1100-050",
+      "neighborhood": "Alfama, Bairro Alto, Lapa",
+      "city": "Lisbon",
+      "region": "Lisbon",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7115,
+      "longitude": -9.1281
+    },
+    "directions": {
+      "general": "Fado restaurants located throughout historic Lisbon, concentrated in Alfama (traditional), Bairro Alto (bohemian), and Lapa (upscale)",
+      "fromCruisePort": "15-20 minute taxi/Uber to most fado venues. Alfama venues closest (2km). Some premium venues offer cruise port pickup. Walking possible to Alfama (35-40 minutes)",
+      "publicTransport": "Metro to Santa Apolónia or Terreiro do Paço, then walk to Alfama. Tram 28 stops near several fado houses. Taxis recommended for evening shows",
+      "parking": "Very limited in Alfama - not recommended. Taxi or rideshare strongly advised"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2200,
+      "walkingTime": "25-30 minutes",
+      "drivingTime": "10-12 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 886 1112",
+    "email": "reservations@fadohouse.com",
+    "website": "https://www.senhorvinho.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/fado-shows-tc273/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/fadolisbon",
+      "instagram": "https://www.instagram.com/fadolisbon/",
+      "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g189158-d698357-Reviews-Clube_de_Fado-Lisbon.html"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Nightly performances",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily (most venues)",
+          "hours": "Doors open 19:30-20:00, Shows 20:30-23:00",
+          "lastAdmission": "20:00"
+        }
+      ],
+      "closedDates": [
+        "December 24-25 (some venues)",
+        "January 1 (some venues)"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 65,
+      "youth": 0,
+      "child": 0,
+      "senior": 65,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Prices vary by venue quality. Traditional houses €40-65 per person. Premium venues €65-95. Price includes full 3-course dinner, wine, water, and fado show. Drinks-only/standing options sometimes available for €15-25. Reservations mandatory. Minimum consumption policies apply. Premium venues like Sr. Vinho €70-85. Tipping performers appreciated"
+    },
+    "averageVisitDuration": "2.5-3 hours",
+    "bestTimeToVisit": "Year-round experience. Book at least 2-3 days in advance. Earlier shows (20:00) finish by 22:30 if catching late cruise departure. Weekday shows sometimes less touristy. Peak performance quality typically Thursday-Saturday",
+    "busyPeriods": [
+      "Friday and Saturday nights",
+      "Summer months (June-September)",
+      "Holiday periods",
+      "Cruise ship port days"
+    ],
+    "adviceForVisitors": "MUST book in advance - shows sell out days ahead. Dress smart-casual (no shorts/flip-flops in premium venues). Arrive on time - late seating disrupts performance. Silence phones completely. Absolutely NO talking during performances - fado demands respect and silence. Applaud only between songs. Photography usually allowed without flash but check venue rules. Pace yourself with wine - it's a 3-hour experience. Ask waiters about dishes if unfamiliar. Tip performers if moved. Consider venue location for return transport. Combine with pre-dinner Alfama walk"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "4-4.5 hours total (transport, dinner, show, return)",
+    "accessibility": "Good - evening timing perfect for cruise passengers",
+    "combinableWith": [
+      "Afternoon Alfama walk",
+      "Lisbon Cathedral visit",
+      "São Jorge Castle sunset",
+      "Pre-dinner neighborhood tour",
+      "Fado Museum visit",
+      "Miradouro Santa Luzia viewpoint"
+    ],
+    "tips": [
+      "Perfect evening activity for cruise passengers",
+      "Book before arriving - shows sell out quickly",
+      "20:00 shows work best for cruise schedules",
+      "Allow 30 min taxi time back to port after show",
+      "Venues close to port easier for late returns",
+      "Some premium venues offer cruise port pickup",
+      "Truly authentic Portuguese experience",
+      "Don't rush dinner - it's part of the experience",
+      "Silence during performances is ESSENTIAL",
+      "This is Portugal's cultural highlight - don't miss it",
+      "Bring tissues - fado can be very emotional",
+      "Small venue preferred for intimate experience"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Live fado performances by professional fadistas",
+      "Traditional 3-course Portuguese dinner",
+      "Portuguese wine included",
+      "Multiple performance sets throughout evening",
+      "Portuguese guitar and classical guitar accompaniment",
+      "Historic atmospheric venues",
+      "UNESCO Intangible Cultural Heritage experience",
+      "Male and female fadistas",
+      "Intimate candlelit settings",
+      "Alfama neighborhood ambiance",
+      "Traditional Portuguese cuisine",
+      "Cultural immersion experience"
+    ],
+    "facilities": [
+      "Restaurant seating",
+      "Full bar service",
+      "Restrooms",
+      "Coat check (some venues)",
+      "Air conditioning",
+      "Acoustically designed spaces",
+      "Performance stage area",
+      "Wine cellar (premium venues)",
+      "Credit cards accepted",
+      "Reservation desk"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Limited",
+      "mobilityNotes": "Many venues in historic buildings with stairs and no elevators. Alfama venues particularly challenging due to steep hills and narrow streets. Some newer/premium venues offer accessibility - check when booking. Ground-floor seating sometimes available. Taxis can drop at door",
+      "visualAidServices": "Music and atmosphere provide sensory experience beyond visual",
+      "hearingAidServices": "Hearing assistance critical for fado - quiet venues with good acoustics"
+    },
+    "languages": [
+      "Portuguese (performances)",
+      "English (staff and menus)",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/traditional-fado-dinner-show-hero.jpg",
+      "alt": "Fadista performing with Portuguese guitar",
+      "caption": "Soul-stirring fado performance in intimate Lisbon venue"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/traditional-fado-dinner-show-1.jpg",
+        "alt": "Traditional Portuguese dinner spread",
+        "caption": "Authentic Portuguese cuisine served during fado dinner show"
+      },
+      {
+        "url": "/images/attractions/traditional-fado-dinner-show-2.jpg",
+        "alt": "Historic fado house in Alfama",
+        "caption": "Atmospheric fado restaurant in historic Alfama neighborhood"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Lisbon Cathedral",
+      "distance": "400 meters",
+      "type": "cathedral",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Fado Museum",
+      "distance": "500 meters",
+      "type": "museum",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "600 meters",
+      "type": "castle",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Miradouro Santa Luzia",
+      "distance": "300 meters",
+      "type": "viewpoint",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "Alfama neighborhood",
+      "distance": "Adjacent",
+      "type": "historic-district",
+      "walkingTime": "Direct access"
+    }
+  ],
+  "tags": [
+    "fado",
+    "live-music",
+    "portuguese-culture",
+    "dinner-show",
+    "traditional-cuisine",
+    "unesco-heritage",
+    "evening-entertainment",
+    "must-do",
+    "romantic",
+    "cultural-immersion"
+  ],
+  "suitableFor": [
+    "couples",
+    "culture-enthusiasts",
+    "music-lovers",
+    "romantics",
+    "foodies",
+    "all-visitors",
+    "cruise-passengers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$$",
+  "rating": 4.7,
+  "reviewCount": 15400,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}

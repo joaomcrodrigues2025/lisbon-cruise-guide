@@ -1,0 +1,257 @@
+{
+  "id": "dolphin-watching-tour",
+  "name": "Dolphin Watching Tour from Setúbal",
+  "tagline": "Encounter wild bottlenose dolphins in their natural habitat on the Sado Estuary",
+  "type": "boat-tour",
+  "categories": [
+    "boat-tour",
+    "wildlife-watching",
+    "nature-experience",
+    "marine-life",
+    "family-adventure"
+  ],
+  "description": {
+    "short": "Embark on an unforgettable marine wildlife adventure to observe one of Europe's only resident populations of bottlenose dolphins in the stunning Sado Estuary near Setúbal, just 50 kilometers south of Lisbon.",
+    "full": "The Sado Estuary Dolphin Watching Tour offers cruise passengers a rare opportunity to witness wild bottlenose dolphins in their natural habitat, just a short journey from Lisbon's port. The Sado Estuary is home to one of only three resident populations of bottlenose dolphins in Europe, with approximately 30-40 individuals living year-round in these protected waters. Departing from Setúbal's marina, experienced marine biologists and naturalist guides lead 2-3 hour boat excursions into the estuary's calm waters, where dolphin sightings occur on over 90% of trips. The tours use specially designed boats that minimize environmental impact while providing excellent viewing opportunities from all angles. As you cruise through the estuary, you'll learn about dolphin behavior, communication, and the conservation efforts protecting this precious population. The dolphins are often curious and playful, frequently approaching boats and performing acrobatic displays including jumping, tail-slapping, and synchronized swimming. Beyond dolphins, the Sado Estuary is a biodiversity hotspot where you might spot various seabird species, stingrays gliding through shallow waters, and during migration seasons, flamingos feeding in the mudflats. The scenic backdrop includes the Arrábida Natural Park's dramatic cliffs, pristine beaches, and the historic Troia Peninsula. Tour operators emphasize responsible wildlife watching, maintaining respectful distances and following strict guidelines to protect the dolphins' natural behaviors. Most tours include knowledgeable commentary in multiple languages, photography opportunities, and educational materials about marine conservation. The estuary's sheltered waters make for comfortable sailing even for those prone to seasickness, and the relatively short boat ride from Setúbal makes this an accessible half-day excursion from Lisbon.",
+    "history": "The Sado Estuary's dolphin population has been studied since the 1980s, with individual dolphins identified and tracked by researchers. The estuary became a protected area in 1998, recognizing its importance as critical habitat for this resident dolphin community. Dolphin-watching tours began in the early 2000s as a sustainable ecotourism activity that supports conservation through education and economic alternatives to fishing.",
+    "significance": "The Sado Estuary dolphins represent one of Europe's most accessible opportunities to observe wild bottlenose dolphins in a natural, protected environment. The population is considered critically important for marine conservation research, and tourism revenue directly supports ongoing monitoring and protection efforts. Setúbal has become a model for responsible dolphin-watching ecotourism."
+  },
+  "location": {
+    "address": {
+      "street": "Setúbal Marina (various tour operators)",
+      "postal_code": "2900-000",
+      "neighborhood": "Setúbal Waterfront",
+      "city": "Setúbal",
+      "region": "Setúbal Peninsula",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.5244,
+      "longitude": -8.8882
+    },
+    "directions": {
+      "general": "Tours depart from Setúbal Marina, located on the Sado Estuary waterfront in Setúbal city, approximately 50km south of Lisbon",
+      "fromCruisePort": "From Santa Apolónia/Lisbon cruise port: Take taxi or organized transfer (50 minutes, 50km). Public transport option: Train from Santa Apolónia to Setúbal station (1 hour), then taxi to marina (10 minutes). Many tour operators offer pickup from Lisbon hotels/port",
+      "publicTransport": "Train from Lisbon (Sete Rios, Roma-Areeiro, or Entrecampos stations) to Setúbal (approximately 1 hour). From Setúbal station, taxi or bus to marina. TST buses 203, 207 from Lisbon Praça de Espanha to Setúbal",
+      "parking": "Free parking available at Setúbal Marina and nearby waterfront areas"
+    },
+    "distanceFromCruisePort": {
+      "meters": 50000,
+      "walkingTime": "Not applicable - too far",
+      "drivingTime": "50 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 265 238 000",
+    "email": "info@dolphinwatching-setubal.pt",
+    "website": "https://www.vertigodoazul.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/dolphin-watching-tour/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/vertigodoazul",
+      "instagram": "https://www.instagram.com/vertigodoazul/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Multiple daily departures, year-round (weather dependent)",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Morning departures: 10:00-10:30, Afternoon departures: 14:30-15:00",
+          "lastAdmission": "Booking required minimum 24 hours advance"
+        }
+      ],
+      "closedDates": [
+        "Tours may be cancelled due to rough weather or high winds",
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 45,
+      "youth": 35,
+      "child": 25,
+      "senior": 40,
+      "family": 130,
+      "lisboaCardFree": false,
+      "notes": "Standard 2.5-hour tour: Adult €45, Youth (13-17) €35, Children (4-12) €25. Children under 4 free. Senior 65+ €40. Family ticket (2 adults + 2 children) €130. Private tours available from €350. Includes expert guide, life jackets, insurance. Transport from Lisbon available for additional €15-25 per person. 90%+ dolphin sighting success rate (refund or free return trip if no dolphins seen)"
+    },
+    "averageVisitDuration": "2.5-3 hours (boat tour), 5-6 hours total with transport from Lisbon",
+    "bestTimeToVisit": "Spring and summer (April-September) offer calmest seas and warmest weather. Dolphins present year-round. Morning tours often see more active dolphin behavior. Weekdays less crowded than weekends",
+    "busyPeriods": [
+      "Summer weekends June-August",
+      "Holiday periods",
+      "School vacation times",
+      "Peak cruise season April-October"
+    ],
+    "adviceForVisitors": "Book in advance, especially for summer and weekends - tours limited to 12-20 passengers per boat for quality experience. Dress in layers as it's cooler on the water. Bring sunscreen, hat, and sunglasses even on cloudy days. Camera or smartphone essential for photos (waterproof case recommended). Light jacket or windbreaker advised. Comfortable non-slip shoes. Sea sickness medication if prone to motion sickness (though estuary waters are calm). Binoculars enhance viewing (some provided by operators). Arrive 20 minutes before departure. Respect wildlife - follow guide instructions for responsible viewing. Tours run in light rain but are cancelled in rough weather. Consider organizing transport from Lisbon in advance. Combine with visit to Setúbal's fish market or Arrábida beaches for full-day trip"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day excursion (6-7 hours including transport, tour, and buffer time)",
+    "accessibility": "Moderate - requires transport to Setúbal (50km from port), boats have steps",
+    "combinableWith": [
+      "Arrábida Natural Park",
+      "Setúbal Fish Market visit",
+      "Palmela Castle",
+      "José Maria da Fonseca Wine Cellars",
+      "Setúbal old town",
+      "Troia Peninsula beaches"
+    ],
+    "tips": [
+      "Best as organized shore excursion or private tour from cruise port",
+      "Allow minimum 6-7 hours for full experience with transport",
+      "Many operators offer pickup from Lisbon cruise terminal",
+      "90%+ success rate for dolphin sightings year-round",
+      "Unique wildlife experience you can't get in Lisbon proper",
+      "Educational and entertaining for all ages",
+      "Morning departure recommended to return to ship by afternoon",
+      "Confirm ship departure time allows comfortable return buffer",
+      "Book with operator offering cruise passenger guarantees",
+      "Bring seasickness medication even though waters are calm",
+      "Waterproof phone case essential for photos",
+      "Family-friendly adventure children will remember",
+      "Combine with Arrábida Park visit for full nature day",
+      "Consider private tour option for flexibility with ship schedule",
+      "Perfect for nature lovers and photographers",
+      "Marine biologist guides provide educational value"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Observe resident bottlenose dolphin population (30-40 individuals)",
+      "90%+ dolphin sighting success rate year-round",
+      "Expert marine biologist guides and naturalists",
+      "Small group tours (12-20 passengers maximum)",
+      "2.5-3 hour boat excursion on Sado Estuary",
+      "Scenic views of Arrábida Natural Park cliffs",
+      "Educational commentary on dolphin behavior and conservation",
+      "Opportunity to see dolphins jumping and playing",
+      "Additional wildlife: seabirds, rays, seasonal flamingos",
+      "Calm, sheltered estuary waters (seasickness-friendly)",
+      "Responsible, eco-friendly wildlife watching practices",
+      "Photography opportunities with stunning natural backdrop",
+      "Life jackets and safety equipment provided",
+      "Multilingual guides (English, Portuguese, Spanish)",
+      "All-weather boats with covered seating areas",
+      "Conservation education and marine biology insights"
+    ],
+    "facilities": [
+      "Modern, eco-friendly tour boats",
+      "Covered seating areas",
+      "Open viewing decks",
+      "Onboard restrooms",
+      "Life jackets for all passengers",
+      "Safety equipment and first aid",
+      "Marina departure facilities",
+      "Parking at marina",
+      "Nearby cafés and restaurants",
+      "Setúbal waterfront amenities",
+      "Photo viewing platforms",
+      "Educational materials provided"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Most boats require navigating steps and gangways, challenging for wheelchairs. Some operators offer boats with better accessibility - inquire in advance. Moderate mobility required for boarding and moving around boat. Life jackets mandatory for all passengers. Seated viewing possible but standing provides better visibility",
+      "visualAidServices": "Audio descriptions of dolphin behavior and surroundings provided by guides",
+      "hearingAidServices": "Visual dolphin watching supplemented by written materials"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/dolphin-watching-tour-hero.jpg",
+      "alt": "Bottlenose dolphins jumping in Sado Estuary waters",
+      "caption": "Wild dolphins performing acrobatic displays during Sado Estuary boat tour"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/dolphin-watching-tour-1.jpg",
+        "alt": "Tour boat with passengers observing dolphins",
+        "caption": "Small-group eco-friendly boat tours offer intimate wildlife encounters"
+      },
+      {
+        "url": "/images/attractions/dolphin-watching-tour-2.jpg",
+        "alt": "Sado Estuary with Arrábida cliffs in background",
+        "caption": "Spectacular natural scenery of the Sado Estuary and Arrábida Natural Park"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Arrábida Natural Park",
+      "distance": "8000 meters",
+      "type": "natural-park",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "Setúbal Fish Market",
+      "distance": "500 meters",
+      "type": "market",
+      "walkingTime": "7 minutes"
+    },
+    {
+      "name": "Palmela Castle",
+      "distance": "12000 meters",
+      "type": "castle",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "José Maria da Fonseca Wine Cellars",
+      "distance": "6000 meters",
+      "type": "winery",
+      "walkingTime": "10-minute drive"
+    },
+    {
+      "name": "Troia Peninsula Beaches",
+      "distance": "5000 meters",
+      "type": "beaches",
+      "walkingTime": "Ferry crossing + drive"
+    },
+    {
+      "name": "Setúbal Historic Center",
+      "distance": "1000 meters",
+      "type": "historic-area",
+      "walkingTime": "12 minutes"
+    }
+  ],
+  "tags": [
+    "dolphin-watching",
+    "boat-tour",
+    "wildlife",
+    "nature",
+    "marine-life",
+    "family-friendly",
+    "educational",
+    "eco-tourism",
+    "photography",
+    "adventure",
+    "conservation",
+    "setubal"
+  ],
+  "suitableFor": [
+    "families",
+    "nature-lovers",
+    "photographers",
+    "animal-enthusiasts",
+    "children",
+    "educational-trips",
+    "eco-tourists",
+    "adventure-seekers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewCount": 2840,
+  "reviewSource": "TripAdvisor/GetYourGuide"
+}

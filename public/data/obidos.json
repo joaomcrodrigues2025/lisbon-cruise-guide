@@ -1,0 +1,253 @@
+{
+  "id": "obidos",
+  "name": "Óbidos",
+  "tagline": "Portugal's most romantic medieval walled town and a UNESCO Creative City of Literature",
+  "type": "day-trip",
+  "categories": [
+    "day-trip",
+    "medieval-town",
+    "cultural-heritage",
+    "historical",
+    "unesco"
+  ],
+  "description": {
+    "short": "One of Portugal's most picturesque and best-preserved medieval towns, Óbidos is a charming walled village perched on a hilltop about 85km north of Lisbon. Known for its whitewashed houses, cobblestone streets, and impressive 13th-century castle, it has been a UNESCO Creative City of Literature since 2015.",
+    "full": "The medieval town of Óbidos stands as one of Portugal's most enchanting destinations, perfectly preserved within its ancient defensive walls. Located approximately 85km north of Lisbon, this picturesque hilltop village has captivated visitors for centuries with its timeless beauty and romantic atmosphere. The town's history dates back to pre-Roman times, but it flourished after King Dinis offered it to his wife, Queen Isabel, in the 13th century, establishing the tradition of Óbidos as part of Casa das Rainhas (Queens' Estate). This royal connection led to centuries of improvements and enrichment, resulting in the remarkable concentration of churches and monuments visible today. Within the medieval walls, visitors discover a labyrinth of narrow cobblestone streets lined with whitewashed houses adorned with colorful window boxes and traditional azulejo tiles. The imposing castle, now a luxurious pousada, dominates the skyline and offers spectacular views over the surrounding countryside. The town is home to several architectural treasures, including the Igreja de Santa Maria (Main Church) where King Afonso V married his cousin Isabel at ages 10 and 8, the Misericórdia Church with its beautiful Renaissance portal, and the Igreja de São Pedro. Beyond the walls, the round-shaped Senhor Jesus da Pedra Sanctuary and the impressive medieval aqueduct showcase the town's architectural heritage. The Óbidos City Museum houses works by Josefa de Óbidos, an influential 17th-century painter whose artistic legacy continues to inspire. Walking along the town walls provides panoramic views and is considered one of the most romantic experiences in Portugal. Óbidos is equally famous for its gastronomy, particularly the ginjinha de Óbidos (sour cherry liqueur) traditionally served in edible chocolate cups - a sweet tradition that has become the town's signature taste. The local cuisine features fresh fish from the nearby Óbidos Lagoon and wines from the Oeste region. Throughout the year, Óbidos hosts numerous cultural events that bring the medieval streets to life, including the International Chocolate Festival (March-April), the Medieval Market (July-August), FOLIO International Literary Festival (October), and Óbidos Vila Natal Christmas Village (November-January), each transforming the town into a magical destination. The town's designation as a UNESCO Creative City of Literature reflects its commitment to books and reading, with numerous bookshops housed in churches and unique locations.",
+    "history": "Óbidos has been inhabited since pre-Roman times and was occupied by the Romans, Visigoths, and Moors before being conquered by Portugal's first king, Afonso Henriques, in 1148. The town's golden age began in 1282 when King Dinis gifted it to his wife Queen Isabel as a wedding present, establishing a tradition that continued for six centuries. Successive queens enhanced the town with churches, convents, and public works. The massive medieval walls and castle were built during the 12th-14th centuries to protect this strategic hilltop position. In 1444, the town witnessed the wedding of 10-year-old King Afonso V to his 8-year-old cousin Isabel in the Igreja de Santa Maria. The town prospered through the medieval and Renaissance periods but declined after the 1755 earthquake and subsequent administrative changes. In the 20th century, restoration efforts began to preserve its medieval character, and in 1951 the castle was converted into Portugal's first pousada (historic hotel). Today, Óbidos is recognized as one of Portugal's Seven Wonders and a UNESCO Creative City of Literature since 2015.",
+    "significance": "Óbidos represents one of Europe's finest examples of a preserved medieval walled town and holds immense cultural significance as a symbol of Portuguese history and romantic tradition. Its status as a UNESCO Creative City of Literature, one of the Seven Wonders of Portugal, and its role in royal Portuguese history make it an essential destination for understanding Portugal's cultural heritage. The town serves as a living museum where medieval architecture, literary culture, and Portuguese traditions are preserved and celebrated."
+  },
+  "location": {
+    "address": {
+      "street": "Centro Histórico",
+      "postal_code": "2510-001",
+      "neighborhood": "Historic Center",
+      "city": "Óbidos",
+      "region": "Leiria District, Centro de Portugal",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 39.3611,
+      "longitude": -9.1572
+    },
+    "directions": {
+      "general": "Óbidos is located 85km north of Lisbon on the A8 motorway toward Leiria. The historic center is car-free; park in designated lots outside the walls",
+      "fromCruisePort": "From Lisbon cruise port, take A8 motorway north (exit 15) for approximately 1 hour 15 minutes (85km). Alternatively, book organized tour from port or take train to Óbidos station (then taxi or 15-minute walk uphill)",
+      "publicTransport": "Rodoviária do Tejo operates regular bus service from Lisbon Campo Grande. Regional trains run from Lisboa Santa Apolónia to Óbidos station (outside town walls, 1.5km from center). Timetables at www.cp.pt and www.rodotejo.pt",
+      "parking": "Large free parking area just outside the town walls at Porta da Vila (main entrance). Additional parking near Porta do Vale and behind Senhor da Pedra church"
+    },
+    "distanceFromCruisePort": {
+      "meters": 85000,
+      "walkingTime": "Not applicable",
+      "drivingTime": "1 hour 15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 262 959 231",
+    "email": "posto.turismo@cm-obidos.pt",
+    "website": "https://www.obidos.pt/",
+    "bookingUrl": "https://www.visitportugal.com/en/content/obidos",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/municipiodeobidos",
+      "instagram": "https://www.instagram.com/obidos_portugal/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Town accessible 24/7, individual attractions have specific hours",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Town open 24/7",
+          "lastAdmission": "N/A - outdoor town"
+        },
+        {
+          "season": "Castle walls walk",
+          "days": "Daily",
+          "hours": "09:00 - 19:00 (summer), 09:00 - 17:00 (winter)",
+          "lastAdmission": "30 minutes before closing"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Town entrance is free. Castle walls walk: €2-3. Individual museums and churches may charge admission (€2-4). Some churches free with donations welcomed. Guided tours available from Tourist Office approximately €10-15 per person"
+    },
+    "averageVisitDuration": "Half day to full day (3-6 hours)",
+    "bestTimeToVisit": "Early morning (before 10am) or late afternoon (after 4pm) to avoid crowds. Spring (April-May) and autumn (September-October) offer pleasant weather and fewer tourists. Weekdays quieter than weekends",
+    "busyPeriods": [
+      "Weekends year-round",
+      "July-August (peak summer)",
+      "During special events (Chocolate Festival, Medieval Market, Christmas Village)",
+      "Easter week",
+      "Public holidays"
+    ],
+    "adviceForVisitors": "Wear comfortable walking shoes for cobblestone streets and castle walls. Allow 3-6 hours for full exploration. Try ginjinha in chocolate cup from shops along main street. Walk the complete town walls circuit (about 1.5km) for best views. Book castle pousada restaurant in advance for special occasions. Purchase local handicrafts and ceramics as souvenirs. Visit churches during morning hours (some close for siesta). Park outside walls - historic center is pedestrian only. Combine with nearby attractions: Caldas da Rainha, Nazaré, or Atlantic beaches"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day excursion (8-9 hours including travel time). Tour typically 10am-6pm",
+    "accessibility": "Moderate - cobblestone streets and castle walls challenging for limited mobility. Town has steep hills and stairs. Not wheelchair accessible throughout",
+    "combinableWith": [
+      "Nazaré fishing village",
+      "Alcobaça Monastery (UNESCO)",
+      "Batalha Monastery (UNESCO)",
+      "Fátima Sanctuary",
+      "Caldas da Rainha ceramics town",
+      "Praia d'El Rei golf and beach",
+      "Peniche and Berlengas Islands"
+    ],
+    "tips": [
+      "Book organized shore excursion for convenience and guaranteed ship return",
+      "Full-day tour typically includes Óbidos + 1-2 other destinations",
+      "Independent visit possible via rental car (recommend full day rental)",
+      "Train option available but adds complexity with connections and walking",
+      "Most shore excursions combine Óbidos with Fátima or Nazaré",
+      "Bring euros for shopping - many small shops don't accept cards",
+      "Must-try: ginjinha liqueur in chocolate cup (€1.50-2)",
+      "Buy artisan chocolate and ceramics as cruise gifts",
+      "Arrive early if on independent visit to avoid tour bus crowds",
+      "Medieval Market (July-August) offers unique cultural experience",
+      "Allow time for leisurely lunch at traditional Portuguese restaurant",
+      "Castle walls walk takes 30-45 minutes - worth it for views"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Complete circuit of medieval castle walls with panoramic views",
+      "13th-century castle (now luxury pousada hotel)",
+      "Whitewashed houses with colorful azulejo tiles and flower boxes",
+      "Rua Direita - charming main street lined with shops and cafes",
+      "Igreja de Santa Maria - main church with Renaissance interior",
+      "Ginjinha de Óbidos served in edible chocolate cups",
+      "Porta da Vila - ornate main gate with 18th-century azulejo tiles",
+      "Misericórdia Church with beautiful Renaissance portal",
+      "Senhor Jesus da Pedra - unique hexagonal baroque sanctuary",
+      "Medieval aqueduct (Aqueduto da Usseira)",
+      "Óbidos City Museum with works by Josefa de Óbidos",
+      "Literary Man Óbidos Hotel - unique literary-themed boutique hotel",
+      "Bookshops in converted churches",
+      "Panoramic views over countryside and Óbidos Lagoon",
+      "Annual festivals: Chocolate Festival, Medieval Market, Christmas Village"
+    ],
+    "facilities": [
+      "Tourist Information Office at entrance (Porta da Vila)",
+      "Guided tours in English and Portuguese (summer months)",
+      "Numerous restaurants, cafes, and bars",
+      "Artisan shops selling ceramics, textiles, chocolates",
+      "Public restrooms near main square and parking areas",
+      "ATMs in town center",
+      "Free parking outside town walls",
+      "Hotel accommodation including castle pousada",
+      "Photography opportunities throughout",
+      "Souvenir shops along Rua Direita"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Historic town with cobblestone streets, steep hills, and many stairs makes wheelchair access very difficult. Castle walls not accessible. Some ground-floor shops and restaurants accessible. Recommend contacting Tourist Office in advance for specific accessibility questions. Parking close to entrance gates",
+      "visualAidServices": "Limited - tactile guides not available",
+      "hearingAidServices": "Visual displays in museums"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/obidos-hero.jpg",
+      "alt": "Aerial view of Óbidos medieval walled town with white houses and castle",
+      "caption": "The perfectly preserved medieval town of Óbidos enclosed within 12th-century walls"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/obidos-1.jpg",
+        "alt": "Colorful Rua Direita main street in Óbidos with shops and flowers",
+        "caption": "The charming Rua Direita lined with traditional houses and artisan shops"
+      },
+      {
+        "url": "/images/attractions/obidos-2.jpg",
+        "alt": "Óbidos castle walls walkway with panoramic countryside views",
+        "caption": "Walking the medieval walls offers spectacular 360-degree views of the region"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Nazaré Beach and Fishing Village",
+      "distance": "32 km",
+      "type": "coastal-town",
+      "walkingTime": "N/A"
+    },
+    {
+      "name": "Alcobaça Monastery (UNESCO)",
+      "distance": "42 km",
+      "type": "monastery",
+      "walkingTime": "N/A"
+    },
+    {
+      "name": "Batalha Monastery (UNESCO)",
+      "distance": "62 km",
+      "type": "monastery",
+      "walkingTime": "N/A"
+    },
+    {
+      "name": "Caldas da Rainha",
+      "distance": "5 km",
+      "type": "town",
+      "walkingTime": "N/A"
+    },
+    {
+      "name": "Praia d'El Rei Beach and Golf Resort",
+      "distance": "18 km",
+      "type": "beach-golf",
+      "walkingTime": "N/A"
+    },
+    {
+      "name": "Foz do Arelho Beach and Lagoon",
+      "distance": "12 km",
+      "type": "beach",
+      "walkingTime": "N/A"
+    }
+  ],
+  "tags": [
+    "day-trip",
+    "medieval-town",
+    "castle",
+    "cultural-heritage",
+    "unesco",
+    "romantic",
+    "photography",
+    "wine-tasting",
+    "ginjinha",
+    "historical",
+    "cobblestone-streets",
+    "walled-town"
+  ],
+  "suitableFor": [
+    "couples",
+    "photographers",
+    "history-enthusiasts",
+    "culture-lovers",
+    "families",
+    "cruise-passengers",
+    "day-trippers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewCount": 28500,
+  "reviewSource": "TripAdvisor/Google"
+}

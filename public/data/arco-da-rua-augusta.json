@@ -1,0 +1,262 @@
+{
+  "id": "arco-da-rua-augusta",
+  "name": "Arco da Rua Augusta",
+  "tagline": "Triumphal arch with rooftop terrace offering 360-degree panoramic views over downtown Lisbon",
+  "type": "monument",
+  "categories": [
+    "monument",
+    "viewpoint",
+    "historic-site",
+    "architecture",
+    "city-center"
+  ],
+  "description": {
+    "short": "The Arco da Rua Augusta is Lisbon's iconic triumphal arch standing at the north entrance to Praça do Comércio. Built to commemorate the city's reconstruction after the 1755 earthquake, visitors can now ascend to its rooftop terrace for spectacular 360-degree panoramic views of downtown Lisbon, the Tagus River, and São Jorge Castle.",
+    "full": "Standing majestically at the northern gateway to Praça do Comércio (Commerce Square), the Arco da Rua Augusta is one of Lisbon's most recognizable architectural landmarks and a powerful symbol of the city's resilience and rebirth. This impressive triumphal arch was designed to commemorate Lisbon's reconstruction following the catastrophic earthquake of November 1, 1755, which destroyed much of the city and killed tens of thousands of people.\n\nConstruction of the arch began shortly after the earthquake as part of the Marquês de Pombal's ambitious rebuilding plan for downtown Lisbon (the Pombaline Baixa). However, the project took over a century to complete - construction started after 1755 but the arch wasn't finished until 1875. The neoclassical design by architect Veríssimo José da Costa features a 30-meter-high (98-foot) stone structure adorned with significant sculptural works.\n\nThe arch's ornate decoration is rich with symbolism representing Portuguese glory, resilience, and national pride. At the top of the arch sits Glory, a female figure by French sculptor Célestin Anatole Calmels, crowning the allegorical figures of Genius and Valor. These three statues rise 11 meters above the arch's crown. Below, on the facade facing Rua Augusta, stand four colossal stone statues representing historical Portuguese heroes: the legendary Lusitanian warrior Viriatus who fought against Roman occupation; Vasco da Gama, the famous navigator who discovered the sea route to India; the Marquês de Pombal himself, who masterfully orchestrated Lisbon's reconstruction; and Nuno Álvares Pereira, a medieval military leader and saint. These statues were created by Portuguese sculptor Vítor Bastos.\n\nWhat makes the Arco da Rua Augusta truly special for modern visitors is the ability to ascend to its rooftop viewing terrace, opened to the public in 2013. An elevator takes visitors partway up through the monument's interior, followed by a narrow spiral staircase that leads to the spectacular panoramic terrace at the top. This vantage point offers unobstructed 360-degree views encompassing the geometric street grid of Pombaline downtown, the vast Praça do Comércio spreading out below, the Tagus River with boats and cruise ships, the red 25 de Abril Bridge in the distance, São Jorge Castle crowning its hilltop, Lisbon Cathedral, and on clear days, the Cristo Rei statue across the river.\n\nInside the arch, in the Clock Room, a small museum exhibition details the fascinating history of the triumphal arch - from its conception in the aftermath of the earthquake disaster, through the lengthy construction process, to its completion 120 years later in 1875. Information panels and historical images help visitors understand the monument's significance in Lisbon's urban history.",
+    "history": "The Arco da Rua Augusta was conceived as part of the monumental reconstruction of Lisbon following the devastating earthquake of November 1, 1755, which struck on All Saints' Day and destroyed approximately 85% of the city. The Marquês de Pombal, King José I's powerful minister, orchestrated an ambitious rebuilding plan that created the geometric Pombaline Baixa (downtown) district we see today. The triumphal arch was designed to serve as the grand ceremonial gateway from the rebuilt downtown to the waterfront Praça do Comércio. Construction began after 1755 but progressed slowly due to financial constraints and changing designs. The arch wasn't completed until 1875 - 120 years after the earthquake - making it one of Lisbon's longest construction projects. In 2013, the monument was opened to the public for interior visits and rooftop access.",
+    "significance": "The Arco da Rua Augusta stands as a powerful symbol of Lisbon's resilience, reconstruction, and renaissance following one of history's most destructive earthquakes. It represents the vision and determination of the Marquês de Pombal to rebuild Lisbon as a modern, planned city with earthquake-resistant architecture. The arch marks the transition between the commercial waterfront (Praça do Comércio, which replaced the destroyed royal palace) and the reconstructed downtown grid. As one of Lisbon's most photographed landmarks, it has become an iconic symbol of the city's ability to overcome disaster and emerge stronger. The rooftop terrace, opened in 2013, has made this historic monument one of downtown Lisbon's premier viewpoints."
+  },
+  "location": {
+    "address": {
+      "street": "Rua Augusta, 2",
+      "postal_code": "1100-053",
+      "neighborhood": "Baixa",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7087,
+      "longitude": -9.1365
+    },
+    "directions": {
+      "general": "Located at the north end of Praça do Comércio, at the entrance to Rua Augusta pedestrian street in downtown Baixa",
+      "fromCruisePort": "Extremely close to cruise terminals - only 400 meters! From Santa Apolónia cruise terminal: 5-minute walk southwest along the waterfront to Praça do Comércio, arch is at north side of square. Easily walkable for all cruise passengers",
+      "publicTransport": "Metro: Blue or Green Line to Terreiro do Paço station (2-minute walk). Tram: 15E or 25E to Praça do Comércio. Bus: Multiple routes serve Praça do Comércio. Ferry: Terminal at Praça do Comércio (Cais do Sodré-Cacilhas line). Located in most walkable part of Lisbon",
+      "parking": "Public parking at Praça do Comércio underground car park. Not recommended to drive - this is pedestrian-friendly area best explored on foot"
+    },
+    "distanceFromCruisePort": {
+      "meters": 400,
+      "walkingTime": "5 minutes easy flat walk along waterfront",
+      "drivingTime": "2 minutes (but walking is easier)"
+    }
+  },
+  "contact": {
+    "phone": "+351 210 312 700",
+    "email": "info@arcorua-augusta.pt",
+    "website": "https://www.arcorua-augusta.pt",
+    "bookingUrl": "https://www.getyourguide.com/rua-augusta-arch-l4795/arch-of-rua-augusta-entrance-ticket-t225723/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/arcoruaaugusta",
+      "instagram": "https://www.instagram.com/arcoruaaugusta/",
+      "twitter": "https://twitter.com/arcoruaaugusta"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:30"
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1",
+        "May 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5,
+      "youth": 0,
+      "child": 2.50,
+      "senior": 2.50,
+      "family": 12,
+      "lisboaCardFree": false,
+      "notes": "Adult: €5. Youth/Student (13-25 with ID): €2.50. Children (6-12): €2.50. Children under 6: FREE. Seniors (65+): €2.50. Family ticket (2 adults + 2 children): €12. Free cancellation up to 24 hours before visit if booked online. Extremely affordable for the experience. Cash and card accepted. Book online to skip queues"
+    },
+    "averageVisitDuration": "30-45 minutes (15 minutes at viewpoint, plus time in Clock Room museum)",
+    "bestTimeToVisit": "Early morning (10:00-11:00 AM) right when opening for smallest crowds and beautiful morning light. Late afternoon (5:00-6:00 PM) for golden hour photography. Weekday mornings are quietest. Avoid midday summer heat on the exposed rooftop. Sunset visits offer spectacular light but can be crowded",
+    "busyPeriods": [
+      "Midday to mid-afternoon (12:00-4:00 PM)",
+      "Weekends",
+      "Cruise ship days (Praça do Comércio is common tour stop)",
+      "Summer peak season (July-August)",
+      "Late afternoon golden hour"
+    ],
+    "adviceForVisitors": "Book tickets online in advance for guaranteed entry and skip ticket line. Arrive early in the day to avoid crowds on the small rooftop terrace. Visit the Clock Room museum exhibition while inside - fascinating history. The elevator takes you partway, then you must climb a narrow spiral staircase - not suitable for those with severe mobility issues or claustrophobia. The rooftop terrace is small and can feel crowded with just 15-20 people. Bring camera - views are exceptional for photography. Combine visit with exploring Praça do Comércio, Rua Augusta shopping street, and waterfront. Perfect activity for cruise passengers due to proximity to terminal. Very affordable admission price. Allow extra time if visiting during busy periods for queuing"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1 hour total (5-minute walk from port + 30-45 minute visit)",
+    "accessibility": "EXCELLENT - Only 400 meters (5-minute flat walk) from Santa Apolónia cruise terminal. Perfect first or last stop for cruise passengers",
+    "combinableWith": [
+      "Praça do Comércio (immediately adjacent)",
+      "Rua Augusta pedestrian shopping street (directly through arch)",
+      "Elevador de Santa Justa (5-minute walk)",
+      "Lisbon waterfront promenade",
+      "Baixa district exploration",
+      "Commerce Square cafés and restaurants",
+      "Lisbon Story Centre museum",
+      "Ferry to Cacilhas (terminal at square)",
+      "Ribeira das Naus riverside promenade"
+    ],
+    "tips": [
+      "CLOSEST major attraction to cruise port - only 5-minute walk!",
+      "Perfect first or last activity before/after cruise ship",
+      "Extremely affordable - only €5 for spectacular views",
+      "360-degree panoramic views include your cruise ship at dock",
+      "View encompasses Praça do Comércio, Tagus River, São Jorge Castle, downtown grid",
+      "Small intimate viewpoint - avoid crowds by visiting early (10:00 AM)",
+      "Elevator + spiral staircase access - saves walking uphill unlike other viewpoints",
+      "Book tickets online to skip queue at entrance",
+      "Clock Room museum inside explains Lisbon's 1755 earthquake and reconstruction",
+      "Rooftop terrace is small - works best with smaller groups",
+      "Not suitable for wheelchairs due to spiral staircase section",
+      "Can be tight squeeze on stairs - not ideal for claustrophobia",
+      "Rooftop is exposed - bring sun protection in summer, jacket in winter",
+      "Photography paradise - brings best camera equipment",
+      "Combine with Praça do Comércio exploration and waterfront cafés",
+      "Walking through arch connects downtown to riverside - symbolic experience"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Iconic triumphal arch commemorating 1755 earthquake reconstruction",
+      "360-degree panoramic rooftop viewing terrace",
+      "Spectacular views of Praça do Comércio from above",
+      "Tagus River, cruise ships, and 25 de Abril Bridge panorama",
+      "São Jorge Castle and Lisbon Cathedral in vista",
+      "Sculptural masterpieces: Glory crowning Genius and Valor by Célestin Anatole Calmels",
+      "Four colossal statues of Portuguese heroes by Vítor Bastos (Viriatus, Vasco da Gama, Marquês de Pombal, Nuno Álvares Pereira)",
+      "Clock Room museum with arch history exhibition",
+      "Elevator access plus spiral staircase to top",
+      "Neoclassical architecture masterpiece",
+      "Only 5-minute walk from cruise terminal - closest viewpoint to port",
+      "Completed in 1875 after 120-year construction",
+      "One of Lisbon's most photographed monuments",
+      "Extremely affordable admission (€5)",
+      "Perfect bird's-eye view of geometric Pombaline Baixa street grid"
+    ],
+    "facilities": [
+      "Elevator to mid-level",
+      "Spiral staircase to rooftop terrace",
+      "Rooftop panoramic viewing platform",
+      "Clock Room museum exhibition space",
+      "Information panels (Portuguese and English)",
+      "Ticket office at entrance",
+      "Safety railings on rooftop terrace",
+      "Photo opportunities from multiple levels",
+      "Restrooms nearby in Praça do Comércio",
+      "Accessible location in pedestrian zone"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "NOT wheelchair accessible. While an elevator provides access partway up the monument, the final section to the rooftop terrace requires climbing a narrow spiral staircase with multiple turns. The staircase is not suitable for wheelchairs, walkers, or visitors with severe mobility limitations. The narrow stairs can also be challenging for those with claustrophobia or balance issues. Children must be supervised on stairs and rooftop. No alternative accessible route to rooftop available due to monument's historic structure",
+      "visualAidServices": "Clear panoramic views from rooftop. Museum exhibition has visual information panels",
+      "hearingAidServices": "Primarily visual experience - no audio guide required"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/arco-da-rua-augusta-hero.jpg",
+      "alt": "Arco da Rua Augusta triumphal arch with Glory crowning Genius and Valor sculptures at top",
+      "caption": "The magnificent Arco da Rua Augusta, gateway to Praça do Comércio and symbol of Lisbon's resilience"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/arco-da-rua-augusta-1.jpg",
+        "alt": "360-degree panoramic view from rooftop terrace showing Praça do Comércio and Tagus River",
+        "caption": "Spectacular bird's-eye view of Praça do Comércio and the Tagus River from the rooftop terrace"
+      },
+      {
+        "url": "/images/attractions/arco-da-rua-augusta-2.jpg",
+        "alt": "Four colossal statues of Portuguese heroes on the arch facade",
+        "caption": "Statues of Portuguese heroes: Viriatus, Vasco da Gama, Marquês de Pombal, and Nuno Álvares Pereira"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Praça do Comércio",
+      "distance": "Adjacent - 0 meters",
+      "type": "historic-square",
+      "walkingTime": "Direct access - arch is at square's entrance"
+    },
+    {
+      "name": "Rua Augusta (pedestrian street)",
+      "distance": "0 meters - passes through arch",
+      "type": "shopping-street",
+      "walkingTime": "Direct access through arch"
+    },
+    {
+      "name": "Lisbon Cruise Terminal",
+      "distance": "400 meters",
+      "type": "cruise-port",
+      "walkingTime": "5 minutes along waterfront"
+    },
+    {
+      "name": "Elevador de Santa Justa",
+      "distance": "400 meters",
+      "type": "elevator-viewpoint",
+      "walkingTime": "5 minutes up Rua Augusta"
+    },
+    {
+      "name": "Lisbon Cathedral (Sé)",
+      "distance": "800 meters",
+      "type": "cathedral",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Ribeira das Naus waterfront promenade",
+      "distance": "200 meters",
+      "type": "promenade",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Cais do Sodré",
+      "distance": "1.2 kilometers",
+      "type": "district",
+      "walkingTime": "15 minutes along waterfront"
+    }
+  ],
+  "tags": [
+    "triumphal-arch",
+    "viewpoint",
+    "monument",
+    "historic",
+    "downtown",
+    "cruise-friendly",
+    "photography",
+    "architecture",
+    "panoramic-views",
+    "must-see"
+  ],
+  "suitableFor": [
+    "cruise-passengers",
+    "photographers",
+    "history-enthusiasts",
+    "architecture-lovers",
+    "all-visitors",
+    "families",
+    "first-time-visitors",
+    "short-on-time"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 5758,
+  "reviewSource": "Google/TripAdvisor/GetYourGuide combined"
+}

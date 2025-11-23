@@ -1,0 +1,250 @@
+{
+  "id": "museu-maritimo-nacional",
+  "name": "Museu de Marinha (Maritime Museum)",
+  "tagline": "Portugal's premier naval and maritime heritage museum",
+  "type": "museum",
+  "categories": [
+    "museum",
+    "maritime-history",
+    "naval-heritage",
+    "cultural-attraction",
+    "educational"
+  ],
+  "description": {
+    "short": "The Maritime Museum showcases Portugal's glorious maritime history through an impressive collection of over 23,000 pieces, including ship models, navigation instruments, royal barges, and relics from the Age of Discovery, reflecting the nation's pioneering role in global navigation.",
+    "full": "Founded in 1863 by King Luís, the Museu de Marinha (Maritime Museum) stands as one of Portugal's most important cultural institutions, celebrating the nation's deep connection with the sea. Located in the iconic Jerónimos Monastery in Belém, the museum houses one of the world's most comprehensive collections of maritime artifacts. Over 2,500 pieces are displayed in permanent exhibitions chronicling Portuguese naval history from the Age of Discovery to the modern era. Visitors can marvel at intricately crafted ship models representing everything from caravels that explored unknown waters to modern warships. The museum's collection includes Vasco da Gama's portable altar that accompanied him on his historic voyage to India, the wooden statue of Archangel Raphael from the same expedition, ceremonial royal barges adorned with lavish gold decorations, astrolabes and navigation instruments used by pioneering explorers, maps showing Portugal's maritime routes, and Santa Cruz, one of the world's first seaplanes. The exhibitions are organized thematically, covering Portuguese Discoveries, the evolution of commercial and war navies, traditional Portuguese vessels, and contemporary naval operations. The museum provides exceptional insight into how Portuguese navigators discovered 70% of the world previously unknown to Europeans and established maritime routes that changed global history. It's not just about ships and sailors; it's about Portugal's cultural identity as a seafaring nation that bridged continents and cultures.",
+    "history": "The museum was established in 1863 by King Luís I, himself a naval enthusiast and oceanographer. Initially housed within the Jerónimos Monastery, the museum has remained at this symbolic location for over 160 years. The monastery itself is intimately connected to Portugal's maritime heritage, built to commemorate Vasco da Gama's successful voyage to India. Over the decades, the museum's collection has grown substantially through naval acquisitions, donations, and archaeological finds. In the 20th century, dedicated pavilions were added to house larger exhibits including full-scale boats and aircraft. The museum underwent significant modernization in the 2000s to improve visitor facilities while preserving its historical character.",
+    "significance": "The Museu de Marinha is recognized globally as one of the most important maritime museums in the world. It serves as a cultural body of the Portuguese Navy and preserves the memory of Portugal's Golden Age of Discoveries when Portuguese explorers like Vasco da Gama, Bartolomeu Dias, and Ferdinand Magellan changed world history. The museum is essential for understanding Portugal's role in establishing the first global maritime empire and pioneering navigation techniques that made transoceanic travel possible."
+  },
+  "location": {
+    "address": {
+      "street": "Praça do Império",
+      "postal_code": "1400-206",
+      "neighborhood": "Belém",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.6978,
+      "longitude": -9.2062
+    },
+    "directions": {
+      "general": "Located in the Belém district, adjacent to the Jerónimos Monastery, one of Lisbon's most iconic landmarks",
+      "fromCruisePort": "Take tram 15E from near the cruise terminal to Belém (25 minutes), or taxi/Uber (20 minutes). Very scenic waterfront route.",
+      "publicTransport": "Tram 15E to Belém. Bus routes 727, 28, 729, 714, 751. Train to Belém station from Cais do Sodré. Metro to Cais do Sodré, then tram 15E.",
+      "parking": "Limited street parking in Belém. Use Jerónimos Monastery parking or Belém Cultural Centre car park (5-minute walk)"
+    },
+    "distanceFromCruisePort": {
+      "meters": 9800,
+      "walkingTime": "Not recommended - use tram or taxi",
+      "drivingTime": "20 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 210 977 388",
+    "email": "geral.museu@marinha.pt",
+    "website": "https://cultura.marinha.pt/pt/museu",
+    "bookingUrl": "https://cultura.marinha.pt/pt/museu/planearvisita/bilhetes",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ComissaoCulturaldeMarinha",
+      "instagram": "https://www.instagram.com/museumarinha/",
+      "youtube": "https://www.youtube.com/channel/UC0cHezfaYOnblST79t5-8fA"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round (check for occasional maintenance closures)",
+      "seasonal": [
+        {
+          "season": "Summer (May 1 - September 30)",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "Winter (October 1 - April 30)",
+          "days": "Daily",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ],
+      "closedDates": ["January 1", "Easter Sunday", "May 1", "December 25"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 8,
+      "youth": 4,
+      "child": 4,
+      "senior": 4,
+      "family": 21,
+      "lisboaCardFree": false,
+      "notes": "Children under 3 free. Youth/children 4-12 years: 4 EUR. Seniors 65+: 4 EUR. Family ticket: 21 EUR (2 adults + 2 children). Free entry: 1st Sunday of each month until 14:00, Navy Day (May 20), Children's Day (June 1 for ages 3-12), International Museum Day (May 18), Day of Monuments and Sites (April 18). Lisboa Card gives 20% discount."
+    },
+    "averageVisitDuration": "1.5-2.5 hours",
+    "bestTimeToVisit": "Weekday mornings (10:00-12:00) for fewer crowds. Combine with Jerónimos Monastery visit. First Sunday of month for free admission (but expect crowds).",
+    "busyPeriods": [
+      "Weekends, especially Sundays",
+      "School holidays and summer months",
+      "Free admission days (1st Sunday of month)",
+      "Afternoons 14:00-17:00"
+    ],
+    "adviceForVisitors": "Allow 2-2.5 hours for a thorough visit. Combine with nearby Jerónimos Monastery, Belém Tower, and Monument to the Discoveries for a full day in Belém. Audio guides available via QR codes in multiple languages. The museum is completely indoors - perfect for rainy days. Photography allowed without flash. The collection is extensive, so consider focusing on sections of most interest (Discoveries, Royal Barges, Modern Navy, etc.). Buy tickets online to save time. Family-friendly with engaging exhibits for children."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (4-5 hours including travel and visit to multiple Belém attractions)",
+    "accessibility": "Good - easy access via tram 15E from cruise terminal area or quick taxi ride",
+    "combinableWith": [
+      "Jerónimos Monastery (adjacent)",
+      "Belém Tower (10-minute walk)",
+      "Monument to the Discoveries (5-minute walk)",
+      "Pastéis de Belém bakery (10-minute walk)",
+      "MAAT Museum",
+      "Belém Cultural Centre",
+      "Ajuda National Palace",
+      "Coach Museum"
+    ],
+    "tips": [
+      "Take scenic tram 15E along the waterfront from cruise port area (25 minutes)",
+      "Belém is a must-visit district with multiple world-class attractions within walking distance",
+      "Purchase Lisboa Card for discounts and free public transport",
+      "Try the famous Pastéis de Belém custard tarts nearby (always crowded but worth it)",
+      "The museum is inside Jerónimos Monastery complex - entrance is separate",
+      "Allow 3-4 hours minimum to see museum plus monastery",
+      "Bring comfortable walking shoes - lots of standing and walking",
+      "Accessible for wheelchairs and strollers",
+      "Audio guides via QR code available in English and other languages",
+      "Free admission first Sunday of month until 14:00",
+      "Combine with waterfront lunch at one of Belém's many restaurants"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Vasco da Gama's portable altar from his voyage to India (1497-99)",
+      "Wooden statue of Archangel Raphael that accompanied Vasco da Gama",
+      "Lavishly decorated royal barges used by Portuguese monarchs",
+      "Over 2,500 meticulously crafted ship models from all eras",
+      "Navigation instruments: astrolabes, sextants, compasses from the Age of Discovery",
+      "Historic maps showing Portuguese exploration routes worldwide",
+      "Santa Cruz seaplane - one of the world's first seaplanes",
+      "Full-scale traditional Portuguese fishing boats",
+      "Naval uniforms, weapons, and maritime artifacts",
+      "Interactive displays about Portuguese maritime heritage",
+      "Models of caravels, galleons, frigates, and modern warships",
+      "Exhibits on famous Portuguese explorers and navigators"
+    ],
+    "facilities": [
+      "Museum shop with nautical gifts and books",
+      "Audio guides via QR codes (multiple languages)",
+      "Restrooms throughout the museum",
+      "Seating areas in exhibition halls",
+      "Climate-controlled galleries",
+      "Information desk with multilingual staff",
+      "Temporary exhibition spaces",
+      "Educational activity areas",
+      "Coat check and lockers",
+      "Gift shop with maritime souvenirs",
+      "Nearby cafés and restaurants in Belém"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully accessible with ramps and elevators. Wheelchair-friendly throughout. Accessible restrooms available. Some exhibits may be at different heights.",
+      "visualAidServices": "Audio descriptions available via QR codes",
+      "hearingAidServices": "Visual displays and written information throughout"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/museu-maritimo-nacional-hero.jpg",
+      "alt": "Ornate royal barge on display at the Maritime Museum Lisbon",
+      "caption": "Lavishly decorated royal barge used by Portuguese monarchs, one of the museum's crown jewels"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/museu-maritimo-nacional-1.jpg",
+        "alt": "Jerónimos Monastery exterior in Belém housing the Maritime Museum",
+        "caption": "The Maritime Museum is housed in the iconic Jerónimos Monastery in Belém"
+      },
+      {
+        "url": "/images/attractions/museu-maritimo-nacional-2.jpg",
+        "alt": "Collection of historic ship models at the Maritime Museum",
+        "caption": "Over 2,500 intricately detailed ship models chronicle Portuguese naval history"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jerónimos Monastery",
+      "distance": "Adjacent",
+      "type": "monument",
+      "walkingTime": "Direct access"
+    },
+    {
+      "name": "Monument to the Discoveries",
+      "distance": "400 meters",
+      "type": "monument",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Belém Tower",
+      "distance": "800 meters",
+      "type": "monument",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Pastéis de Belém",
+      "distance": "600 meters",
+      "type": "restaurant",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "1.2 km",
+      "type": "museum",
+      "walkingTime": "15 minutes"
+    },
+    {
+      "name": "Belém Cultural Centre",
+      "distance": "300 meters",
+      "type": "cultural-center",
+      "walkingTime": "4 minutes"
+    }
+  ],
+  "tags": [
+    "museum",
+    "maritime-history",
+    "naval-heritage",
+    "belem",
+    "age-of-discovery",
+    "vasco-da-gama",
+    "portuguese-explorers",
+    "family-friendly",
+    "educational",
+    "indoor-attraction",
+    "rainy-day"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "families",
+    "students",
+    "maritime-fans",
+    "all-visitors",
+    "cruise-passengers",
+    "rainy-days"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$",
+  "rating": 4.3,
+  "reviewCount": 1359,
+  "reviewSource": "TripAdvisor"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "castelo-dos-mouros",
+  "name": "Castelo dos Mouros",
+  "tagline": "8th-century Moorish castle ruins with spectacular mountain views from ancient battlements",
+  "type": "castle",
+  "categories": [
+    "castle",
+    "fortress",
+    "historic-ruins",
+    "medieval-site",
+    "sintra-attractions",
+    "panoramic-views",
+    "unesco-heritage"
+  ],
+  "description": {
+    "short": "Dramatic 8th-century Moorish fortress ruins perched high on Sintra's rocky crags. Ancient battlements snake across mountain ridges offering breathtaking panoramic views over Sintra, Pena Palace, and the Atlantic Ocean. UNESCO World Heritage Site built during Muslim occupation of Iberian Peninsula.",
+    "full": "The Castelo dos Mouros (Moorish Castle or Castle of the Moors) is a spectacular ancient fortress dramatically situated atop the Sintra mountain range, its crenellated walls snaking across rocky granite outcrops like a miniature Great Wall. Built by North African Moors during the 8th-9th centuries following the Muslim conquest of the Iberian Peninsula, the castle served as a strategic military fortification controlling the region between Sintra, Mafra, Cascais, and the Tagus estuary. The fortress was constructed to complement the region's natural defenses, with walls following the mountain's natural contours and taking advantage of massive granite boulders. Following the Christian Reconquista in 1147, when King Afonso Henriques captured Lisbon and Sintra from Moorish control, the castle gradually lost military importance and fell into ruin over the centuries. The devastating 1755 Lisbon earthquake caused significant damage, leaving the castle in the romantic ruined state visible today. In the 19th century, King Ferdinand II, the same monarch who built Pena Palace, became fascinated by the romantic ruins and initiated restoration efforts, preserving the walls, adding romantic Gothic elements, and integrating the castle into his park. Today, visitors can walk along 450 meters of restored battlements, climb ancient towers, explore medieval cisterns, and discover the remains of a 12th-century Romanesque chapel. The castle offers some of Sintra's most spectacular views - on clear days, visitors can see from the Atlantic Ocean to Lisbon, with Pena Palace's colorful towers rising majestically nearby. Archaeological excavations have uncovered artifacts from Neolithic settlements through the Islamic period, displayed in the castle's interpretation center. Listed as a UNESCO World Heritage Site as part of Sintra's Cultural Landscape, the Castelo dos Mouros represents an extraordinary fusion of natural landscape, medieval military architecture, and romantic preservation.",
+    "history": "The Castelo dos Mouros was constructed by the Moors during the 8th-9th centuries following the Islamic conquest of the Iberian Peninsula. The fortress was strategically positioned to control vital territory and served as a military outpost protecting the Muslim kingdom centered in Lisbon. The castle was populated by a small Mozarabic community living within its walls. In 1147, after a three-month siege, the castle surrendered to King Afonso Henriques' crusading forces during the Christian Reconquista. A Romanesque chapel dedicated to São Pedro was built within the walls in the 12th century. After the Christian conquest, the castle's military importance diminished, and by the 15th-16th centuries, it was largely abandoned, with the Jewish quarter within the walls eventually emptying. The Great Lisbon Earthquake of 1755 severely damaged the already ruined structure. The castle remained in romantic ruins until the 19th century, when King Ferdinand II of Portugal, captivated by medieval romanticism, acquired the ruins and undertook restoration efforts, integrating the castle into his vast Pena Park estate. Ferdinand preserved and partially restored the walls and towers while maintaining the romantic character of the ruins. In 2000, Parques de Sintra initiated comprehensive archaeological studies and conservation work. In 2009, the restored castle reopened to the public with improved access, interpretation centers, and safe walkways along the battlements. UNESCO designated the site as World Heritage in 1995 as part of the Cultural Landscape of Sintra.",
+    "significance": "The Castelo dos Mouros is one of the most important examples of medieval Islamic military architecture in Portugal and a crucial monument to the period of Moorish occupation of the Iberian Peninsula. As a UNESCO World Heritage Site, it represents eight centuries of Portuguese history from Islamic rule through Christian reconquest to 19th-century Romanticism. The castle's dramatic setting and well-preserved battlements make it one of Portugal's most photographed historic monuments and an essential stop for understanding the country's multicultural medieval heritage."
+  },
+  "location": {
+    "address": {
+      "street": "Estrada da Pena",
+      "postal_code": "2710-609",
+      "neighborhood": "São Pedro de Penaferrim",
+      "city": "Sintra",
+      "region": "Lisbon District",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7926,
+      "longitude": -9.3894
+    },
+    "directions": {
+      "general": "Located on Sintra mountain ridge between Pena Palace (above) and Sintra town (below). Accessed via scenic woodland walking trails or road.",
+      "fromCruisePort": "From Lisbon cruise port: Train from Rossio Station to Sintra (40 min), then bus 434 'Circuito da Pena' to castle stop. Or organized shore excursion. Total journey 75-100 minutes.",
+      "publicTransport": "Train from Lisbon Rossio to Sintra station (40 min). Then bus 434 to Castelo dos Mouros stop (10 min). Or scenic 40-min uphill walk through forest trails from Sintra town (steep but beautiful).",
+      "parking": "Very limited parking near entrance. Better to park in Sintra and take bus 434 or walk. Parking at Pena Palace entrance (500m away)."
+    },
+    "distanceFromCruisePort": {
+      "meters": 35500,
+      "walkingTime": "Not walkable from port - too far",
+      "drivingTime": "45 minutes by car, 75-100 minutes by public transport"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 923 7300",
+    "email": "info@parquesdesintra.pt",
+    "website": "https://www.parquesdesintra.pt/en/parks-monuments/the-moorish-castle/",
+    "bookingUrl": "https://bilheteira.parquesdesintra.pt/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ParquesdeSintra",
+      "instagram": "https://www.instagram.com/parquesdesintra/",
+      "twitter": "https://twitter.com/ParquesSintra"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "09:30 - 19:00 (last admission 18:00)",
+          "lastAdmission": "18:00"
+        }
+      ],
+      "closedDates": ["December 25", "January 1"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 8,
+      "youth": 6.5,
+      "child": 6.5,
+      "senior": 6.5,
+      "family": 26,
+      "lisboaCardFree": false,
+      "notes": "Children under 6 free. Youth 6-17 years. Seniors 65+. Family ticket: 2 adults + 2 children. Combined tickets with Pena Palace and other Sintra monuments available at discounted rates. Online booking recommended."
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon (16:00-18:00) for best light and fewer crowds. Clear days essential for panoramic views. Spring and autumn offer pleasant weather for walking battlements. Avoid midday heat in summer.",
+    "busyPeriods": [
+      "Weekends year-round",
+      "Summer months (June-August)",
+      "Midday hours (12:00-15:00)",
+      "Portuguese holidays"
+    ],
+    "adviceForVisitors": "Wear sturdy walking shoes - uneven stone surfaces, steep stairs, and narrow battlements. Bring water - limited facilities. Check weather - slippery when wet, exposed to wind. Allow 1.5-2 hours to walk all battlements. Not suitable for those with fear of heights - battlements have sheer drops. Combine with Pena Palace visit (15-min walk uphill). Bring camera - spectacular photo opportunities. Start early for solitude and best light. Moderately strenuous - many stairs and uphill sections. Not recommended in heavy rain or strong wind."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half-day excursion (4-5 hours) or combine with Pena Palace for full day (7-8 hours)",
+    "accessibility": "Moderate - requires train + bus or steep uphill walk. Less crowded than Pena Palace, offering more authentic medieval experience.",
+    "combinableWith": [
+      "Palácio da Pena (15-min uphill walk)",
+      "Quinta da Regaleira",
+      "Palácio de Monserrate",
+      "Sintra historic town center",
+      "Scenic forest walking trails"
+    ],
+    "tips": [
+      "Perfect complement to Pena Palace - visit both in one trip",
+      "Less crowded than other Sintra attractions - more peaceful experience",
+      "Spectacular 360-degree views - bring camera with wide-angle lens",
+      "Can be combined with scenic forest walk from/to Sintra town",
+      "Buy combined ticket with Pena Palace to save money and time",
+      "Wear layers - windy and cooler on exposed battlements",
+      "Not suitable for mobility issues - steep stairs and uneven surfaces",
+      "Photography paradise - especially at sunset",
+      "Allow 90 minutes minimum to explore properly",
+      "Less physically demanding than climbing to Pena Palace",
+      "Authentic medieval atmosphere - great for history buffs",
+      "Check weather forecast - visibility crucial for enjoying views"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "450 meters of walkable medieval battlements",
+      "Panoramic 360-degree views over Sintra, Atlantic, and Lisbon",
+      "Dramatic setting on rocky mountain crags",
+      "Ancient Moorish fortification towers and gates",
+      "Ruins of 12th-century Romanesque Chapel of São Pedro",
+      "Medieval cisterns and water storage systems",
+      "Archaeological interpretation center",
+      "Artifacts from Neolithic to Islamic periods",
+      "Stunning views of Pena Palace towering above",
+      "UNESCO World Heritage Site - Cultural Landscape of Sintra",
+      "Romantic 19th-century restoration by King Ferdinand II",
+      "Ancient forest surroundings with walking trails"
+    ],
+    "facilities": [
+      "Small interpretation center with archaeological exhibits",
+      "Restrooms at entrance",
+      "Small gift shop",
+      "Drinking water fountains",
+      "Benches and rest areas along route",
+      "Information panels in multiple languages",
+      "Free Wi-Fi near entrance",
+      "Audio guides available",
+      "Well-marked walking paths",
+      "Photography permitted throughout"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Not wheelchair accessible. Castle features steep stone staircases, narrow battlements, uneven surfaces, and significant elevation changes. Battlements have sheer drops requiring good mobility and balance. Not suitable for visitors with mobility limitations, fear of heights, or in poor physical condition. No elevator or alternative accessible routes available.",
+      "visualAidServices": "Audio guides available with historical descriptions",
+      "hearingAidServices": "Visual information panels; self-guided exploration possible"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/castelo-dos-mouros-hero.jpg",
+      "alt": "Medieval battlements of Castelo dos Mouros snaking across Sintra mountain ridge",
+      "caption": "Ancient Moorish fortress walls following the dramatic mountain ridge"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/castelo-dos-mouros-1.jpg",
+        "alt": "Panoramic view from castle battlements over Sintra landscape",
+        "caption": "Breathtaking views from the battlements extending to the Atlantic Ocean"
+      },
+      {
+        "url": "/images/attractions/castelo-dos-mouros-2.jpg",
+        "alt": "Ancient stone tower and crenellated walls",
+        "caption": "Well-preserved medieval towers along the fortress walls"
+      },
+      {
+        "url": "/images/attractions/castelo-dos-mouros-3.jpg",
+        "alt": "View of Pena Palace from Moorish Castle battlements",
+        "caption": "Stunning view of colorful Pena Palace from the castle walls"
+      },
+      {
+        "url": "/images/attractions/castelo-dos-mouros-4.jpg",
+        "alt": "Sunset over castle ruins and Sintra mountains",
+        "caption": "Romantic sunset illuminating the ancient fortress ruins"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Palácio da Pena",
+      "distance": "500 meters",
+      "type": "palace",
+      "walkingTime": "15 minutes uphill"
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "distance": "2.5 km",
+      "type": "estate",
+      "walkingTime": "Not recommended - take bus or taxi"
+    },
+    {
+      "name": "Sintra Historic Town Center",
+      "distance": "1.5 km",
+      "type": "historic-town",
+      "walkingTime": "40 minutes downhill through forest (steep)"
+    },
+    {
+      "name": "Palácio de Monserrate",
+      "distance": "4 km",
+      "type": "palace",
+      "walkingTime": "Not walkable - drive or bus"
+    },
+    {
+      "name": "Vila Sassetti Gardens",
+      "distance": "800 meters",
+      "type": "gardens",
+      "walkingTime": "20 minutes via forest trails"
+    }
+  ],
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "moorish",
+    "ruins",
+    "sintra",
+    "unesco-heritage",
+    "panoramic-views",
+    "history",
+    "photography",
+    "battlements",
+    "islamic-heritage",
+    "hiking"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "photographers",
+    "hikers",
+    "adventure-seekers",
+    "medieval-fans",
+    "fit-active-visitors",
+    "cultural-tourists"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewCount": 28500,
+  "reviewSource": "TripAdvisor/Google"
+}

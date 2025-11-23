@@ -1,0 +1,253 @@
+{
+  "id": "pastel-de-nata-cooking-class",
+  "name": "Pastel de Nata Cooking Class",
+  "tagline": "Learn to bake Portugal's iconic custard tart from award-winning pastry chefs in a real Lisbon bakery",
+  "type": "culinary-experience",
+  "categories": [
+    "cooking-class",
+    "culinary-experience",
+    "cultural-activity",
+    "hands-on-workshop",
+    "food-culture"
+  ],
+  "description": {
+    "short": "Experience the only hands-on cooking class in Lisbon where you'll learn to make authentic Pastel de Nata (Portuguese custard tarts) from professional pastry chefs inside a real Portuguese bakery. This 2-hour masterclass teaches you the traditional recipe, including homemade puff pastry techniques, in an intimate small-group setting.",
+    "full": "The Pastel de Nata Cooking Class offers a truly authentic culinary experience in the heart of Lisbon, where passionate food enthusiasts can master the art of creating Portugal's most iconic pastry. Hosted at Nat'elier, an award-winning pastel de nata concept store in downtown Lisbon, this exclusive masterclass is led by Chef João Batalha - winner of the silver medal for Best Pastel de Nata in Portugal - or his team of expert pastry chefs including Silvia Sousa and Valeria Barros da Costa. Since 2018, thousands of students from around the world have learned the secrets of this beloved Portuguese treat in these professional kitchens. The 2-hour hands-on experience begins with an engaging introduction to the fascinating history of pastel de nata, which dates back to 1837 when monks at the Jerónimos Monastery in Belém first created these delectable tarts. Originally called Pastel de Belém, the recipe spread throughout Portugal and became known as Pastel de Nata. Participants don aprons and hairnets before stepping into the professional kitchen to discover the tools and techniques used daily by Portuguese pastry chefs. Unlike other cooking classes that use store-bought dough, this masterclass reveals the authentic method of making puff pastry from scratch, teaching the special lamination technique that creates the signature crispy, flaky layers. Students work together as a team while each participant gets hands-on experience shaping their own pastries, preparing the velvety custard filling, and perfecting the baking technique. The instructors share professional tips and tricks accumulated over years of experience, ensuring each student can successfully recreate the recipe at home. The magic moment arrives when the freshly baked tarts emerge from the oven, golden and fragrant. Participants gather to enjoy their warm creations accompanied by a comforting cup of coffee, experiencing the authentic taste of Portugal they've created with their own hands. Each student receives a Certificate of Achievement and takes home the recipe card to recreate these Portuguese treasures for family and friends. The experience celebrates both tradition and innovation in an environment that blends culinary skill-building with unforgettable cultural moments. The masterclass welcomes individuals, couples, families with children aged 8+, and groups including corporate team-building events. Previous corporate clients include Amazon, LinkedIn, Google, and OLX, testament to the quality and engagement of the experience.",
+    "history": "The Pastel de Nata tradition began in 1837 at the Jerónimos Monastery in Belém, where Catholic monks created the original recipe using surplus egg yolks (egg whites were used to starch clothing). After the monastery closed in 1834 following the Liberal Revolution, the recipe was sold to a nearby sugar refinery, establishing the famous Pastéis de Belém bakery that still operates today with the original secret recipe. The pastry spread throughout Portugal, becoming known as Pastel de Nata. Chef João Batalha entered the hospitality business at age 13, embracing his family's baking tradition at Pastelaria Batalha. In 2018, he opened Nat'elier, a pastel de nata concept store in downtown Lisbon, and launched these masterclasses to share the traditional techniques with visitors from around the world. His award-winning recipe earned the silver medal for Best Pastel de Nata in Portugal, and his mission to make this Portuguese art accessible to everyone has welcomed over 10,000 students to date.",
+    "significance": "This cooking class preserves and shares an essential element of Portuguese culinary heritage while making it accessible to international visitors. Pastel de Nata represents Portuguese confectionery art and cultural identity, and learning to make them authentically connects participants to centuries of Portuguese tradition. The experience goes beyond cooking to become a cultural immersion, teaching history, techniques, and the Portuguese passion for gastronomy."
+  },
+  "location": {
+    "address": {
+      "street": "Rua da Conceição 59",
+      "postal_code": "1100-156",
+      "neighborhood": "Baixa",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7093,
+      "longitude": -9.1355
+    },
+    "directions": {
+      "general": "Located in the Baixa district of downtown Lisbon at Nat'elier bakery, Rua da Conceição 59. Easy walking distance from major attractions",
+      "fromCruisePort": "From cruise terminal at Santa Apolónia: 10-minute walk (800m) west along waterfront, or take metro Green Line 1 stop to Terreiro do Paço. From Alcântara terminal: metro Blue Line to Baixa-Chiado, then 5-minute walk",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green Lines) - 3-minute walk. Terreiro do Paço station (Blue Line) - 5-minute walk. Buses: 711, 714, 732, 736, 746, 759, 760, 781, 782, 783, 794. Tram 28E nearby",
+      "parking": "Limited street parking. Public parking: Praça da Figueira (5-minute walk), Martim Moniz (7-minute walk). Recommend public transport or walking"
+    },
+    "distanceFromCruisePort": {
+      "meters": 1200,
+      "walkingTime": "12-15 minutes",
+      "drivingTime": "5 minutes (traffic dependent)"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 347 2504",
+    "email": "masterclass@natelier.pt",
+    "website": "https://www.pasteldenataworkshop.com/",
+    "bookingUrl": "https://natelier.pt/en/pages/masterclass",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/natelierportugal",
+      "instagram": "https://www.instagram.com/natelier.pt/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Classes offered daily with multiple time slots. Advance booking required",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Multiple class times: typically 10:00, 14:00, 16:00, 18:00",
+          "lastAdmission": "Booking required in advance"
+        }
+      ],
+      "closedDates": ["December 25", "January 1"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 60,
+      "youth": 60,
+      "child": 50,
+      "senior": 60,
+      "family": 220,
+      "lisboaCardFree": false,
+      "notes": "Standard group class (up to 12 participants): €60 per person. Children 8-12 years: €50. Private class (up to 16 participants): from €75 per person. Family packages available. Price includes: 2-hour hands-on class, all ingredients and equipment, recipe card to take home, Certificate of Achievement, fresh pastries to enjoy with coffee, and pastries to take away. Online classes also available via Udemy. Business consultancy available for professional bakers"
+    },
+    "averageVisitDuration": "2 hours",
+    "bestTimeToVisit": "Morning classes (10am) popular for cruise passengers with afternoon free. Weekday classes typically smaller than weekends. Book 1-2 weeks in advance during peak season (May-September)",
+    "busyPeriods": [
+      "Weekends year-round",
+      "May-September peak tourist season",
+      "Holiday periods (Easter, Christmas)",
+      "Cruise ship high season (April-October)"
+    ],
+    "adviceForVisitors": "Book well in advance, especially for weekends and summer months. Classes conducted in English or bilingual (English/Portuguese). Wear comfortable clothing and closed-toe shoes. Hair tied back if long. Arrive 10 minutes early for check-in. No previous baking experience required. Suitable for ages 8+. Children under 18 must be accompanied by adult. Dietary restrictions can be accommodated with advance notice. Classes limited to 12 participants for personalized attention. Perfect rainy-day activity. Recipe cards provided so you can recreate at home. Pastries make great gifts for fellow cruise passengers"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours total (including travel time and class)",
+    "accessibility": "Excellent - central Baixa location minutes from cruise terminals. Easy walking or quick metro ride. Perfect half-day activity",
+    "combinableWith": [
+      "Baixa district sightseeing",
+      "Terreiro do Paço square",
+      "Lisbon Cathedral",
+      "Alfama neighborhood",
+      "Chiado shopping district",
+      "Rossio square",
+      "Elevador de Santa Justa",
+      "Time Out Market for lunch"
+    ],
+    "tips": [
+      "Perfect for cruise passengers - central location near terminals",
+      "Ideal morning activity (9-11am) leaves afternoon free for sightseeing",
+      "Book before cruise - popular class sells out quickly",
+      "Combine with Baixa/Alfama walking tour in same half-day",
+      "Easy to reach on foot from Santa Apolónia terminal (10 min walk)",
+      "Take pastries back to ship as gifts for travel companions",
+      "Great rainy-day alternative to outdoor sightseeing",
+      "No shopping bags needed - aprons and ingredients provided",
+      "Recipe card makes memorable souvenir to recreate at home",
+      "Small class size ensures personal attention from chef",
+      "English-language instruction - no Portuguese required",
+      "Perfect cultural immersion activity for foodies",
+      "Family-friendly for cruise families with children 8+",
+      "Coffee and fresh pastries included - skip breakfast!",
+      "Photographs welcome - capture your creations",
+      "Allow time after class to visit Nat'elier shop for artisan pastries"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Only cooking class in Portugal teaching inside real Portuguese bakery",
+      "Learn from award-winning Chef João Batalha (silver medal winner)",
+      "Hands-on experience making traditional puff pastry from scratch",
+      "Special lamination technique for authentic crispy layers",
+      "Professional kitchen with commercial baking equipment",
+      "Master the velvety Portuguese custard recipe",
+      "Discover the 200-year history of pastel de nata",
+      "Each participant shapes and bakes their own tarts",
+      "Taste warm pastries straight from the oven with coffee",
+      "Recipe card to recreate at home with family",
+      "Certificate of Achievement",
+      "Small groups (maximum 12) for personalized instruction",
+      "Professional tips and tricks from expert pastry chefs",
+      "Take home extra pastries in beautiful packaging",
+      "Central Baixa location - easy access for cruise passengers"
+    ],
+    "facilities": [
+      "Professional pastry kitchen with commercial ovens",
+      "Individual work stations for each participant",
+      "All baking tools and equipment provided",
+      "Aprons and hairnets provided",
+      "Coffee and tea service",
+      "Restrooms on-site",
+      "Air-conditioned teaching space",
+      "Photography-friendly environment",
+      "Recipe cards in English and Portuguese",
+      "Nat'elier shop for purchasing additional pastries",
+      "Nearby cafes and restaurants",
+      "Public transport connections"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Ground-floor location with level access from street. Kitchen workspace accessible for wheelchairs. Advance notice appreciated for specific accommodations. Restrooms accessible",
+      "visualAidServices": "Hands-on tactile learning suitable for visually impaired with advance notice",
+      "hearingAidServices": "Visual demonstrations supplement verbal instruction"
+    },
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/pastel-de-nata-cooking-class-hero.jpg",
+      "alt": "Students learning to make pastel de nata in professional bakery kitchen",
+      "caption": "Hands-on masterclass teaching authentic Portuguese custard tart techniques in a real Lisbon bakery"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/pastel-de-nata-cooking-class-1.jpg",
+        "alt": "Chef demonstrating traditional puff pastry lamination technique",
+        "caption": "Award-winning Chef João Batalha teaching the secret lamination method"
+      },
+      {
+        "url": "/images/attractions/pastel-de-nata-cooking-class-2.jpg",
+        "alt": "Golden freshly-baked pastel de nata emerging from oven",
+        "caption": "The rewarding moment when your handmade pastries emerge perfectly golden and crispy"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Praça do Comércio (Terreiro do Paço)",
+      "distance": "400 meters",
+      "type": "square",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Lisbon Cathedral (Sé)",
+      "distance": "600 meters",
+      "type": "cathedral",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Elevador de Santa Justa",
+      "distance": "500 meters",
+      "type": "elevator-viewpoint",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "400 meters",
+      "type": "square",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Alfama neighborhood",
+      "distance": "800 meters",
+      "type": "neighborhood",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Chiado district",
+      "distance": "600 meters",
+      "type": "shopping-district",
+      "walkingTime": "8 minutes"
+    }
+  ],
+  "tags": [
+    "cooking-class",
+    "culinary-experience",
+    "pastel-de-nata",
+    "portuguese-cuisine",
+    "hands-on-workshop",
+    "cultural-activity",
+    "family-friendly",
+    "cruise-friendly",
+    "food-culture",
+    "traditional-recipe",
+    "rainy-day-activity"
+  ],
+  "suitableFor": [
+    "foodies",
+    "families-with-older-children",
+    "couples",
+    "cruise-passengers",
+    "culture-enthusiasts",
+    "baking-enthusiasts",
+    "experience-seekers",
+    "rainy-days"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewCount": 1914,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}

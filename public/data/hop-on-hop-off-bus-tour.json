@@ -1,0 +1,248 @@
+{
+  "id": "hop-on-hop-off-bus-tour",
+  "name": "Hop-On Hop-Off Bus Tour Lisbon",
+  "tagline": "Explore Lisbon at your own pace with 360-degree panoramic views",
+  "type": "sightseeing-tour",
+  "categories": [
+    "sightseeing",
+    "bus-tour",
+    "city-tour",
+    "family-friendly",
+    "cruise-friendly"
+  ],
+  "description": {
+    "short": "The Hop-On Hop-Off Bus Tour is the perfect way for cruise passengers to explore Lisbon's top attractions with maximum flexibility. With 3 comprehensive routes covering over 38 stops, you can create your own itinerary and discover the city at your own pace from an open-top double-decker bus.",
+    "full": "The Lisbon Hop-On Hop-Off Bus Tour is operated by City Sightseeing, the world's leading hop-on hop-off bus company, serving 13 million happy customers every year across 100+ cities worldwide. This comprehensive sightseeing tour offers cruise passengers the perfect introduction to Lisbon's diverse neighborhoods, historic landmarks, and stunning viewpoints. The tour features three distinct routes - Blue, Red, and Green - each offering unique perspectives of Portugal's captivating capital.\n\nThe Blue Route showcases modern Lisbon and its world-class museums, including the Calouste Gulbenkian Museum with its extensive art collection, Eduardo VII Park (one of Lisbon's finest), the National Car Museum with one of the world's best vintage car collections, the Water Museum (awarded the Council of Europe Museum Prize), and the National Azulejo Museum featuring decorative ceramic tiles dating back to the 15th century.\n\nThe Red Route takes you through Lisbon's historic heart and its UNESCO World Heritage sites, including the Príncipe Real district with its elegant old-style buildings, the lively Bairro Alto neighborhood with its charming cafés, the iconic Belém Tower (UNESCO-listed since 1515), and the magnificent Jerónimos Monastery from 1498. The Green Route saves you time and energy by taking you up Lisbon's famous hills to São Jorge Castle, an 11th-century fortress offering spectacular city views.\n\nAll buses feature recorded audio commentary in 13 languages, providing fascinating insights into Lisbon's history, culture, and architecture. The open-top design offers unobstructed 360-degree panoramic photography opportunities. With departures every 20-30 minutes from 9:30 AM to 5:00 PM, you have complete freedom to hop on and off as many times as you want, spending as much or as little time at each attraction as you choose.",
+    "history": "City Sightseeing has been operating hop-on hop-off bus tours globally since the early 1990s, becoming the world's most recognized sightseeing brand. The Lisbon service was established to provide visitors with a convenient, comprehensive introduction to the city's diverse attractions, from ancient Moorish fortifications to modern museums. The service has become particularly popular with cruise passengers who want to maximize their limited time in port.",
+    "significance": "As the leading hop-on hop-off service in Lisbon, City Sightseeing provides cruise passengers with the most efficient way to explore the city's spread-out attractions. The service is especially valuable for short port calls, allowing visitors to see multiple UNESCO World Heritage sites, historic neighborhoods, and top museums in a single day without the hassle of navigating public transport or organizing multiple taxis."
+  },
+  "location": {
+    "address": {
+      "street": "Multiple boarding points across Lisbon",
+      "postal_code": "Various",
+      "neighborhood": "Citywide service - Main hub at Marquês de Pombal",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7252,
+      "longitude": -9.1500
+    },
+    "directions": {
+      "general": "Main starting point at Marquês de Pombal, with 38+ stops throughout Lisbon including near cruise terminals",
+      "fromCruisePort": "Multiple pickup points near cruise terminals. Closest stop: Praça do Comércio (5-minute walk from cruise terminal). Bus routes pass near Santa Apolónia cruise terminal",
+      "publicTransport": "Stops located near all major metro stations, train stations, and tourist attractions. Service connects to cruise terminals, Rossio, Praça do Comércio, Belém, and Parque das Nações",
+      "parking": "Not applicable - this is a bus tour service. Passengers typically walk to nearest stop"
+    },
+    "distanceFromCruisePort": {
+      "meters": 500,
+      "walkingTime": "5 minutes to nearest stop at Praça do Comércio",
+      "drivingTime": "Buses serve cruise terminal area directly"
+    }
+  },
+  "contact": {
+    "phone": "+351 210 993 552",
+    "email": "info@city-sightseeing.com",
+    "website": "https://city-sightseeing.com/en-us/80/lisbon/107/hop-on-hop-off-lisbon-all-routes",
+    "bookingUrl": "https://city-sightseeing.com/en-us/80/lisbon/107/hop-on-hop-off-lisbon-all-routes",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/citysightseeinglisboa",
+      "instagram": "https://www.instagram.com/citysightseeinglisboa/",
+      "twitter": "https://twitter.com/CitySightsLX"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Operating daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "Buses run continuously with 20-30 minute frequency"
+        }
+      ],
+      "closedDates": [
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 39,
+      "youth": 0,
+      "child": 19.50,
+      "senior": 39,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Adult (13+): €39. Child (4-12): €19.50. Children under 4 free. 24-hour ticket valid for all 3 routes. Free cancellation up to 24 hours before travel date. Mobile or paper voucher accepted. Tickets valid for 12 months from purchase date - use any day within validity period. Book online for best prices"
+    },
+    "averageVisitDuration": "Full day (3-8 hours depending on how many stops you visit)",
+    "bestTimeToVisit": "Start early morning (9:30-10:00) to maximize your day and avoid peak afternoon heat. Sunset tours on Red Route to Belém are spectacular. Blue Route is quieter on weekdays",
+    "busyPeriods": [
+      "Peak summer months (July-August)",
+      "Weekends and public holidays",
+      "Midday to mid-afternoon (12:00-15:00)",
+      "Cruise ship days at Praça do Comércio stop"
+    ],
+    "adviceForVisitors": "Purchase tickets online in advance for guaranteed availability and better pricing. Download the City Sightseeing app for real-time bus tracking. Bring sunscreen and water for the open-top upper deck. Sit on the left side for best views on most routes. Green Route buses are smaller and not wheelchair accessible - choose Red or Blue routes for accessibility. Use earphones provided for audio commentary. Start at Marquês de Pombal for the full experience, or join at any stop. Allow at least 4-5 hours to enjoy the complete circuit with a few stops"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day recommended (6-8 hours), but flexible - can do express 2-hour loop without stops",
+    "accessibility": "Excellent - multiple stops near cruise terminals. Red and Blue routes wheelchair accessible. Praça do Comércio stop is 5-minute walk from main cruise terminal",
+    "combinableWith": {
+      "name": "All Lisbon attractions - bus stops at every major sight",
+      "walkingTime": "Stops directly at major attractions"
+    },
+    "tips": [
+      "Perfect for cruise passengers - maximum flexibility with time constraints",
+      "Stop at Praça do Comércio is 5-minute walk from cruise terminal",
+      "24-hour ticket allows multiple loops and unlimited stops",
+      "Audio guide available in 13 languages including English, Spanish, French, German, Italian, Portuguese",
+      "Great for first-time visitors - provides overview of entire city",
+      "Red Route covers both UNESCO World Heritage sites (Belém Tower and Jerónimos Monastery)",
+      "Green Route saves walking up steep hills to São Jorge Castle",
+      "Buses run every 20-30 minutes - easy to catch next bus if you miss one",
+      "Can complete full circuit without stops in 90 minutes per route",
+      "Combine with Lisbon Card for discounts at museums and attractions",
+      "Sun protection essential on upper deck in summer",
+      "Free Wi-Fi on board most buses",
+      "Family-friendly - kids love the open-top experience",
+      "Book online for mobile tickets - no need to print",
+      "Service runs in all weather - covered lower deck available if raining"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "3 comprehensive routes covering 38+ stops at all major Lisbon attractions",
+      "Open-top double-decker buses with 360-degree panoramic views",
+      "Audio commentary in 13 languages",
+      "Unlimited hop-on hop-off for 24 hours",
+      "Stops at both UNESCO World Heritage sites: Belém Tower and Jerónimos Monastery",
+      "Blue Route: Museums and modern Lisbon (Gulbenkian, National Tile Museum, Water Museum)",
+      "Red Route: Historic Lisbon, Belém, Príncipe Real, Bairro Alto",
+      "Green Route: São Jorge Castle and hilltop viewpoints",
+      "Departures every 20-30 minutes throughout the day",
+      "Mobile tickets accepted - no printing required",
+      "Free cancellation up to 24 hours before travel",
+      "10% discount at City Lockers locations (code on ticket)",
+      "Valid for 12 months from purchase - use on any date",
+      "Operated by world's #1 hop-on hop-off company (13 million annual customers)"
+    ],
+    "facilities": [
+      "Open-top upper deck for photography and views",
+      "Covered lower deck for weather protection",
+      "Audio guide system with individual headphones",
+      "Multilingual commentary (13 languages)",
+      "USB charging ports on some buses",
+      "Free Wi-Fi on board",
+      "Wheelchair accessible buses (Red and Blue routes)",
+      "Air-conditioned lower deck",
+      "Onboard staff for assistance",
+      "Route maps provided",
+      "Mobile app for real-time bus tracking"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Red and Blue routes are wheelchair accessible with ramps and designated spaces. Green Route uses smaller buses not suitable for wheelchairs. Staff available to assist with boarding. Wheelchair users should use covered lower deck. Advance notice recommended for groups with accessibility needs",
+      "visualAidServices": "Audio commentary provides detailed descriptions",
+      "hearingAidServices": "Visual route maps and printed information available"
+    },
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French",
+      "German",
+      "Italian",
+      "Dutch",
+      "Japanese",
+      "Russian",
+      "Brazilian Portuguese",
+      "Swedish",
+      "Mandarin Chinese",
+      "Polish"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/hop-on-hop-off-bus-tour-hero.jpg",
+      "alt": "Red City Sightseeing double-decker bus with open top in front of Belém Tower",
+      "caption": "Explore Lisbon's UNESCO World Heritage sites on the open-top Hop-On Hop-Off Bus"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/hop-on-hop-off-bus-tour-1.jpg",
+        "alt": "Passengers enjoying panoramic views from upper deck of sightseeing bus",
+        "caption": "360-degree panoramic views from the open-top upper deck"
+      },
+      {
+        "url": "/images/attractions/hop-on-hop-off-bus-tour-2.jpg",
+        "alt": "Hop-on hop-off bus passing through Praça do Comércio",
+        "caption": "Convenient stops at all major Lisbon attractions including Praça do Comércio"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Praça do Comércio",
+      "distance": "Bus stop at square",
+      "type": "historic-square",
+      "walkingTime": "Direct access"
+    },
+    {
+      "name": "Belém Tower",
+      "distance": "Bus stop adjacent",
+      "type": "unesco-heritage",
+      "walkingTime": "Direct access from Red Route"
+    },
+    {
+      "name": "Jerónimos Monastery",
+      "distance": "Bus stop adjacent",
+      "type": "unesco-heritage",
+      "walkingTime": "Direct access from Red Route"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "Bus stop adjacent",
+      "type": "historic-castle",
+      "walkingTime": "Direct access from Green Route"
+    },
+    {
+      "name": "Oceanário de Lisboa",
+      "distance": "Bus routes serve Parque das Nações",
+      "type": "aquarium",
+      "walkingTime": "Accessible via bus routes"
+    }
+  ],
+  "tags": [
+    "hop-on-hop-off",
+    "bus-tour",
+    "sightseeing",
+    "city-tour",
+    "cruise-friendly",
+    "family-friendly",
+    "flexible",
+    "audio-guide",
+    "panoramic-views",
+    "must-do"
+  ],
+  "suitableFor": [
+    "cruise-passengers",
+    "families",
+    "first-time-visitors",
+    "photographers",
+    "seniors",
+    "limited-mobility",
+    "all-visitors",
+    "time-constrained"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.4,
+  "reviewCount": 8500,
+  "reviewSource": "City Sightseeing/TripAdvisor/Google"
+}

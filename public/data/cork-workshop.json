@@ -1,0 +1,248 @@
+{
+  "id": "cork-workshop",
+  "name": "Cork Workshop Experience",
+  "tagline": "Discover Portugal's cork industry and create your own handmade cork crafts",
+  "type": "workshop",
+  "categories": [
+    "workshop",
+    "cultural-experience",
+    "hands-on-activity",
+    "portuguese-traditions",
+    "sustainable-craft"
+  ],
+  "description": {
+    "short": "Immerse yourself in Portugal's cork industry heritage through an interactive workshop where you'll learn about sustainable cork harvesting and create your own unique cork crafts, from coasters to jewelry.",
+    "full": "Portugal produces over half the world's cork supply, and this unique workshop experience offers cruise passengers a hands-on introduction to one of the country's most sustainable and iconic industries. Led by local artisans and designers, the Cork Workshop Experience takes you on a journey through cork's rich history in Portuguese culture, from ancient wine stoppers to modern fashion accessories. Learn about the fascinating cork oak forests of Alentejo and the environmentally-friendly harvesting process that allows trees to produce cork for over 200 years without being damaged. The workshop provides all materials and tools as you design and create your own cork products, typically including coasters decorated with Mediterranean patterns and jewelry pieces that blend traditional techniques with modern aesthetics. Portugal's cork industry isn't just about wine bottles; this versatile material is used in aerospace insulation, luxury handbags, footwear, and sustainable home decor. Through painting, cutting, and assembling techniques, you'll discover why cork's unique properties make it so valuable. The intimate workshop setting allows for personalized instruction and creative freedom, making it suitable for all skill levels from complete beginners to craft enthusiasts.",
+    "history": "Cork has been harvested in Portugal since ancient times, with the Montado cork oak forests of Alentejo representing one of the world's most sustainable agricultural systems. The traditional cork industry expanded dramatically in the 17th and 18th centuries with the growth of wine production. Today, Portugal's cork forests absorb millions of tons of CO2 annually, making cork one of the most eco-friendly materials available.",
+    "significance": "Portugal is the world's largest cork producer, responsible for over 50% of global cork production. The industry supports thousands of families and protects vital Mediterranean ecosystems. Cork workshops help preserve traditional craftsmanship while educating visitors about sustainable materials and Portuguese heritage."
+  },
+  "location": {
+    "address": {
+      "street": "Multiple workshop locations in Lisbon",
+      "postal_code": "Various",
+      "neighborhood": "Baixa, Chiado, and Príncipe Real areas",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7131,
+      "longitude": -9.1392
+    },
+    "directions": {
+      "general": "Cork workshops are located in central Lisbon neighborhoods, easily accessible by metro and walking",
+      "fromCruisePort": "From Santa Apolónia cruise terminal, take metro Green Line to Baixa-Chiado (10 minutes) or taxi (15 minutes). Most workshops are within walking distance of major metro stations",
+      "publicTransport": "Metro Blue or Green Lines to Baixa-Chiado, Rossio, or Restauradores. Tram 28 also stops near workshop locations. Buses 758, 760, 774",
+      "parking": "Public parking available at Parking Restauradores and Parking Camões nearby"
+    },
+    "distanceFromCruisePort": {
+      "meters": 3200,
+      "walkingTime": "35-40 minutes",
+      "drivingTime": "12 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 XXX XXXX",
+    "email": "info@corkworkshop.pt",
+    "website": "https://handson.pt/workshops/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/arts-crafts-workshops-tc80/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/portuguesecrafts",
+      "instagram": "https://www.instagram.com/portuguesecrafts/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Multiple sessions daily, advance booking required",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday-Saturday",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "N/A - Pre-booked workshops"
+        }
+      ],
+      "closedDates": [
+        "Sundays (most workshops)",
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 55,
+      "youth": 45,
+      "child": 35,
+      "senior": 50,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Standard workshop €55 per person (1.5 hours). Children 8-15 years €35-45. Private workshops available from €120. Materials and tools included. Take-home craft piece included. Refreshments provided"
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Morning sessions (10:00-11:30) offer quieter atmosphere. Afternoon sessions (14:00-15:30) popular with cruise passengers",
+    "busyPeriods": [
+      "Summer months June-September",
+      "Weekend sessions",
+      "Cruise ship port days",
+      "Holiday periods"
+    ],
+    "adviceForVisitors": "Book at least 48 hours in advance as workshops have limited capacity (typically 6-12 people). Wear comfortable clothing that can get dusty or stained. No special skills required - suitable for all levels. Workshop takes place in English and Portuguese. Allow time to explore the surrounding neighborhood before or after. Cork creations can be taken immediately - no drying time needed. Consider combining with visit to cork product shops nearby"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (3-4 hours including workshop and travel)",
+    "accessibility": "Excellent - central location with easy metro access from cruise terminal",
+    "combinableWith": [
+      "Baixa district shopping",
+      "Chiado cultural area",
+      "São Jorge Castle",
+      "Rossio Square",
+      "Carmo Convent",
+      "Portuguese cork product shops"
+    ],
+    "tips": [
+      "Perfect for port days with 4-6 hours in Lisbon",
+      "Hands-on cultural experience creates unique souvenirs",
+      "Suitable for all ages and skill levels",
+      "Book workshop timing to fit your ship schedule",
+      "Learn about Portugal's sustainable cork industry",
+      "No heavy walking required - ideal for relaxed morning",
+      "Workshop locations are in historic central neighborhoods",
+      "Created items can be packed in carry-on luggage",
+      "Great rainy day alternative activity",
+      "Combine with lunch at traditional Portuguese restaurant nearby",
+      "Photography encouraged during creative process",
+      "Perfect for crafty travelers and families"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Hands-on cork crafting with expert artisan instructors",
+      "Learn about Portugal's world-leading cork industry",
+      "Create personalized cork coasters with Mediterranean patterns",
+      "Design and assemble cork jewelry pieces",
+      "Discover sustainable cork harvesting practices",
+      "Small group experience (maximum 12 participants)",
+      "All materials and tools provided",
+      "Take-home handmade cork creation",
+      "Learn versatile applications of cork material",
+      "Cultural insight into Portuguese traditions",
+      "Suitable for complete beginners",
+      "English-speaking instructors available"
+    ],
+    "facilities": [
+      "Dedicated crafting workshop space",
+      "Individual workstations with tools",
+      "All crafting materials provided",
+      "Refreshments and water available",
+      "Small group instruction",
+      "Photography-friendly environment",
+      "Air-conditioned comfort",
+      "Secure storage for belongings",
+      "Accessible restrooms",
+      "Gift shop with cork products"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Most workshops located on ground floor or with elevator access. Wide workspaces accommodate wheelchairs. Hands-on nature of workshop accessible to those with limited mobility. Advance notice appreciated for specific accessibility needs",
+      "visualAidServices": "Tactile experience suitable for visually impaired visitors with advance notice",
+      "hearingAidServices": "Visual demonstrations complement verbal instruction"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish (some workshops)",
+      "French (some workshops)"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/cork-workshop-hero.jpg",
+      "alt": "Participants creating cork crafts in Lisbon workshop",
+      "caption": "Hands-on cork crafting workshop exploring Portugal's sustainable cork industry"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/cork-workshop-1.jpg",
+        "alt": "Artisan demonstrating cork cutting techniques",
+        "caption": "Expert instruction in traditional Portuguese cork craftsmanship"
+      },
+      {
+        "url": "/images/attractions/cork-workshop-2.jpg",
+        "alt": "Handmade cork coasters and jewelry creations",
+        "caption": "Beautiful cork products created during the workshop experience"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Chiado Cultural District",
+      "distance": "200 meters",
+      "type": "cultural-area",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "400 meters",
+      "type": "historic-square",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Carmo Convent Ruins",
+      "distance": "300 meters",
+      "type": "historic-site",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "1000 meters",
+      "type": "castle",
+      "walkingTime": "15 minutes"
+    },
+    {
+      "name": "Time Out Market",
+      "distance": "600 meters",
+      "type": "food-market",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Cork Product Shops",
+      "distance": "Adjacent",
+      "type": "shopping",
+      "walkingTime": "1 minute"
+    }
+  ],
+  "tags": [
+    "workshop",
+    "hands-on-activity",
+    "cork-crafts",
+    "cultural-experience",
+    "sustainable-tourism",
+    "portuguese-traditions",
+    "family-friendly",
+    "educational",
+    "craft-making",
+    "unique-souvenirs",
+    "indoor-activity",
+    "rainy-day"
+  ],
+  "suitableFor": [
+    "families",
+    "couples",
+    "craft-enthusiasts",
+    "eco-conscious-travelers",
+    "cultural-learners",
+    "all-ages",
+    "beginners",
+    "cruise-passengers",
+    "rainy-days"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewCount": 347,
+  "reviewSource": "GetYourGuide/Google Reviews"
+}

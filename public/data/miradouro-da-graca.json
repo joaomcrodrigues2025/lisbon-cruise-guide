@@ -1,0 +1,249 @@
+{
+  "id": "miradouro-da-graca",
+  "name": "Miradouro da Senhora do Monte (Graça)",
+  "tagline": "Lisbon's highest viewpoint with spectacular sunset views and pine tree terraces",
+  "type": "viewpoint",
+  "categories": [
+    "viewpoint",
+    "miradouro",
+    "photography",
+    "scenic",
+    "sunset-spot"
+  ],
+  "description": {
+    "short": "The Miradouro da Graça (also called Miradouro da Senhora do Monte) is Lisbon's highest viewpoint, offering sweeping 270-degree panoramic views of the city from a peaceful pine-shaded terrace. A local favorite, this scenic spot is perfect for sunset watching and provides a more authentic, less touristy atmosphere than other viewpoints.",
+    "full": "Perched at one of the highest points in Lisbon, the Miradouro da Graça (officially named Miradouro da Senhora do Monte after the nearby chapel) is a cherished local secret that offers some of the most spectacular and comprehensive views of Portugal's capital. While tourists flock to more famous viewpoints, this elevated terrace remains a peaceful haven where locals gather to watch the sunset, sip coffee, and enjoy the panoramic cityscape.\n\nThe viewpoint sits adjacent to the beautiful Igreja da Graça (Church of Our Lady of Grace), a 16th-century Augustinian monastery with distinctive baroque architecture. From this elevated vantage point, visitors enjoy unobstructed 270-degree views encompassing virtually all of Lisbon's iconic landmarks: the red rooftops of Alfama cascading down to the Tagus River, the imposing São Jorge Castle to the southeast, the downtown Baixa district's grid pattern, the green expanse of Eduardo VII Park stretching north, the Cristo Rei statue across the river in Almada, and on clear days, even the distant Atlantic Ocean.\n\nThe terrace features characteristic Portuguese stone pine trees (pinheiros mansos) providing natural shade and creating a distinctly Mediterranean atmosphere. Comfortable stone benches built into decorative tiled walls offer perfect spots for contemplation and photography. The ambient lighting at dusk creates a magical atmosphere, making this one of Lisbon's most romantic locations.\n\nA charming kiosk-café (Esplanada da Graça) serves beverages, coffee, pastries, and light meals, allowing visitors to relax with refreshments while soaking in the panoramic views. The café's outdoor seating area is especially popular during golden hour when the setting sun bathes the city in warm orange and pink hues.\n\nUnlike the more crowded tourist viewpoints, Miradouro da Graça retains an authentic neighborhood feel. Local residents gather here throughout the day - elderly neighbors chatting on benches, young couples enjoying romantic sunsets, families with children playing in the small adjacent garden. This blend of spectacular views and genuine local atmosphere makes it a favorite among in-the-know travelers seeking an authentic Lisbon experience.",
+    "history": "The Miradouro da Senhora do Monte takes its official name from the small Chapel of Nossa Senhora do Monte (Our Lady of the Mount) located next to the viewpoint. This chapel has been a place of pilgrimage since medieval times, particularly for women seeking help with fertility and childbirth. According to legend, sitting in the chapel's stone chair can help women conceive. The viewpoint area developed alongside the nearby Igreja da Graça, an Augustinian monastery founded in 1271 and rebuilt after the 1755 earthquake. The terrace has long served as a gathering place for the Graça neighborhood community.",
+    "significance": "Miradouro da Graça represents the authentic, local side of Lisbon's viewpoint culture. While it offers views equal to or better than more famous miradouros, its relative obscurity to mass tourism has preserved its neighborhood character. The viewpoint serves as a vital community space for the Graça district while offering visitors a chance to experience Lisbon as locals do - unhurried, unpretentious, and deeply connected to the city's natural beauty and lifestyle. It's particularly significant as Lisbon's highest publicly accessible viewpoint, offering the most comprehensive city panorama."
+  },
+  "location": {
+    "address": {
+      "street": "Rua da Graça / Calçada da Graça",
+      "postal_code": "1170-165",
+      "neighborhood": "Graça",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7162,
+      "longitude": -9.1314
+    },
+    "directions": {
+      "general": "Located in the Graça neighborhood east of São Jorge Castle, next to Igreja da Graça (Church of Our Lady of Grace) at one of Lisbon's highest points",
+      "fromCruisePort": "From cruise terminal: 3.2km distance. Take Tram 28E which stops very close (Graça stop). Taxi/Uber: 12-15 minutes. Or Blue metro line to Martim Moniz, then Tram 28E or steep 15-minute walk uphill",
+      "publicTransport": "Tram 28E stops at Graça (50 meters from viewpoint). Tram 12E also serves the area. Bus 734 stops nearby. From cruise port: Blue metro to Martim Moniz, then Tram 28E uphill to Graça stop. Or walk from São Jorge Castle (10 minutes downhill)",
+      "parking": "Very limited street parking in residential Graça neighborhood. Not recommended to drive. Use public transport or taxi"
+    },
+    "distanceFromCruisePort": {
+      "meters": 3200,
+      "walkingTime": "35-40 minutes (steep uphill climb - not recommended)",
+      "drivingTime": "12-15 minutes by taxi/Uber"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 173 599",
+    "email": "info@visitlisboa.com",
+    "website": "https://www.visitlisboa.com/en/places/miradouro-da-graca",
+    "bookingUrl": "Not required - free public viewpoint",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/visitlisboa",
+      "instagram": "https://www.instagram.com/visitlisboa/",
+      "twitter": "https://twitter.com/visitlisboa"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours (public viewpoint)",
+          "lastAdmission": "No closing time - café closes around 8-9 PM"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": true,
+      "notes": "Completely FREE - this is a public viewpoint accessible 24 hours daily. Esplanada da Graça café operates separately with normal café pricing for beverages and food"
+    },
+    "averageVisitDuration": "30 minutes to 1.5 hours (longer for sunset)",
+    "bestTimeToVisit": "SUNSET is the absolute best time - arrive 45 minutes before sunset for best positioning. Golden hour (hour before sunset) offers magical light for photography. Early morning (7:00-9:00 AM) for peaceful atmosphere and soft light. Late afternoon (5:00-7:00 PM) to enjoy the café terrace. Avoid midday heat in summer",
+    "busyPeriods": [
+      "Sunset hours (especially summer evenings)",
+      "Weekends (popular with locals)",
+      "Late afternoon/evening (6:00-9:00 PM)",
+      "Pleasant weather days"
+    ],
+    "adviceForVisitors": "This is THE BEST viewpoint for sunset in Lisbon - arrive early to secure a good spot. Bring camera for spectacular golden hour photography. The café serves excellent coffee and pastéis de nata - perfect accompaniment to the views. Pine trees provide natural shade during the day. More peaceful and less touristy than Portas do Sol or Santa Luzia. Combine with visit to Igreja da Graça next door (beautiful baroque church). Walk down through Graça neighborhood afterward - charming residential streets. The viewpoint is on a slope with different terrace levels - explore all levels for best views. Locals often bring wine and picnic at sunset. Romantic spot for couples. Safe at night but less crowded after 9 PM"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3 hours including travel and sunset viewing (or 1.5 hours for quick daytime visit)",
+    "accessibility": "Moderate - requires Tram 28E ride (often crowded) or steep uphill walk. Viewpoint terrace is accessible once reached",
+    "combinableWith": [
+      "Tram 28E scenic ride",
+      "São Jorge Castle (10-minute walk)",
+      "Igreja da Graça church visit",
+      "Alfama neighborhood exploration",
+      "Miradouro da Senhora do Monte chapel",
+      "Graça neighborhood stroll",
+      "Feira da Ladra flea market (Tuesdays/Saturdays)"
+    ],
+    "tips": [
+      "Best sunset viewpoint in Lisbon - don't miss it if timing allows",
+      "Completely FREE with spectacular views rivaling paid attractions",
+      "Less crowded than Portas do Sol - more authentic experience",
+      "Take Tram 28E for iconic Lisbon experience getting here",
+      "Arrive 45-60 minutes before sunset for best spot",
+      "270-degree panoramic views - widest vista in Lisbon",
+      "Bring sweater for evening - can get breezy at this elevation",
+      "Esplanada da Graça café offers good coffee and snacks",
+      "Pine trees provide shade - comfortable even in summer afternoon",
+      "Favorite spot for local couples - very romantic at sunset",
+      "Excellent photography opportunities during golden hour",
+      "Safe and peaceful atmosphere - popular with locals",
+      "Can see Cristo Rei statue across the river",
+      "Views extend to the Atlantic on clear days",
+      "Combine with São Jorge Castle visit (10-minute walk away)",
+      "Less tourist-oriented than other viewpoints - more authentic feel"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Lisbon's highest publicly accessible viewpoint",
+      "Spectacular 270-degree panoramic city views",
+      "Best sunset viewpoint in Lisbon",
+      "Views of São Jorge Castle, Alfama, Baixa, Tagus River, Cristo Rei",
+      "Characteristic Portuguese stone pine trees providing shade",
+      "Completely free 24/7 public access",
+      "Esplanada da Graça café with outdoor terrace",
+      "Beautiful Igreja da Graça church adjacent",
+      "Decorative tiled seating walls",
+      "Local neighborhood atmosphere - fewer tourists",
+      "Golden hour photography paradise",
+      "Small garden area with benches",
+      "Clear views to Atlantic Ocean on clear days",
+      "Romantic ambiance especially at dusk",
+      "Peaceful and uncrowded compared to other viewpoints"
+    ],
+    "facilities": [
+      "Public viewing terrace on multiple levels",
+      "Stone benches and seating areas",
+      "Esplanada da Graça kiosk-café",
+      "Outdoor café tables and chairs",
+      "Natural shade from pine trees",
+      "Decorative azulejo tiled walls",
+      "Adjacent church (Igreja da Graça)",
+      "Small garden area",
+      "Public space open 24 hours",
+      "Café restrooms available during business hours",
+      "Safe, well-lit at night"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "The viewpoint terrace itself is relatively flat and accessible once reached. Getting there is the challenge - involves either Tram 28E (not all trams are wheelchair accessible and they're often crowded) or steep uphill walk. Best option for wheelchair users is taxi/Uber directly to Largo da Graça. The terrace has some steps between levels but main viewing area is accessible. Uneven cobblestone surfaces in some areas",
+      "visualAidServices": "Excellent panoramic views clearly visible from terrace",
+      "hearingAidServices": "Primarily visual experience - no specific hearing services needed"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/miradouro-da-graca-hero.jpg",
+      "alt": "Sunset view over Lisbon from Miradouro da Graça with pine trees in foreground",
+      "caption": "Spectacular sunset panorama from Lisbon's highest viewpoint - Miradouro da Graça"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/miradouro-da-graca-1.jpg",
+        "alt": "Pine tree shaded terrace at Miradouro da Graça with stone benches",
+        "caption": "The characteristic Portuguese pine trees provide shade and Mediterranean atmosphere"
+      },
+      {
+        "url": "/images/attractions/miradouro-da-graca-2.jpg",
+        "alt": "Locals enjoying coffee at Esplanada da Graça café with city views",
+        "caption": "Esplanada da Graça café terrace - a favorite local gathering spot"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Igreja da Graça",
+      "distance": "Adjacent - 20 meters",
+      "type": "church",
+      "walkingTime": "1 minute"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "700 meters",
+      "type": "historic-castle",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Miradouro da Senhora do Monte",
+      "distance": "200 meters",
+      "type": "viewpoint",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Panteão Nacional (National Pantheon)",
+      "distance": "1 kilometer",
+      "type": "monument",
+      "walkingTime": "12-15 minutes downhill"
+    },
+    {
+      "name": "Feira da Ladra (Flea Market)",
+      "distance": "800 meters",
+      "type": "market",
+      "walkingTime": "10 minutes (Tuesdays and Saturdays only)"
+    },
+    {
+      "name": "Alfama District",
+      "distance": "600 meters",
+      "type": "historic-neighborhood",
+      "walkingTime": "10 minutes downhill"
+    }
+  ],
+  "tags": [
+    "miradouro",
+    "viewpoint",
+    "sunset",
+    "free",
+    "panoramic-views",
+    "photography",
+    "local-favorite",
+    "romantic",
+    "peaceful",
+    "pine-trees"
+  ],
+  "suitableFor": [
+    "photographers",
+    "couples",
+    "sunset-lovers",
+    "solo-travelers",
+    "locals-experience",
+    "all-visitors",
+    "cruise-passengers",
+    "romantic-outings"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewCount": 3250,
+  "reviewSource": "Google/TripAdvisor combined"
+}

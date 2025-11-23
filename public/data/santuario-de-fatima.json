@@ -1,0 +1,261 @@
+{
+  "id": "santuario-de-fatima",
+  "name": "Santuário de Fátima",
+  "tagline": "World-renowned Catholic pilgrimage site where Virgin Mary appeared to three shepherd children in 1917",
+  "type": "religious-site",
+  "categories": [
+    "religious-site",
+    "pilgrimage",
+    "shrine",
+    "basilica",
+    "spiritual",
+    "historic-site",
+    "cultural-site"
+  ],
+  "description": {
+    "short": "One of the world's most important Catholic pilgrimage destinations where the Virgin Mary reportedly appeared to three shepherd children in 1917. The sanctuary complex features two basilicas, the Chapel of the Apparitions, and a vast prayer square accommodating over 300,000 pilgrims. Located 130km north of Lisbon.",
+    "full": "The Santuário de Fátima (Sanctuary of Our Lady of Fátima) stands as one of the most significant Catholic pilgrimage sites in the world, visited by over 6 million pilgrims annually from across the globe. The sanctuary commemorates the Marian apparitions that occurred in 1917 when three shepherd children - Lúcia dos Santos and her cousins Francisco and Jacinta Marto - reported six visions of the Virgin Mary between May and October in the rural village of Cova da Iria. During these apparitions, the children received messages emphasizing prayer, penance, and conversion, along with prophecies known as the 'Three Secrets of Fátima.' The events culminated on October 13, 1917, with the 'Miracle of the Sun,' witnessed by an estimated 70,000 people who gathered at the site. Today, the sanctuary complex encompasses an enormous esplanade (twice the size of St. Peter's Square in Vatican) that can accommodate over 300,000 pilgrims. The heart of the sanctuary is the Capela das Aparições (Chapel of the Apparitions), a small chapel marking the exact spot where Mary appeared, housing a statue of Our Lady of Fátima crowned with a precious crown containing 313 pearls and 2,679 precious stones, plus a bullet from the 1981 assassination attempt on Pope John Paul II. The Basilica of Our Lady of the Rosary (1928-1953) features a 65-meter tower and contains the tombs of the three shepherd children, all now declared saints or blessed. The modern Basilica of the Holy Trinity (2007) is one of the world's largest Catholic churches, capable of holding 9,000 people. The sanctuary also includes numerous chapels, museums, pastoral centers, and accommodations for pilgrims. The site has been visited by three popes - Paul VI (1967), John Paul II (three times), and Benedict XVI (2010), and Pope Francis (2017 for the centenary). Pilgrims come to pray, seek healing, fulfill promises, and experience the spiritual atmosphere of this sacred place. The sanctuary hosts major pilgrimages on the 13th of each month from May to October, with the largest gatherings on May 13 and October 13 anniversaries. The Fátima message of peace, prayer, and conversion continues to resonate globally, making it one of Christianity's most influential Marian apparition sites.",
+    "history": "The history of Fátima begins on May 13, 1917, when three shepherd children - Lúcia dos Santos (age 10), Francisco Marto (age 9), and Jacinta Marto (age 7) - reported seeing a 'Lady brighter than the sun' above an oak tree in Cova da Iria while tending their sheep. The Lady asked them to return on the 13th day of each month for six months. Despite initial skepticism and opposition from authorities, increasingly large crowds accompanied the children to the apparition site. On October 13, 1917, an estimated 70,000 people witnessed what became known as the 'Miracle of the Sun,' where observers reported the sun appeared to dance, spin, and plunge toward earth. Following ecclesiastical investigation, the Bishop of Leiria declared the apparitions worthy of belief in 1930. A small chapel was built at the apparition site in 1919 but was dynamited by anti-clerical forces in 1922 (later rebuilt). Construction of the Basilica of Our Lady of the Rosary began in 1928 and was consecrated in 1953. Francisco died in 1919 (age 10) and Jacinta in 1920 (age 9) during the influenza pandemic; both were beatified in 2000 and canonized in 2017. Lúcia became a nun (Sister Lúcia) and lived until 2005 (age 97); her beatification process is ongoing. In 1981, Pope John Paul II credited Our Lady of Fátima with saving his life during an assassination attempt in St. Peter's Square on May 13; he later donated the bullet extracted from his body, which was incorporated into Our Lady's crown. The massive Basilica of the Holy Trinity was inaugurated in 2007 to accommodate growing numbers of pilgrims. In 2017, the centenary of the apparitions attracted over 1 million pilgrims, with Pope Francis presiding over celebrations and canonizing Francisco and Jacinta. Today, Fátima remains one of the world's most visited pilgrimage sites, recognized by the Catholic Church as a place of authentic Marian apparitions.",
+    "significance": "Fátima ranks among the world's most important Catholic pilgrimage destinations, alongside Lourdes in France, Guadalupe in Mexico, and Czestochowa in Poland. The sanctuary receives over 6 million visitors annually from every continent. The apparitions and messages of Fátima have profoundly influenced 20th and 21st-century Catholic spirituality, emphasizing devotion to Mary's Immaculate Heart, the Rosary, prayer for peace, and conversion. The site has been visited by three popes and continues to play a significant role in global Catholic life. For cruise passengers interested in religious history, spiritual tourism, or Portuguese culture, Fátima offers a unique and moving experience."
+  },
+  "location": {
+    "address": {
+      "street": "Rua de Santa Isabel, 360",
+      "postal_code": "2495-424",
+      "neighborhood": "Cova da Iria",
+      "city": "Fátima",
+      "region": "Santarém District, Centro Region",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 39.6312,
+      "longitude": -8.6720
+    },
+    "directions": {
+      "general": "Located in Fátima town center, 130 km north of Lisbon. Well signposted from major highways. Large parking facilities available near sanctuary.",
+      "fromCruisePort": "From Lisbon cruise port: Organized shore excursion (2-hour drive) is most convenient. Or bus from Sete Rios station to Fátima (2 hours). Driving time approximately 90-120 minutes via A1 motorway. Total journey 2-2.5 hours.",
+      "publicTransport": "Bus from Lisbon Sete Rios bus station to Fátima (operated by Rede Expressos, 1.5-2 hours, multiple daily departures). Or train from Lisbon to Fátima station (less frequent, 2+ hours with changes). Taxi from Fátima bus station to sanctuary (5 min) or 15-min walk.",
+      "parking": "Extensive free parking lots surrounding the sanctuary complex. Parking generally available except during major pilgrimage dates (May 13, October 13, and weekends May-October)."
+    },
+    "distanceFromCruisePort": {
+      "meters": 130000,
+      "walkingTime": "Not walkable - too far",
+      "drivingTime": "90-120 minutes by car or organized excursion, 2-2.5 hours by bus"
+    }
+  },
+  "contact": {
+    "phone": "+351 249 539 600",
+    "email": "info@fatima.pt",
+    "website": "https://www.fatima.pt/en/",
+    "bookingUrl": "https://booking.fatima.pt/en",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/SantuarioFatima",
+      "instagram": "https://www.instagram.com/santuariodefatimaoficial/",
+      "twitter": "https://twitter.com/SFatimaPortugal"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24 hours daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Open 24 hours - sanctuary never closes",
+          "lastAdmission": "No admission restriction"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": true,
+      "notes": "FREE ENTRY - The sanctuary is completely free to visit and open to all. No tickets required. Donations welcome to support the sanctuary's mission. Accommodation at sanctuary-run hotels available for fee. Museum has small admission charge."
+    },
+    "averageVisitDuration": "2-4 hours (3-6 hours if attending Mass)",
+    "bestTimeToVisit": "Weekdays for peaceful visit. Avoid 13th of each month (May-October) if seeking solitude, as these are major pilgrimage days with huge crowds. Early morning (6:00-9:00 AM) or evening (after 18:00) for most serene atmosphere. Spring (March-May) and autumn (September-October) for pleasant weather.",
+    "busyPeriods": [
+      "May 13 (anniversary of first apparition) - over 500,000 pilgrims",
+      "October 13 (anniversary of Miracle of the Sun) - over 300,000 pilgrims",
+      "13th of each month May-October (monthly pilgrimages)",
+      "Weekends May-October",
+      "Religious holidays (Easter, Christmas, Assumption)",
+      "First Saturdays of each month"
+    ],
+    "adviceForVisitors": "Dress modestly and respectfully (shoulders and knees covered) - this is an active religious site. Allow 2-4 hours minimum to experience main sites. Attend Mass or evening Rosary for full spiritual experience (check schedule online). Visit Museum of the Sanctuary of Fátima for historical context. Walk the Via Sacra (Sacred Way) if time permits. Bring water and sun protection for large open esplanade. Respectful silence appreciated in prayer areas. Photography permitted but be sensitive to pilgrims praying. Free guided tours available daily. Light candles at Chapel of Apparitions. Consider attending candlelight procession (May-October). Many pilgrims approach chapel on knees - allow space. Book accommodation in advance for major pilgrimage dates."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day excursion (8-10 hours including 4 hours travel time) - long but worthwhile for religious/spiritual interest",
+    "accessibility": "Moderate - 130km from Lisbon requires organized shore excursion or dedicated bus trip. NOT suitable for short port calls or half-day visits.",
+    "combinableWith": [
+      "Batalha Monastery (20 km, UNESCO site)",
+      "Alcobaça Monastery (40 km, UNESCO site)",
+      "Nazaré (50 km, coastal fishing village)",
+      "Óbidos (60 km, medieval walled town)",
+      "Tomar and Knights Templar Castle (50 km)"
+    ],
+    "tips": [
+      "Book organized shore excursion for stress-free transport and timing",
+      "Allow minimum 10 hours port time - 4 hours driving + 4 hours at sanctuary",
+      "Perfect for religious pilgrims and spiritual tourists",
+      "One of world's most significant Catholic pilgrimage sites",
+      "Completely FREE to visit - donations welcomed",
+      "Dress modestly (shoulders/knees covered) - religious site",
+      "Attend Mass or Rosary for authentic experience (check schedule online)",
+      "Bring packed lunch or eat in Fátima town - limited sanctuary food options",
+      "Visit museum for historical context (small admission fee)",
+      "Light a candle at Chapel of Apparitions - traditional pilgrimage ritual",
+      "Avoid May 13 and October 13 if on cruise - massive crowds (300,000-500,000)",
+      "Powerful spiritual atmosphere even for non-Catholics",
+      "Combine with Batalha or Nazaré if time allows for fuller day trip",
+      "Download sanctuary app for guided tour and Mass schedules"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Capela das Aparições - Chapel marking exact spot of Marian apparitions",
+      "Basilica of Our Lady of the Rosary with 65-meter bell tower",
+      "Tombs of shepherd children (now Saints Francisco and Jacinta, Blessed Lúcia)",
+      "Basilica of the Holy Trinity - one of world's largest Catholic churches (9,000 capacity)",
+      "Vast esplanade accommodating 300,000 pilgrims",
+      "Precious crown of Our Lady with bullet from Pope John Paul II assassination attempt",
+      "Daily Masses in multiple languages",
+      "Evening candlelight processions (May-October)",
+      "Museum of the Sanctuary with apparition history and artifacts",
+      "Via Sacra (Sacred Way) with Stations of the Cross",
+      "Houses of the shepherd children in nearby Aljustrel",
+      "Loca do Cabeço and Well of Arneiro (Angel apparition sites)",
+      "Retreat houses and accommodations for pilgrims"
+    ],
+    "facilities": [
+      "Multiple accommodation options (hotels, hostels, retreat houses)",
+      "Restaurants and cafeterias",
+      "Gift shops with religious items",
+      "Comprehensive bookstore",
+      "Museum of the Sanctuary (admission fee)",
+      "Information centers in multiple languages",
+      "Medical post for pilgrims",
+      "Confession available in 20+ languages",
+      "Free Wi-Fi in main areas",
+      "Wheelchair rental",
+      "Extensive free parking",
+      "ATMs and currency exchange",
+      "Post office for sending postcards",
+      "Luggage storage facilities"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Excellent wheelchair accessibility throughout sanctuary complex. Flat esplanade surface suitable for wheelchairs. Both basilicas fully accessible with ramps and elevators. Chapel of Apparitions accessible. Accessible restrooms throughout. Wheelchair rental available at information centers. Special seating areas for disabled pilgrims at Masses. Most areas suitable for elderly and mobility-impaired visitors. Shuttle services available for those who cannot walk long distances within complex.",
+      "visualAidServices": "Audio guides available; tactile models of basilicas; guided tours for visually impaired can be arranged",
+      "hearingAidServices": "Visual displays; Mass with Portuguese Sign Language available; hearing loop systems in basilicas"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "Italian",
+      "German",
+      "Polish",
+      "And 20+ languages for confession and services"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/santuario-de-fatima-hero.jpg",
+      "alt": "Vast esplanade of Santuário de Fátima with Basilica of Our Lady of the Rosary tower",
+      "caption": "The massive sanctuary esplanade with the iconic Basilica tower dominating the skyline"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/santuario-de-fatima-1.jpg",
+        "alt": "Capela das Aparições - Chapel of the Apparitions at night",
+        "caption": "The Chapel of Apparitions marking the exact spot where Mary appeared to the children"
+      },
+      {
+        "url": "/images/attractions/santuario-de-fatima-2.jpg",
+        "alt": "Candlelight procession at Fátima sanctuary at night",
+        "caption": "Evening candlelight procession - one of Fátima's most moving spiritual experiences"
+      },
+      {
+        "url": "/images/attractions/santuario-de-fatima-3.jpg",
+        "alt": "Modern Basilica of the Holy Trinity interior",
+        "caption": "The stunning modern Basilica of the Holy Trinity, one of the world's largest churches"
+      },
+      {
+        "url": "/images/attractions/santuario-de-fatima-4.jpg",
+        "alt": "Pilgrims gathered in esplanade during major pilgrimage",
+        "caption": "Hundreds of thousands of pilgrims gather for major anniversaries on May 13 and October 13"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Aljustrel - Houses of the shepherd children",
+      "distance": "2.5 km",
+      "type": "historic-houses",
+      "walkingTime": "30 minutes (or 5-min drive)"
+    },
+    {
+      "name": "Batalha Monastery (UNESCO)",
+      "distance": "20 km",
+      "type": "monastery",
+      "walkingTime": "Not walkable - 20-min drive"
+    },
+    {
+      "name": "Alcobaça Monastery (UNESCO)",
+      "distance": "40 km",
+      "type": "monastery",
+      "walkingTime": "Not walkable - 40-min drive"
+    },
+    {
+      "name": "Nazaré (coastal fishing village)",
+      "distance": "50 km",
+      "type": "coastal-town",
+      "walkingTime": "Not walkable - 50-min drive"
+    },
+    {
+      "name": "Óbidos (medieval walled town)",
+      "distance": "60 km",
+      "type": "historic-town",
+      "walkingTime": "Not walkable - 60-min drive"
+    }
+  ],
+  "tags": [
+    "religious-site",
+    "pilgrimage",
+    "sanctuary",
+    "basilica",
+    "catholic",
+    "marian-apparitions",
+    "spiritual",
+    "unesco-candidate",
+    "fatima",
+    "free-admission",
+    "cultural-site",
+    "historic-site"
+  ],
+  "suitableFor": [
+    "religious-pilgrims",
+    "spiritual-seekers",
+    "catholic-visitors",
+    "history-enthusiasts",
+    "cultural-tourists",
+    "families",
+    "all-visitors",
+    "elderly-visitors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "Free",
+  "rating": 4.7,
+  "reviewCount": 45000,
+  "reviewSource": "TripAdvisor/Google"
+}

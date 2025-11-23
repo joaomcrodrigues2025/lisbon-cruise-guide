@@ -1,0 +1,251 @@
+{
+  "id": "miradouro-das-portas-do-sol",
+  "name": "Miradouro das Portas do Sol",
+  "tagline": "Lisbon's most photographed viewpoint with stunning Alfama and Tagus River panoramas",
+  "type": "viewpoint",
+  "categories": [
+    "viewpoint",
+    "miradouro",
+    "photography",
+    "scenic",
+    "free-attraction"
+  ],
+  "description": {
+    "short": "The Miradouro das Portas do Sol (Gates of the Sun Viewpoint) is one of Lisbon's most beloved and photographed viewpoints, offering breathtaking panoramic views over the historic Alfama district's terracotta rooftops, the Tagus River, and iconic landmarks including the National Pantheon.",
+    "full": "Perched on a hilltop terrace in the heart of Alfama, Lisbon's oldest district, the Miradouro das Portas do Sol is a stunning public viewpoint that captures the essence of Portuguese beauty and charm. Named for the medieval Gates of the Sun that once stood here as part of the city's Moorish fortifications, this scenic terrace has become one of Lisbon's most iconic and Instagram-worthy locations.\n\nThe viewpoint presents an unforgettable panorama of traditional Alfama houses with their distinctive red-tiled roofs cascading down the hillside toward the shimmering Tagus River. From this vantage point, visitors can identify several of Lisbon's most significant landmarks: the imposing white dome of the National Pantheon (Panteão Nacional), the baroque Igreja de São Vicente de Fora with its twin towers, the Igreja de Santo Estêvão, and the Igreja de São Miguel's onion-shaped spires rising above the maze of narrow streets.\n\nThe terrace features beautiful landscaping with palm trees, bougainvillea, and azalea providing shade and color. Decorative blue-and-white azulejo tile panels adorn the walls, depicting important moments in Portuguese history. One particularly notable panel shows the Praça do Comércio (Terreiro do Paço) before it was destroyed in the devastating 1755 earthquake, while another illustrates the Christian reconquest of Lisbon from the Moors in 1147, when crusaders besieged São Jorge Castle.\n\nThe viewpoint is open 24/7 and completely free to visit, making it accessible to all visitors at any time of day. It's particularly magical at sunrise when soft golden light washes over the city, and at sunset when the sky turns shades of pink and orange. The terrace includes comfortable seating areas with benches and a small café-bar where visitors can enjoy coffee, drinks, or light meals while soaking in the spectacular views.\n\nStreet musicians frequently perform here, adding to the romantic atmosphere with traditional Fado music and other melodies. The combination of stunning views, historical significance, beautiful tile work, and vibrant local atmosphere makes Miradouro das Portas do Sol an essential stop on any Lisbon itinerary.",
+    "history": "The name 'Portas do Sol' (Gates of the Sun) derives from one of the medieval gates in Lisbon's Moorish fortifications that stood at this location. This gate was part of the defensive walls that protected the hilltop São Jorge Castle and the Alfama district during Moorish rule (8th-12th centuries). After the Christian reconquest of Lisbon in 1147, the gate remained an important entrance to the castle district. While the original gate no longer exists, the name persists and the location has evolved into one of Lisbon's premier viewpoints.",
+    "significance": "Miradouro das Portas do Sol represents the quintessential Lisbon viewpoint experience - combining breathtaking natural beauty, historic architecture, cultural heritage (azulejo tiles), and authentic local atmosphere. It offers visitors an unparalleled perspective of Alfama, Lisbon's most historic and atmospheric neighborhood, and serves as a perfect introduction to the city's layered history from Moorish times through the 1755 earthquake to the present day. The viewpoint has become an iconic symbol of Lisbon tourism, featured in countless travel guides, postcards, and social media posts."
+  },
+  "location": {
+    "address": {
+      "street": "Largo das Portas do Sol",
+      "postal_code": "1100-411",
+      "neighborhood": "Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7119,
+      "longitude": -9.1300
+    },
+    "directions": {
+      "general": "Located in Alfama on a terrace overlooking the district, between São Jorge Castle above and Lisbon Cathedral below",
+      "fromCruisePort": "From cruise terminal: 2.5km distance. Take Tram 28E from near terminal or walk uphill through Alfama (20-25 minutes steep climb). Taxi/Uber: 10 minutes. Or walk to Santa Apolónia metro, Blue Line to Terreiro do Paço, then walk/tram up to Alfama",
+      "publicTransport": "Tram 28E and Tram 12E both stop at or very near Portas do Sol. Bus 737 also stops nearby. From cruise port: Blue metro line to Terreiro do Paço, then Tram 28E or 12E uphill. Walking uphill from Sé Cathedral takes 10 minutes",
+      "parking": "Very limited street parking in Alfama. Best to use public transport or walk. Nearest car park at Praça da Figueira (15-minute walk downhill)"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2500,
+      "walkingTime": "25-30 minutes (steep uphill walk through Alfama)",
+      "drivingTime": "10 minutes by taxi/Uber"
+    }
+  },
+  "contact": {
+    "phone": "+351 915 225 592",
+    "email": "info@visitlisboa.com",
+    "website": "https://www.visitlisboa.com/en/places/miradouro-das-portas-do-sol",
+    "bookingUrl": "Not required - free public viewpoint",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/visitlisboa",
+      "instagram": "https://www.instagram.com/visitlisboa/",
+      "twitter": "https://twitter.com/visitlisboa"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours (public viewpoint)",
+          "lastAdmission": "No closing time"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": true,
+      "notes": "Completely FREE - this is a public viewpoint accessible to all 24 hours a day. No tickets required. Café/bar has separate pricing for food and beverages if you wish to purchase"
+    },
+    "averageVisitDuration": "30 minutes to 1 hour",
+    "bestTimeToVisit": "Sunrise (6:30-8:00 AM) for magical golden light and fewer crowds. Sunset (7:00-9:00 PM in summer, 5:00-6:30 PM in winter) for dramatic colors. Early morning weekdays (8:00-10:00 AM) to avoid tourist crowds. Late afternoon (4:00-6:00 PM) for beautiful light and comfortable temperatures",
+    "busyPeriods": [
+      "Midday to mid-afternoon (11:00 AM-3:00 PM)",
+      "Sunset hours in summer months",
+      "Weekends and public holidays",
+      "Peak tourist season (June-September)",
+      "Cruise ship days"
+    ],
+    "adviceForVisitors": "Visit early morning (before 10 AM) or late afternoon for best light and fewer crowds. Bring camera - this is one of Lisbon's most photogenic spots. Wear comfortable walking shoes as approach involves cobblestone streets and hills. Combine with visit to nearby São Jorge Castle (10-minute walk uphill) or Lisbon Cathedral (10-minute walk downhill). Watch out for aggressive souvenir sellers and people offering 'free' bracelets (they expect payment). The small café serves good coffee and pastéis de nata with the view. Shaded seating available under trees and umbrellas. Bring sun protection in summer. This viewpoint gets crowded but there's usually space to enjoy the view"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours including travel time and visit (can combine with Alfama walking tour and São Jorge Castle)",
+    "accessibility": "Moderate - requires walking uphill through narrow cobblestone streets, or take Tram 28E. Viewpoint terrace is accessible once you arrive",
+    "combinableWith": [
+      "São Jorge Castle (10-minute walk uphill)",
+      "Miradouro de Santa Luzia (2-minute walk)",
+      "Alfama neighborhood walking tour",
+      "Lisbon Cathedral - Sé (10-minute walk downhill)",
+      "National Pantheon (8-minute walk)",
+      "Fado music venues in Alfama (evening)",
+      "Tram 28E scenic ride"
+    ],
+    "tips": [
+      "One of Lisbon's MUST-SEE viewpoints - don't miss it!",
+      "Completely FREE - excellent value for cruise passengers",
+      "Perfect for photography - bring camera and extra battery",
+      "Best approached via iconic Tram 28E for authentic Lisbon experience",
+      "Visit early morning (8-9 AM) to beat crowds and heat",
+      "Combine with Miradouro de Santa Luzia next door (2 minutes away)",
+      "Walk down through Alfama's narrow streets after visiting - enchanting neighborhood",
+      "Café terrace offers drinks and snacks with the view",
+      "Watch for street performers playing Fado music",
+      "Azulejo tile panels show Lisbon's history - worth reading",
+      "Be aware of pickpockets in crowded areas",
+      "Politely decline 'free' bracelets from street vendors",
+      "Cobblestone streets can be slippery when wet",
+      "Wear comfortable shoes - Alfama is hilly with uneven surfaces",
+      "Allow 30-45 minutes for photos and enjoying the atmosphere",
+      "Sunset views are spectacular but very crowded in summer"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Spectacular 180-degree panoramic views of Alfama and Tagus River",
+      "View of National Pantheon's imposing white dome",
+      "Alfama's iconic red-tiled rooftops cascading to the river",
+      "São Vicente de Fora Church with baroque twin towers",
+      "Historic azulejo tile panels depicting Lisbon before 1755 earthquake",
+      "Tile panel showing 1147 Christian reconquest of Lisbon",
+      "Beautiful landscaping with palm trees and bougainvillea",
+      "Completely free 24/7 public access",
+      "Charming café-bar with outdoor terrace seating",
+      "Live street music performances (often Fado)",
+      "Perfect photo spot - most photographed viewpoint in Lisbon",
+      "Shaded seating areas with benches",
+      "Stunning sunrise and sunset views",
+      "Historic location of medieval 'Gates of the Sun'",
+      "Authentic local atmosphere in heart of Alfama"
+    ],
+    "facilities": [
+      "Public viewing terrace",
+      "Benches and seating areas",
+      "Shaded areas under trees and umbrellas",
+      "Café-bar serving coffee, drinks, and light meals",
+      "Outdoor café tables",
+      "Historic azulejo tile displays",
+      "Open-air setting",
+      "Public restrooms at nearby café",
+      "Street entertainment area",
+      "Information panels about Alfama history",
+      "Landscaped gardens"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "The viewpoint terrace itself is relatively flat and accessible once reached. However, getting there involves steep cobblestone streets through Alfama which can be challenging for wheelchairs. Tram 28E can help reduce walking but trams are often crowded and not all are wheelchair accessible. Best option for mobility-limited visitors is taxi/Uber directly to Largo das Portas do Sol. Some curbs and uneven surfaces on the terrace itself",
+      "visualAidServices": "Excellent for visually impaired visitors - panoramic views clearly visible. Azulejo panels have raised relief",
+      "hearingAidServices": "No specific hearing assistance, but visual experience is primary focus"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/miradouro-das-portas-do-sol-hero.jpg",
+      "alt": "Panoramic view of Alfama's red-tiled rooftops from Miradouro das Portas do Sol with Tagus River and National Pantheon",
+      "caption": "Breathtaking panorama of Alfama district and the Tagus River from Portas do Sol viewpoint"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/miradouro-das-portas-do-sol-1.jpg",
+        "alt": "Decorative azulejo tile panels at Portas do Sol showing historic Lisbon scenes",
+        "caption": "Historic azulejo tiles depicting pre-1755 earthquake Lisbon and the 1147 reconquest"
+      },
+      {
+        "url": "/images/attractions/miradouro-das-portas-do-sol-2.jpg",
+        "alt": "Visitors enjoying sunset at Portas do Sol terrace with palm trees",
+        "caption": "The romantic terrace with palm trees and café - perfect for sunset viewing"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro de Santa Luzia",
+      "distance": "100 meters",
+      "type": "viewpoint",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "600 meters",
+      "type": "historic-castle",
+      "walkingTime": "10 minutes uphill"
+    },
+    {
+      "name": "Lisbon Cathedral (Sé)",
+      "distance": "500 meters",
+      "type": "cathedral",
+      "walkingTime": "8-10 minutes downhill"
+    },
+    {
+      "name": "National Pantheon",
+      "distance": "600 meters",
+      "type": "monument",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Alfama District",
+      "distance": "Immediate surroundings",
+      "type": "historic-neighborhood",
+      "walkingTime": "In the heart of Alfama"
+    },
+    {
+      "name": "São Vicente de Fora Monastery",
+      "distance": "400 meters",
+      "type": "monastery",
+      "walkingTime": "6 minutes"
+    }
+  ],
+  "tags": [
+    "miradouro",
+    "viewpoint",
+    "free",
+    "panoramic-views",
+    "photography",
+    "alfama",
+    "must-see",
+    "instagram-worthy",
+    "historic",
+    "azulejos"
+  ],
+  "suitableFor": [
+    "photographers",
+    "couples",
+    "solo-travelers",
+    "families",
+    "history-enthusiasts",
+    "architecture-lovers",
+    "all-visitors",
+    "cruise-passengers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewCount": 5658,
+  "reviewSource": "Google/TripAdvisor combined"
+}

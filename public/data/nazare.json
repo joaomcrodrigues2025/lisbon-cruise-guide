@@ -1,0 +1,249 @@
+{
+  "id": "nazare",
+  "name": "Nazaré",
+  "tagline": "Home of the world's biggest surfable waves and traditional Portuguese fishing culture",
+  "type": "day-trip",
+  "categories": [
+    "coastal-town",
+    "big-wave-surfing",
+    "fishing-village",
+    "beaches",
+    "day-trip",
+    "nature"
+  ],
+  "description": {
+    "short": "Nazaré is a picturesque Portuguese fishing town famous for hosting the world's largest surfable waves (up to 100 feet/30 meters), a beautiful sandy beach, traditional culture, and the dramatic São Miguel Arcanjo Fort where massive winter swells attract surfers and spectators from around the globe.",
+    "full": "Nazaré is a charming coastal town that has become one of the world's premier big wave surfing destinations while preserving its authentic Portuguese fishing village character. The town is divided into three distinct areas: Praia da Nazaré (the main beach and town center with colorful fishing traditions), Sítio (the clifftop neighborhood with historic sites and panoramic views), and Praia do Norte (North Beach, where the legendary giant waves break). What makes Nazaré's waves so extraordinary is the massive underwater Nazaré Canyon, the largest in Europe at 5,000 meters deep, which funnels and amplifies Atlantic swells into monstrous waves. In 2011, professional surfer Garrett McNamara surfed a record-breaking 78-foot wave here, putting Nazaré on the global surfing map. The current world record was set in 2024 by Sebastian Steudtner with a 93.73-foot wave. These colossal waves occur from October to March, drawing thousands of spectators to São Miguel Arcanjo Fort for breathtaking (and sometimes terrifying) views of surfers tow-in surfing these liquid mountains. Outside of big wave season, Nazaré is a delightful traditional Portuguese beach town. The main beach, Praia da Nazaré, is perfect for swimming in summer with golden sand stretching for miles. The town maintains strong fishing traditions - you'll see colorful boats, fishermen mending nets, and women in traditional seven-petticoat skirts drying fish in the sun. Sítio, reached by funicular or a winding road, offers the Nossa Senhora da Nazaré sanctuary, stunning cliff-edge viewpoints, and the legendary story of Dom Fuas Roupinho who was saved from plunging off the cliff by divine intervention. The town offers excellent seafood restaurants, a lively atmosphere, beautiful beaches with natural caves (including a mini Benagil-style cave at Praia do Norte), and a unique blend of maritime heritage and modern surf culture.",
+    "history": "Nazaré's history dates back to antiquity, with evidence of Phoenician and Roman settlements. The town's name comes from a small wooden statue of the Virgin Mary brought from Nazareth in the 4th century, now enshrined in the Sanctuary of Our Lady of Nazaré. For centuries, Nazaré was purely a fishing community, known for its distinctive traditional dress and unique fishing methods. The town gained international fame in 1892 when French photographer Marguerite Gilberte Bourcart documented the traditional fish-drying methods. However, Nazaré's global profile exploded in the 21st century when big wave surfers discovered its potential. Since 2011, when Garrett McNamara surfed the record-breaking wave, Nazaré has become synonymous with extreme big wave surfing, hosting the annual Nazaré Big Wave Challenge (part of the World Surf League Big Wave Tour).",
+    "significance": "Nazaré holds the world record for the largest wave ever surfed (93.73 feet in 2024) and is considered the premier big wave surfing destination globally. It's also recognized for preserving authentic Portuguese fishing traditions and culture. The Nazaré Canyon is a unique geological formation that creates the perfect conditions for the world's biggest surfable waves."
+  },
+  "location": {
+    "address": {
+      "street": "N/A (Town)",
+      "postal_code": "2450",
+      "neighborhood": "Nazaré",
+      "city": "Nazaré",
+      "region": "Leiria District, Central Portugal",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 39.6011,
+      "longitude": -9.0708
+    },
+    "directions": {
+      "general": "Located on Portugal's Atlantic coast, 120 km north of Lisbon in the Leiria district. The town sits at the mouth of a massive underwater canyon.",
+      "fromCruisePort": "Organized tour from Lisbon (most convenient), or rent a car and drive via A8 motorway (1.5 hours). Public bus from Lisbon Sete Rios (2 hours). No direct train - requires connection.",
+      "publicTransport": "Rede Expressos bus from Lisbon Sete Rios or Campo Grande station (2-2.5 hours, hourly service). From Porto: bus or train to Leiria, then bus to Nazaré.",
+      "parking": "Ample parking near Praia da Nazaré beach and in Sítio area. During big wave season, parking can be limited near the fort - arrive early or park in town and walk."
+    },
+    "distanceFromCruisePort": {
+      "meters": 120000,
+      "walkingTime": "Not applicable",
+      "drivingTime": "1.5 hours"
+    }
+  },
+  "contact": {
+    "phone": "+351 262 561 194",
+    "email": "turismo@cm-nazare.pt",
+    "website": "https://www.cm-nazare.pt/en/",
+    "bookingUrl": "https://www.visitportugal.com/en/destinos/centro-de-portugal/nazare",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/nazaretourism",
+      "instagram": "https://www.instagram.com/nazare_portugal"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round (town)",
+      "seasonal": [
+        {
+          "season": "Big Wave Season (October-March)",
+          "days": "Daily (weather dependent)",
+          "hours": "Fort: 10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "Summer Season (April-September)",
+          "days": "Daily",
+          "hours": "Town operates normally, beach activities",
+          "lastAdmission": "N/A"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 2,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Town is free to visit. São Miguel Arcanjo Fort entrance: 2 EUR. Funicular to Sítio: 1.50 EUR one-way. Parking: free to 3 EUR depending on location. Beach access is free."
+    },
+    "averageVisitDuration": "Full day or overnight",
+    "bestTimeToVisit": "October-March for giant waves (check forecasts at nazarewaves.com). June-September for beach weather and swimming. Weekdays less crowded than weekends. For big waves: arrive early morning for best viewing spots.",
+    "busyPeriods": [
+      "Big wave days (October-March when forecast shows large swells)",
+      "WSL Nazaré Big Wave Challenge competition days",
+      "Weekends year-round",
+      "July-August summer beach season",
+      "Nossa Senhora da Nazaré festival (September 8)"
+    ],
+    "adviceForVisitors": "For big wave viewing: Check forecasts at nazarewaves.com (waves need 3+ meters, 13+ second period). Arrive early for parking. Wear waterproof clothing and non-slip shoes - the hillside can be wet and slippery. Bring binoculars for better wave viewing. Stay behind barriers for safety - people have died being swept away by waves. For summer visits: Bring beach gear, sunscreen, and try the fresh seafood. Take the funicular to Sítio for incredible views. Visit the Praia do Norte cave for photos. Allow full day from Lisbon - there's much to see. Book accommodation in advance during big wave season. Weather changes rapidly - bring layers. Download nazarewaves.com alerts for big wave notifications."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day (10-12 hours including 3 hours round-trip travel)",
+    "accessibility": "Moderate - requires 1.5-hour drive each way from Lisbon. Best as organized tour or car rental.",
+    "combinableWith": [
+      "Óbidos (medieval walled town, 20 minutes from Nazaré)",
+      "Alcobaça Monastery (15 minutes)",
+      "Batalha Monastery (30 minutes)",
+      "Fátima (45 minutes)",
+      "West coast beaches",
+      "Caldas da Rainha (ceramics town)"
+    ],
+    "tips": [
+      "Book organized tour from Lisbon for hassle-free experience",
+      "Combine with Óbidos and Alcobaça/Batalha monasteries for full-day tour",
+      "Check nazarewaves.com for big wave forecasts before your visit",
+      "Big waves are NOT guaranteed - they're weather dependent",
+      "Even without big waves, Nazaré is charming and worth visiting",
+      "For big wave viewing, São Miguel Arcanjo Fort offers best vantage point",
+      "Wear waterproof gear and sturdy shoes for wave watching",
+      "Stay behind safety barriers - waves are extremely dangerous",
+      "Summer is great for beach activities and traditional culture",
+      "Try fresh grilled sardines and other seafood at beachfront restaurants",
+      "Take funicular to Sítio for panoramic views and historic sanctuary",
+      "Visit Praia do Norte beach cave (walk or tuk-tuk from fort)",
+      "Not ideal for short port stops - requires full day commitment",
+      "Photography opportunities are incredible year-round"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "World's largest surfable waves (up to 100 feet/30 meters)",
+      "São Miguel Arcanjo Fort with Big Wave Museum",
+      "Nazaré Canyon - largest underwater canyon in Europe (5,000m deep)",
+      "Traditional fishing village culture and colorful boats",
+      "Praia da Nazaré - beautiful long sandy beach perfect for swimming",
+      "Sítio clifftop neighborhood with panoramic ocean views",
+      "Nossa Senhora da Nazaré sanctuary and legend",
+      "Praia do Norte beach with Benagil-style cave",
+      "Funicular connecting beach to Sítio hilltop",
+      "Women in traditional seven-petticoat fishing dress",
+      "Fresh seafood restaurants and traditional cuisine",
+      "WSL Nazaré Big Wave Challenge surfing competition",
+      "Veado sculpture blending surfing and local legend",
+      "Sunset views from Sítio viewpoints",
+      "Traditional dried fish (peixe seco) culture"
+    ],
+    "facilities": [
+      "Big Wave Museum inside São Miguel Arcanjo Fort",
+      "Funicular railway to Sítio",
+      "Public restrooms in beach area and Sítio",
+      "Multiple seafood restaurants and cafés",
+      "Beach equipment rentals in summer",
+      "Tourist information office",
+      "Parking areas (can be limited on big wave days)",
+      "Tuk-tuk services for local transport",
+      "Accommodation (hotels, guesthouses, apartments)",
+      "Souvenir shops",
+      "ATMs and banks",
+      "Medical center"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Limited accessibility. The fort and Praia do Norte viewing areas involve steep hills and rough terrain. Beach level and main town are more accessible. Funicular to Sítio is accessible. Recommend staying in beach area for reduced mobility visitors.",
+      "visualAidServices": "None",
+      "hearingAidServices": "None"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/nazare-hero.jpg",
+      "alt": "Massive wave breaking at Praia do Norte in Nazaré with surfer",
+      "caption": "Nazaré's legendary giant waves can reach 100 feet, making it the world's premier big wave surfing destination"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/nazare-1.jpg",
+        "alt": "Praia da Nazaré beach with colorful fishing boats and traditional houses",
+        "caption": "The main beach of Nazaré retains its charming fishing village character"
+      },
+      {
+        "url": "/images/attractions/nazare-2.jpg",
+        "alt": "São Miguel Arcanjo Fort and lighthouse overlooking Praia do Norte",
+        "caption": "The iconic fort and lighthouse offer the best vantage point for viewing giant waves"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Óbidos",
+      "distance": "24 km",
+      "type": "medieval-town",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "Alcobaça Monastery",
+      "distance": "15 km",
+      "type": "unesco-monument",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "Batalha Monastery",
+      "distance": "30 km",
+      "type": "unesco-monument",
+      "walkingTime": "25-minute drive"
+    },
+    {
+      "name": "Fátima",
+      "distance": "45 km",
+      "type": "religious-site",
+      "walkingTime": "35-minute drive"
+    },
+    {
+      "name": "São Martinho do Porto",
+      "distance": "14 km",
+      "type": "beach-town",
+      "walkingTime": "15-minute drive"
+    }
+  ],
+  "tags": [
+    "big-wave-surfing",
+    "beach",
+    "fishing-village",
+    "traditional-culture",
+    "day-trip",
+    "coastal-town",
+    "nature",
+    "photography",
+    "unesco-gastronomy",
+    "adventure"
+  ],
+  "suitableFor": [
+    "surfers",
+    "beach-lovers",
+    "photographers",
+    "nature-enthusiasts",
+    "adventure-seekers",
+    "culture-lovers",
+    "families",
+    "seafood-lovers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewCount": 8500,
+  "reviewSource": "TripAdvisor/Google"
+}

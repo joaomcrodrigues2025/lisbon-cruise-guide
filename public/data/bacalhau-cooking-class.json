@@ -1,0 +1,238 @@
+{
+  "id": "bacalhau-cooking-class",
+  "name": "Bacalhau Cooking Class",
+  "tagline": "Master Portugal's National Dish - Traditional Codfish Cooking",
+  "type": "cooking-class",
+  "categories": [
+    "cooking-class",
+    "culinary-experience",
+    "cultural-activity",
+    "hands-on-workshop",
+    "portuguese-cuisine"
+  ],
+  "description": {
+    "short": "Learn to prepare bacalhau (Portuguese salt cod) in a hands-on cooking class led by expert chefs. Discover traditional recipes, techniques, and cultural stories while creating authentic Portuguese codfish dishes to enjoy with wine.",
+    "full": "Bacalhau Cooking Classes offer an immersive dive into Portuguese culinary culture, focusing on the nation's most iconic ingredient - salt cod. Despite Portugal being a coastal nation, bacalhau (dried, salted cod) holds legendary status, with the saying 'there are 365 ways to prepare bacalhau - one for each day of the year.' These hands-on workshops, typically held in professional cooking schools or chef-led venues in central Lisbon, guide participants through the complete process of preparing traditional bacalhau dishes. Classes begin with the fascinating history of how bacalhau became Portugal's national dish despite the fish not being native to Portuguese waters - Portuguese fishermen traveled to North Atlantic cod grounds for centuries, preserving their catch with salt for the journey home. Expert chefs demonstrate proper desalination techniques (bacalhau must soak 24-48 hours before cooking), explain quality selection, and teach classic preparations like Bacalhau à Brás (shredded cod with eggs and matchstick potatoes), Bacalhau com Natas (cod with cream gratin), Pastéis de Bacalhau (cod fritters), or Bacalhau à Gomes de Sá (casserole with potatoes and onions). Participants work individually or in small groups, getting hands-on experience with ingredient preparation, cooking techniques, and Portuguese flavor combinations. Classes include complementary ingredients like Portuguese olive oil, onions, garlic, parsley, and potatoes. The experience concludes with sitting down to enjoy the dishes you've prepared, accompanied by Portuguese wine, bread, and often dessert. Chefs share cultural insights, family recipes, and cooking tips throughout. Classes accommodate all skill levels - from complete beginners to experienced home cooks wanting to learn authentic Portuguese techniques. Most sessions last 3-4 hours and include printed recipes to recreate dishes at home. Small group sizes (typically 8-12 participants) ensure personalized instruction. Some classes also visit local markets first to select ingredients and learn about Portuguese produce. This interactive experience provides cultural education, practical skills, delicious food, and memorable social interaction - all while mastering Portugal's most beloved culinary tradition.",
+    "history": "Bacalhau became central to Portuguese cuisine in the 15th-16th centuries when Portuguese fishermen began fishing the Grand Banks off Newfoundland. Salt preservation allowed the fish to survive long journeys home. The Catholic Church's meatless Friday tradition made bacalhau essential. During Salazar's dictatorship (1932-1968), the government promoted bacalhau as national identity symbol. Today bacalhau remains Portugal's favorite fish, consumed at Christmas and special occasions despite being imported.",
+    "significance": "Bacalhau transcends mere food - it represents Portuguese maritime heritage, Catholic traditions, and culinary ingenuity. Learning to cook bacalhau connects you to centuries of Portuguese culture. It's said that to truly understand Portugal, you must understand bacalhau. The dish embodies Portuguese resourcefulness, turning preserved cod into hundreds of delicious preparations."
+  },
+  "location": {
+    "address": {
+      "street": "Various cooking schools and venues",
+      "postal_code": "1200-109",
+      "neighborhood": "Baixa, Chiado, Príncipe Real",
+      "city": "Lisbon",
+      "region": "Lisbon",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7169,
+      "longitude": -9.1399
+    },
+    "directions": {
+      "general": "Cooking classes held at professional cooking schools and chef studios in central Lisbon neighborhoods",
+      "fromCruisePort": "10-15 minute taxi/Uber to most venues. Walking possible to Baixa area (25-30 minutes). Some schools offer cruise port pickup for groups",
+      "publicTransport": "Metro to Baixa-Chiado, Rossio, or Avenida. Most venues within 5-10 minute walk from metro stations. Tram 28 passes near several locations",
+      "parking": "Limited street parking - taxis or rideshare recommended"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2800,
+      "walkingTime": "30 minutes",
+      "drivingTime": "10-12 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 347 5920",
+    "email": "bookings@lisboncookingclass.com",
+    "website": "https://www.cookingclasslisbon.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/cooking-classes-tc57/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lisboncookingclasses",
+      "instagram": "https://www.instagram.com/lisboncooking/",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d12546789-Reviews-Lisbon_Cooking_Academy-Lisbon.html"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Multiple daily sessions",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Morning sessions 10:00-13:30, Evening sessions 18:00-21:30",
+          "lastAdmission": "Session start times"
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 75,
+      "youth": 60,
+      "child": 50,
+      "senior": 75,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Prices €65-95 per person depending on class type and venue. Includes all ingredients, equipment, wine, full meal of prepared dishes, recipes, apron. Private classes available from €250. Market tour + cooking class €95-120. Youth 12-17. Children 8-11 accompanied by adult. Minimum age typically 8 years. Group discounts for 6+ participants"
+    },
+    "averageVisitDuration": "3-4 hours",
+    "bestTimeToVisit": "Morning classes (10:00) popular - finish by lunchtime. Evening classes (18:00) combine cooking with dinner. Weekday classes less crowded. Book 1-2 weeks in advance during peak season",
+    "busyPeriods": [
+      "Weekends",
+      "Summer months (June-September)",
+      "Holiday periods",
+      "Evening sessions"
+    ],
+    "adviceForVisitors": "Book in advance - classes fill quickly. Arrive 10 minutes early. Wear comfortable closed-toe shoes. Aprons provided but avoid white clothing. Don't eat large meal before - you'll feast on your cooking! Ask questions throughout - chefs love sharing knowledge. Take photos of steps for home cooking reference. Dietary restrictions can often be accommodated with advance notice. Bring recipe cards home. Classes conducted in English. Very hands-on - be ready to cook!"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "4.5-5 hours total (transport, class, meal, return)",
+    "accessibility": "Excellent - central locations, flexible timing",
+    "combinableWith": [
+      "Morning market visit",
+      "Chiado shopping",
+      "Rossio Square",
+      "Elevador de Santa Justa",
+      "Afternoon sightseeing",
+      "Wine tasting"
+    ],
+    "tips": [
+      "Perfect shore excursion - engaging and memorable",
+      "Morning classes finish by lunch, afternoon free for sightseeing",
+      "Evening classes provide full dinner experience",
+      "Very close to cruise port - easy access",
+      "Great hands-on cultural experience",
+      "Interactive and social - meet other travelers",
+      "Take recipes home - recreate in your kitchen",
+      "All instruction in English",
+      "Suitable for all cooking levels",
+      "Fun activity for couples or groups",
+      "Food you prepare IS your lunch/dinner",
+      "Dietary restrictions accommodated with notice"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Hands-on preparation of traditional bacalhau dishes",
+      "Professional chef instruction",
+      "Learn authentic Portuguese cooking techniques",
+      "Discover bacalhau history and cultural significance",
+      "Small group classes (8-12 participants)",
+      "All ingredients and equipment provided",
+      "Portuguese wine included",
+      "Enjoy full meal of dishes you prepared",
+      "Take-home recipe cards",
+      "Apron provided (often as keepsake)",
+      "Professional cooking facilities",
+      "Market tour options available"
+    ],
+    "facilities": [
+      "Professional cooking kitchens",
+      "Individual cooking stations",
+      "Modern equipment and appliances",
+      "Dining area for meal",
+      "Restrooms",
+      "WiFi available",
+      "Air conditioning",
+      "Recipe library",
+      "Wine bar",
+      "Coat/bag storage"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Most venues",
+      "mobilityNotes": "Most modern cooking schools wheelchair accessible. Some classes involve standing for extended periods - check with venue. Seating breaks provided. Accommodations can be made with advance notice",
+      "visualAidServices": "Hands-on demonstration, tactile learning, verbal instruction",
+      "hearingAidServices": "Visual demonstrations, written recipes, close proximity to chef"
+    },
+    "languages": [
+      "English (primary)",
+      "Portuguese",
+      "Spanish (some classes)",
+      "French (some classes)"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/bacalhau-cooking-class-hero.jpg",
+      "alt": "Chef teaching bacalhau preparation",
+      "caption": "Learning to prepare traditional Portuguese bacalhau in hands-on cooking class"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/bacalhau-cooking-class-1.jpg",
+        "alt": "Completed bacalhau à Brás dish",
+        "caption": "Delicious bacalhau à Brás prepared by class participants"
+      },
+      {
+        "url": "/images/attractions/bacalhau-cooking-class-2.jpg",
+        "alt": "Cooking class participants preparing ingredients",
+        "caption": "Small group hands-on cooking experience in professional kitchen"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Chiado neighborhood",
+      "distance": "200 meters",
+      "type": "shopping-district",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "500 meters",
+      "type": "landmark",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "Elevador de Santa Justa",
+      "distance": "400 meters",
+      "type": "monument",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Carmo Convent",
+      "distance": "300 meters",
+      "type": "historical-site",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "São Pedro de Alcântara Viewpoint",
+      "distance": "600 meters",
+      "type": "viewpoint",
+      "walkingTime": "7 minutes"
+    }
+  ],
+  "tags": [
+    "cooking-class",
+    "bacalhau",
+    "portuguese-cuisine",
+    "hands-on-workshop",
+    "culinary-experience",
+    "cultural-immersion",
+    "food-and-wine",
+    "traditional-recipes",
+    "interactive",
+    "must-do"
+  ],
+  "suitableFor": [
+    "foodies",
+    "couples",
+    "groups",
+    "families-with-teens",
+    "culture-enthusiasts",
+    "cooking-enthusiasts",
+    "cruise-passengers",
+    "all-skill-levels"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewCount": 1650,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}

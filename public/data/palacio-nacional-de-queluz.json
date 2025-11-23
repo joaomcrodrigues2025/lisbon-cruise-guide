@@ -1,0 +1,229 @@
+{
+  "id": "palacio-nacional-de-queluz",
+  "name": "Palácio Nacional de Queluz",
+  "tagline": "The Portuguese Versailles - Magnificent Rococo Palace and Gardens",
+  "type": "palace",
+  "categories": [
+    "palace",
+    "historical-site",
+    "gardens",
+    "museum",
+    "architecture"
+  ],
+  "description": {
+    "short": "A stunning 18th-century Rococo palace often called the 'Portuguese Versailles,' featuring opulent royal rooms, French-inspired baroque gardens, and beautiful azulejo-tiled halls that served as a summer residence for Portuguese royalty.",
+    "full": "The National Palace of Queluz is one of the most remarkable examples of Rococo architecture in Portugal and often compared to Versailles for its grandeur and beauty. Built in the 18th century as a summer residence for Dom Pedro de Bragança, who later became King Pedro III, the palace showcases the opulence of Portuguese royalty during its golden age. The palace's magnificent interior features elaborately decorated rooms with painted ceilings, gilded woodwork, crystal chandeliers, and stunning azulejo tile panels depicting mythological and courtly scenes. The Music Room and Throne Room are particularly spectacular, showcasing the finest Portuguese and European craftsmanship. The formal gardens are equally impressive, designed in the French baroque style with geometric hedges, ornamental fountains, statuary, and the famous Azulejo Canal - a waterway lined with blue and white tiles depicting nautical scenes. The gardens include both the Hanging Garden and Neptune Garden, offering peaceful spots to admire the palace architecture and meticulously manicured landscaping. The palace witnessed significant royal events and served as the birthplace of Queen Maria I and the residence of the Portuguese Royal Family until 1807. Today it hosts classical music concerts in its beautiful halls, bringing the palace back to life with the sounds it was designed to showcase.",
+    "history": "Construction of Queluz Palace began in 1747 under the direction of Portuguese architect Mateus Vicente de Oliveira and was later expanded by French architect Jean-Baptiste Robillion. Initially conceived as a summer pavilion, it evolved into one of Portugal's grandest royal palaces. King Pedro III and Queen Maria I made it their principal residence, and it became a center of court life and entertainment. The palace was damaged by fire in 1934 but carefully restored to its former glory. The palace garden layouts were inspired by Le Nôtre's work at Versailles, bringing French formal garden design to Portugal.",
+    "significance": "Queluz Palace represents the height of Portuguese Rococo architecture and is one of the last great Rococo buildings constructed in Europe. It's a UNESCO-recognized monument and one of the finest palace ensembles in Portugal, offering insight into royal court life of the 18th century. The palace is still used occasionally for official government ceremonies and state visits."
+  },
+  "location": {
+    "address": {
+      "street": "Largo do Palácio de Queluz",
+      "postal_code": "2745-191",
+      "neighborhood": "Queluz",
+      "city": "Sintra",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7507,
+      "longitude": -9.2583
+    },
+    "directions": {
+      "general": "Located in Queluz, between Lisbon and Sintra, easily accessible by train from either city",
+      "fromCruisePort": "Take metro to Rossio or Santa Apolónia, then train to Queluz-Belas station (25-30 minutes total). Palace is 10-minute walk from station. Or taxi/Uber (30 minutes)",
+      "publicTransport": "Train from Lisbon Rossio station to Queluz-Belas (20 minutes). Sintra train line. Buses 101, 106, 117 from Lisbon. Free shuttle from Sintra on weekends",
+      "parking": "Free public parking available near palace entrance"
+    },
+    "distanceFromCruisePort": {
+      "meters": 18500,
+      "walkingTime": "Not recommended - use train",
+      "drivingTime": "30 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 219 237 300",
+    "email": "info@parquesdesintra.pt",
+    "website": "https://www.parquesdesintra.pt/en/parks-monuments/national-palace-and-gardens-of-queluz/",
+    "bookingUrl": "https://bilheteira.parquesdesintra.pt/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ParquesdeSintra",
+      "instagram": "https://www.instagram.com/parquesdesintra/",
+      "twitter": "https://twitter.com/ParqSintra"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "All year",
+          "days": "Daily except Tuesday",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:00"
+        }
+      ],
+      "closedDates": [
+        "Closed Tuesdays",
+        "January 1",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 10,
+      "youth": 8.5,
+      "child": 8.5,
+      "senior": 8.5,
+      "family": 33,
+      "lisboaCardFree": false,
+      "notes": "Children under 6 free. Youth/Senior 6-17 and 65+. Family ticket for 2 adults + 2 children. Combined tickets with other Parques de Sintra monuments available. Gardens-only ticket available for €5"
+    },
+    "averageVisitDuration": "2-3 hours",
+    "bestTimeToVisit": "Weekday mornings (9:00-11:00) for fewer crowds. Spring and early summer for gardens in full bloom. Late afternoon for beautiful golden hour photography",
+    "busyPeriods": [
+      "Weekends all day",
+      "July-August summer season",
+      "Holiday periods",
+      "Concert event days"
+    ],
+    "adviceForVisitors": "Book tickets online in advance. Allow 2-3 hours to see palace interior and gardens. Wear comfortable shoes for walking gardens. Photography allowed without flash. Don't miss the azulejo canal and Neptune fountain. Check concert schedule - classical music performances held regularly. Combined ticket with Sintra palaces offers good value. Gardens are wheelchair accessible but palace has stairs"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (4-5 hours including train travel, visit, and return)",
+    "accessibility": "Good - easy train access from Lisbon, 10-minute walk from station",
+    "combinableWith": [
+      "Sintra town",
+      "National Palace of Sintra",
+      "Cascais",
+      "Lisbon city center",
+      "Sintra-Cascais scenic route"
+    ],
+    "tips": [
+      "Easy 20-minute train from Lisbon Rossio station",
+      "Perfect half-day trip - can combine with Sintra or Cascais",
+      "Less crowded than Sintra palaces - hidden gem",
+      "Beautiful photo opportunities in gardens",
+      "Great for architecture and garden enthusiasts",
+      "Classical music concerts add special experience",
+      "Allow 2-3 hours for full visit",
+      "Palace interior quite cool - bring light jacket",
+      "Gardens perfect for leisurely stroll",
+      "Train station has luggage lockers if needed"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Magnificent Rococo palace architecture",
+      "Throne Room with painted ceiling and mirrors",
+      "Music Room with gilded decoration",
+      "Hall of Ambassadors with stunning azulejos",
+      "Don Quixote Room with tile panels",
+      "Royal bedrooms and private apartments",
+      "French-style baroque gardens",
+      "Famous Azulejo Canal with blue tiles",
+      "Neptune Garden with fountain and statuary",
+      "Hanging Garden with geometric hedges",
+      "Malta Garden and Lake Garden",
+      "Regular classical music concerts"
+    ],
+    "facilities": [
+      "Palace shop with souvenirs and books",
+      "Gardens café",
+      "Audio guides available",
+      "Restrooms",
+      "Benches throughout gardens",
+      "Concert hall",
+      "Accessible pathways in gardens",
+      "Free WiFi",
+      "Parking area"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Gardens fully accessible with ramps and paved paths. Palace interior has some stairs and limited wheelchair access - ground floor accessible. Wheelchairs available on request. Accessible restrooms available",
+      "visualAidServices": "Audio guides available in multiple languages",
+      "hearingAidServices": "Visual information panels throughout palace"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/palacio-nacional-de-queluz-hero.jpg",
+      "alt": "Palácio Nacional de Queluz pink facade with formal gardens",
+      "caption": "The stunning Rococo facade of Queluz Palace with its geometric French gardens"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/palacio-nacional-de-queluz-1.jpg",
+        "alt": "Throne Room interior at Queluz Palace",
+        "caption": "The magnificent Throne Room with painted ceiling and gilded decoration"
+      },
+      {
+        "url": "/images/attractions/palacio-nacional-de-queluz-2.jpg",
+        "alt": "Azulejo Canal at Queluz Gardens",
+        "caption": "The famous tile-lined canal in the palace gardens"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "National Palace of Sintra",
+      "distance": "10 kilometers",
+      "type": "palace",
+      "walkingTime": "15 min by train"
+    },
+    {
+      "name": "Cascais",
+      "distance": "20 kilometers",
+      "type": "coastal-town",
+      "walkingTime": "30 min by car"
+    },
+    {
+      "name": "Lisbon City Center",
+      "distance": "15 kilometers",
+      "type": "city",
+      "walkingTime": "25 min by train"
+    },
+    {
+      "name": "Sintra town center",
+      "distance": "10 kilometers",
+      "type": "historic-town",
+      "walkingTime": "15 min by train"
+    }
+  ],
+  "tags": [
+    "palace",
+    "rococo-architecture",
+    "royal-residence",
+    "gardens",
+    "baroque",
+    "historical",
+    "photography",
+    "cultural",
+    "must-see",
+    "portuguese-versailles"
+  ],
+  "suitableFor": [
+    "couples",
+    "photographers",
+    "history-lovers",
+    "architecture-enthusiasts",
+    "garden-lovers",
+    "cultural-tourists",
+    "all-visitors"
+  ],
+  "weatherDependent": "Partial",
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewCount": 8500,
+  "reviewSource": "Google/TripAdvisor"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "parque-natural-da-arrabida",
+  "name": "Parque Natural da Arrábida",
+  "tagline": "Pristine Mediterranean paradise with turquoise beaches, dramatic cliffs, and ancient forests south of Lisbon",
+  "type": "natural-park",
+  "categories": [
+    "natural-park",
+    "beaches",
+    "hiking",
+    "nature",
+    "wine-region",
+    "day-trip"
+  ],
+  "description": {
+    "short": "Arrábida Natural Park is a stunning protected coastal area south of Lisbon, featuring pristine turquoise-water beaches, dramatic limestone cliffs, Mediterranean forests, scenic hiking trails, historic convents, and renowned wine estates - all within a unique microclimate that feels more like the Mediterranean than Atlantic Portugal.",
+    "full": "Parque Natural da Arrábida is one of Portugal's most beautiful and accessible natural parks, protecting 10,800 hectares of breathtaking coastal and mountain landscapes between Setúbal and Sesimbra. The park is dominated by the Serra da Arrábida mountain range, with peaks reaching 500 meters above sea level, covered in dense Mediterranean vegetation including rare cork oak forests, wild herbs (rosemary, thyme, lavender), and endemic plant species found nowhere else in Portugal. What makes Arrábida truly special is its unique microclimate - the mountains create a sheltered environment that's warmer and drier than surrounding areas, allowing Mediterranean flora and fauna to thrive. This produces an almost tropical feeling, with turquoise waters that rival the Caribbean. The park's coastline is dotted with some of Portugal's most stunning beaches: Portinho da Arrábida (a sheltered bay with crystal-clear shallow waters perfect for swimming and snorkeling), Galápos and Galapos beaches (secluded coves accessible by foot), Figueirinha Beach (long sandy stretch popular with families), and Ribeiro do Cavalo (a hidden gem reached by scenic coastal trail). The park offers numerous hiking trails ranging from easy coastal walks to challenging mountain treks. The most famous is the Serra do Risco trail leading to Portugal's highest sea cliff (380 meters) with vertigo-inducing views. The Trilho dos Pescadores (Fishermen's Trail) follows the dramatic coastline offering spectacular ocean vistas. Cultural highlights include the whitewashed Convento da Arrábida, a 16th-century Franciscan convent perched dramatically on the mountainside (visits by appointment), and the Forte de São Filipe, a star-shaped fortress overlooking Setúbal with a pousada hotel and restaurant. The region is also famous for Moscatel wine production, with historic estates like José Maria da Fonseca offering tours and tastings. Marine life is rich - dolphins are frequently spotted offshore, and the protected waters host diverse species making this a premier diving and snorkeling destination. The park provides habitat for wildcats, Egyptian mongooses, Bonelli's eagles, and peregrine falcons. From Lisbon, Arrábida feels like a different world - Mediterranean climate, turquoise seas, dramatic landscapes, and peaceful nature, yet it's less than an hour away.",
+    "history": "The Serra da Arrábida has been inhabited since prehistoric times, with archaeological evidence of Paleolithic and Neolithic settlements. The Romans recognized the area's strategic and natural value. During the medieval period, the region was sparsely populated but valued for its natural resources. In 1542, the Franciscan friars established the Convento da Arrábida, seeking the solitude and natural beauty of the mountains for contemplation. The convent became an important religious center. For centuries, local communities lived from fishing, agriculture, and forestry. In the 20th century, growing environmental awareness led to the establishment of Parque Natural da Arrábida in 1976 to protect the unique ecosystems, landscapes, and biodiversity from urbanization and overdevelopment. Today, the park is managed by the Institute for Nature Conservation and Forests (ICNF) and is part of the Arrábida-Espichel Site of Community Importance in the Natura 2000 network.",
+    "significance": "Arrábida Natural Park is recognized as one of Portugal's most important protected areas for biodiversity conservation. It's part of the Natura 2000 European ecological network. The park protects unique Mediterranean ecosystems, endemic plant species, and serves as critical habitat for endangered wildlife including Bonelli's eagles and Mediterranean monk seals (occasionally spotted). It's also a UNESCO Biosphere Reserve candidate."
+  },
+  "location": {
+    "address": {
+      "street": "N/A (Protected Area)",
+      "postal_code": "2900",
+      "neighborhood": "Arrábida",
+      "city": "Setúbal / Sesimbra",
+      "region": "Setúbal District, Lisbon Region",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.4832,
+      "longitude": -9.0066
+    },
+    "directions": {
+      "general": "Located on the Setúbal Peninsula, approximately 40-50 km south of Lisbon, between the cities of Setúbal and Sesimbra",
+      "fromCruisePort": "Rent a car and drive via A2/A12 and N10 or N379 (45-60 minutes to main beaches). Organized tour most convenient. Public transport limited - bus to Setúbal/Sesimbra, then taxi to beaches.",
+      "publicTransport": "Bus from Lisbon to Setúbal (TST buses from Praça de Espanha or Sete Rios, 1 hour) or to Sesimbra (Carris Metropolitana, 1.5 hours). From Setúbal/Sesimbra, local buses to some beaches (limited service) or taxi. Car rental highly recommended for park exploration.",
+      "parking": "Free parking at most beaches (Portinho da Arrábida, Figueirinha, Galápos). Can be very full on summer weekends - arrive early. Some beaches require short walk from parking."
+    },
+    "distanceFromCruisePort": {
+      "meters": 45000,
+      "walkingTime": "Not applicable",
+      "drivingTime": "45-60 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 265 541 140",
+    "email": "pnarrabida@icnf.pt",
+    "website": "https://www.icnf.pt/conservacao/parques-e-reservas/parque-natural-da-arrabida",
+    "bookingUrl": "https://www.visitportugal.com/en/destinos/lisboa-e-vale-do-tejo/parque-natural-da-arrabida",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ParqueNaturalArrabida",
+      "instagram": "https://www.instagram.com/parquenaturalarrabida"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round (natural park - always accessible)",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24/7 (natural park)",
+          "lastAdmission": "N/A"
+        },
+        {
+          "season": "Convento da Arrábida",
+          "days": "By appointment only",
+          "hours": "Guided visits must be pre-booked",
+          "lastAdmission": "Varies"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Natural park is free to access. Beach parking typically free. Convento da Arrábida guided tours: approximately 5 EUR (must book in advance). Hiking trails free. Wine estate tours/tastings: 10-25 EUR depending on estate and package."
+    },
+    "averageVisitDuration": "Half day to full day",
+    "bestTimeToVisit": "May-June and September-October for perfect weather, fewer crowds, and blooming wildflowers. July-August for beach activities (very crowded). March-May for hiking (wildflowers, comfortable temperatures). Autumn (Sept-Nov) for wine harvest season. Avoid weekends in summer when beaches are packed.",
+    "busyPeriods": [
+      "Summer weekends (July-August) - beaches extremely crowded",
+      "Public holidays",
+      "Easter weekend",
+      "Portuguese school holidays",
+      "Sunny Sundays year-round"
+    ],
+    "adviceForVisitors": "Car rental strongly recommended for flexibility and beach access. Arrive early on summer weekends (before 10:00) to secure beach parking. Bring water, snacks, sunscreen, and sturdy hiking shoes. Swimming conditions are excellent but can be rough on windy days. Some beaches (Ribeiro do Cavalo, Galápos) require hiking - assess your fitness level. Snorkeling gear recommended - waters are crystal clear with marine life. Visit José Maria da Fonseca winery in Azeitão for Moscatel tasting. Combine beaches with short hikes for best experience. Mobile signal can be weak in remote areas. Respect nature - take all trash, stay on marked trails. Summer temperatures can exceed 35°C - bring shade and hydration. Swimming season: June-September, but waters are swimmable May-October. Convento da Arrábida visits require advance booking. Check weather - rough seas can make some beaches inaccessible."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (5-6 hours) to full day (8-10 hours)",
+    "accessibility": "Moderate - car rental or organized tour recommended. Limited public transport to beaches.",
+    "combinableWith": [
+      "Setúbal (city, Forte São Filipe, fish market)",
+      "Sesimbra (fishing village, castle, beaches)",
+      "Azeitão wine region (Moscatel tastings)",
+      "José Maria da Fonseca winery",
+      "Cabo Espichel (dramatic cape with dinosaur footprints)",
+      "Palmela Castle",
+      "Bacalhôa Wine Estate"
+    ],
+    "tips": [
+      "Rent a car for maximum flexibility - public transport very limited",
+      "Book organized 'Arrábida and Wine' tour from Lisbon if you don't want to drive",
+      "Portinho da Arrábida is most accessible and family-friendly beach",
+      "Ribeiro do Cavalo beach requires 20-30 minute coastal hike (steep, rocky)",
+      "Pack beach gear: towel, swimsuit, sunscreen, snorkel mask",
+      "Bring hiking shoes if planning trails - flip-flops not sufficient",
+      "Water shoes recommended for rocky beach areas",
+      "Summer weekends are extremely busy - go midweek if possible",
+      "Arrive at beaches before 10:00 AM in summer to find parking",
+      "Combine beach time with Serra do Risco hike for incredible views",
+      "Stop at viewpoints (miradouros) along N379-1 coastal road",
+      "Try fresh grilled fish at restaurants in Setúbal or Sesimbra",
+      "Visit José Maria da Fonseca for Moscatel wine tasting in Azeitão",
+      "Bring cash - some beach areas don't have card payment",
+      "Pack picnic for remote beaches - limited facilities",
+      "Best for active cruise passengers who enjoy nature and hiking"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Portinho da Arrábida - pristine bay with turquoise waters and white sand",
+      "Serra do Risco - Portugal's highest sea cliff (380m) with breathtaking views",
+      "Ribeiro do Cavalo - secluded beach accessed by scenic coastal trail",
+      "Convento da Arrábida - 16th-century whitewashed Franciscan convent",
+      "Mediterranean cork oak and maquis forests",
+      "Crystal-clear turquoise waters perfect for swimming and snorkeling",
+      "Diverse hiking trails from easy to challenging",
+      "Figueirinha Beach - long sandy beach with facilities",
+      "Galápos and Galapos beaches - hidden coves",
+      "Forte de São Filipe - star fortress with panoramic views",
+      "Rich marine life: dolphins, diverse fish species",
+      "Endemic flora including rare orchids and aromatic herbs",
+      "Wildlife: wildcats, mongooses, Bonelli's eagles, peregrine falcons",
+      "Moscatel wine region (Azeitão) with historic estates",
+      "Dramatic limestone cliffs and coastal rock formations"
+    ],
+    "facilities": [
+      "Parking at main beaches (can fill quickly in summer)",
+      "Beach cafés and restaurants (seasonal, limited at remote beaches)",
+      "Restrooms at major beaches (Portinho, Figueirinha)",
+      "Beach equipment rentals at Portinho da Arrábida",
+      "Hiking trail markers and signage",
+      "Viewpoints (miradouros) along coastal roads",
+      "Information panels about flora, fauna, and geology",
+      "Picnic areas",
+      "Limited mobile phone coverage in remote areas",
+      "Nearby towns (Setúbal, Sesimbra) for services and dining"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Limited accessibility. Most beaches require walking on sand or hiking trails. Figueirinha Beach has some accessibility. Coastal roads offer viewpoints accessible by car. Hiking trails are not wheelchair accessible - rocky, steep terrain. Portinho da Arrábida has easiest access but still requires walking on sand.",
+      "visualAidServices": "None",
+      "hearingAidServices": "None"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/parque-natural-da-arrabida-hero.jpg",
+      "alt": "Turquoise waters of Portinho da Arrábida beach with Serra da Arrábida mountains",
+      "caption": "The pristine turquoise waters of Portinho da Arrábida, protected by dramatic mountain scenery"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/parque-natural-da-arrabida-1.jpg",
+        "alt": "Dramatic cliffs and forests of Serra da Arrábida overlooking the sea",
+        "caption": "The Serra da Arrábida mountains create a unique Mediterranean microclimate with lush forests"
+      },
+      {
+        "url": "/images/attractions/parque-natural-da-arrabida-2.jpg",
+        "alt": "Ribeiro do Cavalo secluded beach with turquoise water",
+        "caption": "Ribeiro do Cavalo - one of Portugal's most beautiful hidden beaches, accessible by coastal trail"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Setúbal",
+      "distance": "8 km",
+      "type": "city",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "Sesimbra",
+      "distance": "12 km",
+      "type": "fishing-village",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "José Maria da Fonseca Winery",
+      "distance": "15 km",
+      "type": "winery",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "Cabo Espichel",
+      "distance": "20 km",
+      "type": "cape",
+      "walkingTime": "25-minute drive"
+    },
+    {
+      "name": "Palmela Castle",
+      "distance": "18 km",
+      "type": "castle",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "Forte de São Filipe",
+      "distance": "10 km",
+      "type": "fortress",
+      "walkingTime": "15-minute drive"
+    }
+  ],
+  "tags": [
+    "natural-park",
+    "beaches",
+    "hiking",
+    "nature",
+    "coastal",
+    "mediterranean",
+    "swimming",
+    "snorkeling",
+    "wine-region",
+    "outdoor-activities",
+    "day-trip"
+  ],
+  "suitableFor": [
+    "beach-lovers",
+    "hikers",
+    "nature-enthusiasts",
+    "photographers",
+    "active-travelers",
+    "families",
+    "couples",
+    "wine-lovers",
+    "adventure-seekers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewCount": 3200,
+  "reviewSource": "TripAdvisor/Google"
+}

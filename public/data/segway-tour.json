@@ -1,0 +1,264 @@
+{
+  "id": "segway-tour",
+  "name": "Lisbon Segway Tour",
+  "tagline": "Glide through Lisbon's hills and historic streets on a fun, effortless Segway adventure",
+  "type": "segway-tour",
+  "categories": [
+    "segway-tour",
+    "guided-tour",
+    "fun-activity",
+    "modern-sightseeing",
+    "family-adventure"
+  ],
+  "description": {
+    "short": "Conquer Lisbon's famous seven hills with ease on a guided Segway tour, gliding effortlessly through historic neighborhoods, stunning viewpoints, and hidden gems while learning about the city's rich culture and history.",
+    "full": "The Lisbon Segway Tour transforms the challenge of exploring Portugal's hilly capital into a thrilling, effortless adventure on these innovative two-wheeled personal transporters. Perfect for cruise passengers wanting to maximize sightseeing while minimizing physical exertion, Segway tours cover extensive ground across Lisbon's diverse neighborhoods without breaking a sweat. After a comprehensive 15-20 minute training session where you'll master the intuitive lean-forward-to-go, lean-back-to-stop controls, you'll set off with expert local guides through carefully planned routes that showcase the best of Lisbon. The 2 to 3-hour tours typically explore the enchanting Alfama district with its labyrinthine medieval streets, the multicultural Mouraria neighborhood where diverse communities have coexisted for centuries, and panoramic miradouros (viewpoints) offering breathtaking vistas of the city and Tagus River. Highlights include the imposing Sé Cathedral dating to 1147, the majestic National Pantheon with its distinctive white dome, the stunning Miradouro da Graça and Senhora do Monte viewpoints providing 360-degree city panoramas, and the vibrant cosmopolitan Baixa district with its elegant squares and traditional shops. The Segway's electric-powered gyroscopic technology makes navigating steep hills and cobblestone streets remarkably easy, allowing you to focus on the stunning architecture, colorful azulejo tiles adorning building facades, and fascinating stories shared by your knowledgeable guide. The elevated platform of the Segway provides excellent sightlines for photography while the group size typically limited to 6-8 participants ensures personalized attention and flexibility. Tours include all safety equipment, training, insurance, and often incorporate strategic stops at scenic overlooks where guides share historical context, local legends, and insider recommendations. The Segway format combines the efficiency of motorized transport with the intimacy and accessibility of walking tours, creating a unique experience that's both fun and informative. The modern, well-maintained Segways are equipped with safety features including headlights for visibility and bells to alert pedestrians. Most tour operators emphasize safety protocols and responsible operation within Lisbon's busy streets, following designated routes that balance efficiency with safety.",
+    "history": "Segway tours emerged in Lisbon around 2008-2010 as an innovative alternative to traditional walking and bus tours. The technology's ability to effortlessly navigate the city's challenging topography made it immediately popular with visitors seeking efficient, fun ways to explore. Today, multiple certified operators offer Segway experiences, contributing to Lisbon's reputation for creative tourism options.",
+    "significance": "Segway tours democratized access to Lisbon's hills and viewpoints, making previously challenging routes accessible to visitors of varying fitness levels and ages. The tours represent modern innovation in tourism while supporting local guides and sustainable electric-powered transportation. They've become iconic Lisbon experiences, frequently photographed and shared on social media."
+  },
+  "location": {
+    "address": {
+      "street": "Rua das Olarias, 35 (typical departure point)",
+      "postal_code": "1100-023",
+      "neighborhood": "Alfama, Baixa (various departure points)",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7182,
+      "longitude": -9.1341
+    },
+    "directions": {
+      "general": "Segway tour departure points located in central Lisbon, typically in Alfama or Baixa districts near major landmarks and metro stations",
+      "fromCruisePort": "From Santa Apolónia cruise terminal: Walk to nearby metro station (5 minutes), take Green Line to Baixa-Chiado or walk directly (15-20 minutes). Taxi to departure points (10 minutes). Some operators offer meeting points near cruise terminal",
+      "publicTransport": "Metro Green or Blue Lines to Terreiro do Paço, Santa Apolónia, or Baixa-Chiado. Tram 28 stops near many departure locations. Buses 728, 734, 735, 759. Easy access from public transport",
+      "parking": "Public parking at Praça do Comércio or nearby garages. Limited street parking in historic areas"
+    },
+    "distanceFromCruisePort": {
+      "meters": 1800,
+      "walkingTime": "20 minutes",
+      "drivingTime": "8 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 XXX XXX",
+    "email": "info@lisbonsegwaytours.com",
+    "website": "https://www.lisbonsegwaytours.pt/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/lisbon-segway-tours/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lisbonsegwaytours",
+      "instagram": "https://www.instagram.com/lisbonsegway/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Multiple daily departures year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Departures: 10:00, 12:00, 14:30, 16:00 (seasonal variations)",
+          "lastAdmission": "Booking required, advance reservation strongly recommended"
+        }
+      ],
+      "closedDates": [
+        "Tours may be cancelled during heavy rain or dangerous conditions",
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 47,
+      "youth": 47,
+      "child": 0,
+      "senior": 47,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "City Highlights Tour (1.5 hours): €39-47 per person. Hills and Alfama Tour (3 hours): €75-86 per person. Super Tour (3+ hours): €86-95. Private tours from €207 per group (up to 2 people). Minimum age typically 12-16 years (varies by operator). Weight limits: 40-100 kg (88-220 lbs). Includes training, helmet, insurance, guide, audio headsets for larger groups. Advance booking essential"
+    },
+    "averageVisitDuration": "1.5-3 hours depending on tour type",
+    "bestTimeToVisit": "Spring (March-May) and fall (September-November) offer comfortable temperatures. Morning tours avoid afternoon heat in summer. Late afternoon tours provide beautiful lighting for photos. Weekdays less crowded than weekends",
+    "busyPeriods": [
+      "Summer months June-August",
+      "Weekends year-round",
+      "Holiday periods",
+      "Peak cruise season April-October",
+      "Afternoons 14:00-17:00"
+    ],
+    "adviceForVisitors": "Book well in advance as tours have limited capacity (typically 6-8 people per guide). Arrive 20 minutes early for safety briefing and training. Wear comfortable closed-toe shoes (no sandals or flip-flops). Long pants recommended to avoid scraped ankles. Bring camera or smartphone for photo stops. Sunscreen and sunglasses essential. Light jacket for cooler months. Water provided by most operators. Training is comprehensive - even complete beginners master Segways quickly. Weight restrictions strictly enforced (40-100 kg) for safety. Pregnant women not permitted. Some mobility required to step onto platform and maintain balance. Tours proceed in light rain but cancel in heavy rain or high winds. Follow guide's safety instructions carefully. Helmets mandatory. Tours navigate pedestrian areas, bike lanes, and some streets - stay alert. Excellent for groups and families with teens. Not suitable for young children. Practice session in safe area before departing. Ask questions during training if unsure. Routes include stops at viewpoints - plenty of photo opportunities. Guides provide headsets on larger tours for clear communication. Tell guide your comfort level and interests. Some operators offer specialized routes (riverside, historical, sunset)"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (3.5-4.5 hours including travel and tour)",
+    "accessibility": "Good - central meeting points close to cruise terminal, accessible via walking or short metro ride",
+    "combinableWith": [
+      "Castelo de São Jorge",
+      "Miradouro viewpoints",
+      "Alfama neighborhood exploration",
+      "Fado dinner show",
+      "Time Out Market",
+      "Chiado shopping",
+      "Riverside walk",
+      "Traditional Portuguese lunch"
+    ],
+    "tips": [
+      "Perfect for cruise passengers wanting fun, efficient sightseeing",
+      "Cover significantly more ground than walking in less time",
+      "Hills conquered effortlessly - no exertion required",
+      "Training provided - no prior Segway experience needed",
+      "Suitable for most ages (typically 12+ to 70)",
+      "Weight restrictions: 40-100 kg - verify before booking",
+      "Small groups ensure personalized, flexible experience",
+      "Excellent value - combines transportation and guided tour",
+      "Great for families with teenagers",
+      "Unique, memorable experience - different from typical tours",
+      "Amazing photo opportunities from elevated Segway platform",
+      "Local guides provide insider knowledge and recommendations",
+      "Choose 1.5-hour tour if time is limited",
+      "3-hour tour provides comprehensive city overview",
+      "Meeting points usually central - easy to reach from ship",
+      "Book online in advance to secure spot",
+      "Closed-toe shoes mandatory - no exceptions",
+      "Tours rarely cancel - very reliable for cruise schedules",
+      "Fun factor makes this popular with all ages",
+      "Request private tour for ultimate flexibility with ship timing"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Navigate Lisbon's seven hills effortlessly on electric Segways",
+      "Comprehensive 20-minute training session for all levels",
+      "Explore Alfama, Mouraria, and Baixa historic neighborhoods",
+      "Stunning panoramic viewpoints: Graça, Senhora do Monte",
+      "Sé Cathedral and National Pantheon exterior visits",
+      "Cosmopolitan Baixa district and Avenida da Liberdade",
+      "Portas do Sol scenic overlook",
+      "Small group tours (maximum 6-8 participants)",
+      "Expert local guides with insider knowledge",
+      "Modern, well-maintained Segway fleet",
+      "Safety helmets and equipment provided",
+      "Insurance coverage included",
+      "Audio headsets for clear guide communication",
+      "Frequent photo stops at scenic locations",
+      "Coverage of 5-10 km depending on tour length",
+      "Fun, unique, and memorable sightseeing experience"
+    ],
+    "facilities": [
+      "Dedicated Segway training facility",
+      "Modern Segway fleet (regularly maintained)",
+      "Safety helmets (mandatory)",
+      "Secure storage for belongings",
+      "Audio headset systems",
+      "First aid kits",
+      "Insurance coverage",
+      "Training practice area",
+      "Lockers for bags",
+      "Restrooms at meeting point",
+      "Photo assistance from guides",
+      "Water bottles provided"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Requires ability to stand unassisted for extended periods (1.5-3 hours) and maintain balance on moving platform. Not suitable for wheelchairs or significant mobility limitations. Weight restrictions: 40-100 kg (88-220 lbs) strictly enforced. Minimum age typically 12-16 years. Pregnant women not permitted. Some core strength and balance required but less than walking tours. Not recommended for severe knee or back problems",
+      "visualAidServices": "Audio commentary from guide describes surroundings",
+      "hearingAidServices": "Visual sightseeing; written materials available"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/segway-tour-hero.jpg",
+      "alt": "Group of tourists on Segways at Lisbon viewpoint",
+      "caption": "Exploring Lisbon's stunning viewpoints effortlessly on a guided Segway tour"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/segway-tour-1.jpg",
+        "alt": "Segway riders navigating Alfama's narrow streets",
+        "caption": "Gliding through the charming historic Alfama neighborhood"
+      },
+      {
+        "url": "/images/attractions/segway-tour-2.jpg",
+        "alt": "Panoramic view from Miradouro da Graça with Segways",
+        "caption": "Breathtaking city vistas from one of Lisbon's famous miradouros"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Castelo de São Jorge",
+      "distance": "600 meters",
+      "type": "castle",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Sé Cathedral",
+      "distance": "400 meters",
+      "type": "cathedral",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "National Pantheon",
+      "distance": "700 meters",
+      "type": "monument",
+      "walkingTime": "9 minutes"
+    },
+    {
+      "name": "Miradouro da Graça",
+      "distance": "500 meters",
+      "type": "viewpoint",
+      "walkingTime": "7 minutes"
+    },
+    {
+      "name": "Portas do Sol Viewpoint",
+      "distance": "300 meters",
+      "type": "viewpoint",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "Fado Museum",
+      "distance": "800 meters",
+      "type": "museum",
+      "walkingTime": "10 minutes"
+    }
+  ],
+  "tags": [
+    "segway-tour",
+    "guided-tour",
+    "fun-activity",
+    "effortless-sightseeing",
+    "viewpoints",
+    "neighborhoods",
+    "modern-transportation",
+    "family-adventure",
+    "photography",
+    "unique-experience",
+    "electric-vehicle",
+    "hills-tour"
+  ],
+  "suitableFor": [
+    "adventure-seekers",
+    "families-with-teens",
+    "couples",
+    "groups",
+    "fun-lovers",
+    "photographers",
+    "time-limited-visitors",
+    "cruise-passengers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewCount": 4130,
+  "reviewSource": "GetYourGuide/TripAdvisor"
+}

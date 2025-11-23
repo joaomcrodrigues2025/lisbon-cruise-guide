@@ -1,0 +1,234 @@
+{
+  "id": "portuguese-wine-tasting-tour",
+  "name": "Portuguese Wine Tasting Tour",
+  "tagline": "Journey Through Portugal's Diverse Wine Regions and Varieties",
+  "type": "wine-tour",
+  "categories": [
+    "wine-tour",
+    "culinary-experience",
+    "cultural-activity",
+    "educational",
+    "small-group-tour"
+  ],
+  "description": {
+    "short": "Explore the diversity of Portuguese wines beyond port with guided tastings featuring regional specialties from Douro, Alentejo, Dão, and Vinho Verde regions. Learn about indigenous grape varieties while sampling reds, whites, and unique Portuguese wine styles.",
+    "full": "Portuguese Wine Tasting Tours in Lisbon offer an immersive journey through Portugal's incredibly diverse wine landscape. While port wine gets the international spotlight, Portugal produces exceptional table wines from unique indigenous grape varieties found nowhere else in the world - over 250 native varieties! These guided tastings showcase wines from Portugal's major regions: crisp, slightly effervescent Vinho Verde from the north; powerful reds from the Douro Valley; elegant wines from Dão; full-bodied Alentejo reds and whites; and coastal wines from Lisboa and Setúbal regions. Expert sommeliers guide you through 5-7 carefully selected wines, explaining the terroir, grape varieties (Touriga Nacional, Alvarinho, Arinto, Baga), and winemaking traditions. Many tours include visits to historic wine cellars, pairing experiences with Portuguese cheeses and olive oils, and insider knowledge about Portugal's emerging wine scene. You'll discover why Portuguese wines offer exceptional value and unique flavor profiles that stand apart from better-known European wines. The educational component covers Portugal's 2000-year winemaking history, modern sustainable practices, and how to read Portuguese wine labels. Tours range from intimate 3-hour tastings in Lisbon wine bars to full-day excursions to nearby wine regions like Setúbal or Palmela. Small group sizes (typically 6-12 people) ensure personalized attention and opportunities for questions. Whether you're a wine novice or enthusiast, these tours reveal why Portugal is one of Europe's most exciting wine destinations.",
+    "history": "Portugal has been producing wine for over 2000 years, introduced by the Romans. The country boasts some of the world's oldest demarcated wine regions, including Douro (1756) and Dão (1908). Portuguese explorers spread wine culture globally, and today Portugal ranks among the top 10 wine-producing countries worldwide, maintaining ancient grape varieties and traditional methods alongside modern innovation.",
+    "significance": "Portuguese wines represent incredible diversity and value, with indigenous grape varieties creating unique flavor profiles unavailable elsewhere. The country's wine regions showcase varied terroirs from coastal to mountainous, humid to arid. Understanding Portuguese wine opens doors to discovering lesser-known European wines and appreciating sustainable, family-owned wine production."
+  },
+  "location": {
+    "address": {
+      "street": "Multiple venues and meeting points",
+      "postal_code": "1200-109",
+      "neighborhood": "Central Lisbon",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7223,
+      "longitude": -9.1393
+    },
+    "directions": {
+      "general": "Tours depart from central Lisbon locations - meeting points vary by operator. Many include hotel pickup. Tastings held in wine bars, cellars, and wine schools in Baixa, Chiado, and Bairro Alto",
+      "fromCruisePort": "Meeting points typically 10-15 minutes by taxi from cruise terminal. Some operators offer cruise port pickup. Walking distance to central Lisbon venues (20-30 minutes)",
+      "publicTransport": "Metro to Baixa-Chiado, Rossio, or Avenida. Most meeting points near major metro stations. Tram 28 stops near several wine bar locations",
+      "parking": "Not needed - tours include transportation if visiting wineries outside Lisbon"
+    },
+    "distanceFromCruisePort": {
+      "meters": 3000,
+      "walkingTime": "30 minutes",
+      "drivingTime": "10-15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 346 7820",
+    "email": "reservations@lisbonwinetours.com",
+    "website": "https://www.surfwinetours.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/wine-tasting-tc104/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/surfwinetours",
+      "instagram": "https://www.instagram.com/surfwinetours/",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d12865431-Reviews-Surf_Wine_Tours-Lisbon.html"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Daily tours available",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Morning tours 10:00-13:00, Afternoon tours 14:00-18:00",
+          "lastAdmission": "14:00 for afternoon tours"
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 65,
+      "youth": 0,
+      "child": 0,
+      "senior": 65,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Prices vary by tour type. City tastings €55-85. Full-day winery tours €95-150. Private tours from €200. Includes 5-7 wine tastings, cheese/food pairings, expert guide, transportation (if applicable). Must be 18+ to participate. Group discounts available"
+    },
+    "averageVisitDuration": "3-8 hours depending on tour type",
+    "bestTimeToVisit": "Year-round activity. Spring (April-June) and Fall (September-October) optimal for winery visits. Morning tours less rushed. Afternoon tours pair well with sunset at nearby viewpoints",
+    "busyPeriods": [
+      "Weekends",
+      "Summer months (June-September)",
+      "Harvest season (September-October)",
+      "Holiday periods"
+    ],
+    "adviceForVisitors": "Book in advance, especially for weekend tours. Wear comfortable shoes if winery visit included. Light meal before recommended but not heavy - food pairings provided. Ask questions - guides are passionate experts. Take photos but focus on experience. Spit buckets available. Many tours include winery visits - allow full day for those. City-based tastings perfect for shorter shore excursions. Combine with cultural sightseeing in same neighborhood"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "4-9 hours total depending on tour type (city tastings 4-5 hours, winery tours 8-9 hours)",
+    "accessibility": "Good - flexible tour options for different timeframes",
+    "combinableWith": [
+      "Belém monuments",
+      "Alfama walking tour",
+      "Chiado shopping",
+      "Lisbon Cathedral",
+      "Sunset at viewpoint",
+      "Traditional Portuguese dinner"
+    ],
+    "tips": [
+      "Choose city-based tastings for shorter port calls (4 hours)",
+      "Full-day winery tours best for overnight stays in Lisbon",
+      "Book morning tours to have afternoon for other sightseeing",
+      "Some operators offer cruise port pickup/drop-off",
+      "Perfect activity for wine enthusiasts",
+      "Small groups ensure personal attention",
+      "Great way to learn about Portuguese culture through wine",
+      "All guides speak fluent English",
+      "Many operators accommodate dietary restrictions",
+      "Purchase wines to ship home or carry back"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Taste 5-7 premium Portuguese wines",
+      "Expert sommelier guides",
+      "Learn about indigenous Portuguese grape varieties",
+      "Discover wines from Douro, Alentejo, Dão, Vinho Verde regions",
+      "Cheese, charcuterie, and olive oil pairings",
+      "Visit historic wine cellars (some tours)",
+      "Small group experiences (6-12 people)",
+      "Winery visits to nearby regions (full-day tours)",
+      "Portuguese wine history and culture education",
+      "Meet local winemakers (winery tours)",
+      "Transportation included for winery visits",
+      "Wine shop access for purchases"
+    ],
+    "facilities": [
+      "Climate-controlled tasting rooms",
+      "Comfortable seating",
+      "Restrooms at all venues",
+      "Wine shops for purchases",
+      "WiFi available",
+      "Air-conditioned transportation (winery tours)",
+      "Tasting notes and materials provided",
+      "Spit buckets available",
+      "Water and palate cleansers"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Most city venues accessible",
+      "mobilityNotes": "City-based tastings generally accessible. Winery tours may involve stairs and uneven terrain - check in advance. Transportation provided for winery visits. Operators can accommodate mobility needs with advance notice",
+      "visualAidServices": "Verbal wine descriptions and tasting guidance",
+      "hearingAidServices": "Written tasting notes and visual wine presentations"
+    },
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/portuguese-wine-tasting-tour-hero.jpg",
+      "alt": "Portuguese wine tasting with regional wines",
+      "caption": "Discovering Portugal's diverse wine regions through guided tasting experience"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/portuguese-wine-tasting-tour-1.jpg",
+        "alt": "Sommelier presenting Portuguese wines",
+        "caption": "Expert sommeliers guide guests through Portugal's unique wine varieties"
+      },
+      {
+        "url": "/images/attractions/portuguese-wine-tasting-tour-2.jpg",
+        "alt": "Portuguese vineyard landscape",
+        "caption": "Beautiful vineyard landscapes in Portugal's wine country near Lisbon"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Chiado neighborhood",
+      "distance": "300 meters",
+      "type": "shopping-district",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Bairro Alto",
+      "distance": "400 meters",
+      "type": "nightlife-district",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "São Roque Church",
+      "distance": "500 meters",
+      "type": "church",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "600 meters",
+      "type": "viewpoint",
+      "walkingTime": "7 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "800 meters",
+      "type": "landmark",
+      "walkingTime": "10 minutes"
+    }
+  ],
+  "tags": [
+    "wine-tasting",
+    "portuguese-wine",
+    "culinary-tour",
+    "wine-education",
+    "small-group",
+    "cultural-experience",
+    "winery-visit",
+    "food-pairing",
+    "indoor-activity",
+    "must-do"
+  ],
+  "suitableFor": [
+    "wine-enthusiasts",
+    "couples",
+    "foodies",
+    "cultural-tourists",
+    "groups",
+    "adults-only",
+    "cruise-passengers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": "Partial (winery tours)",
+  "priceRange": "$$$",
+  "rating": 4.9,
+  "reviewCount": 1850,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}

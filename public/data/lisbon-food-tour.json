@@ -1,0 +1,250 @@
+{
+  "id": "lisbon-food-tour",
+  "name": "Lisbon Food Tour",
+  "tagline": "Discover authentic Portuguese cuisine and hidden local gems with expert guides on the #1 rated food tour in Portugal",
+  "type": "food-tour",
+  "categories": [
+    "food-tour",
+    "walking-tour",
+    "culinary-experience",
+    "cultural-immersion",
+    "local-experience"
+  ],
+  "description": {
+    "short": "Escape the tourist areas and dive deep into Lisbon's authentic food culture on award-winning walking food tours led by passionate local guides. Explore hidden neighborhoods, family-run restaurants, and local markets while tasting traditional Portuguese petiscos, pastéis de nata, wines, and regional specialties across 4-5 carefully selected stops.",
+    "full": "Eating Europe's Lisbon Food Tours offer an unparalleled culinary journey through Portugal's capital, combining authentic food experiences with rich historical storytelling and cultural immersion. As the #1 rated food tour company in Portugal and consistently ranked among TripAdvisor's best experiences in Lisbon, these expertly curated walking tours take participants beyond tourist areas into undiscovered neighborhoods where locals eat, drink, and gather. Over 3.5-4 hours, small groups (maximum 12 participants) explore historic districts like Mouraria - the birthplace of Fado music - Baixa, Alfama, Chiado, and Bairro Alto, discovering hidden gems and family-owned establishments that have served their communities for generations. Expert local guides share not just food knowledge but also the fascinating stories, traditions, and history that make Portuguese gastronomy so unique, explaining how centuries of exploration, maritime trade, and cultural influences from Africa, Brazil, and Asia shaped modern Portuguese cuisine. The tour experience includes 4-5 food and drink stops featuring a carefully curated selection of Portuguese specialties: traditional petiscos (Portuguese tapas) including bacalhau (salt cod) prepared in authentic ways, presunto (cured ham), queijos (regional cheeses), conservas (tinned seafood delicacies), fresh seafood from Portuguese waters, hearty traditional dishes like caldo verde soup or cozido stew, the famous pastéis de nata (custard tarts) still warm from the oven, Portuguese wines from regions like Douro, Alentejo, and Dão, ginjinha (cherry liqueur), and local craft beers. Each stop has been carefully selected for quality, authenticity, and the stories behind the establishment - these aren't tourist restaurants but genuine local spots where neighborhood residents eat daily. Guides provide cultural context at each location, explaining ingredients, cooking techniques, regional variations, and Portuguese dining customs. Beyond food, the walking tour reveals architectural treasures, historical landmarks, and neighborhood stories that make Lisbon's food culture inseparable from its identity. Tours accommodate dietary restrictions with advance notice, ensuring vegetarians and those with food allergies can fully participate. The company's commitment to sustainable tourism supports local businesses, preserves culinary traditions, and employs passionate local guides who receive excellent reviews for their knowledge, friendliness, and ability to make guests feel like they're exploring with a knowledgeable friend rather than a tour guide. Eating Europe has operated in Lisbon since 2014, welcoming thousands of food enthusiasts annually, and their tours have received over 6,000 five-star reviews across platforms.",
+    "history": "Eating Europe was founded by Kenny Dunn and Tracy Raftl in 2011 with a mission to connect travelers with authentic local food culture through small-group walking tours led by passionate local guides. The company began in Rome and expanded to Lisbon in 2014, recognizing Portugal's rich but underappreciated culinary heritage. The Lisbon tours were designed to showcase neighborhoods like Mouraria - historically a multicultural area where Moorish residents settled after the Christian reconquest, later becoming the birthplace of Fado music, and today a vibrant, diverse community often overlooked by mainstream tourism. By partnering with family-owned businesses, traditional restaurants, and local food artisans, Eating Europe helped bring international attention to authentic Portuguese cuisine beyond the typical tourist experience. The tours evolved to include not just food tastings but comprehensive cultural storytelling, explaining how Portuguese maritime exploration brought spices, cooking techniques, and ingredients from Brazil, Africa, India, and Asia, creating the unique fusion that defines modern Portuguese gastronomy. Over the past decade, Eating Europe Lisbon has become the city's highest-rated food tour operator.",
+    "significance": "This food tour preserves and promotes authentic Portuguese culinary traditions while supporting local family businesses and food artisans. By taking participants to genuine neighborhood establishments rather than tourist restaurants, the tours help sustain traditional food culture and provide economic support to small, independent businesses. For visitors, it offers cultural immersion that goes beyond sightseeing, creating understanding of Portuguese history, values, and daily life through food."
+  },
+  "location": {
+    "address": {
+      "street": "Meeting points vary by tour (specific location provided upon booking)",
+      "postal_code": "1100-201",
+      "neighborhood": "Various: Baixa, Mouraria, Alfama, Chiado, Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7163,
+      "longitude": -9.1392
+    },
+    "directions": {
+      "general": "Meeting points are centrally located metro stations or landmarks. Specific location provided in booking confirmation. Tours explore different neighborhoods depending on which tour selected",
+      "fromCruisePort": "Meeting points typically 10-20 minutes from cruise terminals. Undiscovered Lisbon tour meets near Martim Moniz (Green metro line from Santa Apolónia). Heart of Lisbon tour meets in Chiado. Tuk Tuk tour includes pickup from central meeting point. Specific directions provided upon booking",
+      "publicTransport": "All meeting points accessible by metro. Typical meeting points: Martim Moniz station (Green line), Baixa-Chiado station (Blue/Green lines), Rossio area. Exact location provided when booking",
+      "parking": "Public parking available near meeting points: Praça da Figueira, Martim Moniz, Portas do Sol. However, recommend using public transport or walking as tours explore pedestrian-friendly historic districts"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "20-25 minutes",
+      "drivingTime": "8-10 minutes (traffic dependent)"
+    }
+  },
+  "contact": {
+    "phone": "+351 211 379 869",
+    "email": "info@eatingeurope.com",
+    "website": "https://www.eatingeurope.com/lisbon/",
+    "bookingUrl": "https://www.eatingeurope.com/lisbon/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/EatingEurope",
+      "instagram": "https://www.instagram.com/eatingeuropetours/",
+      "twitter": "https://twitter.com/EatingEurope"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Tours operate daily year-round. Multiple departure times. Advance booking required",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Morning tours: typically 10:00-13:30. Afternoon tours: 14:00-17:30. Evening tours: 18:00-21:00",
+          "lastAdmission": "Booking required in advance"
+        }
+      ],
+      "closedDates": ["December 25", "January 1"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 94,
+      "youth": 94,
+      "child": 75,
+      "senior": 94,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Undiscovered Lisbon Food & Wine Tour: €99 per person (3.5 hours, 5 stops). Heart of Lisbon Food Tour: €94 per person (3.5 hours, 5 stops). Best of Lisbon Tuk Tuk Food Tour: €129 per person (4 hours, 4 stops plus tuk-tuk rides). Exclusive Progressive Dinner & Wine Tour: €134 per person (3 hours, 4 stops, max 8 guests). Children under 6 not recommended. Ages 6-12: typically 20% discount. Private tours available for groups. Price includes: all food and drink tastings (equivalent to full lunch/dinner), expert local guide, cultural storytelling and historical context, small group experience (max 12), support of local family businesses. Book online for best rates. Group discounts available. 15% discount when booking multiple tours across Europe. Free cancellation 24 hours in advance"
+    },
+    "averageVisitDuration": "3.5-4 hours (varies by tour)",
+    "bestTimeToVisit": "Tours operate year-round. Morning tours popular for cruise passengers. Spring (April-May) and autumn (September-October) offer pleasant walking weather. Book 1-2 weeks in advance during peak season (May-September), earlier for weekends and holidays",
+    "busyPeriods": [
+      "May-September peak tourist season",
+      "Weekends year-round",
+      "Holiday periods (Easter, Christmas)",
+      "Cruise ship high season (April-October)"
+    ],
+    "adviceForVisitors": "Book in advance, especially peak season and weekends. Wear comfortable walking shoes - tours cover 2-3km on cobblestones and hills. Bring water bottle. Come hungry - food provided equals full meal. Tours run rain or shine (bring umbrella if needed). Moderate fitness required for walking and hills. Dietary restrictions accommodated with 48 hours advance notice. Children 6+ welcome (must be comfortable walking 3-4 hours). Groups of 6+ can request private tour. Tipping guides appreciated but not required. Camera recommended for food photos. Tours start punctually - arrive 10 minutes early. Small groups ensure personal attention from guide"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (4.5-5 hours including tour and travel time)",
+    "accessibility": "Good - central meeting points near cruise terminals. Tours involve moderate walking on cobblestones and hills. Not wheelchair accessible due to historic neighborhoods with stairs and uneven surfaces",
+    "combinableWith": [
+      "Morning tour + afternoon sightseeing (Belém, Castle, etc.)",
+      "Afternoon tour after morning monument visits",
+      "Evening progressive dinner tour before returning to ship",
+      "Can combine with nearby attractions before/after tour",
+      "Tuk Tuk food tour combines sightseeing with food stops"
+    ],
+    "tips": [
+      "Ideal for cruise passengers - fits in half-day port call",
+      "Book morning tour to leave afternoon free for other sightseeing",
+      "Meeting points central and easy to reach from cruise terminals",
+      "Food provided equals full lunch - skip meal on ship",
+      "Learn about Portuguese culture from local expert guides",
+      "Perfect introduction to Lisbon on first day in port",
+      "Discover neighborhoods and restaurants to revisit on own",
+      "Small groups (max 12) ensure personalized experience",
+      "Guides share insider tips for rest of your port visit",
+      "Tuk Tuk tour option ideal for cruise passengers with mobility concerns",
+      "Progressive dinner tour perfect for evening before late ship departure",
+      "Family-friendly with children 6+ who enjoy walking",
+      "Come hungry - substantial food samples throughout",
+      "Request dietary accommodations when booking",
+      "Highest-rated food tour in Lisbon - consistent five-star reviews",
+      "Book before cruise - popular tours sell out quickly",
+      "Weather-proof activity (operates rain or shine)"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "#1 rated food tour in Portugal (TripAdvisor, Google, Viator)",
+      "Small groups (maximum 12 guests) for personalized experience",
+      "Expert local guides with passion for Portuguese food and culture",
+      "4-5 carefully selected food and drink stops at authentic local spots",
+      "Family-owned restaurants and traditional establishments",
+      "Traditional Portuguese petiscos and regional specialties",
+      "Fresh seafood, bacalhau, presunto, artisan cheeses",
+      "Warm pastéis de nata from traditional bakeries",
+      "Portuguese wines, ginjinha, and craft beverages",
+      "Undiscovered neighborhoods: Mouraria (birthplace of Fado), Alfama, Baixa",
+      "Historical and cultural storytelling throughout",
+      "Support of local small businesses and food artisans",
+      "Food equivalent to full lunch or dinner included",
+      "Dietary restrictions accommodated (vegetarian, gluten-free, etc.)",
+      "Over 6,000 five-star reviews across platforms",
+      "Free cancellation 24 hours in advance",
+      "Multiple tour options: walking, tuk-tuk, progressive dinner"
+    ],
+    "facilities": [
+      "Small group sizes (max 12 participants)",
+      "Professional local guides fluent in English",
+      "Indoor and outdoor food stops",
+      "Restroom access at food stops",
+      "Rain or shine operation (bring umbrella if needed)",
+      "Comfortable walking pace with breaks at each stop",
+      "Photo opportunities throughout",
+      "Cultural context and storytelling",
+      "Support for questions and recommendations",
+      "Flexible dietary accommodation with advance notice"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Tours involve 2-3km walking on cobblestone streets, hills, and stairs in historic neighborhoods. Moderate fitness required. Not wheelchair accessible. Some food stops have stairs. Tuk Tuk Food Tour offers easier mobility option with less walking. Contact company for specific accessibility questions",
+      "visualAidServices": "Guides provide detailed verbal descriptions of food, neighborhoods, and sights",
+      "hearingAidServices": "Small group sizes allow guides to speak clearly and answer questions"
+    },
+    "languages": [
+      "English",
+      "Some tours bilingual English/Portuguese"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/lisbon-food-tour-hero.jpg",
+      "alt": "Group toasting with Portuguese wine on Lisbon food tour",
+      "caption": "Discover authentic Portuguese cuisine and culture with local expert guides in hidden Lisbon neighborhoods"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/lisbon-food-tour-1.jpg",
+        "alt": "Traditional Portuguese petiscos spread at family restaurant",
+        "caption": "Sample authentic Portuguese petiscos at traditional family-owned restaurants off the tourist path"
+      },
+      {
+        "url": "/images/attractions/lisbon-food-tour-2.jpg",
+        "alt": "Fresh pastel de nata Portuguese custard tarts",
+        "caption": "Taste warm pastéis de nata fresh from traditional bakery ovens in historic neighborhoods"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Alfama neighborhood",
+      "distance": "Walking tour route",
+      "type": "neighborhood",
+      "walkingTime": "Included in tour"
+    },
+    {
+      "name": "Mouraria (birthplace of Fado)",
+      "distance": "Walking tour route",
+      "type": "neighborhood",
+      "walkingTime": "Included in tour"
+    },
+    {
+      "name": "Lisbon Cathedral",
+      "distance": "500 meters",
+      "type": "cathedral",
+      "walkingTime": "7 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "800 meters",
+      "type": "castle",
+      "walkingTime": "12 minutes uphill"
+    },
+    {
+      "name": "Praça do Comércio",
+      "distance": "600 meters",
+      "type": "square",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Chiado shopping district",
+      "distance": "400 meters",
+      "type": "shopping",
+      "walkingTime": "5 minutes"
+    }
+  ],
+  "tags": [
+    "food-tour",
+    "culinary-experience",
+    "walking-tour",
+    "portuguese-cuisine",
+    "local-experience",
+    "cultural-immersion",
+    "wine-tasting",
+    "petiscos",
+    "pastel-de-nata",
+    "family-friendly",
+    "cruise-friendly",
+    "award-winning"
+  ],
+  "suitableFor": [
+    "foodies",
+    "couples",
+    "families-with-older-children",
+    "cruise-passengers",
+    "culture-enthusiasts",
+    "wine-lovers",
+    "experience-seekers",
+    "first-time-visitors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$$",
+  "rating": 5.0,
+  "reviewCount": 6700,
+  "reviewSource": "TripAdvisor/Google/Viator"
+}

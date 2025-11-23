@@ -1,0 +1,248 @@
+{
+  "id": "mosteiro-da-batalha",
+  "name": "Mosteiro da Batalha (Batalha Monastery)",
+  "tagline": "UNESCO masterpiece of Gothic and Manueline architecture, one of Portugal's Seven Wonders",
+  "type": "unesco-site",
+  "categories": [
+    "unesco-world-heritage",
+    "monastery",
+    "gothic-architecture",
+    "manueline-art",
+    "historic-monument",
+    "day-trip"
+  ],
+  "description": {
+    "short": "The Monastery of Batalha is a UNESCO World Heritage masterpiece of Portuguese Gothic and Manueline architecture, built to commemorate Portugal's 1385 victory over Castile at the Battle of Aljubarrota. One of Portugal's Seven Wonders, it showcases the stunning Royal Cloister, Founder's Chapel, and the enigmatic Unfinished Chapels.",
+    "full": "The Monastery of Batalha (officially the Monastery of Saint Mary of Victory) stands as one of Portugal's most magnificent architectural achievements and a symbol of national pride. Construction began in 1386 under King João I to fulfill a vow made before the decisive Battle of Aljubarrota (1385), where Portuguese forces defeated a much larger Castilian army, securing Portugal's independence. For over two centuries, successive Portuguese monarchs made the monastery their primary building project, employing the kingdom's finest architects and craftsmen. The result is an extraordinary fusion of Gothic and Manueline styles - Portugal's unique architectural contribution blending Gothic forms with maritime and natural motifs. The monastery complex includes the magnificent Church with its soaring nave and stunning stained glass windows, the Founder's Chapel containing the tomb of King João I and Queen Philippa of Lancaster (whose marriage cemented the Anglo-Portuguese Alliance, the world's oldest active treaty), the breathtaking Royal Cloister with its delicate Manueline tracery and arches that seem to float like lace carved in stone, the Chapter House with its unsupported vault (an engineering marvel for its time), and the mysterious Unfinished Chapels - an octagonal rotunda that remains incomplete despite its haunting beauty. Master architects including Afonso Domingues (who allegedly continued working even after going blind), Huguet, and Mateus Fernandes created innovations that influenced Portuguese architecture for centuries. The monastery also holds deep national significance as the resting place of the Unknown Soldier, guarded perpetually by the mutilated 'Christ of the Trenches' from WWI. Intricate stone carvings depict biblical scenes, Portuguese royalty, flora and fauna, nautical instruments, and symbols of Portugal's Age of Discovery. The stained glass windows fill the interior with colored light, creating an almost ethereal atmosphere. Every corner reveals masterful craftsmanship - from the main portal's sculptural program featuring Christ in Majesty surrounded by apostles and biblical figures, to the smallest carved details in capitals and corbels.",
+    "history": "King João I ordered construction in 1386 to commemorate the Battle of Aljubarrota and honor the Virgin Mary for Portugal's unlikely victory. The Dominican order was entrusted with the monastery. Master architect Afonso Domingues led initial construction (1388-1402), creating the church and Chapter House. Huguet succeeded him (1402-1438), adding the Royal Cloister and Founder's Chapel in elaborate Manueline style. Later architects including Fernão de Évora, Mateus Fernandes, and João de Castilho continued work through the reigns of multiple kings. King Manuel I (1495-1521) commissioned the Unfinished Chapels, but they were never completed, possibly due to Manuel shifting focus to the Jerónimos Monastery in Lisbon. The monastery remained with the Dominicans until religious orders were dissolved in Portugal in 1834. Major 19th and 20th-century restoration work, led by architects including Mouzinho de Albuquerque, preserved this national treasure. In 1921, the Chapter House became the final resting place of Portugal's Unknown Soldier. UNESCO designated Batalha a World Heritage Site in 1983.",
+    "significance": "One of Portugal's most important national monuments and one of the Seven Wonders of Portugal. UNESCO World Heritage Site since 1983. Represents the zenith of Portuguese Gothic and Manueline architecture. Symbol of Portuguese independence and national identity. Houses the tombs of several Portuguese kings and the Unknown Soldier. Demonstrates Portugal's architectural innovation during its Golden Age."
+  },
+  "location": {
+    "address": {
+      "street": "Largo Infante Dom Henrique",
+      "postal_code": "2440-109",
+      "neighborhood": "Batalha",
+      "city": "Batalha",
+      "region": "Leiria District, Central Portugal",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 39.6603,
+      "longitude": -8.8261
+    },
+    "directions": {
+      "general": "Located in the town of Batalha, Leiria district, 120 km north of Lisbon and 11 km from Fátima",
+      "fromCruisePort": "Organized tour from Lisbon (most convenient), or rent a car via A1/IC2 motorways (1 hour 40 minutes). Public transport requires bus with possible connections.",
+      "publicTransport": "Bus from Lisbon (Rede Expressos or FlixBus to Batalha, approximately 2 hours). From Porto: bus or train to Leiria, then local bus to Batalha. The monastery is central in Batalha town, easy walking from bus station.",
+      "parking": "Free parking available near the monastery. Additional parking in town center (5-minute walk)."
+    },
+    "distanceFromCruisePort": {
+      "meters": 125000,
+      "walkingTime": "Not applicable",
+      "drivingTime": "1 hour 40 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 244 765 497",
+    "email": "mbatalha@dgpc.pt",
+    "website": "http://www.mosteirobatalha.gov.pt/en/",
+    "bookingUrl": "https://www.patrimoniocultural.pt/en/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/MosteirodaBatalha",
+      "instagram": "https://www.instagram.com/mosteirobatalha"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Summer (April 1 - October 31)",
+          "days": "Daily",
+          "hours": "09:00 - 18:30",
+          "lastAdmission": "18:00"
+        },
+        {
+          "season": "Winter (November 1 - March 31)",
+          "days": "Daily",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ],
+      "closedDates": ["January 1", "Easter Sunday", "May 1", "December 25"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 6,
+      "youth": 3,
+      "child": 0,
+      "senior": 3,
+      "family": 15,
+      "lisboaCardFree": false,
+      "notes": "Children under 12 free. Youth/students 12-25: 3 EUR (ID required). Seniors 65+: 3 EUR. Family ticket: 15 EUR (2 adults + children under 18). Free admission: First Sunday of each month until 14:00. Combo ticket with Alcobaça Monastery available at discount."
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Weekday mornings (9:00-11:00) for fewer crowds and beautiful light through stained glass windows. Spring (April-May) and autumn (September-October) offer pleasant weather. First Sunday of month for free entry (expect crowds).",
+    "busyPeriods": [
+      "Weekends, especially Sundays",
+      "Summer months (July-August)",
+      "Easter and Christmas holidays",
+      "First Sunday of month (free admission)",
+      "Tour group arrivals (usually 10:00-15:00)"
+    ],
+    "adviceForVisitors": "Allow 1.5-2 hours for a thorough visit. Hire the audio guide (highly recommended) for rich historical context. Photography allowed without flash. The monastery is beautiful in morning light streaming through stained glass. Wear comfortable shoes - there's walking and uneven stone surfaces. Combine with Alcobaça Monastery (20 km) and/or Fátima (11 km) for a full day trip. The town of Batalha is small but has cafés and restaurants for lunch. Church area can be visited for free, but ticket needed for cloisters, chapels, and Chapter House - don't miss these! Respect the Unknown Soldier guard in Chapter House. Free parking available. Visit the small museum shop for books and souvenirs."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day (10-12 hours including travel, best combined with other Central Portugal sites)",
+    "accessibility": "Moderate - requires organized tour or car rental from Lisbon (1h 40min each way)",
+    "combinableWith": [
+      "Alcobaça Monastery UNESCO site (20 km, 20 minutes)",
+      "Fátima religious sanctuary (11 km, 15 minutes)",
+      "Nazaré beach and big waves (30 km, 25 minutes)",
+      "Óbidos medieval town (40 km, 35 minutes)",
+      "Tomar and Convent of Christ UNESCO site (70 km)"
+    ],
+    "tips": [
+      "Book organized 'Three Monasteries' or 'Fátima and Batalha' tour from Lisbon",
+      "Ideal to combine with Alcobaça Monastery and Fátima for full day",
+      "Can also combine with Nazaré for 'UNESCO and Big Waves' day trip",
+      "Rent a car if you want flexibility to explore Central Portugal",
+      "Audio guide essential for understanding the rich history and architecture",
+      "The Unfinished Chapels are hauntingly beautiful - don't miss them",
+      "Look for intricate Manueline details: nautical ropes, coral, armillary spheres",
+      "The Royal Cloister is one of Portugal's most photographed spaces",
+      "Founder's Chapel contains tombs of King João I and his English queen Philippa",
+      "Chapter House vault was an engineering miracle - unsupported span",
+      "Observe the guard honoring the Unknown Soldier - very solemn",
+      "Free admission first Sunday of month if you're on a budget",
+      "Combine with Alcobaça (another UNESCO monastery) - combo ticket available",
+      "Visit early morning or late afternoon for best light and fewer crowds",
+      "Not ideal for very short port calls - requires full day commitment from Lisbon"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "UNESCO World Heritage Site and one of Portugal's Seven Wonders",
+      "Royal Cloister - masterpiece of Manueline Gothic architecture",
+      "Founder's Chapel with tombs of King João I and Queen Philippa of Lancaster",
+      "Unfinished Chapels - mysterious octagonal rotunda",
+      "Chapter House with unsupported vaulted ceiling (engineering marvel)",
+      "Main portal with Christ in Majesty and elaborate sculptural program",
+      "Stunning stained glass windows flooding interior with colored light",
+      "Tomb of Unknown Soldier with eternal flame (guarded honor)",
+      "Intricate Manueline stone carvings: ropes, coral, armillary spheres",
+      "Lavabo (washing fountain) with elaborate decoration",
+      "Kings' Cloisters (Cloister of Afonso V)",
+      "Church nave with soaring Gothic arches",
+      "Prince Henry the Navigator's tomb",
+      "Beautiful gardens and peaceful courtyards",
+      "National Pantheon status for Portuguese royalty"
+    ],
+    "facilities": [
+      "Audio guides (highly recommended, multiple languages)",
+      "Museum shop with books and souvenirs",
+      "Information desk with multilingual staff",
+      "Restrooms",
+      "Benches and seating in cloisters",
+      "Free parking nearby",
+      "Accessibility ramps (partial)",
+      "Nearby cafés and restaurants in Batalha town",
+      "Free WiFi in some areas",
+      "Coat check in winter"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Partially accessible. Church, Founder's Chapel, and Royal Cloister accessible via ramps. Some areas (Unfinished Chapels, upper levels) involve stairs and may be difficult. Cobblestone surfaces. Wheelchairs available on request. Contact in advance for assistance.",
+      "visualAidServices": "Audio guides with detailed descriptions available",
+      "hearingAidServices": "Visual information panels throughout; some hearing loops available"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/mosteiro-da-batalha-hero.jpg",
+      "alt": "Batalha Monastery facade with Gothic spires and flying buttresses",
+      "caption": "The magnificent facade of Batalha Monastery, a UNESCO World Heritage masterpiece of Portuguese Gothic architecture"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/mosteiro-da-batalha-1.jpg",
+        "alt": "Royal Cloister with delicate Manueline tracery arches",
+        "caption": "The Royal Cloister showcases the finest Manueline Gothic architecture in Portugal"
+      },
+      {
+        "url": "/images/attractions/mosteiro-da-batalha-2.jpg",
+        "alt": "Unfinished Chapels octagonal rotunda with open sky",
+        "caption": "The enigmatic Unfinished Chapels - a hauntingly beautiful incomplete masterpiece"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Alcobaça Monastery",
+      "distance": "20 km",
+      "type": "unesco-site",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "Fátima Sanctuary",
+      "distance": "11 km",
+      "type": "religious-site",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "Nazaré",
+      "distance": "30 km",
+      "type": "coastal-town",
+      "walkingTime": "25-minute drive"
+    },
+    {
+      "name": "Óbidos",
+      "distance": "40 km",
+      "type": "medieval-town",
+      "walkingTime": "35-minute drive"
+    },
+    {
+      "name": "Leiria Castle",
+      "distance": "11 km",
+      "type": "castle",
+      "walkingTime": "15-minute drive"
+    }
+  ],
+  "tags": [
+    "unesco",
+    "monastery",
+    "gothic-architecture",
+    "manueline",
+    "history",
+    "seven-wonders-of-portugal",
+    "day-trip",
+    "photography",
+    "cultural-heritage",
+    "royal-tombs"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "photographers",
+    "culture-seekers",
+    "all-visitors",
+    "students",
+    "families"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewCount": 15800,
+  "reviewSource": "TripAdvisor/Google"
+}

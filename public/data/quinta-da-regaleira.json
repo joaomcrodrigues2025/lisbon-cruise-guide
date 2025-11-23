@@ -1,0 +1,257 @@
+{
+  "id": "quinta-da-regaleira",
+  "name": "Quinta da Regaleira",
+  "tagline": "Mystical estate with enigmatic gardens, mysterious initiation wells, and Gothic palace",
+  "type": "estate",
+  "categories": [
+    "estate",
+    "palace",
+    "gardens",
+    "historic-site",
+    "sintra-attractions",
+    "mystery",
+    "architecture"
+  ],
+  "description": {
+    "short": "A mystical 4-hectare estate in Sintra featuring an enigmatic Gothic palace, elaborate gardens filled with symbolism, underground tunnels, and the famous Initiation Well - a 27-meter inverted tower descending into the earth. Built in early 20th century by millionaire António Augusto Carvalho Monteiro.",
+    "full": "Quinta da Regaleira is one of Sintra's most enigmatic and fascinating estates, a masterpiece of mystery, symbolism, and architectural innovation. Built between 1904 and 1910 by the wealthy Brazilian-Portuguese millionaire António Augusto Carvalho Monteiro, known as 'Monteiro dos Milhões' (Monteiro of the Millions), the estate was designed by Italian architect Luigi Manini to embody the owner's interests in alchemy, Freemasonry, Knights Templar mythology, and esoteric Christianity. The centerpiece Gothic Revival palace features ornate facades, gargoyles, and intricate stone carvings. However, the estate's true magic lies in its elaborate gardens, which contain a complex system of underground tunnels, grottoes, and mysterious structures rich in symbolic meaning. The most famous feature is the Initiation Well (Poço Iniciático), a 27-meter deep spiral staircase descending into the earth like an inverted tower, with nine platforms representing Dante's nine circles of Hell, Paradise, and Purgatory. The well connects to other grottoes and tunnels through a labyrinthine network representing an initiatory journey. The estate also features the Unfinished Well, the Waterfall Lake, the Portal of the Guardians, numerous fountains and pools, and lush vegetation creating an atmosphere of mystery and enchantment. Listed as World Heritage by UNESCO as part of the Cultural Landscape of Sintra, Quinta da Regaleira captivates visitors with its blend of natural beauty, architectural splendor, and esoteric symbolism.",
+    "history": "The land where Quinta da Regaleira stands has been inhabited since prehistoric times, but the estate's current form dates to the early 20th century. In 1892, the property was acquired by António Augusto Carvalho Monteiro (1848-1920), a wealthy entrepreneur who made his fortune in Brazilian coffee and precious stones. Fascinated by esoteric philosophy, Freemasonry, alchemy, and Knights Templar mythology, Monteiro commissioned Italian architect and set designer Luigi Manini to design an estate that would embody his philosophical and mystical interests. Between 1904 and 1910, Manini created the Gothic Revival palace and the elaborate gardens filled with esoteric symbolism. The Initiation Well, inspired by Masonic initiation rituals, became the estate's most iconic feature. After Monteiro's death in 1920, the property passed through various owners, including the Companhia Portuguesa da Regaleira and later the Aoki Corporation. In 1997, the Sintra Town Council acquired the estate to preserve it as a cultural heritage site. Following extensive restoration work, Quinta da Regaleira opened to the public in 1998 and has since become one of Portugal's most visited monuments. In 1995, it was included in UNESCO's World Heritage classification as part of the Cultural Landscape of Sintra.",
+    "significance": "Quinta da Regaleira represents one of the most important examples of revivalist architecture in Portugal and a unique expression of early 20th-century esoteric and symbolic thinking. The estate is a UNESCO World Heritage Site and stands as an extraordinary testament to the integration of architecture, landscape design, and philosophical symbolism. Its underground tunnel network and Initiation Well are unparalleled in European garden architecture. The estate has become a cultural icon, appearing in films, books, and inspiring contemporary artists, making it an essential destination for understanding Portugal's Romantic and esoteric heritage."
+  },
+  "location": {
+    "address": {
+      "street": "Rua Barbosa du Bocage",
+      "postal_code": "2710-567",
+      "neighborhood": "Historic Center",
+      "city": "Sintra",
+      "region": "Lisbon District",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7962,
+      "longitude": -9.3961
+    },
+    "directions": {
+      "general": "Located in Sintra historic town center, walking distance from Sintra National Palace and train station. Entrance on Rua Barbosa du Bocage.",
+      "fromCruisePort": "From Lisbon cruise port: Train from Rossio Station to Sintra (40 min), then 10-minute walk to entrance. Or organized shore excursion. Total journey 60-90 minutes.",
+      "publicTransport": "Train from Lisbon Rossio to Sintra station (40 min). Then 10-minute walk through historic center. Well signposted from station.",
+      "parking": "Limited street parking near entrance. Public parking in Sintra town center (5-10 minute walk). Parking fills quickly - arrive early or use public transport."
+    },
+    "distanceFromCruisePort": {
+      "meters": 35000,
+      "walkingTime": "Not walkable - too far",
+      "drivingTime": "40-50 minutes by car, 60-90 minutes by public transport"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 910 6650",
+    "email": "geral@cultursintra.pt",
+    "website": "https://www.regaleira.pt/en/",
+    "bookingUrl": "https://regaleira.byblueticket.pt/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/quintadaregaleira",
+      "instagram": "https://www.instagram.com/quintadaregaleira.oficial/",
+      "twitter": "https://twitter.com/QuintaRegaleira"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "April-September",
+          "days": "Daily",
+          "hours": "09:30 - 19:00 (last admission 18:00)",
+          "lastAdmission": "18:00"
+        },
+        {
+          "season": "October-March",
+          "days": "Daily",
+          "hours": "09:30 - 18:00 (last admission 17:00)",
+          "lastAdmission": "17:00"
+        }
+      ],
+      "closedDates": ["December 25", "January 1"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 12,
+      "youth": 7,
+      "child": 7,
+      "senior": 7,
+      "family": 30,
+      "lisboaCardFree": false,
+      "notes": "Children under 6 free. Youth/student 6-17 years. Seniors 65+. Family ticket: 2 adults + 2 children (6-17). Discounts for online booking. Time-slot entry system implemented - book specific entry time online."
+    },
+    "averageVisitDuration": "2-3 hours",
+    "bestTimeToVisit": "Weekday mornings (9:30-11:00) for fewer crowds and best lighting in tunnels. Spring (March-May) and fall (September-October) for pleasant weather. Book earliest time slots available online. Avoid weekends and Portuguese holidays.",
+    "busyPeriods": [
+      "Weekends year-round",
+      "Summer months (June-August)",
+      "Portuguese holidays",
+      "Midday hours (12:00-15:00)"
+    ],
+    "adviceForVisitors": "MUST book tickets online in advance with specific time slot - essential requirement since 2024. Wear comfortable walking shoes suitable for wet surfaces - tunnels and wells can be damp and slippery. Bring flashlight/phone for underground tunnels (though some lighting exists). Allow minimum 2-3 hours to explore fully. Download audio guide app before arrival for self-guided tour. Explore systematically - follow map to avoid missing hidden features. Don't rush - atmosphere and details reward slow exploration. Bring water - limited facilities in gardens. Photography allowed throughout. Combine with other Sintra attractions for full day."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half-day excursion minimum (4-5 hours from port) or full-day combined with other Sintra sites (7-8 hours)",
+    "accessibility": "Good - easier to reach than hilltop palaces. Located in Sintra town center, 10-minute walk from train station.",
+    "combinableWith": [
+      "Palácio da Pena",
+      "Castelo dos Mouros",
+      "Palácio de Monserrate",
+      "Sintra National Palace",
+      "Sintra historic town center"
+    ],
+    "tips": [
+      "ESSENTIAL: Book time-slot ticket online before your cruise - entry without pre-booking not guaranteed",
+      "Most accessible Sintra attraction from train station - perfect for limited time",
+      "Unique experience - unlike any other European palace or garden",
+      "Combine with Pena Palace for ultimate Sintra day trip",
+      "Wear non-slip shoes - underground tunnels can be wet and dark",
+      "Bring phone/flashlight for tunnel exploration",
+      "Perfect for adventurous families and mystery lovers",
+      "Less physically demanding than hilltop palaces",
+      "Download free audio guide app: 'Quinta da Regaleira Guide'",
+      "Allow 2.5-3 hours minimum to explore properly - don't rush",
+      "Great photo opportunities but respect low-light areas",
+      "Underground tunnels stay cool - bring light jacket"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Initiation Well (Poço Iniciático) - 27-meter spiral descent into earth",
+      "Elaborate underground tunnel network connecting estate features",
+      "Gothic Revival palace with ornate stone carvings and gargoyles",
+      "Unfinished Well - mysterious inverted tower",
+      "Waterfall Lake and grottoes",
+      "Portal of the Guardians with mythological sculptures",
+      "Chapel with Templar symbolism and esoteric iconography",
+      "Lush botanical gardens with rare plants",
+      "Regaleira Tower - panoramic viewpoint",
+      "Labyrinthine paths filled with Masonic and alchemical symbols",
+      "Lakes, fountains, and aquatic features throughout",
+      "UNESCO World Heritage Site - Cultural Landscape of Sintra"
+    ],
+    "facilities": [
+      "Gift shop with books, souvenirs, and esoteric items",
+      "Small café near entrance",
+      "Restrooms at entrance",
+      "Free audio guide app downloadable",
+      "Guided tours available (pre-booking required)",
+      "Free Wi-Fi at entrance area",
+      "Luggage storage not available - travel light",
+      "Benches and rest areas throughout gardens",
+      "Well-marked walking paths and maps provided",
+      "Photography allowed everywhere"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Very limited wheelchair accessibility. Gardens feature steep staircases, narrow underground tunnels, uneven paths, and the famous Initiation Well requires descending 9 levels of spiral stairs. Palace interior has multiple floors with no elevator. Visitors with mobility limitations can access limited ground-level garden areas but will miss majority of main attractions. Contact in advance for accessible route information.",
+      "visualAidServices": "Audio guide app with detailed descriptions; guided tours can accommodate visually impaired with advance notice",
+      "hearingAidServices": "Visual information displays; self-guided exploration possible without audio"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/quinta-da-regaleira-hero.jpg",
+      "alt": "The famous Initiation Well at Quinta da Regaleira with spiral staircase descending into earth",
+      "caption": "The iconic Initiation Well - a 27-meter inverted tower symbolizing an esoteric journey"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/quinta-da-regaleira-1.jpg",
+        "alt": "Gothic Revival palace facade of Quinta da Regaleira",
+        "caption": "The ornate Gothic palace with intricate stone carvings and gargoyles"
+      },
+      {
+        "url": "/images/attractions/quinta-da-regaleira-2.jpg",
+        "alt": "Underground tunnel network at Quinta da Regaleira",
+        "caption": "Mysterious underground tunnels connecting the estate's hidden features"
+      },
+      {
+        "url": "/images/attractions/quinta-da-regaleira-3.jpg",
+        "alt": "Waterfall and grotto in the gardens",
+        "caption": "Enchanted gardens with waterfalls, grottos, and lush vegetation"
+      },
+      {
+        "url": "/images/attractions/quinta-da-regaleira-4.jpg",
+        "alt": "Aerial view of the Initiation Well showing spiral design",
+        "caption": "Looking down into the Initiation Well's nine spiral platforms"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Sintra National Palace",
+      "distance": "400 meters",
+      "type": "palace",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Sintra Train Station",
+      "distance": "800 meters",
+      "type": "transport",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Palácio da Pena",
+      "distance": "3 km",
+      "type": "palace",
+      "walkingTime": "Not recommended - take bus or taxi"
+    },
+    {
+      "name": "Castelo dos Mouros",
+      "distance": "2.5 km",
+      "type": "castle",
+      "walkingTime": "Not recommended - take bus"
+    },
+    {
+      "name": "Sintra Historic Center",
+      "distance": "200 meters",
+      "type": "historic-district",
+      "walkingTime": "3 minutes"
+    }
+  ],
+  "tags": [
+    "estate",
+    "gardens",
+    "mystery",
+    "initiation-well",
+    "sintra",
+    "unesco-heritage",
+    "gothic-architecture",
+    "esoteric",
+    "tunnels",
+    "adventure",
+    "must-see",
+    "photography",
+    "historic-site"
+  ],
+  "suitableFor": [
+    "mystery-lovers",
+    "photographers",
+    "history-enthusiasts",
+    "adventurous-families",
+    "garden-enthusiasts",
+    "architecture-lovers",
+    "esoteric-interested",
+    "all-visitors"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewCount": 52000,
+  "reviewSource": "TripAdvisor/Google"
+}

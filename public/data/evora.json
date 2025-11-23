@@ -1,0 +1,265 @@
+{
+  "id": "evora",
+  "name": "Évora",
+  "tagline": "UNESCO World Heritage city with 2,000 years of history, Roman ruins, and the haunting Chapel of Bones",
+  "type": "historic-city",
+  "categories": [
+    "unesco-world-heritage",
+    "historic-city",
+    "roman-ruins",
+    "medieval-town",
+    "day-trip",
+    "cultural-heritage"
+  ],
+  "description": {
+    "short": "Évora is a beautifully preserved UNESCO World Heritage city in Portugal's Alentejo region, showcasing 2,000 years of history through Roman ruins including the Temple of Diana, medieval walls, a stunning Gothic cathedral, Renaissance palaces, and the macabre Capela dos Ossos (Chapel of Bones) decorated with 5,000 human skulls and bones.",
+    "full": "Évora stands as one of Portugal's most captivating historic cities, often called a 'museum city' where every street reveals layers of history spanning from Roman times to the Renaissance. The entire historic center has been a UNESCO World Heritage Site since 1986, recognized for its exceptional state of preservation and unique blend of architectural styles. Founded as a Roman settlement in the 1st century BC on a strategic hilltop, Évora grew into an important military and administrative center. Today, visitors can still admire the remarkably preserved Roman Temple (Temple of Diana, 1st century AD), one of the best-preserved Roman structures on the Iberian Peninsula, with its striking granite Corinthian columns. The city reached its zenith in the 15th-16th centuries when Portuguese kings made Évora their preferred residence, transforming it into a major cultural and intellectual center. This Golden Age produced magnificent monuments including the imposing Sé Cathedral (begun 1186), one of Portugal's most important Gothic buildings with its fortress-like exterior, stunning rose window, beautiful cloisters, and rooftop terrace offering panoramic city views. The Royal Palace (now partially ruins but still impressive), the University of Évora (founded 1559 by Jesuits, Portugal's second-oldest university with beautiful azulejo-tiled classrooms), and numerous Renaissance palaces and churches. But Évora's most famous and haunting attraction is the Capela dos Ossos (Chapel of Bones), part of the Igreja de São Francisco. Created by Franciscan monks in the late 16th century, the chapel's walls and columns are completely covered with carefully arranged human bones and skulls - estimated at 5,000 complete skeletons - gathered from overcrowded medieval cemeteries. The entrance inscription warns: 'We bones that are here, await yours.' This macabre reminder of mortality includes two desiccated whole bodies (one adult, one child) hanging in the chapel, creating an unforgettable and contemplative experience. Beyond these major sites, Évora enchants with its maze of narrow cobblestone streets lined with whitewashed houses trimmed in blue and yellow, Renaissance fountains, aristocratic mansions, traditional shops, and excellent Alentejo cuisine. The University's historic azulejo-covered classrooms are architectural gems. The charming Praça do Giraldo, the main square, buzzes with cafés where locals gather. The medieval city walls, dating from the 14th century, still encircle the historic center. Archaeological sites include Roman baths, the ancient aqueduct (Aqueduto da Água de Prata), and pre-historic megaliths like the Almendres Cromlech (8 km from the city). Évora is also the gateway to the Alentejo wine region, known for excellent full-bodied reds. The region's cuisine features hearty dishes like açorda (bread-based stew), game meats, and incredible olive oils. The climate is Mediterranean with hot, dry summers and mild winters - very different from Lisbon's Atlantic coast. Évora offers a completely different pace and atmosphere from Lisbon - more intimate, relaxed, deeply rooted in tradition and history.",
+    "history": "Évora's history spans over 2,000 years. Founded as 'Ebora' by the Romans in 1st century BC, it became an important military and trade center on the road between Lisbon and Mérida (Spain). The imposing Roman Temple dates from this era. After the fall of Rome, Évora was conquered by Visigoths (5th century), then Moors (8th century) who ruled for over 400 years, leaving architectural and cultural influence. Christian reconquest came in 1165 when Portuguese knight Geraldo Sem Pavor ('Gerald the Fearless') captured the city. Medieval Évora flourished as a trade center and received royal charters. The 15th-16th centuries marked Évora's Golden Age when Portuguese kings João II, Manuel I, and João III made it a favored royal residence. The University was founded in 1559, attracting intellectuals across Europe. The city became a center of arts, sciences, and culture. The Capela dos Ossos was created in the late 16th century. However, Évora's importance declined when Spain occupied Portugal (1580-1640) and the capital returned permanently to Lisbon. The Jesuits were expelled in 1759, closing the University until its re-opening in 1973. Today, Évora is the capital of Alentejo region, an important agricultural center, and one of Portugal's top tourist destinations.",
+    "significance": "UNESCO World Heritage Site since 1986, recognized as one of Europe's best-preserved medieval cities. Often called the 'Museum City' for its exceptional concentration of historic monuments spanning 2,000 years. Capital of the Alentejo region. Home to Portugal's second-oldest university. One of Portugal's most important cultural and architectural treasures."
+  },
+  "location": {
+    "address": {
+      "street": "N/A (Historic City)",
+      "postal_code": "7000",
+      "neighborhood": "Historic Center",
+      "city": "Évora",
+      "region": "Alentejo, Évora District",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.5714,
+      "longitude": -7.9087
+    },
+    "directions": {
+      "general": "Located in the Alentejo region, 130 km east of Lisbon, approximately 90 minutes by car or 1.5-2 hours by bus/train",
+      "fromCruisePort": "Organized tour from Lisbon (most convenient), or rent a car via A2/A6 motorways (1h 30min). Bus from Lisbon Sete Rios (1h 30min, hourly). Train from Lisbon Oriente (1h 33min, 4 daily).",
+      "publicTransport": "Bus: Rede Expressos or FlixBus from Lisbon Sete Rios or Campo Grande to Évora bus terminal (1h 20-30min, hourly, 4-15 EUR). Train: Comboios de Portugal from Lisboa Oriente to Évora station (1h 33min, 4 daily, 8-19 EUR). From bus/train station to historic center: 10-15 minute walk or short taxi ride.",
+      "parking": "Limited parking inside historic center (narrow medieval streets). Use parking lots outside city walls (free or low-cost), then walk 5-10 minutes to center. Street parking around Praça do Giraldo."
+    },
+    "distanceFromCruisePort": {
+      "meters": 130000,
+      "walkingTime": "Not applicable",
+      "drivingTime": "1 hour 30 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 266 777 071",
+    "email": "turismo@cm-evora.pt",
+    "website": "https://www.cm-evora.pt/en/",
+    "bookingUrl": "https://www.visitportugal.com/en/destinos/alentejo/evora",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/VisitEvora",
+      "instagram": "https://www.instagram.com/visit_evora"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "City open year-round; individual monuments have specific hours",
+      "seasonal": [
+        {
+          "season": "Capela dos Ossos (Chapel of Bones)",
+          "days": "Daily",
+          "hours": "09:00 - 18:30 (summer), 09:00 - 17:00 (winter)",
+          "lastAdmission": "30 minutes before closing"
+        },
+        {
+          "season": "Roman Temple",
+          "days": "Daily",
+          "hours": "24/7 (outdoor monument)",
+          "lastAdmission": "N/A"
+        },
+        {
+          "season": "Cathedral (Sé)",
+          "days": "Daily except Monday mornings",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        },
+        {
+          "season": "University",
+          "days": "Daily",
+          "hours": "09:30 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ],
+      "closedDates": ["Major monuments closed: January 1, Easter Sunday, May 1, December 25"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Walking the historic center is free. Individual monument prices: Capela dos Ossos 5 EUR (includes Igreja de São Francisco), Roman Temple free (outdoor), Cathedral 4 EUR (includes cloister and rooftop), University 3 EUR, combined ticket for all monuments available at ~12 EUR. Children often free or reduced rates."
+    },
+    "averageVisitDuration": "Full day (6-8 hours minimum)",
+    "bestTimeToVisit": "Spring (March-May) and autumn (September-November) for pleasant weather - Alentejo summers are extremely hot (often 35-40°C). Weekdays less crowded than weekends. Morning or late afternoon for photography (avoid harsh midday sun). First week of September has city festivals.",
+    "busyPeriods": [
+      "Weekends year-round",
+      "Easter week",
+      "Summer months (July-August, very hot)",
+      "June (Santo António festival)",
+      "First Sunday of October (Grape Harvest festival)"
+    ],
+    "adviceForVisitors": "Allow full day minimum to explore properly. Wear comfortable walking shoes - cobblestone streets and hills. Summer is brutally hot (35-40°C) - visit early morning or late afternoon, bring hat and water. Many monuments close for lunch (13:00-14:00). The Capela dos Ossos is genuinely macabre - not for everyone, especially young children. Try Alentejo cuisine: açorda, migas, black pork, lamb dishes. Sample local wines - Alentejo produces excellent reds. Book accommodation in advance during festivals and summer. The historic center is compact - easy to explore on foot in one day. Cathedral rooftop offers best panoramic views (worth the climb). Buy combined monument ticket if visiting several sites. Free walking tours available from tourist office. Some restaurants close Sundays/Mondays. Download offline maps - some areas have weak signal. The city is safe and walkable. Don't miss University's azulejo classrooms."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full day (10-12 hours including 3 hours round-trip travel)",
+    "accessibility": "Moderate - requires organized tour, car rental, or public transport from Lisbon (1.5-2 hours each way)",
+    "combinableWith": [
+      "Monsaraz (50 km, medieval hilltop village)",
+      "Almendres Cromlech (8 km, megalithic stone circle)",
+      "Cromeleque dos Almendres (prehistoric site)",
+      "Alentejo wine estates and vineyards",
+      "Arraiolos (carpet village, 20 km)",
+      "Estremoz (marble town, 50 km)"
+    ],
+    "tips": [
+      "Book organized 'Évora and Alentejo' day tour from Lisbon for convenience",
+      "Alternatively, take morning train/bus from Lisbon, return late afternoon",
+      "Start at Praça do Giraldo (main square) and explore from there",
+      "Visit Capela dos Ossos early to avoid crowds (opens 9:00 AM)",
+      "Climb Cathedral rooftop for panoramic views (well worth 4 EUR)",
+      "University azulejo classrooms are architectural gems - don't miss",
+      "Roman Temple is free and impressive - great for photos",
+      "Lunch at traditional Alentejo restaurant (try black pork, açorda)",
+      "Sample Alentejo red wines - region produces excellent full-bodied reds",
+      "Walk the medieval city walls for unique perspective",
+      "Weather note: Summer is extremely hot (35-40°C) - visit spring/autumn if possible",
+      "Bring sun protection, hat, comfortable shoes, and water bottle",
+      "Many shops/monuments close 13:00-14:00 for lunch",
+      "Combined monument ticket saves money if visiting multiple sites",
+      "Évora is compact - entire historic center walkable in 3-4 hours",
+      "Allow 6-8 hours minimum including monuments, lunch, and atmosphere",
+      "Not ideal for very short port calls - requires full day from Lisbon",
+      "Consider overnight stay to fully experience Évora's charm and nightlife"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Capela dos Ossos (Chapel of Bones) - walls covered with 5,000 human skeletons",
+      "Roman Temple (Temple of Diana) - remarkably preserved 1st-century columns",
+      "Sé Cathedral - massive Gothic cathedral with fortress exterior and rooftop views",
+      "UNESCO World Heritage historic center - exceptionally preserved",
+      "University of Évora - beautiful 16th-century azulejo-covered classrooms",
+      "Medieval city walls (14th century) encircling historic center",
+      "Praça do Giraldo - elegant main square with Renaissance fountain",
+      "Igreja de São Francisco - late Gothic church housing Chapel of Bones",
+      "Aqueduto da Água de Prata - 16th-century aqueduct by Francisco de Arruda",
+      "Roman Baths archaeological site",
+      "Church of São João Evangelista (Lóios) with blue-and-white azulejo walls",
+      "Giraldo Square arcade architecture",
+      "Almendres Cromlech (8 km) - megalithic stone circle older than Stonehenge",
+      "Whitewashed houses with blue/yellow trim throughout old town",
+      "Authentic Alentejo cuisine and wine culture"
+    ],
+    "facilities": [
+      "Tourist information office at Praça do Giraldo",
+      "Public restrooms at main monuments and squares",
+      "Numerous traditional restaurants and cafés",
+      "Hotels, pousadas, and guesthouses (book in advance)",
+      "Souvenir shops selling local crafts, cork products, ceramics",
+      "Wine shops and tasting rooms",
+      "Free walking tours (check tourist office)",
+      "Parking lots outside city walls",
+      "ATMs and banks",
+      "Pharmacies and medical services",
+      "Bike rentals",
+      "Markets (Saturday morning market particularly good)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Limited accessibility due to medieval layout. Cobblestone streets, steep hills, narrow sidewalks, and steps at many monuments. Roman Temple (outdoor) accessible. Cathedral and some churches have steps. Chapel of Bones has stairs. Main square and some streets manageable with assistance. Not ideal for wheelchairs or limited mobility.",
+      "visualAidServices": "Limited",
+      "hearingAidServices": "Limited"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/evora-hero.jpg",
+      "alt": "Roman Temple of Diana with Corinthian columns in Évora historic center",
+      "caption": "The remarkably preserved 1st-century Roman Temple dominates Évora's UNESCO World Heritage historic center"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/evora-1.jpg",
+        "alt": "Capela dos Ossos interior with walls covered in human bones and skulls",
+        "caption": "The macabre Capela dos Ossos - walls and columns decorated with 5,000 human skeletons"
+      },
+      {
+        "url": "/images/attractions/evora-2.jpg",
+        "alt": "Évora Cathedral (Sé) fortress-like Gothic exterior",
+        "caption": "The imposing Sé Cathedral, one of Portugal's most important Gothic buildings"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Almendres Cromlech",
+      "distance": "8 km",
+      "type": "megalithic-site",
+      "walkingTime": "15-minute drive"
+    },
+    {
+      "name": "Monsaraz",
+      "distance": "50 km",
+      "type": "medieval-village",
+      "walkingTime": "45-minute drive"
+    },
+    {
+      "name": "Arraiolos",
+      "distance": "20 km",
+      "type": "village",
+      "walkingTime": "20-minute drive"
+    },
+    {
+      "name": "Estremoz",
+      "distance": "50 km",
+      "type": "marble-town",
+      "walkingTime": "45-minute drive"
+    },
+    {
+      "name": "Alentejo Wine Route",
+      "distance": "Various",
+      "type": "wine-region",
+      "walkingTime": "Throughout region"
+    }
+  ],
+  "tags": [
+    "unesco",
+    "historic-city",
+    "roman-ruins",
+    "medieval",
+    "chapel-of-bones",
+    "cathedral",
+    "alentejo",
+    "day-trip",
+    "culture",
+    "wine-region",
+    "photography"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "culture-seekers",
+    "photographers",
+    "wine-lovers",
+    "foodies",
+    "all-visitors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewCount": 18400,
+  "reviewSource": "TripAdvisor/Google"
+}

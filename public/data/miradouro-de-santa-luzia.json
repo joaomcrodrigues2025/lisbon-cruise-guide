@@ -1,0 +1,252 @@
+{
+  "id": "miradouro-de-santa-luzia",
+  "name": "Miradouro de Santa Luzia",
+  "tagline": "Romantic terrace viewpoint adorned with bougainvillea and historic azulejo tiles",
+  "type": "viewpoint",
+  "categories": [
+    "viewpoint",
+    "miradouro",
+    "photography",
+    "romantic",
+    "historic"
+  ],
+  "description": {
+    "short": "The Miradouro de Santa Luzia is Lisbon's most romantic and beautifully landscaped viewpoint, featuring stunning azulejo tile panels, cascading bougainvillea, and panoramic views over Alfama's terracotta rooftops and the Tagus River. This intimate terrace offers a perfect blend of natural beauty and Portuguese cultural heritage.",
+    "full": "Nestled on a picturesque hillside terrace in the heart of historic Alfama, the Miradouro de Santa Luzia stands as one of Lisbon's most enchanting and photogenic viewpoints. Named after the adjacent 12th-century Church of Santa Luzia (also known as the Church of São Brás), this beautifully designed belvedere combines spectacular panoramic views with exquisite Portuguese decorative art and lush Mediterranean landscaping.\n\nThe viewpoint's most distinctive features are its magnificent azulejo tile panels - Portugal's iconic blue-and-white ceramic tiles - that adorn the walls of the Santa Luzia church facing the terrace. These historic panels are not merely decorative; they tell important stories from Lisbon's past. One particularly significant panel depicts the Terreiro do Paço (now Praça do Comércio) as it appeared before the devastating 1755 earthquake that destroyed much of Lisbon. This rare image shows the original royal palace and square in all their pre-earthquake glory. Another stunning panel illustrates the dramatic siege and reconquest of Lisbon in 1147, when Christian crusaders liberated the city from Moorish rule, capturing São Jorge Castle after a prolonged battle.\n\nThe terrace itself is a masterpiece of landscape design, featuring multiple levels with beautifully manicured gardens divided into geometric flower beds bordered by low hedges. Cascading purple and pink bougainvillea drapes elegantly over pergolas, creating natural archways and providing dappled shade. The gardens include palm trees, azalea bushes, and seasonal flowers that add color and fragrance to the space.\n\nTwo elegant colonnade pergolas with ornate ironwork offer shaded seating areas where visitors can relax on benches while admiring the sweeping views. The upper terrace provides the classic vista, while stairs lead down to a lower terrace featuring a charming wading pool surrounded by another pergola. This lower level offers similar views but framed through decorative circular iron windows - a photographer's delight.\n\nFrom the viewpoint, visitors enjoy a magnificent panorama encompassing Alfama's maze of terracotta-roofed houses cascading down to the shimmering Tagus River, the imposing white dome of the National Pantheon (Panteão Nacional), the baroque towers of São Vicente de Fora Church, the spires of São Miguel Church, and the river itself with boats gliding across its waters. The viewpoint also offers glimpses of the Tagus estuary where the river meets the Atlantic Ocean.\n\nThe romantic atmosphere is enhanced by the frequently present sounds of live music - street musicians often perform traditional Portuguese Fado and classical guitar, adding an authentic soundtrack to the visual feast. Small outdoor cafés nearby offer refreshments, allowing visitors to linger and soak in the ambiance.",
+    "history": "The Miradouro de Santa Luzia takes its name from the Church of Santa Luzia (also called the Church of São Brás), which dates back to the 12th century, built shortly after Lisbon's reconquest from Moorish rule in 1147. The church was largely rebuilt following the catastrophic 1755 Lisbon earthquake that destroyed much of the city. The viewpoint terrace was developed as a public space in the early 20th century, with the beautiful azulejo tile panels added to commemorate Lisbon's history. The church's exterior east wall, which faces the terrace, was decorated with these significant historical panels showing pre-earthquake Lisbon and the 1147 reconquest. The viewpoint has evolved into one of Alfama's most cherished public spaces.",
+    "significance": "Miradouro de Santa Luzia represents the perfect fusion of Lisbon's three great cultural treasures: stunning natural viewpoints (miradouros), historic azulejo tile art, and the romantic Alfama neighborhood. The azulejo panels serve as important historical documentation, preserving images of Lisbon's past that would otherwise be lost. The viewpoint has become an iconic symbol of Portuguese aesthetic sensibility - the harmonious combination of architecture, decorative arts, landscaping, and natural beauty that characterizes Portugal's best public spaces."
+  },
+  "location": {
+    "address": {
+      "street": "Largo Santa Luzia",
+      "postal_code": "1100-487",
+      "neighborhood": "Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7112,
+      "longitude": -9.1295
+    },
+    "directions": {
+      "general": "Located in Alfama district just below São Jorge Castle, directly adjacent to (2 minutes from) Miradouro das Portas do Sol",
+      "fromCruisePort": "From cruise terminal: 2.4km distance. Take Tram 28E which stops nearby, or walk uphill through Alfama (20-25 minutes steep climb). Taxi/Uber: 10 minutes. Blue metro line to Terreiro do Paço or Santa Apolónia, then Tram 28E or walk uphill",
+      "publicTransport": "Tram 28E stops very close (Miradouro Santa Luzia stop). Tram 12E also accessible. From cruise port: walk to Santa Apolónia metro/train station, Blue Line to Terreiro do Paço, then Tram 28E uphill, or walk through Alfama from Sé Cathedral (steep 10-minute climb)",
+      "parking": "Extremely limited in Alfama - narrow medieval streets. Not recommended. Use tram or taxi"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2400,
+      "walkingTime": "25-30 minutes (steep uphill through Alfama's cobblestone streets)",
+      "drivingTime": "10 minutes by taxi/Uber"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 173 200",
+    "email": "info@visitlisboa.com",
+    "website": "https://www.visitlisboa.com/en/places/miradouro-de-santa-luzia",
+    "bookingUrl": "Not required - free public viewpoint",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/visitlisboa",
+      "instagram": "https://www.instagram.com/visitlisboa/",
+      "twitter": "https://twitter.com/visitlisboa"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours (public viewpoint)",
+          "lastAdmission": "No closing time"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "lisboaCardFree": true,
+      "notes": "Completely FREE - public viewpoint accessible 24 hours daily. Nearby cafés have separate pricing for refreshments"
+    },
+    "averageVisitDuration": "20-45 minutes",
+    "bestTimeToVisit": "Early morning (8:00-10:00 AM) for soft golden light and peaceful atmosphere before crowds. Late afternoon (4:00-6:00 PM) for beautiful light and comfortable temperature. Sunrise for magical light and solitude. Avoid midday heat in summer. Less crowded than Portas do Sol despite being next door",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (10:00 AM-2:00 PM)",
+      "Weekends",
+      "Peak summer months (July-August)",
+      "Cruise ship days",
+      "After group tours from Portas do Sol"
+    ],
+    "adviceForVisitors": "Visit both Santa Luzia and Portas do Sol viewpoints (2 minutes apart) - each offers unique perspectives. Take time to read the historic azulejo panels showing pre-1755 earthquake Lisbon - fascinating historical documentation. The lower terrace with circular iron windows offers unique photo framing opportunities. Bougainvillea is most vibrant in spring and summer. Combine with visit to nearby Santa Luzia church (when open). Street musicians often perform Fado - atmosphere is magical. Explore the 'lover's seats' (bancos dos namorados) - unique tiled benches where two seats face each other for romantic conversations. The viewpoint has two levels connected by stairs - explore both for different perspectives. Small market vendors nearby sell cork products and textiles at reasonable prices. Watch for pickpockets in crowded times"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2 hours including travel time (easily combined with Portas do Sol and Alfama walk)",
+    "accessibility": "Moderate - requires uphill walk through Alfama or Tram 28E (often crowded). Viewpoint has stairs between levels",
+    "combinableWith": [
+      "Miradouro das Portas do Sol (2-minute walk)",
+      "São Jorge Castle (8-10 minute walk uphill)",
+      "Alfama neighborhood walking tour",
+      "Lisbon Cathedral - Sé (10-minute walk downhill)",
+      "Tram 28E scenic ride",
+      "National Pantheon (10-minute walk)",
+      "Fado restaurants in Alfama (evening)",
+      "Santa Luzia Church visit"
+    ],
+    "tips": [
+      "Most romantic viewpoint in Lisbon - perfect for couples",
+      "Completely FREE with world-class views and azulejo art",
+      "Visit BOTH Santa Luzia and Portas do Sol (2 minutes apart)",
+      "Historic azulejo panels are must-see - show Lisbon before 1755 earthquake",
+      "Less crowded than Portas do Sol despite being adjacent",
+      "Lower terrace offers unique photography through circular iron windows",
+      "Look for 'lover's seats' (bancos dos namorados) - tiled benches facing each other",
+      "Bougainvillea creates stunning purple/pink canopy in bloom season",
+      "Often has live Fado music performers adding to atmosphere",
+      "Take Tram 28E for authentic Lisbon experience getting here",
+      "Beautiful gardens with palm trees and seasonal flowers",
+      "Two-level terrace - explore both for different perspectives",
+      "Nearby small market has good prices on cork souvenirs",
+      "Combine with downhill walk through Alfama's charming streets",
+      "Excellent spot for engagement proposals - very romantic!",
+      "Photography tip: circular iron windows on lower terrace frame views beautifully"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Magnificent historic azulejo tile panels on church wall",
+      "Panel showing Praça do Comércio before 1755 earthquake",
+      "Panel depicting 1147 Christian reconquest of Lisbon",
+      "Cascading purple and pink bougainvillea over pergolas",
+      "Two-level terraced design with different perspectives",
+      "Unique circular iron windows framing views on lower level",
+      "Beautiful manicured gardens with geometric flower beds",
+      "Palm trees and azalea bushes",
+      "Elegant colonnaded pergolas with ornate ironwork",
+      "'Lover's seats' (bancos dos namorados) - facing tiled benches",
+      "Panoramic views of Alfama, National Pantheon, Tagus River",
+      "Small wading pool on lower terrace",
+      "Completely free 24/7 access",
+      "Romantic atmosphere enhanced by live Fado music",
+      "12th-century Santa Luzia church adjacent"
+    ],
+    "facilities": [
+      "Multi-level viewing terraces",
+      "Shaded pergola seating areas",
+      "Stone benches throughout",
+      "Landscaped gardens",
+      "Decorative azulejo tile displays",
+      "Stairs connecting upper and lower terraces",
+      "Small decorative wading pool",
+      "Adjacent church (visits when open)",
+      "Nearby café and market stalls",
+      "Public restrooms at nearby cafés",
+      "Street entertainment area"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Limited wheelchair accessibility due to stairs between terrace levels and steep approaches through Alfama. Main upper terrace is relatively flat once reached via Tram 28E, but lower terrace requires descending stairs. Uneven cobblestone surfaces. Best access for mobility-limited visitors is via taxi/Uber to nearest accessible point, but stairs remain obstacle between levels. Upper terrace only is partially accessible",
+      "visualAidServices": "Azulejo panels have raised relief elements. Clear panoramic views",
+      "hearingAidServices": "Primarily visual experience - historic tile panels and views"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/miradouro-de-santa-luzia-hero.jpg",
+      "alt": "Romantic terrace of Miradouro de Santa Luzia with bougainvillea-covered pergola and Alfama views",
+      "caption": "The romantic bougainvillea-draped pergola overlooking Alfama's terracotta rooftops"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/miradouro-de-santa-luzia-1.jpg",
+        "alt": "Historic azulejo tile panels showing pre-earthquake Lisbon and 1147 reconquest",
+        "caption": "Magnificent azulejo panels depicting Lisbon's history - a cultural treasure"
+      },
+      {
+        "url": "/images/attractions/miradouro-de-santa-luzia-2.jpg",
+        "alt": "Lower terrace circular iron windows framing Alfama views",
+        "caption": "Unique circular iron windows on lower terrace create perfect photo frames"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro das Portas do Sol",
+      "distance": "100 meters",
+      "type": "viewpoint",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Santa Luzia Church (São Brás)",
+      "distance": "Adjacent",
+      "type": "church",
+      "walkingTime": "Immediately adjacent"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "600 meters",
+      "type": "historic-castle",
+      "walkingTime": "8-10 minutes uphill"
+    },
+    {
+      "name": "Lisbon Cathedral (Sé)",
+      "distance": "550 meters",
+      "type": "cathedral",
+      "walkingTime": "10 minutes downhill"
+    },
+    {
+      "name": "National Pantheon",
+      "distance": "700 meters",
+      "type": "monument",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Alfama District",
+      "distance": "Immediate surroundings",
+      "type": "historic-neighborhood",
+      "walkingTime": "Within Alfama heart"
+    }
+  ],
+  "tags": [
+    "miradouro",
+    "viewpoint",
+    "romantic",
+    "azulejos",
+    "free",
+    "photography",
+    "historic",
+    "gardens",
+    "bougainvillea",
+    "must-see"
+  ],
+  "suitableFor": [
+    "couples",
+    "photographers",
+    "history-enthusiasts",
+    "art-lovers",
+    "romantic-outings",
+    "all-visitors",
+    "cruise-passengers",
+    "azulejo-enthusiasts"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewCount": 4280,
+  "reviewSource": "Google/TripAdvisor combined"
+}

@@ -1,0 +1,255 @@
+{
+  "id": "teleferico-de-lisboa",
+  "name": "Teleférico de Lisboa (Lisbon Cable Car)",
+  "tagline": "Soar above Parque das Nações with panoramic views of the Tagus River",
+  "type": "cable-car",
+  "categories": [
+    "cable-car",
+    "observation-ride",
+    "family-attraction",
+    "scenic-views",
+    "modern-attraction"
+  ],
+  "description": {
+    "short": "The Lisbon Cable Car offers a breathtaking 1,230-meter aerial journey along the Tagus River waterfront in Parque das Nações, providing stunning panoramic views of modern Lisbon, the Vasco da Gama Bridge, and the river estuary from comfortable enclosed gondolas.",
+    "full": "The Teleférico de Lisboa (Lisbon Cable Car) is one of the city's most scenic attractions, built for Expo '98 and still delighting visitors with spectacular aerial views of Parque das Nações and the Tagus River. The cable car system stretches 1,230 meters along the waterfront, reaching a maximum height of 30 meters above ground, offering unparalleled photographic opportunities of Lisbon's modern architectural district. The journey takes approximately 8-10 minutes one way, with enclosed gondolas that accommodate up to 8 passengers each, providing comfort and safety while you glide silently above the beautifully landscaped riverside promenade. From your aerial vantage point, you'll see the iconic Oceanário de Lisboa (one of Europe's largest aquariums), the striking Vasco da Gama Tower, the modern Oriente Station designed by Santiago Calatrava, and on clear days, the magnificent 17-kilometer Vasco da Gama Bridge stretching across the Tagus. The cable car operates in both directions, so you can choose to make it a one-way journey combined with a riverside walk, or enjoy the round-trip experience. The stations are located at the northern end near the Oceanário and the southern end near the Vasco da Gama Tower, both offering easy access to restaurants, shopping, and cultural attractions. Perfect for all ages, the cable car provides a unique perspective on this vibrant waterfront district that transformed Lisbon's eastern shoreline. The system uses modern Swiss-manufactured technology, ensuring smooth, quiet operation with minimal environmental impact.",
+    "history": "The Teleférico de Lisboa was constructed as part of Expo '98, the World's Fair that commemorated the 500th anniversary of Vasco da Gama's voyage to India and transformed a former industrial wasteland into Parque das Nações. Designed by Swiss cable car manufacturer Garaventa AG, the system opened in May 1998 and has transported millions of visitors since. The cable car became an integral part of the Expo '98 experience and remains a beloved feature of the redeveloped waterfront district.",
+    "significance": "As part of the Expo '98 legacy, the cable car represents Lisbon's successful urban regeneration and transformation into a modern European capital. It provides accessible views of one of the city's most ambitious development projects and connects major attractions along the Parque das Nações waterfront. The cable car system is an engineering achievement and a symbol of Lisbon's forward-thinking urban planning."
+  },
+  "location": {
+    "address": {
+      "street": "Passeio das Tágides",
+      "postal_code": "1990-280",
+      "neighborhood": "Parque das Nações",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7680,
+      "longitude": -9.0945
+    },
+    "directions": {
+      "general": "Located in Parque das Nações waterfront area, with stations at both northern end (near Oceanário) and southern end (near Vasco da Gama Tower)",
+      "fromCruisePort": "From Santa Apolónia cruise terminal, take metro Red Line to Oriente Station (15 minutes), then 5-minute walk to either cable car station. Or taxi (20 minutes)",
+      "publicTransport": "Metro Red Line to Oriente station, then short walk to cable car stations. Trains to Oriente station from multiple Lisbon stations. Buses 705, 725, 728, 744, 708, 750, 759, 782, 794",
+      "parking": "Vasco da Gama Shopping Center underground parking, or Parque das Nações public car parks along waterfront"
+    },
+    "distanceFromCruisePort": {
+      "meters": 6800,
+      "walkingTime": "Not recommended - use metro",
+      "drivingTime": "20 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 956 143",
+    "email": "info@telecabinelisboa.pt",
+    "website": "https://www.telecabinelisboa.pt/en/",
+    "bookingUrl": "https://www.telecabinelisboa.pt/en/tickets/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/telecabinelisboa",
+      "instagram": "https://www.instagram.com/telecabinelisboa/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Summer (April-September)",
+          "days": "Daily",
+          "hours": "10:00 - 20:00",
+          "lastAdmission": "19:50"
+        },
+        {
+          "season": "Winter (October-March)",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:50"
+        }
+      ],
+      "closedDates": [
+        "May close temporarily during strong winds for safety"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 6.50,
+      "youth": 3.50,
+      "child": 3.50,
+      "senior": 3.50,
+      "family": 18,
+      "lisboaCardFree": false,
+      "notes": "Adult one-way €6.50, round-trip €9.50. Children 4-12 years and seniors 65+ €3.50 one-way, €5.50 round-trip. Children under 4 free. Family ticket (2 adults + 2 children) €18 round-trip. Combined tickets with Oceanário available at discount. Lisboa Card holders receive 20% discount"
+    },
+    "averageVisitDuration": "20-30 minutes (round trip), 8-10 minutes one-way",
+    "bestTimeToVisit": "Late afternoon for stunning sunset views over the Tagus River. Weekday mornings less crowded. Clear weather days offer best visibility for photography",
+    "busyPeriods": [
+      "Weekends and holidays",
+      "Summer months June-September",
+      "Afternoons 14:00-17:00",
+      "Days when cruise ships are in port"
+    ],
+    "adviceForVisitors": "Purchase round-trip tickets for best value and to enjoy views in both directions. Sunset rides are spectacular but popular - arrive early. Gondolas are fully enclosed and air-conditioned, comfortable in all weather. Bring camera for amazing photo opportunities. Combined visit with Oceanário highly recommended. The cable car may close during high winds - check before visiting on very windy days. Wheelchairs and strollers welcome. Food and drinks not permitted in gondolas. Allow time to walk the beautiful riverside promenade. Vasco da Gama Shopping Center at southern station offers dining and shopping"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (3-4 hours including metro travel, cable car, and Parque das Nações exploration)",
+    "accessibility": "Excellent - easy metro access on Red Line to Oriente, then flat walk to stations",
+    "combinableWith": [
+      "Oceanário de Lisboa",
+      "Vasco da Gama Shopping Center",
+      "Parque das Nações waterfront walk",
+      "Pavilhão do Conhecimento (Science Museum)",
+      "Oriente Station architecture",
+      "Vasco da Gama Tower",
+      "Riverside dining"
+    ],
+    "tips": [
+      "Easy 15-minute metro ride from Santa Apolónia cruise terminal",
+      "Perfect combination with Oceanário visit",
+      "Spectacular views with minimal walking required",
+      "Suitable for all ages and mobility levels",
+      "Gondolas are enclosed - weather-protected experience",
+      "Great for photography enthusiasts",
+      "Modern, clean district with excellent facilities",
+      "Plenty of dining options at both ends",
+      "Round-trip recommended for scenic value",
+      "Consider sunset timing for magical lighting",
+      "Vasco da Gama Shopping Center perfect for last-minute souvenirs",
+      "Completely accessible for wheelchairs and strollers",
+      "Quick activity - ideal for short port stops",
+      "Combine with riverside walk for full waterfront experience"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "1,230-meter aerial journey along Tagus River waterfront",
+      "Panoramic views reaching 30 meters above ground",
+      "Stunning vistas of Vasco da Gama Bridge",
+      "Bird's-eye view of Oceanário de Lisboa",
+      "Modern Parque das Nações architecture from above",
+      "Tagus River estuary and waterfront views",
+      "Enclosed, climate-controlled gondolas",
+      "8-person capacity gondolas for comfort",
+      "Smooth, quiet Swiss engineering",
+      "Accessible for all ages and abilities",
+      "Spectacular sunset viewing opportunities",
+      "Views of Oriente Station and modern district"
+    ],
+    "facilities": [
+      "Two modern stations (north and south)",
+      "Ticket offices at both stations",
+      "Wheelchair-accessible boarding",
+      "Enclosed, air-conditioned gondolas",
+      "Safety systems and monitoring",
+      "Information displays",
+      "Multilingual staff",
+      "Restrooms at nearby venues",
+      "Shopping center access at southern station",
+      "Riverside promenade connection",
+      "Photo-friendly viewing",
+      "Covered waiting areas"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully wheelchair accessible at both stations with level boarding platforms. Gondolas accommodate wheelchairs and strollers with ease. Staff available to assist with boarding. Wide doors and spacious gondola interiors. No steps or barriers throughout experience",
+      "visualAidServices": "Audio announcements in gondolas describing route and landmarks",
+      "hearingAidServices": "Visual displays and signage throughout stations"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/teleferico-de-lisboa-hero.jpg",
+      "alt": "Lisbon Cable Car gondolas above Parque das Nações waterfront",
+      "caption": "Spectacular aerial views of the Tagus River and Vasco da Gama Bridge from Teleférico de Lisboa"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/teleferico-de-lisboa-1.jpg",
+        "alt": "Cable car gondola with Oceanário in background",
+        "caption": "Gliding above Parque das Nações with views of the iconic Oceanário"
+      },
+      {
+        "url": "/images/attractions/teleferico-de-lisboa-2.jpg",
+        "alt": "Panoramic view of Vasco da Gama Bridge from cable car",
+        "caption": "Stunning perspective of Europe's longest bridge spanning the Tagus River"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Oceanário de Lisboa",
+      "distance": "100 meters",
+      "type": "aquarium",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Pavilhão do Conhecimento",
+      "distance": "300 meters",
+      "type": "science-museum",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "Vasco da Gama Tower",
+      "distance": "50 meters",
+      "type": "landmark",
+      "walkingTime": "1 minute"
+    },
+    {
+      "name": "Vasco da Gama Shopping Center",
+      "distance": "200 meters",
+      "type": "shopping",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Oriente Station",
+      "distance": "400 meters",
+      "type": "transport-hub",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Parque das Nações Waterfront Gardens",
+      "distance": "Adjacent",
+      "type": "gardens",
+      "walkingTime": "Direct access"
+    }
+  ],
+  "tags": [
+    "cable-car",
+    "scenic-views",
+    "family-friendly",
+    "panoramic-views",
+    "modern-attraction",
+    "photo-opportunity",
+    "tagus-river",
+    "accessible",
+    "quick-activity",
+    "all-weather"
+  ],
+  "suitableFor": [
+    "families",
+    "couples",
+    "photographers",
+    "seniors",
+    "children",
+    "all-visitors",
+    "cruise-passengers",
+    "mobility-limited"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 3250,
+  "reviewSource": "TripAdvisor/Google"
+}

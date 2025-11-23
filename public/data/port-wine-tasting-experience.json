@@ -1,0 +1,235 @@
+{
+  "id": "port-wine-tasting-experience",
+  "name": "Port Wine Tasting Experience",
+  "tagline": "Discover Portugal's Iconic Fortified Wine in Expert-Led Tastings",
+  "type": "wine-tasting",
+  "categories": [
+    "wine-tasting",
+    "culinary-experience",
+    "cultural-activity",
+    "food-and-drink",
+    "educational"
+  ],
+  "description": {
+    "short": "Experience Portugal's most famous export with guided port wine tastings in Lisbon. Learn about the history, production, and varieties of port wine while sampling premium selections paired with Portuguese cheeses and charcuterie.",
+    "full": "Port wine tasting in Lisbon offers cruise passengers an authentic introduction to Portugal's most celebrated fortified wine. While port is produced in the Douro Valley, Lisbon hosts excellent tasting venues where expert sommeliers guide you through the different styles - from crisp white ports to rich tawny and vintage varieties. These experiences typically include 3-5 premium port tastings, accompanied by artisanal Portuguese cheeses, cured meats, and traditional pasteis de nata. You'll learn about the unique production process, including the addition of brandy that stops fermentation and creates port's signature sweetness and higher alcohol content. Sommeliers explain the differences between ruby, tawny, white, and rosé ports, the significance of aging, and proper serving temperatures. Many tastings take place in atmospheric wine bars in historic Lisbon neighborhoods like Alfama or Baixa, combining the wine education with cultural immersion. The experience often includes stories about port's 2000-year history in Portugal and its special relationship with England, which helped make port world-famous. Whether you're a wine connoisseur or curious beginner, port wine tastings offer an accessible, delicious way to understand Portuguese wine culture. Some experiences also include visits to historic port wine cellars and opportunities to purchase bottles to take home.",
+    "history": "Port wine has been produced in Portugal for over 2000 years, with the Douro Valley officially demarcated in 1756 - making it the world's oldest regulated wine region. The fortification process was developed in the 17th century to preserve wine during long sea voyages to England. The strong trade relationship between Portugal and Britain made port hugely popular in the English market, earning it the nickname 'the Englishman's wine.'",
+    "significance": "Port wine is Portugal's most famous wine export and a UNESCO-recognized product. It represents centuries of Portuguese winemaking tradition and remains an essential part of the country's cultural and economic identity. Tasting port in Portugal offers authenticity and direct connection to this storied tradition."
+  },
+  "location": {
+    "address": {
+      "street": "Various locations in central Lisbon",
+      "postal_code": "1100-150",
+      "neighborhood": "Baixa, Alfama, Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7141,
+      "longitude": -9.1391
+    },
+    "directions": {
+      "general": "Most port wine tasting venues located in central Lisbon neighborhoods - walking distance from major hotels and attractions",
+      "fromCruisePort": "Short 10-15 minute taxi/Uber from cruise terminal. Walking possible (25-30 minutes) to Baixa area. Venues in Alfama, Baixa, and Bairro Alto",
+      "publicTransport": "Metro to Baixa-Chiado or Rossio stations. Tram 28 to Alfama. Most venues within Lisbon historic center",
+      "parking": "Limited street parking - not recommended. Use taxis or public transport"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2500,
+      "walkingTime": "25-30 minutes",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 887 2100",
+    "email": "info@lisbonwinery.com",
+    "website": "https://lisbonwinery.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/wine-tasting-tc104/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lisbonwinery",
+      "instagram": "https://www.instagram.com/lisbonwinery/",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d9553751-Reviews-Lisbon_Winery-Lisbon.html"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Multiple daily sessions available",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Sessions typically 11:00, 15:00, 17:00, 19:00",
+          "lastAdmission": "19:00 session"
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 35,
+      "youth": 0,
+      "child": 0,
+      "senior": 35,
+      "family": 0,
+      "lisboaCardFree": false,
+      "notes": "Prices vary by venue and tasting level. Basic tastings from €20-35. Premium tastings €40-75. Private tastings available from €100. Must be 18+ to participate. Includes 3-5 port tastings plus cheese/charcuterie pairings"
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Afternoon or early evening sessions (15:00-19:00) for relaxed atmosphere. Book in advance during peak season. Weekday sessions less crowded than weekends",
+    "busyPeriods": [
+      "Weekend evenings",
+      "Summer months (June-September)",
+      "Holiday periods",
+      "Cruise ship days"
+    ],
+    "adviceForVisitors": "Book in advance online for best availability and prices. Sessions typically limited to 8-12 people for intimate experience. Arrive 10 minutes early. Don't eat heavy meal before - cheese and meats provided. Ask questions - sommeliers are passionate and knowledgeable. Take notes on favorites to purchase. Spit buckets provided but not required. Combine with lunch or dinner reservation nearby"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3 hours total (including travel to/from port and tasting)",
+    "accessibility": "Excellent - central locations, short distance from cruise port",
+    "combinableWith": [
+      "Alfama neighborhood walk",
+      "Lisbon Cathedral",
+      "São Jorge Castle",
+      "Fado dinner show",
+      "Traditional Portuguese lunch",
+      "Time Out Market visit"
+    ],
+    "tips": [
+      "Perfect shore excursion - close to port, short duration",
+      "Book early sessions (11:00) to have rest of day for sightseeing",
+      "Or late sessions (17:00-19:00) before dinner",
+      "Combine with Alfama neighborhood exploration",
+      "Easy to reach by taxi from cruise terminal",
+      "No need for extensive time commitment",
+      "Great introduction to Portuguese wine culture",
+      "Sommeliers speak excellent English",
+      "Can purchase bottles to take back to ship",
+      "Perfect rainy-day activity - entirely indoors"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Guided tasting of 3-5 premium port wines",
+      "Expert sommelier-led sessions",
+      "Learn port history and production methods",
+      "Taste different port styles (ruby, tawny, white, vintage)",
+      "Portuguese cheese and charcuterie pairings",
+      "Small group intimate settings (8-12 people)",
+      "Historic wine bar atmospheres",
+      "Stories about Douro Valley wine region",
+      "Proper port serving and storage education",
+      "Opportunity to purchase bottles",
+      "English-speaking wine experts",
+      "Central Lisbon locations"
+    ],
+    "facilities": [
+      "Climate-controlled tasting rooms",
+      "Comfortable seating",
+      "Wine shop for purchases",
+      "Restrooms",
+      "WiFi available",
+      "Spit buckets provided",
+      "Water and bread palate cleansers",
+      "Tasting notes provided",
+      "Credit card payment accepted"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Most venues",
+      "mobilityNotes": "Most central Lisbon tasting venues are accessible. Some historic buildings may have stairs - check when booking. Seating provided throughout tasting",
+      "visualAidServices": "Verbal descriptions of wines, origins, and characteristics",
+      "hearingAidServices": "Visual aids and written tasting notes provided"
+    },
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/port-wine-tasting-experience-hero.jpg",
+      "alt": "Port wine glasses with cheese pairings",
+      "caption": "Premium port wine tasting with artisanal Portuguese cheese and charcuterie"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/port-wine-tasting-experience-1.jpg",
+        "alt": "Sommelier pouring port wine",
+        "caption": "Expert sommelier guiding guests through port wine varieties"
+      },
+      {
+        "url": "/images/attractions/port-wine-tasting-experience-2.jpg",
+        "alt": "Historic Lisbon wine cellar",
+        "caption": "Atmospheric wine cellar in historic Lisbon neighborhood"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Lisbon Cathedral",
+      "distance": "500 meters",
+      "type": "cathedral",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Alfama neighborhood",
+      "distance": "200 meters",
+      "type": "historic-district",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "800 meters",
+      "type": "castle",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Commerce Square",
+      "distance": "600 meters",
+      "type": "landmark",
+      "walkingTime": "7 minutes"
+    },
+    {
+      "name": "Time Out Market",
+      "distance": "1500 meters",
+      "type": "food-market",
+      "walkingTime": "18 minutes"
+    }
+  ],
+  "tags": [
+    "port-wine",
+    "wine-tasting",
+    "culinary",
+    "portuguese-culture",
+    "food-pairing",
+    "indoor-activity",
+    "rainy-day",
+    "educational",
+    "small-group",
+    "must-try"
+  ],
+  "suitableFor": [
+    "wine-lovers",
+    "couples",
+    "foodies",
+    "cultural-tourists",
+    "adults-only",
+    "cruise-passengers",
+    "groups"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewCount": 2200,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}

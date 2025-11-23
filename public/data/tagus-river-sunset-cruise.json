@@ -1,0 +1,268 @@
+{
+  "id": "tagus-river-sunset-cruise",
+  "name": "Tagus River Sunset Cruise",
+  "tagline": "Experience Lisbon's golden hour from the water with stunning views of monuments and bridges on a relaxing evening boat cruise",
+  "type": "boat-cruise",
+  "categories": [
+    "boat-cruise",
+    "sunset-tour",
+    "sightseeing-cruise",
+    "romantic-experience",
+    "scenic-tour"
+  ],
+  "description": {
+    "short": "Sail the Tagus River at golden hour on a relaxing sunset cruise offering spectacular views of Lisbon's illuminated monuments, bridges, and waterfront. These 1.5-2 hour evening cruises include welcome drinks, onboard refreshments, and unique perspectives of the 25 de Abril Bridge, Cristo Rei, Belém Tower, Jerónimos Monastery, and Praça do Comércio bathed in magical sunset light.",
+    "full": "A Tagus River Sunset Cruise offers one of Lisbon's most romantic and memorable experiences, combining spectacular scenery, golden-hour photography, and relaxation on the historic river that has shaped Portugal's destiny for centuries. As the sun descends toward the Atlantic Ocean, the city's monuments and buildings glow in warm amber light, creating picture-perfect moments impossible to capture from land. These professionally operated cruises depart from Belém or central Lisbon docks (Terreiro do Paço, Doca do Bom Sucesso, or Cais das Colunas) approximately 1-2 hours before sunset, timing perfectly to catch the magical transformation as daylight fades. Modern sailing yachts, traditional Portuguese boats, catamarans, or comfortable motor vessels provide the floating platforms for this scenic journey, each offering unique experiences from intimate 12-passenger sailboats to larger party cruises with DJ music and open bars. The typical route travels west from central Lisbon toward the Atlantic, passing under the iconic 25 de Abril Bridge - a suspension bridge resembling San Francisco's Golden Gate - and offering close-up views of the Cristo Rei statue standing 110 meters tall across the river in Almada, arms outstretched blessing the city. Returning eastward along the northern shore, cruises glide past the monumental waterfront architecture of Belém, including the UNESCO-listed Jerónimos Monastery with its Manueline splendor, the iconic Belém Tower standing sentinel at the river's edge, and the modern MAAT museum's undulating white form. The Padrão dos Descobrimentos (Monument to the Discoveries) commemorates Portugal's Age of Exploration with stone figures of navigators and explorers facing the ocean they conquered. Continuing toward downtown, the boat passes elegant riverside neighborhoods, the architecturally striking MAAT (Museum of Art, Architecture and Technology), and approaches the magnificent Praça do Comércio (Commerce Square) with its triumphal arch and yellow buildings reflecting in the water. As twilight deepens, the city's lights begin twinkling, transforming Lisbon into an illuminated spectacle. Most cruises include welcome drinks (typically wine, beer, soft drinks, or Portuguese favorites like ginjinha or Port wine), and many offer light snacks or petiscos. Some cruises feature live music or DJ sets, while others maintain peaceful ambiance with lounge music allowing conversation and contemplation. Onboard commentary (live or audio guide) explains the history and significance of landmarks viewed from the water, providing context about Portugal's maritime heritage, the 1755 earthquake that reshaped Lisbon, and modern developments. Professional crew ensures safety and comfort throughout the journey. Sunset cruises appeal to couples seeking romantic experiences, photographers chasing golden-hour shots, families wanting unique perspectives of Lisbon, and cruise ship passengers maximizing their port time with evening departures. The experience combines sightseeing, relaxation, and Portuguese hospitality in an unforgettable setting that showcases why Lisbon has been called the City of Light.",
+    "history": "The Tagus River (Tejo in Portuguese) has defined Lisbon's identity for over 3,000 years, serving as the gateway through which Phoenicians, Romans, Moors, and Portuguese explorers connected with the world. From Lisbon's waterfront in the 15th-16th centuries, legendary explorers like Vasco da Gama, Ferdinand Magellan, and Pedro Álvares Cabral departed to discover sea routes to India, circumnavigate the globe, and claim Brazil, establishing Portugal as a maritime superpower. The Tagus estuary provided protected anchorage for the fleets that brought spices, gold, and treasures from Africa, Asia, and the Americas, creating immense wealth that funded monuments like the Jerónimos Monastery and Belém Tower. The 1755 earthquake and tsunami that devastated Lisbon originated in the Atlantic and sent massive waves up the Tagus, destroying the riverside and reshaping the city. Modern river tourism began developing in the late 20th century as Lisbon revitalized its waterfront, particularly after Expo '98 transformed the Parque das Nações area. Today, sunset cruises allow visitors to experience the same river that carried Portugal's destiny, seeing from water-level the monuments built from maritime riches and understanding why this strategic waterway remained central to European and global history.",
+    "significance": "Sunset cruises on the Tagus offer unique perspectives on Lisbon's UNESCO World Heritage sites and iconic monuments while experiencing the river that shaped Portuguese history and identity. The golden-hour lighting creates photographic opportunities impossible from land, and the experience connects visitors to Portugal's maritime heritage and Age of Discovery legacy in a memorable, romantic setting perfect for special occasions or cultural appreciation."
+  },
+  "location": {
+    "address": {
+      "street": "Departure points vary by operator: Doca do Bom Sucesso (Belém), Terreiro do Paço, Cais das Colunas",
+      "postal_code": "1400-038",
+      "neighborhood": "Belém or Baixa (varies by operator)",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.6937,
+      "longitude": -9.2128
+    },
+    "directions": {
+      "general": "Departure locations vary by cruise operator. Common embarkation points: Doca do Bom Sucesso marina in Belém (between Altis Belém Hotel and Belém Tower), Terreiro do Paço (Praça do Comércio), or Cais das Colunas. Specific location provided in booking confirmation",
+      "fromCruisePort": "From Santa Apolónia cruise terminal: 15 minutes by taxi/Uber to Belém departure point, or 10 minutes to Terreiro do Paço. From Alcântara terminal: 10 minutes to Belém, 15 minutes to central departures. Tram 15E connects terminals to both Belém and Praça do Comércio",
+      "publicTransport": "Belém departure: Tram 15E to Belém stop, then 5-minute walk. Buses 727, 28, 729, 714, 751. Train to Belém station. Terreiro do Paço departure: Metro Blue Line to Terreiro do Paço station, direct access to waterfront. Tram 15E, 25E",
+      "parking": "Belém: Limited street parking, paid parking at Altis Belém Hotel or near CCB (Cultural Center). Terreiro do Paço: Praça do Comércio underground parking. Recommend public transport or taxi"
+    },
+    "distanceFromCruisePort": {
+      "meters": 7500,
+      "walkingTime": "Not practical - 90 minutes walk",
+      "drivingTime": "15 minutes to Belém, 10 minutes to Terreiro do Paço"
+    }
+  },
+  "contact": {
+    "phone": "+351 910 222 383",
+    "email": "info@taguscruises.com",
+    "website": "https://taguscruises.com/",
+    "bookingUrl": "https://www.getyourguide.com/lisbon-l42/sunset-tours-tc306/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/taguscruises",
+      "instagram": "https://www.instagram.com/taguscruises/",
+      "twitter": ""
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Sunset cruises operate daily year-round, weather permitting. Departure times vary seasonally based on sunset",
+      "seasonal": [
+        {
+          "season": "Summer (May-September)",
+          "days": "Daily",
+          "hours": "Departures typically 18:30-19:30 (1-2 hours before sunset)",
+          "lastAdmission": "Boarding closes 15 minutes before departure"
+        },
+        {
+          "season": "Winter (October-April)",
+          "days": "Daily",
+          "hours": "Departures typically 16:30-17:30 (1-2 hours before sunset)",
+          "lastAdmission": "Boarding closes 15 minutes before departure"
+        }
+      ],
+      "closedDates": ["Service may be canceled due to severe weather or unsafe river conditions"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 30,
+      "youth": 25,
+      "child": 15,
+      "senior": 30,
+      "family": 80,
+      "lisboaCardFree": false,
+      "notes": "Prices vary by operator and cruise type. Standard sunset cruise: €25-35 per adult. Premium sunset cruise with food: €40-50. Sunset catamaran: €30-40. Sunset sailing yacht: €35-45. Sunset party cruise with DJ and open bar: €35-50. Private yacht charter: from €300-500 for group. Children under 4 typically free. Ages 4-12: 50% discount. Family packages available. Price typically includes: 1.5-2 hour cruise, welcome drink (wine, beer, or soft drink), onboard refreshments, audio guide or live commentary, spectacular sunset views. Some cruises include light snacks, Portuguese petiscos, or full open bar. Book online for best rates and availability. Free cancellation 24 hours in advance with most operators. Group discounts for 10+ passengers"
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Year-round activity - sunset beautiful in all seasons. Summer (June-August) offers latest sunsets (21:00-21:30) and warmest weather. Spring/autumn provide comfortable temperatures. Winter sunsets earlier (17:30-18:30) but equally beautiful. Book 2-3 days in advance in peak season. Weekday cruises typically less crowded than weekends",
+    "busyPeriods": [
+      "Summer months (June-September)",
+      "Weekends year-round",
+      "Holiday periods (Easter, Christmas, New Year)",
+      "Cruise ship port days (April-October)",
+      "Valentine's Day and special occasions"
+    ],
+    "adviceForVisitors": "Book in advance, especially summer weekends and holidays. Arrive 20-30 minutes early for boarding and best seat selection. Bring light jacket - can be cooler on water even in summer. Camera essential for golden-hour photos. Sunglasses recommended. Choose upwind seating to avoid engine fumes if sensitive. Premium seats typically on upper decks or front of boat. Confirm departure point when booking - operators use different locations. Check weather forecast - some cruises canceled in very poor conditions. Motion sickness medication if prone to seasickness (though Tagus usually calm). Sunset times vary seasonally - operators schedule accordingly. Romantic experience ideal for couples, proposals, anniversaries. Family-friendly with children. Accessible for most mobility levels (confirm with operator). Some cruises include or allow BYOB (bring your own bottle)"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours total (including travel to departure point, boarding, cruise, and return)",
+    "accessibility": "Good - departure points accessible by public transport and taxi. Most boats have boarding ramps though some gangways can be steep. Confirm accessibility with operator if mobility concerns",
+    "combinableWith": [
+      "Afternoon visit to Belém monuments before evening cruise",
+      "Pre-cruise dinner in Belém or Baixa",
+      "Post-cruise walk through illuminated Praça do Comércio",
+      "Full day Lisbon tour with sunset cruise finale",
+      "Combine with afternoon São Jorge Castle or Alfama visit",
+      "Evening Fado show after cruise (Time Out Market or Alfama)",
+      "Pre-cruise visit to LX Factory or Pink Street neighborhood"
+    ],
+    "tips": [
+      "Perfect for cruise passengers with late ship departures (after 21:00)",
+      "Evening activity ideal for ships staying overnight in port",
+      "Book morning/afternoon sightseeing, then sunset cruise finale",
+      "Departure points easy to reach from cruise terminals (15-20 min)",
+      "Romantic experience for couples or special occasions",
+      "Incredible photo opportunities in golden-hour light",
+      "See monuments from unique water perspective",
+      "More relaxing than walking tours after full day ashore",
+      "Belém departure convenient if visiting Jerónimos/Tower same day",
+      "Terreiro do Paço departure combines with downtown sightseeing",
+      "Dress in layers - cooler on water than on land",
+      "Confirm departure time varies seasonally with sunset",
+      "Book with free cancellation in case ship schedule changes",
+      "Some operators offer pickup from cruise terminal (private charters)",
+      "Perfect finale to Lisbon port day before returning to ship",
+      "Try different cruise operators for varying experiences (sailing vs motor)",
+      "Sunset party cruise fun for younger crowds and groups",
+      "Traditional sailing boat offers authentic Portuguese experience",
+      "Catamaran cruises provide stable platform ideal for photos",
+      "Ask about combination tickets with Belém monument entries"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Spectacular golden-hour lighting on Lisbon's monuments",
+      "Views of 25 de Abril Bridge and Cristo Rei statue",
+      "UNESCO World Heritage Jerónimos Monastery from water",
+      "Iconic Belém Tower at river's edge",
+      "Monument to the Discoveries commemorating explorers",
+      "Illuminated Praça do Comércio and Baixa waterfront",
+      "MAAT museum's contemporary architecture",
+      "Historic Alfama and São Jorge Castle from river perspective",
+      "Welcome drink included (wine, beer, or soft drinks)",
+      "Professional crew and safety equipment",
+      "Audio guide or live commentary about landmarks",
+      "Relaxing lounge music or DJ entertainment (cruise dependent)",
+      "Unique sunset and twilight photography opportunities",
+      "Romantic atmosphere perfect for couples",
+      "Small group or larger party cruise options available",
+      "Views of Atlantic Ocean and Tagus estuary",
+      "Experience Portugal's maritime heritage firsthand"
+    ],
+    "facilities": [
+      "Modern sailing yachts, catamarans, or motor vessels",
+      "Comfortable seating areas (indoor and outdoor options)",
+      "Onboard bar service (additional drinks available for purchase)",
+      "Restrooms on most vessels",
+      "Life jackets and safety equipment",
+      "Professional licensed crew",
+      "Audio guides in multiple languages",
+      "Photo opportunities from multiple vantage points",
+      "Covered areas for shade or light rain",
+      "Some cruises offer food service or allow BYOB",
+      "Music systems (ambient, lounge, or DJ)",
+      "Boarding assistance from crew"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Most modern vessels accommodate wheelchairs and limited mobility passengers. Boarding typically via gangway or ramp (steepness varies by tide and vessel). Some older boats have steps. Upper decks may not be accessible. Restrooms may have narrow access. Recommend contacting operator before booking to confirm specific vessel accessibility. Crew provides boarding assistance. Calm river conditions generally suitable for those with mobility concerns (unlike ocean cruises)",
+      "visualAidServices": "Audio commentary describes landmarks and scenery",
+      "hearingAidServices": "Visual landmarks easily visible throughout cruise"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/tagus-river-sunset-cruise-hero.jpg",
+      "alt": "Sunset cruise sailing past Belém Tower on the Tagus River with golden sky",
+      "caption": "Experience Lisbon's iconic monuments bathed in magical golden-hour light from the historic Tagus River"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/tagus-river-sunset-cruise-1.jpg",
+        "alt": "25 de Abril Bridge and Cristo Rei statue at sunset",
+        "caption": "Sail under the magnificent 25 de Abril Bridge with Cristo Rei statue glowing in evening light"
+      },
+      {
+        "url": "/images/attractions/tagus-river-sunset-cruise-2.jpg",
+        "alt": "Illuminated Praça do Comércio and Lisbon waterfront at twilight",
+        "caption": "Watch Lisbon transform as city lights twinkle against the twilight sky along the elegant waterfront"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Belém Tower (UNESCO)",
+      "distance": "Visible from cruise",
+      "type": "monument",
+      "walkingTime": "At departure point"
+    },
+    {
+      "name": "Jerónimos Monastery (UNESCO)",
+      "distance": "Visible from cruise",
+      "type": "monastery",
+      "walkingTime": "At Belém departure point"
+    },
+    {
+      "name": "Monument to the Discoveries",
+      "distance": "Visible from cruise",
+      "type": "monument",
+      "walkingTime": "At Belém departure point"
+    },
+    {
+      "name": "25 de Abril Bridge",
+      "distance": "Sail under it",
+      "type": "bridge",
+      "walkingTime": "N/A - viewed from water"
+    },
+    {
+      "name": "Cristo Rei Statue",
+      "distance": "Visible from cruise",
+      "type": "statue",
+      "walkingTime": "N/A - across river"
+    },
+    {
+      "name": "Praça do Comércio",
+      "distance": "Visible from cruise",
+      "type": "square",
+      "walkingTime": "At Terreiro do Paço departure"
+    }
+  ],
+  "tags": [
+    "sunset-cruise",
+    "boat-tour",
+    "tagus-river",
+    "romantic-experience",
+    "scenic-tour",
+    "photography",
+    "sightseeing",
+    "golden-hour",
+    "evening-activity",
+    "cruise-friendly",
+    "family-friendly",
+    "couples"
+  ],
+  "suitableFor": [
+    "couples",
+    "families",
+    "photographers",
+    "cruise-passengers",
+    "romantic-occasions",
+    "first-time-visitors",
+    "sunset-lovers",
+    "all-ages"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewCount": 12500,
+  "reviewSource": "TripAdvisor/Google/GetYourGuide"
+}
