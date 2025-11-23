@@ -1,0 +1,244 @@
+{
+  "id": "torre-de-belem",
+  "name": "Torre de Belem (Belem Tower)",
+  "tagline": "UNESCO icon of Portugal's Age of Discoveries on the Tagus waterfront",
+  "type": "tower",
+  "categories": [
+    "tower",
+    "unesco-site",
+    "historic-site",
+    "monument",
+    "waterfront"
+  ],
+  "description": {
+    "short": "This 16th-century fortified tower standing in the Tagus River is one of Lisbon's most iconic symbols. Built in Manueline style to defend the port and commemorate Vasco da Gama's voyage to India, it's a UNESCO World Heritage masterpiece.",
+    "full": "The Torre de Belem stands as one of Portugal's most recognizable monuments and a powerful symbol of the Age of Discoveries. Built between 1514 and 1519 under the reign of King Manuel I, this limestone fortress rises elegantly from the Tagus River, originally constructed on a basaltic outcrop 250 meters from the northern bank. Designed by military architect Francisco de Arruda, the tower served both as a ceremonial gateway to Lisbon and as a defensive fortification protecting the city's harbor and the nearby Jeronimos Monastery. The tower combines medieval military architecture with ornate Manueline decorative elements, featuring intricate stone carvings of nautical themes, exotic animals, and royal heraldry. The structure consists of a four-story tower and a lower bastion platform, connected by narrow staircases and adorned with distinctive corner turrets topped with ribbed domes. The south facade features an elaborate loggia designed to accommodate royal ceremonies as ships departed for or returned from distant lands. Over the centuries, the tower served various purposes - fortress, customs house, lighthouse, and even a prison. Designated a UNESCO World Heritage Site in 1983 alongside Jeronimos Monastery, it represents Portugal's maritime heritage and the spirit of exploration that made Portugal a global power in the 15th and 16th centuries.",
+    "history": "Construction of Belem Tower began in 1514 under King Manuel I, designed by Francisco de Arruda, who had experience building fortifications in North Africa. The tower was dedicated to Saint Vincent, Lisbon's patron saint, and was built to replace an earlier 1390s ship-based defense system. Originally positioned in the middle of the Tagus River on a rocky outcrop, the tower stood 250 meters from shore, though subsequent changes to the river's course have brought it closer to the bank. The tower was completed in 1519, shortly after King Manuel I's death, and immediately began serving its dual purpose as both ceremonial gateway and military fortress. During the 1580-1640 Spanish rule of Portugal, the tower was strengthened and modified. Following the 1755 earthquake, though damaged, the tower survived largely intact. In the 19th century, it was repurposed as a customs house and lighthouse. Major restoration occurred in the 1840s under King Fernando II, who added neo-Manueline elements. Further restoration in the 20th century removed later additions to return it to its 16th-century appearance. UNESCO recognition came in 1983, cementing its status as a monument of universal cultural significance.",
+    "significance": "Belem Tower symbolizes Portugal's Age of Discoveries and its emergence as the world's first global maritime empire. The tower marked the point where countless Portuguese explorers - including Vasco da Gama, Ferdinand Magellan, and others - departed on voyages that would change world history and connect distant continents. Its Manueline architectural style, blending Gothic, Renaissance, and Moorish influences with nautical motifs, represents the cultural fusion that characterized Portugal's global expansion. The tower is featured on Portuguese euro coins and appears in countless works of art and literature as the quintessential symbol of Portuguese national identity. Along with Jeronimos Monastery, it represents the peak of Portuguese artistic achievement and the wealth that flowed from maritime trade and exploration."
+  },
+  "location": {
+    "address": {
+      "street": "Av. Brasilia",
+      "postal_code": "1400-038",
+      "neighborhood": "Belem",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.691594,
+      "longitude": -9.215979
+    },
+    "directions": {
+      "general": "Located on the Tagus River waterfront in Belem district, west of the city center, about 1.5km from Jeronimos Monastery",
+      "fromCruisePort": "8km west from Santa Apolonia cruise port - take tram 15E to Belem/Torre stop (40 minutes) or taxi/Uber (20 minutes). Walking from port not recommended (2 hours).",
+      "publicTransport": "Tram 15E from Praca do Comercio to Belem/Torre de Belem stop. Buses 727, 28, 729, 714, 751 to Belem area. Train to Belem station then 15-minute walk along waterfront.",
+      "parking": "Public parking at nearby Praca do Imperio and along Avenida Brasilia. Limited street parking available."
+    },
+    "distanceFromCruisePort": {
+      "meters": 8000,
+      "walkingTime": "Not recommended to walk (2 hours)",
+      "drivingTime": "20 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 620 034",
+    "email": "torre.belem@mj.dgpc.pt",
+    "website": "https://www.museusemonumentos.pt/en/museus-e-monumentos/torre-de-belem",
+    "bookingUrl": "https://torrebelem.com/en/tour/torre-belem-skip-the-line-tickets/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/torredebelempagina/",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/torredebelem/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except certain holidays",
+      "seasonal": [
+        {
+          "season": "October - April",
+          "days": "Tuesday - Sunday",
+          "hours": "10:00 - 17:30",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season": "May - September",
+          "days": "Tuesday - Sunday",
+          "hours": "10:00 - 18:30",
+          "lastAdmission": "18:00"
+        }
+      ],
+      "closedDates": [
+        "Mondays (except holiday Mondays)",
+        "January 1",
+        "Easter Sunday",
+        "May 1",
+        "June 13",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 6,
+      "youth": 3,
+      "child": 0,
+      "senior": 3,
+      "lisboaCardFree": true,
+      "comboTicket": "Joint ticket with Jeronimos Monastery: €12 adults",
+      "notes": "Children under 12 free. Youth 13-25 and students with ID. Seniors 65+. Free first Sunday of each month. Online booking highly recommended to avoid long queues (can be 1-2 hours in peak season)."
+    },
+    "averageVisitDuration": "45 minutes - 1 hour",
+    "bestTimeToVisit": "Early morning at opening (10am) or late afternoon (after 4pm) to avoid peak crowds. Golden hour before sunset offers beautiful lighting for photos. Visit Tuesday-Thursday for fewer crowds than weekends.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Weekends and Portuguese public holidays",
+      "Summer months (June-September)",
+      "First Sunday of month (free admission)",
+      "Cruise ship days in port"
+    ],
+    "adviceForVisitors": "Book tickets online to skip often 1-2 hour queues. Tower interior has very narrow spiral staircases and low ceilings - not suitable for those with mobility issues or claustrophobia. Visitor capacity limited to 150 people at a time. Allow 45 minutes to explore all levels. Combine with nearby Jeronimos Monastery, Padrao dos Descobrimentos, and Pasteis de Belem. Photography allowed. Bring water. Exterior viewing is free - you can appreciate the tower without entering."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours minimum (includes travel, queuing, visit, and buffer)",
+    "accessibility": "Moderate - requires tram or taxi to reach. Interior NOT wheelchair accessible (narrow spiral stairs only).",
+    "combinableWith": [
+      "Jeronimos Monastery",
+      "Padrao dos Descobrimentos (Monument to Discoveries)",
+      "Pasteis de Belem bakery",
+      "MAAT Museum",
+      "National Coach Museum",
+      "Maritime Museum"
+    ],
+    "tips": [
+      "Must-see for cruise passengers - iconic Lisbon landmark",
+      "Book tickets online to avoid 1-2 hour queues",
+      "Take tram 15E for scenic waterfront journey",
+      "Free with Lisboa Card - excellent value",
+      "Combine with Jeronimos Monastery in same trip",
+      "Allow 3-4 hours total for Belem district visit",
+      "Interior has very narrow stairs - consider mobility before entering",
+      "Exterior viewing free and still impressive",
+      "Stop at Pasteis de Belem for famous custard tarts",
+      "Best photos from nearby waterfront promenade",
+      "Easy return to port via tram or taxi"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "UNESCO World Heritage Site designation (1983)",
+      "Iconic Manueline architecture with maritime motifs",
+      "Four-story tower with panoramic rooftop terrace views",
+      "Ornate loggia on south facade",
+      "Distinctive corner turrets with ribbed domes",
+      "Bulwark platform with gun emplacements",
+      "Governor's Chamber, King's Chamber, and Audience Hall",
+      "Chapel with cross-vaulted ceiling",
+      "Intricate stone carvings of ropes, knots, and exotic animals",
+      "Former dungeons in lower levels"
+    ],
+    "facilities": [
+      "Ticket office (online booking recommended)",
+      "Information panels in multiple languages",
+      "Small gift shop",
+      "Restrooms nearby at Cultural Center",
+      "Waterfront promenade for exterior viewing",
+      "Benches and photo spots along riverfront"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "NOT wheelchair accessible - access only via narrow spiral staircases (61 steps to top). Very low ceilings and doorways. Not suitable for people with mobility issues, claustrophobia, or young children. Exterior viewing and grounds accessible to all.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/torre-de-belem-hero.jpg",
+      "alt": "Torre de Belem tower on Tagus River",
+      "caption": "The iconic Belem Tower rising from the Tagus River"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/torre-de-belem-1.jpg",
+        "alt": "Belem Tower architectural details",
+        "caption": "Ornate Manueline stone carvings and corner turrets"
+      },
+      {
+        "url": "/images/attractions/torre-de-belem-2.jpg",
+        "alt": "View from Belem Tower terrace",
+        "caption": "Panoramic views over the Tagus River and Belem waterfront"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jeronimos Monastery",
+      "distance": "1.5 km",
+      "type": "monastery",
+      "walkingTime": "20 minutes along waterfront"
+    },
+    {
+      "name": "Padrao dos Descobrimentos",
+      "distance": "800 meters",
+      "type": "monument",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Pasteis de Belem",
+      "distance": "1.2 km",
+      "type": "bakery",
+      "walkingTime": "15 minutes"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "600 meters",
+      "type": "museum",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Maritime Museum",
+      "distance": "1.4 km",
+      "type": "museum",
+      "walkingTime": "18 minutes"
+    }
+  ],
+  "tags": [
+    "tower",
+    "unesco",
+    "belem",
+    "manueline-architecture",
+    "age-of-discoveries",
+    "waterfront",
+    "fortress",
+    "must-see",
+    "iconic",
+    "vasco-da-gama",
+    "maritime-history",
+    "photography"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "photographers",
+    "architecture-lovers",
+    "culture-seekers",
+    "cruise-passengers",
+    "first-time-visitors",
+    "couples"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 28700,
+  "reviewSource": "TripAdvisor/Google"
+}

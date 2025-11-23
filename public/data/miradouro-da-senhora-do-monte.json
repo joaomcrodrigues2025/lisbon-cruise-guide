@@ -1,0 +1,242 @@
+{
+  "id": "miradouro-da-senhora-do-monte",
+  "name": "Miradouro da Senhora do Monte",
+  "tagline": "Lisbon's highest viewpoint - A mystical and romantic spot with breathtaking 210-degree panoramic city views",
+  "type": "viewpoint",
+  "categories": [
+    "viewpoint",
+    "miradouro",
+    "scenic-spot",
+    "romantic-location",
+    "panoramic-views",
+    "photo-spot"
+  ],
+  "description": {
+    "short": "The Miradouro da Senhora do Monte is one of Lisbon's finest viewpoints, offering spectacular 210-degree panoramic views from the city's highest point. This tranquil spot in the Graça neighborhood provides breathtaking vistas over Lisbon, the castle, and the Tagus River, especially magical at sunset.",
+    "full": "Perched at Lisbon's highest accessible point in the Graça neighborhood, the Miradouro da Senhora do Monte offers what many consider the finest panoramic view in all of Lisbon. From this elevated terrace, visitors enjoy sweeping 210-degree vistas that encompass the entire downtown Baixa district, the imposing São Jorge Castle with its ramparts tumbling down the hillside, the elegant grid of Avenidas Novas, and on clear days, all the way to the Cristo Rei statue standing sentinel across the Tagus River estuary - 5.6 kilometers distant. The viewpoint sits in the peaceful churchyard of the Capela de Nossa Senhora do Monte, a small baroque chapel dating from 1796, built on the site where a hermitage has stood since 1147. According to legend, this is the very spot where Portugal's first king, Afonso Henriques, assembled his troops before conquering Lisbon from the Moors in 1147 - making it a site of profound historical significance. The chapel is dedicated to Saint Gens, an early bishop of Lisbon martyred on this spot in 284 AD. A charming statue of Nossa Senhora do Monte (Our Lady of the Mount) gazes out over the city from the terrace. The viewpoint has long been associated with romance and young lovers, drawn by its relative seclusion atop the hill and the magical atmosphere. Today, while tuk-tuk tours frequently visit and the spot gets busy at sunset, it still retains a peaceful, almost mystical quality. The westward-facing terrace makes it ideal for watching the sun set behind the Bairro Alto hills, and as dusk falls, the lights of Lisbon gradually illuminate the cityscape below - a truly enchanting sight. Stone benches line the viewing terrace, and small shaded garden areas provide spots to rest. Musicians often play here, and pop-up bars occasionally serve drinks. The lack of permanent commercial facilities actually enhances the authentic, local feel. Unlike more touristy viewpoints, this feels like a secret Lisbon locals are reluctant to share.",
+    "history": "The site's history stretches back to 1147 when a hermitage dedicated to São Gens (Saint Gens) was established here, possibly the same year King Afonso Henriques conquered Lisbon from Moorish rule. Legend holds that the king gathered his Christian forces on this hilltop before the siege. The hermitage stood for centuries until it collapsed during the devastating 1755 earthquake that destroyed much of Lisbon. The current baroque Capela de Nossa Senhora do Monte was rebuilt in 1796 on the same sacred spot. The chapel is dedicated to Saint Gens, an early Christian bishop of Lisbon who was martyred here in 284 AD during Roman persecution. A medieval tradition arose around a stone chair inside the chapel, believed to have been used by Saint Gens. Pregnant women would sit in this chair believing it would ease childbirth pains and complications - the saint became associated with childbirth because his own mother died giving birth to him. This superstition became so widespread that even Queen Dona Maria Ana sat in the chair in 1711 while pregnant. The chair remains in the chapel today. Throughout the centuries, the hilltop viewpoint became known as a romantic meeting place for young couples seeking privacy away from the crowded streets below. In recent decades, as tourism has boomed, the miradouro has gained fame as one of Lisbon's essential viewpoints, though it remains less crowded than lower, more accessible ones like Portas do Sol.",
+    "significance": "The Miradouro da Senhora do Monte holds significance as both a historical and spiritual site dating to Lisbon's Christian reconquest in 1147, and as the city's highest accessible viewpoint offering unparalleled panoramic vistas. It represents Lisbon's romantic side - a place where generations of couples have watched sunsets together. The site's association with Saint Gens and childbirth traditions adds cultural depth. For visitors, it offers an authentic Lisbon experience: spectacular views, local atmosphere, musicians playing fado or traditional songs, and the sense of discovering something special rather than just another tourist stop. The viewpoint showcases Lisbon's famous seven hills, its red-tiled rooftops, historic architecture, and the interplay of neighborhoods old and new."
+  },
+  "location": {
+    "address": {
+      "street": "Rua da Senhora do Monte à Graça",
+      "postal_code": "1170-107",
+      "neighborhood": "Graça",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7191,
+      "longitude": -9.133
+    },
+    "directions": {
+      "general": "Located at the highest point of the Graça neighborhood, behind residential streets. The white chapel dome is visible from parts of the city.",
+      "fromCruisePort": "2.5km northeast from cruise terminals - not walkable (too steep). Take Tram 28E to Graça (Rua da Graça stop), then walk 400m uphill on Rua da Senhora do Monte (10 minutes). Taxi takes 12-15 minutes.",
+      "publicTransport": "Tram 28E to Graça stop on Rua da Graça (then 400m/10-min uphill walk). Bus 734 stops closer. Most visitors take tuk-tuks or taxis due to steep uphill location.",
+      "parking": "Very limited street parking on Rua da Senhora do Monte. Best to use public transport or taxi."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2500,
+      "walkingTime": "Not recommended - too steep (40+ minutes uphill)",
+      "drivingTime": "12-15 minutes"
+    }
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7 year-round - public viewpoint",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Every day",
+          "hours": "24 hours",
+          "notes": "Viewpoint accessible at all times. Chapel has limited hours. Best visited during daylight, especially sunset."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Completely FREE - no admission charge. Occasional pop-up bars sell drinks at tourist prices (€3-5). Bring your own drinks and snacks for better value."
+    },
+    "averageVisitDuration": "30-60 minutes (longer at sunset or if relaxing with drinks)",
+    "bestTimeToVisit": "Sunset is magical - arrive 30-45 minutes before sunset. Early morning (7:00-9:00) offers peaceful atmosphere and great light. Late evening after tuk-tuks leave becomes quiet and romantic.",
+    "busyPeriods": [
+      "Sunset time (especially summer evenings)",
+      "Mid-afternoon when tuk-tuk tours arrive",
+      "Weekends all day",
+      "After cruise ship arrivals"
+    ],
+    "adviceForVisitors": "Come for sunset - it's absolutely magical watching lights illuminate the city. Arrive 30-45 minutes early to get a good bench spot. Bring drinks and snacks from Pingo Doce supermarket in Graça (300m away) - pop-up bars charge high prices. Visit early morning for fewer crowds and beautiful light. The walk up from Tram 28 is steep on Rua da Senhora do Monte - wear good shoes. After sunset, walk down through Graça to nearby viewpoint Miradouro da Graça (5 min) which has a proper bar/cafe. Couples: this is Lisbon's most romantic viewpoint. Photographers: bring tripod for sunset/night shots. Watch for pickpockets during busy periods. No public toilets at viewpoint. Chapel sometimes open to enter (free). Musicians often play here - tip if you enjoy. In winter, sun sets behind Bairro Alto hills - still beautiful as city lights up."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours total (including tram ride, uphill walk, and viewing time)",
+    "accessibility": "Challenging - requires Tram 28 ride plus steep 10-minute uphill walk. Not wheelchair accessible. Best to take tuk-tuk or taxi directly.",
+    "combinableWith": [
+      "Miradouro da Graça (5-minute walk)",
+      "Graça neighborhood",
+      "Tram 28 experience",
+      "Alfama district (downhill walk)",
+      "São Jorge Castle",
+      "National Pantheon"
+    ],
+    "tips": [
+      "Best panoramic view in Lisbon - don't miss at sunset!",
+      "BRING YOUR OWN drinks/snacks (Pingo Doce supermarket 300m away)",
+      "Arrive 30-45 minutes before sunset for best spots",
+      "Take Tram 28 to Graça, then 10-min uphill walk",
+      "Easier option: take tuk-tuk or taxi directly to viewpoint",
+      "210-degree panoramic views - see entire city!",
+      "FREE admission - budget-friendly must-see",
+      "Romantic atmosphere - perfect for couples",
+      "Less touristy than lower viewpoints",
+      "Musicians often play fado or traditional music",
+      "On clear days, see Cristo Rei statue 5.6km away",
+      "Combine with Miradouro da Graça (proper cafe nearby)",
+      "Steep walk up - not suitable for mobility-impaired",
+      "No toilets at viewpoint - use cafe at Graça before climbing",
+      "Early morning (7:00-9:00) offers peaceful, crowd-free experience",
+      "Late evening becomes quiet after tuk-tuks leave",
+      "Watch for pickpockets during busy sunset periods",
+      "Bring camera for spectacular photography",
+      "Winter sunsets behind hills - still beautiful city lights"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Lisbon's highest accessible viewpoint",
+      "Spectacular 210-degree panoramic city views",
+      "Westward-facing perfect for sunset watching",
+      "Views of São Jorge Castle, Baixa, Tagus River, Cristo Rei",
+      "Historic site dating to 1147 (Christian reconquest)",
+      "Capela de Nossa Senhora do Monte (baroque chapel from 1796)",
+      "Statue of Nossa Senhora do Monte overlooking city",
+      "Associated with young lovers and romance",
+      "Peaceful, almost mystical atmosphere",
+      "Stone benches and shaded garden areas",
+      "Local musicians often perform",
+      "Completely FREE admission",
+      "Less crowded than other major viewpoints"
+    ],
+    "facilities": [
+      "Stone benches for seating",
+      "Shaded garden areas",
+      "Occasional pop-up bars (seasonal)",
+      "Small chapel (limited hours)",
+      "Viewing terrace",
+      "Tile map showing sights (information panel)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "No",
+      "mobilityNotes": "NOT wheelchair accessible. Requires steep 10-minute uphill walk on Rua da Senhora do Monte from Tram 28 stop. Cobblestone streets. No elevators or ramps. Tuk-tuks or taxis can drive right to viewpoint, which helps mobility-limited visitors. Viewpoint terrace itself is relatively flat once reached.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "No official services - public viewpoint",
+      "Tile information panel (Portuguese)",
+      "Tuk-tuk drivers speak multiple languages"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/miradouro-da-senhora-do-monte-hero.jpg",
+      "alt": "Panoramic view of Lisbon from Miradouro da Senhora do Monte",
+      "caption": "Breathtaking 210-degree panorama from Lisbon's highest viewpoint"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/miradouro-da-senhora-do-monte-1.jpg",
+        "alt": "Sunset at Miradouro da Senhora do Monte",
+        "caption": "Magical sunset views as Lisbon's lights begin to illuminate"
+      },
+      {
+        "url": "/images/attractions/miradouro-da-senhora-do-monte-2.jpg",
+        "alt": "Capela de Nossa Senhora do Monte",
+        "caption": "The baroque chapel dating from 1796 that gives the viewpoint its name"
+      },
+      {
+        "url": "/images/attractions/miradouro-da-senhora-do-monte-3.jpg",
+        "alt": "View of São Jorge Castle from Senhora do Monte",
+        "caption": "São Jorge Castle dominates the view with downtown Lisbon beyond"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro da Graça",
+      "distance": "300 meters",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes downhill"
+    },
+    {
+      "name": "Graça Church and Convent",
+      "distance": "350 meters",
+      "type": "church",
+      "walkingTime": "5-7 minutes"
+    },
+    {
+      "name": "Jardim da Cerca da Graça",
+      "distance": "400 meters",
+      "type": "garden-viewpoint",
+      "walkingTime": "6-8 minutes"
+    },
+    {
+      "name": "National Pantheon",
+      "distance": "800 meters",
+      "type": "monument",
+      "walkingTime": "12-15 minutes downhill"
+    },
+    {
+      "name": "Alfama district",
+      "distance": "600 meters",
+      "type": "neighborhood",
+      "walkingTime": "10 minutes downhill"
+    }
+  ],
+  "tags": [
+    "viewpoint",
+    "miradouro",
+    "panoramic-views",
+    "sunset",
+    "romantic",
+    "free",
+    "photography",
+    "graça",
+    "scenic",
+    "hidden-gem",
+    "peaceful",
+    "must-visit",
+    "highest-point"
+  ],
+  "suitableFor": [
+    "everyone",
+    "couples",
+    "photographers",
+    "romantic-travelers",
+    "sunset-chasers",
+    "solo-travelers",
+    "adventure-seekers",
+    "fit-travelers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewCount": 3582,
+  "reviewSource": "TripAdvisor"
+}

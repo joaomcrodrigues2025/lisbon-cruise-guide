@@ -1,0 +1,244 @@
+{
+  "id": "tram-28",
+  "name": "Tram 28 (Eléctrico 28)",
+  "tagline": "Lisbon's most iconic tram journey through historic neighborhoods in vintage 1930s trams",
+  "type": "experience",
+  "categories": [
+    "tram-experience",
+    "public-transport",
+    "sightseeing",
+    "historic-tram",
+    "scenic-ride",
+    "cultural-experience"
+  ],
+  "description": {
+    "short": "Riding Tram 28 has become one of Lisbon's most popular activities. This iconic yellow vintage tram from the 1930s rattles through narrow medieval streets, passing major attractions across 7km of historic neighborhoods - from Alfama to Estrela.",
+    "full": "Tram 28 is not just public transportation - it's a moving monument and one of Lisbon's most beloved experiences. Line 28 was inaugurated in 1914 and today operates vintage wooden trams built in the 1930s that squeeze through some of Lisbon's narrowest, steepest streets. The route covers 7 kilometers (4.5 miles) between Martim Moniz and Campo de Ourique, taking 48 minutes to one hour depending on traffic. These charming yellow 'boxes' survived the rise of automobiles and buses because they're perfectly suited to navigate the tight corners and steep inclines of the older districts. The trams have a capacity of 20 seated and 38 standing passengers, though many more often cram in during peak times. Riding Tram 28 takes you on a journey back in time, past some of Lisbon's most iconic landmarks including the Cathedral (Sé), São Jorge Castle area, Portas do Sol viewpoint, the elegant shopping district of Chiado, the Bairro Alto nightlife area, the Parliament building at São Bento, and the magnificent Basilica da Estrela. The route winds through seven distinct neighborhoods: Martim Moniz, Graça, Alfama, Baixa (downtown), Chiado, Bairro Alto, Estrela, and Campo de Ourique. Along the way, you'll get close-up views of tile-covered façades, pass other trams going the opposite direction, experience sharp turns and steep climbs, and see everyday Lisbon life unfold. The experience is authentic - locals still use it for daily commutes alongside tourists. The constant rattling and swaying, the smell of old wood, the sound of the bell, and the vintage interior transport riders to another era. While it can get extremely crowded (pickpockets are a known issue), taking Tram 28 remains an essential Lisbon experience - just go early morning or evening to avoid the worst crowds.",
+    "history": "Line 28 was inaugurated in 1914 as part of Lisbon's expanding tram network. The route has remained largely unchanged for over a century, though it originally extended further and had slightly different termini. The vintage Remodelado trams currently in use were built between 1930s-1950s in wood, designed specifically for Lisbon's challenging topography. These trams have been continuously maintained and refurbished while preserving their historic character. The trams survived multiple attempts to modernize Lisbon's transport system because they're uniquely suited to navigate the narrow medieval streets of Alfama and other old neighborhoods where buses simply cannot fit. In recent decades, Tram 28 has transformed from a primarily practical transport line into one of Lisbon's top tourist attractions, featured in every guidebook and travel article. The tram line is now an icon of the city, symbolizing Lisbon's blend of historic charm and living tradition. The trams remain part of the city's public transport network operated by Carris.",
+    "significance": "Tram 28 is one of Lisbon's most iconic symbols and a living piece of the city's heritage. It represents Lisbon's ability to preserve its historic character while functioning as a modern European capital. The vintage trams and their route through medieval streets offer visitors an authentic, accessible way to experience Lisbon's historic neighborhoods. The tram line connects many of the city's most important cultural and historical attractions, making it both practical transportation and a tourist experience. It's featured prominently in Lisbon's tourism marketing and has become synonymous with the city's image worldwide."
+  },
+  "location": {
+    "address": {
+      "street": "Praça Martim Moniz (eastern terminus) to Campo de Ourique/Prazeres (western terminus)",
+      "postal_code": "Various along route",
+      "neighborhood": "Route covers 7 neighborhoods",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7153,
+      "longitude": -9.1367
+    },
+    "directions": {
+      "general": "Tram 28 route runs east-west across central Lisbon. Best boarding points: Martim Moniz (eastern terminus) or Campo de Ourique (western terminus) for better chance of getting a seat.",
+      "fromCruisePort": "1.2km northeast to Martim Moniz terminus - 15-minute walk from cruise terminals through Baixa, or board at R. Conceição stop in downtown (closer, 800m). Multiple stops along the route.",
+      "publicTransport": "Tram 28 IS public transport. Access boarding points via Metro Green Line to Martim Moniz, or Blue Line to Terreiro do Paço then walk to downtown stops.",
+      "parking": "Not applicable - this is a tram experience, not a driving destination."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1200,
+      "walkingTime": "15 minutes to Martim Moniz terminus",
+      "drivingTime": "Not applicable"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 361 3000 (Carris - Lisbon public transport)",
+    "email": null,
+    "website": "https://www.carris.pt",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/CarrisOficial",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/carris_oficial"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Operating daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Weekdays",
+          "hours": "First tram: 05:45, Last tram: 00:15",
+          "notes": "Trams run every 9-12 minutes. Full journey takes 48-60 minutes."
+        },
+        {
+          "season": "Year-round",
+          "days": "Weekends",
+          "hours": "First tram: 05:45, Last tram: 23:00",
+          "notes": "After 21:30, tram terminates at Estrela instead of Campo de Ourique."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 3.2,
+      "notes": "€3.20 single ride (pay driver with cash or tap card). Lisboa Card includes unlimited free rides. 24-hour public transport pass: €7.00 (all trams, buses, metro). Board through front door and validate ticket."
+    },
+    "averageVisitDuration": "48-60 minutes for complete route one-way. Many ride round-trip (2 hours total)",
+    "bestTimeToVisit": "Early morning (6:00-9:00) or evening after 19:00 to avoid crowds. Weekday mornings are quietest. AVOID mid-morning to evening when it's packed with tourists.",
+    "busyPeriods": [
+      "Mid-morning to evening (10:00-19:00) - extremely crowded",
+      "Weekends all day",
+      "Summer tourist season",
+      "When multiple cruise ships are in port",
+      "All major stops have long queues"
+    ],
+    "adviceForVisitors": "Board at Martim Moniz (starting terminus) for best chance of getting a window seat. Don't try to hop on and off - trams are too crowded and you'll wait ages for the next one. Do the full route in one go. Watch for pickpockets - they specifically target this tram! Keep valuables secure and bags in front of you. If standing, hold on TIGHT - the braking is very sharp. Don't use this as a hop-on-hop-off sightseeing tour during peak hours - consider the official Historic Hills Tram Tour instead (separate tourist tram, guaranteed seating). Lisboa Card saves money if doing multiple rides. Bring small change if paying driver. Windows open for fresh air and photography. The experience is authentic but can be uncomfortable when crowded. Best for patient travelers who don't mind crowds. Alternative: Take Tram 24 (same vintage trams, never crowded, different route)."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours total (includes walking to start, full route ride, and return)",
+    "accessibility": "Moderate - requires 15-minute walk to terminus. Vintage trams have high steps (not wheelchair accessible). Can be very crowded.",
+    "combinableWith": [
+      "Alfama neighborhood exploration",
+      "Sé Cathedral (tram stops at door)",
+      "São Jorge Castle (nearby stop)",
+      "Chiado shopping district",
+      "Basilica da Estrela",
+      "Graça viewpoints"
+    ],
+    "tips": [
+      "ICONIC Lisbon experience - don't miss it!",
+      "Go EARLY MORNING (6:00-8:00) or EVENING (after 19:00) to avoid crowds",
+      "Board at Martim Moniz terminus for best seat chances",
+      "Buy Lisboa Card for unlimited free rides - saves money",
+      "15-minute walk from cruise port to Martim Moniz start point",
+      "BEWARE OF PICKPOCKETS - this tram is their favorite target",
+      "Don't carry valuables; use anti-theft bag or money belt",
+      "Sit by window if possible for best views and photos",
+      "Hold on tight - sharp braking and turns!",
+      "Don't try to hop on/off at stops - too crowded",
+      "Complete journey takes 50-60 minutes one way",
+      "Consider riding full route then walking back through neighborhoods",
+      "If tram is too full, wait for next one (9-12 min intervals)",
+      "Alternative: Historic Hills Tram Tour (tourist version, guaranteed seats)",
+      "Tram 24 offers similar vintage experience with no crowds",
+      "Bring water - trams can get hot and stuffy when crowded",
+      "Not ideal for those with mobility issues or claustrophobia"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Vintage 1930s wooden Remodelado trams",
+      "7km scenic route through 7 historic neighborhoods",
+      "28 stops connecting major Lisbon attractions",
+      "Squeezes through narrow medieval streets",
+      "Passes Sé Cathedral, Castle area, Alfama, Chiado, Bairro Alto, Estrela",
+      "Steep inclines and sharp corners",
+      "Working public transport used by locals",
+      "Authentic Lisbon experience - not a tourist gimmick",
+      "Yellow trams are Lisbon's most iconic symbol",
+      "Featured in every Lisbon guidebook and travel show",
+      "Operating since 1914 on same route",
+      "Views of tile-covered façades and city rooftops"
+    ],
+    "facilities": [
+      "Standing room and limited seating (20 seats, 38 standing capacity)",
+      "Opening windows for ventilation",
+      "Hand straps for standing passengers",
+      "Vintage wood and brass interior",
+      "Bell operated by driver"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "No",
+      "mobilityNotes": "NOT wheelchair accessible. High steps to board. Standing passengers must balance during sharp turns and stops. Not suitable for mobility-impaired visitors. Very crowded conditions can be difficult for anyone with balance issues or claustrophobia.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "No commentary or guides - pure transport experience",
+      "Digital information boards at major stops (Portuguese/English)"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/tram-28-hero.jpg",
+      "alt": "Iconic yellow Tram 28 on narrow Alfama street",
+      "caption": "Vintage Tram 28 navigating the steep, narrow streets of historic Alfama"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/tram-28-1.jpg",
+        "alt": "Inside vintage Tram 28",
+        "caption": "The authentic 1930s wooden interior with brass fittings and vintage seating"
+      },
+      {
+        "url": "/images/attractions/tram-28-2.jpg",
+        "alt": "Tram 28 passing Lisbon Cathedral",
+        "caption": "Tram 28 stops right at the door of the Sé Cathedral in Alfama"
+      },
+      {
+        "url": "/images/attractions/tram-28-3.jpg",
+        "alt": "Crowded Tram 28 in Chiado",
+        "caption": "The tram passing through elegant Chiado shopping district"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Sé Cathedral (on route)",
+      "distance": "Direct stop",
+      "type": "cathedral",
+      "walkingTime": "Tram stops at door"
+    },
+    {
+      "name": "Miradouro da Graça (near route)",
+      "distance": "300 meters from Graça stop",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes from stop"
+    },
+    {
+      "name": "Portas do Sol viewpoint (on route)",
+      "distance": "Direct stop",
+      "type": "viewpoint",
+      "walkingTime": "Tram stop nearby"
+    },
+    {
+      "name": "Chiado (on route)",
+      "distance": "Direct stop",
+      "type": "shopping-district",
+      "walkingTime": "Tram passes through"
+    },
+    {
+      "name": "Basilica da Estrela (on route)",
+      "distance": "Direct stop",
+      "type": "basilica",
+      "walkingTime": "Tram stops in front"
+    }
+  ],
+  "tags": [
+    "tram",
+    "vintage-tram",
+    "public-transport",
+    "sightseeing",
+    "experience",
+    "iconic",
+    "historic",
+    "alfama",
+    "chiado",
+    "must-do",
+    "photography",
+    "scenic-route",
+    "cultural"
+  ],
+  "suitableFor": [
+    "everyone",
+    "photographers",
+    "couples",
+    "solo-travelers",
+    "families-with-older-kids",
+    "adventure-seekers",
+    "culture-lovers",
+    "patient-travelers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 15823,
+  "reviewSource": "TripAdvisor/Google"
+}

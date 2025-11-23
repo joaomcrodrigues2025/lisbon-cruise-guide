@@ -1,0 +1,238 @@
+{
+  "id": "se-de-lisboa",
+  "name": "Sé de Lisboa (Lisbon Cathedral)",
+  "tagline": "Lisbon's oldest and most important church - A fortress-like Romanesque cathedral from 1147",
+  "type": "cathedral",
+  "categories": [
+    "cathedral",
+    "church",
+    "religious-site",
+    "historic-monument",
+    "romanesque-architecture",
+    "medieval"
+  ],
+  "description": {
+    "short": "The Sé de Lisboa, also known as Lisbon Cathedral or Igreja de Santa Maria Maior, is the oldest church in Lisbon, founded in 1147. This fortress-like Romanesque cathedral has witnessed nearly 900 years of history and survived the devastating 1755 earthquake.",
+    "full": "The Sé de Lisboa (Lisbon Cathedral) stands as a testament to nearly nine centuries of Portuguese history and faith. Founded in 1147 by King Afonso Henriques immediately after the Christian conquest of Lisbon from the Moors, the cathedral was built on the site of the city's main mosque. Its fortress-like appearance, with two solid bell towers flanking a crenellated façade, reflects the turbulent times of the Reconquista when churches needed to double as defensive structures. The cathedral is a masterpiece of Romanesque architecture, though it bears marks of various architectural periods due to multiple reconstructions following earthquakes, most notably the catastrophic 1755 Lisbon earthquake that destroyed much of the city. The cathedral's rose window, while reconstructed in the 20th century, maintains the medieval aesthetic. Inside, visitors discover a solemn three-nave basilica with robust columns and barrel vaulting that creates an atmosphere of medieval grandeur. The Gothic cloister, accessible for an additional fee, dates from the 14th century and survived the earthquake remarkably intact. Archaeological excavations beneath the cloister have revealed Roman, Visigothic, and Moorish remains, offering a fascinating glimpse into Lisbon's layered history. The cathedral houses the baptismal font where St. Anthony of Padua was baptized in 1195 - one of Lisbon's most beloved saints. The Treasury museum displays religious artifacts, including relics and ecclesiastical treasures spanning centuries. The cathedral has been the site of royal weddings, coronations, and state funerals throughout Portuguese history. From its terrace and towers, visitors once enjoyed panoramic views over Alfama and the Tagus, though access is currently limited.",
+    "history": "Construction of Sé de Lisboa began in 1147 under the orders of King Afonso Henriques, Portugal's first king, shortly after he conquered Lisbon from the Moors. The cathedral was built on the site of Lisbon's main mosque, symbolically establishing Christian dominance. The first bishop was an English crusader, Gilbert of Hastings, who had aided in the conquest. The Romanesque structure was completed in the early 13th century. During the 14th century, King Dinis I ordered the construction of a Gothic cloister. The cathedral suffered damage in several earthquakes, most catastrophically in 1755 when much of the church collapsed, including the apse and main chapel. Extensive reconstruction in the 18th and 20th centuries restored the cathedral, though some purist architects criticized the heavy-handed restoration. Throughout its history, the cathedral has hosted significant royal events including the wedding of King João I and Philippa of Lancaster in 1387. The cathedral remains the seat of the Patriarch of Lisbon and an active place of worship.",
+    "significance": "Sé de Lisboa holds immense significance as Lisbon's oldest church and most important religious building. It represents the Christian reconquest of Lisbon and serves as a symbol of Portuguese identity and faith. The cathedral is the final resting place of several important historical figures and has witnessed nearly 900 years of Portuguese history, from medieval times through the Age of Discovery to modern Portugal. It is one of the finest examples of Portuguese Romanesque architecture and remains an active cathedral serving Lisbon's Catholic community."
+  },
+  "location": {
+    "address": {
+      "street": "Largo da Sé",
+      "postal_code": "1100-585",
+      "neighborhood": "Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.71,
+      "longitude": -9.133
+    },
+    "directions": {
+      "general": "Located in the historic Alfama district, the cathedral sits prominently on a hill at Largo da Sé, visible from many parts of Baixa",
+      "fromCruisePort": "1.5km northeast from cruise terminals - 20-minute walk uphill through Baixa, or take Tram 28E which stops directly in front (Sé stop). Taxi takes 5-10 minutes.",
+      "publicTransport": "Tram 28E stops directly at the cathedral (Sé stop). Buses 737, 734 also stop nearby. Metro: Blue line to Terreiro do Paço, then 15-minute uphill walk.",
+      "parking": "Very limited street parking in Alfama. Best to use public parking at Praça do Comércio and walk (15 minutes) or take tram."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1500,
+      "walkingTime": "20 minutes uphill",
+      "drivingTime": "5-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 886 6752",
+    "email": null,
+    "website": "http://www.patriarcado-lisboa.pt",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily with religious services",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday to Saturday",
+          "hours": "09:00 - 19:00",
+          "notes": "Last entry 30 minutes before closing. Cloister: 10:00 - 18:00"
+        },
+        {
+          "season": "Year-round",
+          "days": "Sunday",
+          "hours": "09:00 - 20:00",
+          "notes": "Mass schedule may affect visiting hours. Check before visiting during services."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5,
+      "notes": "Cathedral entry is free. €5 for cloister, treasury, and archaeological area. €2.50 for seniors 65+. Free for children under 12. Lisboa Card provides free entry to paid areas."
+    },
+    "averageVisitDuration": "45 minutes to 1 hour (cathedral and cloister)",
+    "bestTimeToVisit": "Early morning (9:00-10:00) or late afternoon to avoid crowds and tour groups. Weekday mornings are quietest. Avoid visiting during mass times if sightseeing.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (10:00-15:00)",
+      "When cruise ships are in port",
+      "Sunday mornings during mass",
+      "Religious holidays and festivals"
+    ],
+    "adviceForVisitors": "Dress modestly as it's an active place of worship (cover shoulders and knees). Be respectful during services. Don't miss the Gothic cloister - it's worth the extra admission. The Treasury contains fascinating religious artifacts. Photography allowed but no flash. Tram 28 stops right at the door, making access very easy. Combine with exploring the Alfama district on foot. Steep cobblestone streets - wear comfortable walking shoes. Audio guides available for rent. Free entry to main cathedral makes this accessible to all budgets."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2 hours total (including 20-minute walk or tram ride each way)",
+    "accessibility": "Good - close to cruise port, easily reachable by foot or tram. Cathedral has some steps but main floor is accessible.",
+    "combinableWith": [
+      "Alfama neighborhood walking tour",
+      "Tram 28 experience",
+      "São Jorge Castle",
+      "Portas do Sol viewpoint",
+      "Fado museum",
+      "Praça do Comércio"
+    ],
+    "tips": [
+      "One of closest major attractions to cruise terminal - perfect first stop!",
+      "Take Tram 28 which stops right at the cathedral entrance",
+      "Free entry to main cathedral - budget-friendly option",
+      "Pay extra €5 to see the beautiful Gothic cloister and Treasury",
+      "Great starting point for exploring Alfama on foot",
+      "Combine with walk downhill to Praça do Comércio (15 min)",
+      "Dress modestly - active place of worship",
+      "Visit early morning to beat cruise ship tour groups",
+      "Don't miss the baptismal font of St. Anthony of Padua",
+      "Archaeological area shows Roman and Moorish remains",
+      "Fortress-like exterior makes for great photos",
+      "Easy half-day when combined with Alfama exploration"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Lisbon's oldest church, founded in 1147",
+      "Fortress-like Romanesque architecture with twin bell towers",
+      "Survived the 1755 earthquake with significant damage but rebuilt",
+      "Beautiful 14th-century Gothic cloister",
+      "Baptismal font of St. Anthony of Padua (Lisbon's patron saint)",
+      "Treasury with religious artifacts and relics",
+      "Archaeological excavations showing Roman and Moorish remains",
+      "Rose window (20th century reconstruction)",
+      "Royal wedding and coronation site throughout history",
+      "Three-nave basilica with barrel vaulting",
+      "Seat of the Patriarch of Lisbon",
+      "Tram 28 stops at the entrance"
+    ],
+    "facilities": [
+      "Treasury museum",
+      "Gothic cloister",
+      "Archaeological area",
+      "Gift shop with religious items",
+      "Audio guides available for rent",
+      "Public restrooms",
+      "Benches for resting"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Main cathedral floor is accessible with some assistance. Cloister and tower have steps and are not wheelchair accessible. Cobblestone square outside may be challenging for wheelchairs.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French - audio guides"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/se-de-lisboa-hero.jpg",
+      "alt": "Sé de Lisboa Cathedral exterior with fortress-like twin towers",
+      "caption": "The imposing Romanesque facade of Lisbon Cathedral, built in 1147"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/se-de-lisboa-1.jpg",
+        "alt": "Gothic cloister of Sé de Lisboa",
+        "caption": "The beautiful 14th-century Gothic cloister that survived the 1755 earthquake"
+      },
+      {
+        "url": "/images/attractions/se-de-lisboa-2.jpg",
+        "alt": "Interior of Lisbon Cathedral",
+        "caption": "The solemn three-nave Romanesque interior with barrel vaulting"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Alfama District",
+      "distance": "Immediate area",
+      "type": "historic-neighborhood",
+      "walkingTime": "0 minutes - in the heart of it"
+    },
+    {
+      "name": "Miradouro das Portas do Sol",
+      "distance": "400 meters",
+      "type": "viewpoint",
+      "walkingTime": "5-7 minutes uphill"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "550 meters",
+      "type": "castle",
+      "walkingTime": "10 minutes uphill"
+    },
+    {
+      "name": "Praça do Comércio",
+      "distance": "850 meters",
+      "type": "square",
+      "walkingTime": "12-15 minutes downhill"
+    },
+    {
+      "name": "St. Anthony's Church",
+      "distance": "50 meters",
+      "type": "church",
+      "walkingTime": "1 minute - right next door"
+    }
+  ],
+  "tags": [
+    "cathedral",
+    "church",
+    "romanesque",
+    "gothic",
+    "medieval",
+    "religious",
+    "historic",
+    "alfama",
+    "architecture",
+    "unesco-area",
+    "tram-28",
+    "must-visit",
+    "free-entry"
+  ],
+  "suitableFor": [
+    "everyone",
+    "history-lovers",
+    "architecture-enthusiasts",
+    "photographers",
+    "religious-pilgrims",
+    "families",
+    "couples",
+    "solo-travelers",
+    "seniors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$",
+  "rating": 4.3,
+  "reviewCount": 8542,
+  "reviewSource": "TripAdvisor/Google"
+}

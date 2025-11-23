@@ -1,0 +1,268 @@
+{
+  "id": "praca-do-comercio",
+  "name": "Praça do Comércio (Commerce Square)",
+  "tagline": "Lisbon's grandest waterfront square - The majestic gateway to the city where the Tagus meets triumphal architecture",
+  "type": "public-square",
+  "categories": [
+    "public-square",
+    "historic-plaza",
+    "waterfront",
+    "monument",
+    "landmark",
+    "photo-spot"
+  ],
+  "description": {
+    "short": "Praça do Comércio, also known as Terreiro do Paço, is Lisbon's grandest and most iconic square. This vast yellow-colonnaded plaza opens directly onto the Tagus River and served as the entrance to the city for centuries. It's just 10 minutes walk from the cruise terminals.",
+    "full": "Praça do Comércio stands as one of Europe's most beautiful and impressive public squares, a magnificent yellow-colonnaded plaza that opens majestically onto the Tagus River. Measuring 175 meters by 175 meters, this vast square was designed as Lisbon's grand ceremonial entrance - the 'Gateway to Lisbon' where visiting dignitaries, explorers, and traders first set foot after disembarking from ships. The square is framed on three sides by elegant 18th-century Pombaline buildings painted in distinctive bright yellow with arcaded ground floors housing cafes, restaurants, and government offices. The southern side opens entirely to the river via a broad marble staircase known as Cais das Colunas (Pier of Columns), flanked by two monumental columns that once marked the royal landing point. At the center of the square stands an imposing equestrian statue of King José I, whose prime minister, the Marquis of Pombal, masterminded Lisbon's reconstruction after the devastating 1755 earthquake. The northern end of the square is dominated by the magnificent Arco da Rua Augusta, a triumphal arch adorned with allegorical statues representing Glory, Genius, and Valor, crowned by a dramatic sculptural group. Visitors can climb inside the arch for spectacular rooftop views. The square is historically known as Terreiro do Paço (Palace Square) because the royal Ribeira Palace stood here for nearly 250 years until the 1755 earthquake and tsunami completely destroyed it. The Marquis of Pombal seized the opportunity to redesign the waterfront, creating this grand neoclassical square as part of his ambitious Baixa rebuilding project. Today, Praça do Comércio serves as Lisbon's living room - a place where locals and tourists gather, events and concerts take place, and the essence of Lisbon's relationship with the sea is palpable. The square witnessed some of Portugal's most dramatic historical moments, including the assassination of King Carlos I and Crown Prince Luís Filipe in 1908, which helped precipitate the end of the monarchy. For cruise passengers, this square is especially significant as it's the closest major landmark to the cruise terminals, making it the perfect first impression of Lisbon.",
+    "history": "The site's history as Lisbon's ceremonial entrance dates back centuries. From 1511 to 1755, the royal Ribeira Palace stood here - the primary residence of Portuguese kings during the Age of Discovery. This location wasn't chosen by chance: it provided direct access to the Tagus River, allowing the royal family to monitor the comings and goings of Portugal's maritime empire. The palace witnessed the departure of explorers and the arrival of exotic treasures from Africa, Asia, and Brazil. On November 1, 1755, the great Lisbon earthquake struck on All Saints' Day. The palace was completely destroyed, first by the earthquake, then by the ensuing fires, and finally by a massive tsunami that swept across the square. King José I barely escaped with his life and was so traumatized he spent the rest of his reign living in tents. The king's powerful prime minister, Sebastião José de Carvalho e Melo, better known as the Marquis of Pombal, seized this catastrophe as an opportunity to rebuild Lisbon along modern, rational lines. Rather than reconstructing the royal palace, Pombal created the grand Praça do Comércio - a statement of Enlightenment ideals and commercial prosperity. The square was designed by architects Eugénio dos Santos and Carlos Mardel and completed in 1775. The name 'Commerce Square' reflected Portugal's identity as a trading nation. The marble landing stairs became the city's official entrance, where state visits and important arrivals were staged. On February 1, 1908, King Carlos I and Crown Prince Luís Filipe were assassinated here in their open carriage, an event that shocked Europe and led to the fall of the Portuguese monarchy just two years later. In the 20th century, the square hosted major political events, including celebrations of the 1974 Carnation Revolution that ended dictatorship. Today it remains Lisbon's premier public gathering space.",
+    "significance": "Praça do Comércio holds immense significance as Lisbon's most important ceremonial space and the historic gateway to the city from the sea. It represents Portugal's Age of Discovery maritime heritage and served as the symbolic entrance to one of history's greatest empires. The square is an architectural masterpiece of Enlightenment urban planning, showcasing the Pombaline style that rebuilt Lisbon after 1755. It witnessed pivotal moments in Portuguese history including royal arrivals, the 1908 royal assassination, and celebrations of democracy. For visitors, especially cruise passengers, it serves as the quintessential introduction to Lisbon - a magnificent yellow square where the city meets the Tagus River. The square appears in countless photos, paintings, and postcards as the iconic representation of Lisbon's grandeur and waterfront character."
+  },
+  "location": {
+    "address": {
+      "street": "Praça do Comércio",
+      "postal_code": "1100-148",
+      "neighborhood": "Baixa",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7077,
+      "longitude": -9.1365
+    },
+    "directions": {
+      "general": "Located in Baixa district, opening directly onto the Tagus River waterfront. The massive yellow colonnaded square is impossible to miss.",
+      "fromCruisePort": "ONLY 750 meters west from cruise terminals - easiest 10-12 minute flat walk along the riverfront promenade. Turn left out of terminal, follow waterfront west. Cannot miss the huge yellow square. This is THE closest major landmark!",
+      "publicTransport": "Metro: Blue line to Terreiro do Paço (station exits into the square). Tram 15E, 25E stop at square. All city center buses pass nearby. Ferries dock at Cais do Sodré (15-min walk west).",
+      "parking": "Large underground parking beneath the square (Parque de Estacionamento Praça do Comércio). Street parking very limited. Use public parking or walk from cruise port."
+    },
+    "distanceFromCruisePort": {
+      "meters": 750,
+      "walkingTime": "10-12 minutes flat waterfront walk",
+      "drivingTime": "3-5 minutes (but walking is easier)"
+    }
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": "http://www.visitlisboa.com",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7 year-round - public square",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Every day",
+          "hours": "24 hours",
+          "notes": "Square always open. Arch climb: 10:00-19:00 daily. Cafes/restaurants have individual hours (most open 10:00-24:00)."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Completely FREE to visit square. Arco da Rua Augusta climb: €3 adults, €1.50 students/seniors, free with Lisboa Card. Cafes/restaurants charge separately."
+    },
+    "averageVisitDuration": "30-60 minutes (longer if dining or climbing arch)",
+    "bestTimeToVisit": "Early morning (7:00-9:00) for peaceful atmosphere and beautiful light. Sunset (waterfront views) is magical. Late evening when square is illuminated and lively with diners.",
+    "busyPeriods": [
+      "Mid-morning to late afternoon (10:00-18:00)",
+      "When cruise ships are in port (this is closest major site)",
+      "Weekend afternoons",
+      "During events and concerts",
+      "Summer tourist season"
+    ],
+    "adviceForVisitors": "First stop for cruise passengers - only 10 minutes from port! Walk along the waterfront promenade for best approach. Visit early morning or sunset for best photos without crowds. Climb the Arco da Rua Augusta for spectacular 360° views (€3, worth it!). The square hosts frequent events, concerts, and markets - check schedule. Cafes under the arcades are expensive but offer great people-watching. Martinho da Arcada (oldest cafe in Lisbon, 1782) is under the eastern arcade - historic but pricey. Go through the arch to reach Rua Augusta (main pedestrian shopping street). The marble stairs to river (Cais das Colunas) make iconic photos. Free WiFi available. Taxis readily available. Many restaurants under arcades - choose carefully as quality/price varies. Free public square so budget-friendly for photos and exploring."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "30-45 minutes total (10-min walk each way, 15-20 min exploring)",
+    "accessibility": "Excellent - flat 10-minute waterfront walk from cruise terminals. Completely flat square, wheelchair accessible.",
+    "combinableWith": [
+      "Rua Augusta (through the arch)",
+      "Baixa shopping district",
+      "Lisbon Cathedral (15-min walk)",
+      "Tram 28 (from nearby stop)",
+      "Chiado district",
+      "Cais do Sodré",
+      "Time Out Market"
+    ],
+    "tips": [
+      "CLOSEST major landmark to cruise port - only 10 minutes walk!",
+      "Perfect first or last stop - easiest access from ship",
+      "Walk left along waterfront from terminal - can't miss it",
+      "Completely FLAT walk - easy for all fitness levels",
+      "FREE to explore - budget-friendly",
+      "Climb Arco da Rua Augusta for best views (€3)",
+      "Take photos from river stairs (Cais das Colunas)",
+      "Enormous square - great for panoramic photos",
+      "Many cafes under arcades - pricey but convenient",
+      "Go through arch to reach Rua Augusta shopping street",
+      "Free WiFi in square",
+      "Easy taxi stand for onward travel",
+      "Tram 15E and 25E stop here for waterfront destinations",
+      "Metro Blue Line station exits into square",
+      "Often hosts free events and concerts",
+      "Evening illumination is beautiful",
+      "Historic Martinho da Arcada cafe (1782) worth visit",
+      "Central location for exploring Baixa on foot",
+      "Waterfront promenade perfect for walks/jogging",
+      "Ideal meeting point if traveling in group"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "One of Europe's grandest public squares (175m x 175m)",
+      "Distinctive yellow-colonnaded Pombaline buildings",
+      "Opens directly onto Tagus River waterfront",
+      "Only 750 meters from cruise terminals (10-min walk)",
+      "Arco da Rua Augusta triumphal arch with viewing platform",
+      "Equestrian statue of King José I (center)",
+      "Cais das Colunas marble stairs to river",
+      "Former site of royal Ribeira Palace (destroyed 1755)",
+      "Known as Terreiro do Paço (Palace Square)",
+      "Historic 'Gateway to Lisbon' for sea arrivals",
+      "Site of 1908 royal assassination",
+      "Hosts events, concerts, markets",
+      "Arcaded ground floor with cafes and restaurants",
+      "Metro station (Terreiro do Paço) in square"
+    ],
+    "facilities": [
+      "Numerous cafes and restaurants under arcades",
+      "Public restrooms",
+      "Free WiFi",
+      "Metro station access (Blue Line)",
+      "Tram stops (15E, 25E)",
+      "Taxi stand",
+      "Information kiosks",
+      "Underground parking",
+      "Benches for seating",
+      "Event/concert space",
+      "ATMs",
+      "Tourist shops"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Yes",
+      "mobilityNotes": "Completely wheelchair accessible. Flat paved square, flat walk from cruise terminals. Metro station has elevators. Accessible restrooms available. Cafes and restaurants generally accessible. Only arch climb is not wheelchair accessible.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English - widely spoken in tourist cafes",
+      "Spanish",
+      "French",
+      "Multiple languages in restaurants"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/praca-do-comercio-hero.jpg",
+      "alt": "Praça do Comércio with yellow colonnades and Arco da Rua Augusta",
+      "caption": "The magnificent Praça do Comércio, Lisbon's grandest square opening onto the Tagus River"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/praca-do-comercio-1.jpg",
+        "alt": "View of Praça do Comércio from Tagus River",
+        "caption": "The square as seen from the river - Lisbon's historic gateway"
+      },
+      {
+        "url": "/images/attractions/praca-do-comercio-2.jpg",
+        "alt": "Arco da Rua Augusta triumphal arch",
+        "caption": "The magnificent Arco da Rua Augusta crowned with allegorical statues"
+      },
+      {
+        "url": "/images/attractions/praca-do-comercio-3.jpg",
+        "alt": "Cais das Colunas marble stairs",
+        "caption": "The iconic marble stairs to the river flanked by columns"
+      },
+      {
+        "url": "/images/attractions/praca-do-comercio-4.jpg",
+        "alt": "Equestrian statue of King José I",
+        "caption": "The imposing bronze equestrian statue at the square's center"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Arco da Rua Augusta",
+      "distance": "In the square",
+      "type": "arch-viewpoint",
+      "walkingTime": "0 minutes - at north end of square"
+    },
+    {
+      "name": "Rua Augusta",
+      "distance": "Through the arch",
+      "type": "shopping-street",
+      "walkingTime": "0 minutes - immediately through arch"
+    },
+    {
+      "name": "Lisbon Story Centre Museum",
+      "distance": "100 meters",
+      "type": "museum",
+      "walkingTime": "2 minutes - in the square arcades"
+    },
+    {
+      "name": "Sé Cathedral",
+      "distance": "850 meters",
+      "type": "cathedral",
+      "walkingTime": "12-15 minutes uphill"
+    },
+    {
+      "name": "Chiado district",
+      "distance": "500 meters",
+      "type": "shopping-district",
+      "walkingTime": "7-10 minutes through Baixa"
+    },
+    {
+      "name": "Time Out Market Lisboa",
+      "distance": "1.5 km",
+      "type": "food-market",
+      "walkingTime": "20 minutes along waterfront"
+    }
+  ],
+  "tags": [
+    "square",
+    "plaza",
+    "waterfront",
+    "baixa",
+    "landmark",
+    "historic",
+    "architecture",
+    "pombaline",
+    "arch",
+    "free",
+    "must-visit",
+    "cruise-port",
+    "accessible",
+    "photography"
+  ],
+  "suitableFor": [
+    "everyone",
+    "families",
+    "couples",
+    "solo-travelers",
+    "photographers",
+    "history-lovers",
+    "architecture-enthusiasts",
+    "cruise-passengers",
+    "seniors",
+    "wheelchair-users"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewCount": 18942,
+  "reviewSource": "TripAdvisor/Google"
+}

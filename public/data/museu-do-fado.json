@@ -1,0 +1,243 @@
+{
+  "id": "museu-do-fado",
+  "name": "Museu do Fado (Fado Museum)",
+  "tagline": "Celebrate Portugal's soulful UNESCO-recognized musical heritage",
+  "type": "museum",
+  "categories": [
+    "museum",
+    "cultural-attraction",
+    "music",
+    "historic-site",
+    "educational"
+  ],
+  "description": {
+    "short": "An interactive museum dedicated to Fado, Portugal's UNESCO-recognized melancholic musical tradition. Explore the history, evolution, and legendary artists of this soulful genre through exhibits, recordings, and multimedia displays in the heart of Alfama.",
+    "full": "The Museu do Fado is a cultural institution dedicated to preserving and celebrating Fado, Portugal's most iconic musical tradition. Housed in a beautifully restored former water pumping station in the historic Alfama neighborhood - the birthplace of Fado - the museum opened in 1998 to showcase this unique musical heritage that UNESCO recognized as Intangible Cultural Heritage of Humanity in 2011. The museum's permanent exhibition traces Fado's evolution from its 19th-century origins in Lisbon's working-class taverns and brothels to its current status as a symbol of Portuguese cultural identity. Visitors journey through beautifully curated displays featuring historic photographs, traditional Portuguese guitars, vintage costumes, handwritten lyrics, and personal artifacts from legendary fadistas (Fado singers) including the incomparable Amalia Rodrigues, known as the 'Queen of Fado.' Interactive listening stations allow visitors to hear the distinctive voices of great Fado artists across different eras, while video displays explain the music's unique characteristics - its themes of saudade (longing), destiny, love, and loss. The museum explores Fado's two main styles: Lisbon Fado and Coimbra Fado, and examines the role of the Portuguese guitar (guitarra portuguesa) with its distinctive 12-string pear-shaped design. Temporary exhibitions highlight contemporary Fado artists and special themes, while the museum's auditorium hosts live Fado performances. Educational programs, workshops, and a specialized library make this more than just a museum - it's a living center for Fado culture and research.",
+    "history": "The Museu do Fado was inaugurated on September 25, 1998, established by Lisbon City Hall (EGEAC) with support from the Portuguese Ministry of Culture. The museum occupies a former water pumping station (Estacao Elevatoria da Praia) in Alfama, a neighborhood intrinsically linked to Fado's origins. The creation of the museum responded to growing recognition of Fado's cultural importance and the need to preserve its history as many traditional Fado houses were disappearing. The museum's permanent collection was developed through donations and acquisitions from fadistas, their families, and collectors, assembling one of the world's most comprehensive archives of Fado recordings, photographs, and memorabilia. A major milestone came in 2011 when UNESCO inscribed Fado on its Representative List of the Intangible Cultural Heritage of Humanity, validating the museum's mission and elevating Fado's global recognition. The museum played a crucial role in the UNESCO application process, providing documentation and evidence of Fado's cultural significance. Over the years, the museum has expanded its collection and modernized its exhibits with interactive technology while maintaining its focus on authentic Fado heritage. It has become a pilgrimage site for Fado lovers worldwide and an essential stop for understanding Portuguese cultural identity.",
+    "significance": "The Museu do Fado is Portugal's only museum dedicated entirely to this unique musical tradition, making it the world's primary institution for Fado preservation and education. It safeguards the legacy of legendary fadistas and documents Fado's evolution from underground working-class music to internationally recognized art form. The museum played a vital role in Fado's 2011 UNESCO Intangible Cultural Heritage designation, providing historical documentation and demonstrating the music's ongoing cultural vitality. It serves as a research center for scholars studying Portuguese music and popular culture, housing an extensive archive of recordings, photographs, manuscripts, and instruments. For visitors, especially cruise passengers with limited time in Lisbon, the museum offers an efficient, comprehensive introduction to Fado that contextualizes the live performances they might experience in the city's restaurants and taverns. The museum ensures that Fado's history and traditions are transmitted to new generations while the genre continues to evolve with contemporary artists."
+  },
+  "location": {
+    "address": {
+      "street": "Largo do Chafariz de Dentro, 1",
+      "postal_code": "1100-139",
+      "neighborhood": "Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.712778,
+      "longitude": -9.125833
+    },
+    "directions": {
+      "general": "Located in lower Alfama near the Tagus River waterfront, between Santa Apolonia train station and Terreiro do Paco",
+      "fromCruisePort": "1.5km from Santa Apolonia cruise port - easy 20-minute walk west along waterfront. Or 5-minute taxi/Uber. Very accessible from port.",
+      "publicTransport": "Metro to Santa Apolonia station (Blue Line), then 10-minute walk. Buses 735, 759, 794 to nearby stops. Tram 28E stops in Alfama but requires uphill walk. From Terreiro do Paco, 15-minute walk through lower Alfama.",
+      "parking": "Limited street parking. Nearest parking at Santa Apolonia station. Not recommended to drive - narrow streets. Walk or use public transport."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1500,
+      "walkingTime": "20 minutes",
+      "drivingTime": "5 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 823 470",
+    "email": "info@museudofado.pt",
+    "website": "https://www.museudofado.pt/en",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/museudofado",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/museudofado/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except certain holidays",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Tuesday - Sunday",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ],
+      "closedDates": [
+        "Mondays",
+        "January 1",
+        "May 1",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5,
+      "youth": 2.5,
+      "child": 0,
+      "senior": 2.5,
+      "lisboaCardFree": true,
+      "comboTicket": null,
+      "notes": "Children under 12 free. Youth/student discount with valid ID. Seniors 65+. Lisboa Card includes free admission. Free first Sunday of each month. Audio guide included in admission."
+    },
+    "averageVisitDuration": "1-1.5 hours",
+    "bestTimeToVisit": "Early morning (10-11am) or late afternoon (after 4pm) for fewer crowds. Tuesday-Thursday generally quieter than weekends. Combine with Alfama walking tour.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-14:00)",
+      "Weekends",
+      "First Sunday of month (free admission)",
+      "June (Santo Antonio festival period)"
+    ],
+    "adviceForVisitors": "Allow 1-1.5 hours to fully appreciate exhibits and listen to recordings. Audio guide included with admission - highly recommended for understanding Fado's nuances. Photography allowed without flash. Small gift shop sells Fado CDs - great souvenirs. Visit museum before experiencing live Fado to enhance appreciation. Combine with Alfama walking tour and lunch. Check website for special exhibitions and live performance schedule in auditorium. Compact museum - easy to cover everything. Labels in Portuguese and English."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2 hours total (very close to port - 20-minute walk)",
+    "accessibility": "Excellent - walking distance from Santa Apolonia cruise port. Museum is wheelchair accessible.",
+    "combinableWith": [
+      "Alfama neighborhood walking tour",
+      "Castelo de Sao Jorge",
+      "Lisbon Cathedral (Se)",
+      "Portas do Sol viewpoint",
+      "Fado dinner experience",
+      "Feira da Ladra flea market (Tue/Sat)",
+      "Santa Apolonia waterfront"
+    ],
+    "tips": [
+      "Perfect for cruise passengers - only 20-minute walk from port!",
+      "Visit morning of arrival or afternoon before departure",
+      "Excellent cultural context before live Fado dinner",
+      "Free with Lisboa Card - great value",
+      "Combine with Alfama walking tour for full morning",
+      "Buy Fado CDs in gift shop - authentic souvenirs",
+      "Listen to audio guide - brings Fado history to life",
+      "Compact museum - 1-1.5 hours covers everything",
+      "Easy return walk to port along scenic waterfront",
+      "Check for live performances in museum auditorium",
+      "Great rainy-day alternative activity",
+      "Educational experience for understanding Portuguese culture"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Interactive listening stations with historic Fado recordings",
+      "Amalia Rodrigues tribute exhibition",
+      "Traditional Portuguese guitar (guitarra) displays",
+      "Historic photographs of legendary fadistas",
+      "Vintage costumes and personal artifacts",
+      "Handwritten lyrics and manuscripts",
+      "Evolution of Fado from 1820s to present",
+      "Multimedia displays explaining Fado's cultural significance",
+      "Temporary exhibitions on contemporary Fado artists",
+      "Specialized Fado library and archive",
+      "Live performance auditorium",
+      "UNESCO Intangible Cultural Heritage recognition display"
+    ],
+    "facilities": [
+      "Audio guides (included with admission)",
+      "Information panels in Portuguese and English",
+      "Interactive listening stations",
+      "Video display areas",
+      "Auditorium for live performances",
+      "Gift shop with Fado CDs and books",
+      "Specialized library (by appointment)",
+      "Restrooms",
+      "Free WiFi",
+      "Climate-controlled exhibition spaces"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully wheelchair accessible with elevator and ramps. Accessible restrooms available. Wheelchair-height exhibits and listening stations. Seating available throughout museum. Assistance available - call ahead if needed.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/museu-do-fado-hero.jpg",
+      "alt": "Museu do Fado exterior building",
+      "caption": "The Fado Museum in Alfama, celebrating Portugal's musical soul"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/museu-do-fado-1.jpg",
+        "alt": "Portuguese guitar display",
+        "caption": "Traditional Portuguese guitars and Fado instruments on display"
+      },
+      {
+        "url": "/images/attractions/museu-do-fado-2.jpg",
+        "alt": "Amalia Rodrigues exhibit",
+        "caption": "Tribute to Amalia Rodrigues, the Queen of Fado"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Alfama neighborhood",
+      "distance": "Immediate area",
+      "type": "neighborhood",
+      "walkingTime": "0 minutes - museum is in Alfama"
+    },
+    {
+      "name": "Santa Apolonia Cruise Port",
+      "distance": "1.5 km",
+      "type": "port",
+      "walkingTime": "20 minutes along waterfront"
+    },
+    {
+      "name": "Lisbon Cathedral (Se)",
+      "distance": "700 meters",
+      "type": "cathedral",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "National Pantheon",
+      "distance": "300 meters",
+      "type": "church",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Castelo de Sao Jorge",
+      "distance": "900 meters",
+      "type": "castle",
+      "walkingTime": "15 minutes uphill"
+    }
+  ],
+  "tags": [
+    "museum",
+    "fado",
+    "music",
+    "unesco",
+    "alfama",
+    "cultural-heritage",
+    "amalia-rodrigues",
+    "portuguese-guitar",
+    "interactive",
+    "educational",
+    "authentic",
+    "soulful"
+  ],
+  "suitableFor": [
+    "music-lovers",
+    "culture-seekers",
+    "history-enthusiasts",
+    "cruise-passengers",
+    "educational-visitors",
+    "couples",
+    "families",
+    "rainy-day-activity"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$",
+  "rating": 4.4,
+  "reviewCount": 3850,
+  "reviewSource": "TripAdvisor/Google"
+}

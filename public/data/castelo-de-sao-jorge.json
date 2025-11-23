@@ -1,0 +1,246 @@
+{
+  "id": "castelo-de-sao-jorge",
+  "name": "Castelo de Sao Jorge (St. George's Castle)",
+  "tagline": "Lisbon's historic hilltop fortress with panoramic city views",
+  "type": "castle",
+  "categories": [
+    "castle",
+    "historic-site",
+    "viewpoint",
+    "cultural-attraction",
+    "monument"
+  ],
+  "description": {
+    "short": "Perched on Lisbon's highest hill, this 11th-century Moorish castle offers spectacular 360-degree views over the city and Tagus River. Explore medieval battlements, archaeological ruins, and royal palace remains while peacocks roam the grounds.",
+    "full": "Castelo de Sao Jorge dominates Lisbon's skyline from atop the city's highest hill in the historic Alfama district. Originally built by the Moors in the mid-11th century, this imposing fortress became the residence of Portuguese kings after Christian conquest in 1147 and remained the royal palace until the 16th century. The castle complex encompasses 11 towers connected by massive walls, offering visitors the chance to walk the battlements and enjoy breathtaking panoramic views over Lisbon's terracotta rooftops, the Tagus River estuary, and the 25 de Abril Bridge. Within the fortified citadel, visitors can explore the Museum Centre showcasing artifacts from Phoenician, Roman, Moorish, and Medieval periods discovered during archaeological excavations. The Camera Obscura provides a unique 360-degree real-time view of the city below, while the archaeological site reveals layers of Lisbon's 2,500-year history. The castle gardens are home to a flock of peacocks and other birds, adding to the magical atmosphere. Though damaged by the 1755 earthquake and later used as barracks and prison, extensive 20th-century restoration returned the castle to its medieval glory. Today it stands as Lisbon's most visited monument and a powerful symbol of Portuguese resilience and history.",
+    "history": "The hilltop was first fortified by indigenous Iberians, then occupied by Romans, Visigoths, and finally the Moors who built the first substantial castle in the mid-11th century as part of Lisbon's Moorish defenses. In 1147, during the Second Crusade, King Afonso Henriques captured Lisbon from the Moors after a three-month siege, with crucial help from Northern European crusaders. The castle became the royal palace and seat of power for Portuguese kings. King Dinis I rebuilt parts of the castle in the early 14th century, and King Manuel I further expanded it in the 16th century before moving the royal residence to the new Ribeira Palace near the river. After the 1755 earthquake severely damaged the castle, it was converted into military barracks and later a prison. The castle fell into disrepair until major restoration began in the 1940s under Estado Novo regime. Extensive archaeological excavations from 1990s onward uncovered multiple layers of occupation spanning 2,500 years. Today it is managed by EGEAC and is Lisbon's most iconic landmark.",
+    "significance": "Castelo de Sao Jorge represents the historical and political heart of Lisbon, serving as the city's main defensive fortification for nearly a millennium. The 1147 Christian conquest of the castle marked a turning point in the Reconquista and the birth of Portugal as an independent kingdom. As the royal residence for three centuries, it witnessed crucial moments in Portuguese history, including royal ceremonies, political decisions, and the Age of Discoveries planning. The castle's survival through earthquakes, wars, and centuries of change symbolizes Lisbon's resilience. Its commanding position and iconic silhouette make it the most recognizable symbol of the city, appearing on countless postcards and photographs."
+  },
+  "location": {
+    "address": {
+      "street": "Rua de Santa Cruz do Castelo",
+      "postal_code": "1100-129",
+      "neighborhood": "Castelo/Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.713928,
+      "longitude": -9.133596
+    },
+    "directions": {
+      "general": "Located on the highest hill in central Lisbon, in the historic Castelo neighborhood above Alfama district",
+      "fromCruisePort": "3.5km from Santa Apolonia cruise port - take bus 737 direct to castle entrance (20 minutes), or taxi/Uber (10-15 minutes). Tram 28E from port area possible but crowded. Walking uphill from port: 45 minutes steep climb.",
+      "publicTransport": "Bus 737 from Praca da Figueira to Castelo stop at entrance. Tram 28E stops nearby but requires uphill walk. Buses 734 and 35E also serve the area. From Baixa, steep 15-20 minute uphill walk.",
+      "parking": "Limited paid parking near castle entrance on Rua de Santa Cruz do Castelo. Not recommended to drive - narrow medieval streets."
+    },
+    "distanceFromCruisePort": {
+      "meters": 3500,
+      "walkingTime": "45 minutes (steep uphill climb)",
+      "drivingTime": "10-15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 800 620",
+    "email": "castelo.s.jorge@egeac.pt",
+    "website": "https://castelodesaojorge.pt/en/",
+    "bookingUrl": "https://castelodesaojorge.pt/bilhetes/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/castelodesaojorge",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/castelodesjorge/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except certain holidays",
+      "seasonal": [
+        {
+          "season": "November - February (Winter)",
+          "days": "Daily",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30",
+          "notes": "Wall-walks and towers close at 17:30 for safety"
+        },
+        {
+          "season": "March - October (Summer)",
+          "days": "Daily",
+          "hours": "09:00 - 21:00",
+          "lastAdmission": "20:30",
+          "notes": "Wall-walks and towers may close between 18:00-21:00 depending on daylight"
+        }
+      ],
+      "closedDates": [
+        "January 1",
+        "May 1",
+        "December 24",
+        "December 25",
+        "December 31"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 15,
+      "youth": 7.5,
+      "child": 0,
+      "senior": 7.5,
+      "lisboaCardFree": true,
+      "comboTicket": "No combo tickets available",
+      "notes": "Children under 10 free. Youth 10-17 and students with ID. Seniors 65+. Lisbon residents free on Sundays and public holidays until 14:00. Book online for guaranteed entry time."
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Early morning at opening (9am) for fewer crowds and best light for photos. Late afternoon (after 5pm) for sunset views. Avoid midday heat in summer.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (10:00-15:00)",
+      "Weekends and public holidays",
+      "Summer months (June-August)",
+      "Sunday mornings (free for Lisbon residents)"
+    ],
+    "adviceForVisitors": "Wear comfortable walking shoes - lots of stairs and uneven stone surfaces. Bring water, especially in summer. Camera essential for panoramic views. Arrive early or late for fewer crowds. Camera Obscura tours included in ticket - check schedule at entrance. Free guided tours available daily. Allow 1.5-2 hours minimum. Peacocks roam freely - don't feed them. Some areas have steep drops - supervise children closely."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3 hours minimum (includes travel, visit, and exploration)",
+    "accessibility": "Good - direct bus 737 from city center, or short taxi ride from port. Castle has some steep stairs but main viewpoints accessible.",
+    "combinableWith": [
+      "Alfama neighborhood walking tour",
+      "Lisbon Cathedral (Se)",
+      "Miradouro das Portas do Sol viewpoint",
+      "Fado Museum",
+      "Feira da Ladra flea market (Tuesdays & Saturdays)",
+      "Tram 28E scenic ride"
+    ],
+    "tips": [
+      "Take bus 737 directly to castle entrance - saves steep uphill walk",
+      "Perfect for morning visit before exploring Alfama",
+      "Free with Lisboa Card - excellent value for cruise passengers",
+      "Best photo opportunities from towers and battlements",
+      "Visit Camera Obscura for unique real-time city views",
+      "Combine with Alfama walking tour and Fado lunch",
+      "Easy return to port via taxi or bus",
+      "Wear comfortable shoes and bring water",
+      "Allow 2.5-3 hours total including travel time",
+      "Sunset visits offer magical views over city and river"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "11 defensive towers with panoramic city views",
+      "Medieval castle walls and battlements to explore",
+      "Camera Obscura with 360-degree real-time city views",
+      "Archaeological site with Phoenician, Roman, and Moorish ruins",
+      "Museum Centre with artifacts spanning 2,500 years",
+      "Former royal palace ruins and medieval citadel",
+      "Peacocks and exotic birds roaming the gardens",
+      "Spectacular views over Lisbon, Tagus River, and 25 de Abril Bridge",
+      "Medieval castle keep and residential square"
+    ],
+    "facilities": [
+      "Ticket office with online booking",
+      "Free guided tours daily (Portuguese, English, Spanish)",
+      "Camera Obscura demonstrations",
+      "Museum and exhibition spaces",
+      "Archaeological interpretation center",
+      "Audio guide available",
+      "Restaurant and cafe with terrace views",
+      "Gift shop",
+      "Restrooms",
+      "Free WiFi"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Main observation areas and museum accessible via ramps. Some towers and wall-walks require stairs. Wheelchair users can access primary viewpoints. Accessible restrooms available. Call ahead for assistance and special access arrangements.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/castelo-de-sao-jorge-hero.jpg",
+      "alt": "Castelo de Sao Jorge castle towers",
+      "caption": "The imposing towers of St. George's Castle overlooking Lisbon"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/castelo-de-sao-jorge-1.jpg",
+        "alt": "View from castle battlements",
+        "caption": "Panoramic view over Lisbon's rooftops and the Tagus River"
+      },
+      {
+        "url": "/images/attractions/castelo-de-sao-jorge-2.jpg",
+        "alt": "Medieval castle walls",
+        "caption": "Walking the ancient battlements and defensive walls"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro das Portas do Sol",
+      "distance": "300 meters",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes downhill"
+    },
+    {
+      "name": "Lisbon Cathedral (Se)",
+      "distance": "600 meters",
+      "type": "cathedral",
+      "walkingTime": "10 minutes downhill"
+    },
+    {
+      "name": "Alfama neighborhood",
+      "distance": "200 meters",
+      "type": "historic-district",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Fado Museum",
+      "distance": "1.2 km",
+      "type": "museum",
+      "walkingTime": "15 minutes downhill"
+    },
+    {
+      "name": "Miradouro de Santa Luzia",
+      "distance": "400 meters",
+      "type": "viewpoint",
+      "walkingTime": "6 minutes"
+    }
+  ],
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "moorish",
+    "viewpoint",
+    "panoramic-views",
+    "alfama",
+    "historic",
+    "must-see",
+    "iconic",
+    "archaeology",
+    "royal-palace"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "photographers",
+    "families",
+    "culture-lovers",
+    "cruise-passengers",
+    "first-time-visitors",
+    "architecture-lovers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.5,
+  "reviewCount": 45200,
+  "reviewSource": "TripAdvisor/Google"
+}

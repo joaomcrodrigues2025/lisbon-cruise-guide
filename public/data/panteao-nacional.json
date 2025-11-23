@@ -1,0 +1,253 @@
+{
+  "id": "panteao-nacional",
+  "name": "Panteão Nacional (National Pantheon)",
+  "tagline": "Portugal's majestic National Pantheon - Baroque masterpiece honoring the nation's greatest heroes",
+  "type": "monument",
+  "categories": [
+    "pantheon",
+    "monument",
+    "historic-building",
+    "baroque-architecture",
+    "national-memorial",
+    "museum"
+  ],
+  "description": {
+    "short": "The National Pantheon (Panteão Nacional), originally the Church of Santa Engrácia, is a stunning Baroque monument housing the tombs of Portugal's most distinguished figures. Its massive dome dominates Lisbon's skyline, and the terrace offers spectacular 360-degree views of the city.",
+    "full": "The Panteão Nacional stands as one of Lisbon's most recognizable landmarks and a monument to Portuguese history and achievement. Originally conceived as the Church of Santa Engrácia in 1568 by Princess Dona Maria, daughter of King Manuel I, the building's construction became so prolonged that it gave rise to the Portuguese saying 'like the construction of Santa Engrácia' - meaning something that takes forever to complete. The church's foundation stone was laid in 1682, but the building wasn't completed until 1966 - a staggering 284 years later. This delay was partly due to a tragic legend: a young man named Simão Pires was falsely accused of stealing sacred relics from the church and was burned at the stake. In his final moments, he cursed the church, declaring it would never be finished. The curse seemed to hold true for centuries as construction repeatedly stalled due to lack of funds, political upheaval, and the devastating 1755 earthquake. The building showcases magnificent Baroque architecture with a Greek cross floor plan, soaring cupola, and white marble interior. The massive dome, completed in the 20th century, rises 80 meters high and has become an iconic part of Lisbon's skyline, visible from many parts of the city. Inside, the Pantheon honors Portugal's greatest citizens including writers (Almeida Garrett, Guerra Junqueiro), fado singers (Amália Rodrigues), presidents (Teófilo Braga, Manuel de Arriaga), and even explorers - though not their actual remains. Cenotaphs (empty tombs) honor figures like Vasco da Gama, Prince Henry the Navigator, Luís de Camões, and Pedro Álvares Cabral, whose remains lie elsewhere. The interior features stunning marble work, dramatic arches, and beautiful acoustics that occasionally host concerts. The true highlight for many visitors is ascending to the terrace level and going outside to the dome's base, where panoramic 360-degree views reveal all of Lisbon, the Tagus River, the Cristo Rei statue, and the 25 de Abril Bridge. The viewpoint is one of the finest in Lisbon. The building officially became the National Pantheon in 1916.",
+    "history": "The site's tragic history began in 1568 when Princess Dona Maria founded a church dedicated to Santa Engrácia. In 1630, the church's sacred relics were stolen, and a young man named Simão Pires Solis was falsely accused. Despite his innocence and his love affair with a novice from the nearby convent, he was convicted and burned at the stake in 1631. Legend says he cursed the church from the flames, declaring it would never be finished. Whether due to this curse or more practical reasons, construction that began in 1682 under architect João Antunes repeatedly stalled over the centuries. The 1755 earthquake damaged the incomplete structure. Political instability, lack of funding, and changing priorities meant the building sat unfinished for 284 years, becoming a symbol of unfulfilled promises in Portuguese culture. Finally, in 1966, during the Estado Novo dictatorship, the building was completed with the addition of the massive cupola. It was officially designated as the National Pantheon in 1916 and began receiving the remains of distinguished Portuguese citizens. Fado legend Amália Rodrigues was interred here in 2001, and novelist Almeida Garrett was transferred here in 1903.",
+    "significance": "The Panteão Nacional serves as Portugal's hall of fame, honoring the nation's greatest heroes, artists, writers, and leaders. It represents Portuguese resilience - taking 284 years to complete, the building symbolizes perseverance despite setbacks. The monument's architectural significance lies in its status as one of Portugal's finest Baroque buildings. It's a pilgrimage site for those wishing to pay respects to figures like Amália Rodrigues, Vasco da Gama (cenotaph), and other national heroes. The building's dome has become an iconic symbol of Lisbon's skyline, and the panoramic terrace offers one of the city's best viewpoints."
+  },
+  "location": {
+    "address": {
+      "street": "Campo de Santa Clara",
+      "postal_code": "1100-471",
+      "neighborhood": "Alfama/São Vicente",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7144,
+      "longitude": -9.1251
+    },
+    "directions": {
+      "general": "Located in the Alfama district near the São Vicente Monastery, the white dome is visible from many parts of Lisbon",
+      "fromCruisePort": "2km northeast from cruise terminals - 25-30 minute walk, or take Tram 28E to Cç. S. Vicente stop (5-minute walk from stop). Taxi takes 10 minutes.",
+      "publicTransport": "Tram 28E stops at Cç. S. Vicente (5-minute walk). Buses 734, 735, 718, 712. Metro: Blue line to Santa Apolónia, then bus or 15-minute walk uphill.",
+      "parking": "Street parking available on Campo de Santa Clara. Tuesday and Saturday mornings: Feira da Ladra flea market operates here - parking very limited."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "25-30 minutes uphill",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 854 820",
+    "email": "geral@panteao.dgpc.pt",
+    "website": "http://www.panteaonacional.gov.pt",
+    "bookingUrl": "https://bilheteira.museusemonumentos.pt/",
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except Mondays and holidays",
+      "seasonal": [
+        {
+          "season": "October - March",
+          "days": "Tuesday to Sunday",
+          "hours": "10:00 - 17:00",
+          "notes": "Last entry at 16:40. Closed Mondays."
+        },
+        {
+          "season": "April - September",
+          "days": "Tuesday to Sunday",
+          "hours": "10:00 - 18:00",
+          "notes": "Last entry at 17:40. Closed Mondays."
+        }
+      ],
+      "closedDates": [
+        "Mondays year-round",
+        "January 1st",
+        "Easter Sunday",
+        "May 1st (Labour Day)",
+        "June 13th (Santo António)",
+        "December 25th"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 4,
+      "notes": "€4.00 adults. €2.00 seniors 65+ and students with ID. Free for children under 12. Free with Lisboa Card. Free on first Sunday of each month. Combined tickets available with other monuments."
+    },
+    "averageVisitDuration": "45 minutes to 1 hour (including terrace visit)",
+    "bestTimeToVisit": "Late afternoon for best light on the terrace. Weekday mornings are quietest. Avoid Tuesdays/Saturdays when the nearby Feira da Ladra flea market creates crowds.",
+    "busyPeriods": [
+      "Tuesday and Saturday mornings (flea market days)",
+      "Summer afternoons",
+      "First Sunday of month (free admission)",
+      "When cruise ships are in port"
+    ],
+    "adviceForVisitors": "Don't skip the terrace - it's the highlight with 360° panoramic views of Lisbon! Buy Lisboa Card for free entry. Combine visit with the Tuesday or Saturday Feira da Ladra flea market nearby (one of Europe's oldest). The nearby São Vicente Monastery is also worth visiting. Bring a camera for spectacular photos from the terrace. The marble interior has excellent acoustics - sometimes hosts concerts. Allow time to explore the tombs and cenotaphs of Portugal's heroes. Learn about the tragic legend of Simão Pires. Steep walk from tram stop - wear comfortable shoes. Free first Sunday of month can be crowded."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours total (including 30-minute tram ride each way and 1-hour visit)",
+    "accessibility": "Moderate - requires tram ride or uphill walk. Once there, main floor accessible but terrace requires climbing stairs.",
+    "combinableWith": [
+      "Feira da Ladra flea market (Tue/Sat mornings)",
+      "São Vicente Monastery",
+      "Alfama neighborhood",
+      "Tram 28 experience",
+      "Graça viewpoints",
+      "Lisbon Cathedral"
+    ],
+    "tips": [
+      "Spectacular 360° terrace views - one of best in Lisbon!",
+      "Free with Lisboa Card - great value",
+      "Take Tram 28 to nearby stop (Cç. S. Vicente)",
+      "Combine with Tuesday/Saturday flea market visit",
+      "Visit terrace for panoramic photos of entire city",
+      "Learn about legendary curse that delayed completion 284 years",
+      "See tombs of Portuguese heroes including Amália Rodrigues",
+      "Cenotaphs honor Vasco da Gama and other explorers",
+      "Magnificent Baroque architecture and marble interior",
+      "Less crowded than other major attractions",
+      "Late afternoon light best for photography",
+      "Free admission first Sunday of each month",
+      "Allow 1 hour minimum for full experience",
+      "Stairs to terrace - not accessible for wheelchairs",
+      "Beautiful acoustics sometimes host concerts",
+      "Nearby São Vicente Monastery worth visiting too"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Stunning Baroque architecture completed after 284 years",
+      "Massive 80-meter-high white marble dome",
+      "Spectacular 360° panoramic terrace with city views",
+      "Tombs of Portugal's greatest citizens",
+      "Fado legend Amália Rodrigues's final resting place",
+      "Cenotaphs honoring Vasco da Gama, Henry the Navigator, Camões",
+      "Greek cross floor plan with soaring cupola",
+      "Beautiful white marble interior",
+      "Tragic legend of Simão Pires's curse",
+      "Icon of Lisbon's skyline visible across the city",
+      "Excellent acoustics for concerts and events",
+      "Views of Tagus River, Cristo Rei, and 25 de Abril Bridge"
+    ],
+    "facilities": [
+      "Panoramic terrace viewpoint",
+      "Small museum area",
+      "Gift shop",
+      "Restrooms",
+      "Benches for resting",
+      "Information panels (Portuguese/English)",
+      "Occasional concert venue"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Ground floor and main hall are accessible. Terrace viewpoint requires climbing stairs and is not wheelchair accessible. Elevators not available to upper levels. Cobblestone square outside may be challenging.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish - information panels",
+      "French - some guides"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/panteao-nacional-hero.jpg",
+      "alt": "National Pantheon white dome and Baroque facade",
+      "caption": "The majestic white dome of the Panteão Nacional dominates Lisbon's skyline"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/panteao-nacional-1.jpg",
+        "alt": "Interior of National Pantheon",
+        "caption": "The stunning white marble Baroque interior with soaring cupola"
+      },
+      {
+        "url": "/images/attractions/panteao-nacional-2.jpg",
+        "alt": "Panoramic view from National Pantheon terrace",
+        "caption": "360-degree panoramic views of Lisbon from the terrace"
+      },
+      {
+        "url": "/images/attractions/panteao-nacional-3.jpg",
+        "alt": "Tomb of Amália Rodrigues",
+        "caption": "The tomb of fado legend Amália Rodrigues inside the Pantheon"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Feira da Ladra flea market",
+      "distance": "50 meters",
+      "type": "market",
+      "walkingTime": "1 minute - same square (Tue/Sat only)"
+    },
+    {
+      "name": "Mosteiro de São Vicente de Fora",
+      "distance": "200 meters",
+      "type": "monastery",
+      "walkingTime": "3-5 minutes"
+    },
+    {
+      "name": "Miradouro da Graça",
+      "distance": "600 meters",
+      "type": "viewpoint",
+      "walkingTime": "8-10 minutes"
+    },
+    {
+      "name": "Alfama district",
+      "distance": "400 meters",
+      "type": "neighborhood",
+      "walkingTime": "5-7 minutes downhill"
+    },
+    {
+      "name": "Lisbon Cathedral (Sé)",
+      "distance": "700 meters",
+      "type": "cathedral",
+      "walkingTime": "10 minutes"
+    }
+  ],
+  "tags": [
+    "pantheon",
+    "monument",
+    "baroque",
+    "architecture",
+    "national-memorial",
+    "viewpoint",
+    "dome",
+    "historic",
+    "alfama",
+    "cultural",
+    "photography",
+    "must-visit",
+    "lisboa-card"
+  ],
+  "suitableFor": [
+    "everyone",
+    "history-lovers",
+    "architecture-enthusiasts",
+    "photographers",
+    "couples",
+    "solo-travelers",
+    "seniors",
+    "culture-seekers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.3,
+  "reviewCount": 1272,
+  "reviewSource": "TripAdvisor"
+}

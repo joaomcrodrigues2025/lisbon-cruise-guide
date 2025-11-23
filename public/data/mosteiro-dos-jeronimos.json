@@ -1,0 +1,241 @@
+{
+  "id": "mosteiro-dos-jeronimos",
+  "name": "Mosteiro dos Jeronimos (Jeronimos Monastery)",
+  "tagline": "UNESCO World Heritage masterpiece of Manueline architecture",
+  "type": "monastery",
+  "categories": [
+    "monument",
+    "unesco-site",
+    "religious-site",
+    "historic-site",
+    "cultural-attraction"
+  ],
+  "description": {
+    "short": "A masterpiece of Portuguese Manueline architecture, this 16th-century monastery stands as Portugal's most visited heritage complex. UNESCO-listed since 1983, it celebrates the Age of Discoveries and houses the tombs of Vasco da Gama and poet Luis de Camoes.",
+    "full": "The Royal Monastery of Santa Maria de Belem, commonly known as Jeronimos Monastery, is Portugal's most magnificent example of Manueline architecture and the country's most visited heritage site. Commissioned by King Manuel I in 1501 and taking nearly a century to complete, this limestone masterpiece was built to commemorate Vasco da Gama's successful voyage to India and to serve the Order of Saint Jerome. Located in the historic Belem district on the banks of the Tagus River, where Portuguese caravels once departed for the New World, the monastery stands as a testament to Portugal's Golden Age of Discoveries. The complex showcases the work of master architects including Diogo de Boytac and Joao de Castilho, with its intricate stone carvings featuring nautical themes, exotic motifs, and royal heraldry. The monastery's church contains the tombs of Vasco da Gama and poet Luis de Camoes, while the stunning two-story cloister is considered one of Europe's finest examples of late Gothic architecture. Surviving the devastating 1755 earthquake that destroyed much of Lisbon, the monastery was designated a UNESCO World Heritage Site in 1983, recognizing its extraordinary universal value.",
+    "history": "King Manuel I commissioned the monastery in 1501, funded by the lucrative 'pepper tax' from Portuguese trade with Africa and the Orient. Construction began on the site of the former Ermida do Restelo chapel, where Vasco da Gama and his crew had prayed before their historic voyage to India. The first master builder, Diogo de Boytac, designed the south portal and established the Manueline style. Joao de Castilho took over in 1517, creating the magnificent cloister and completing the church's vaulting. French sculptor Nicolau Chanterene designed the western portal with its lifelike portraits of King Manuel I and Queen Maria. The monastery served the Order of Saint Jerome until 1833 when religious orders were abolished in Portugal. It survived the 1755 earthquake largely intact due to its solid limestone construction. In the 19th century, the monastery housed the Royal Orphanage and later served various state functions. Extensive restoration in the 20th century returned it to its former glory, and it became a UNESCO World Heritage Site in 1983.",
+    "significance": "Jeronimos Monastery represents the pinnacle of Portuguese Manueline architecture and symbolizes Portugal's Age of Discoveries, when the nation became a global maritime power. It commemorates the courage and achievements of Portuguese navigators who opened new trade routes and connected distant continents. The monastery is the final resting place of national heroes Vasco da Gama and poet Luis de Camoes, making it a sacred site of Portuguese national identity. Its architectural excellence influenced religious architecture throughout Portugal and its former colonies. Today, it stands as Portugal's most important cultural monument and attracts over one million visitors annually."
+  },
+  "location": {
+    "address": {
+      "street": "Praca do Imperio",
+      "postal_code": "1400-206",
+      "neighborhood": "Belem",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.697617,
+      "longitude": -9.206247
+    },
+    "directions": {
+      "general": "Located in the historic Belem district on the Tagus River waterfront, directly facing the Praca do Imperio gardens",
+      "fromCruisePort": "7.5km west from Santa Apolonia cruise port - take tram 15E to Belem (35 minutes) or taxi/Uber (15-20 minutes). Walking from port not recommended (1.5 hours).",
+      "publicTransport": "Tram 15E from Praca do Comercio to Mosteiro Jeronimos stop (30 min). Buses 727, 28, 729, 714, 751 to Mosteiro Jeronimos. Train to Belem station then 5-minute walk.",
+      "parking": "Public parking available at Praca do Imperio and Centro Cultural de Belem. Limited street parking nearby."
+    },
+    "distanceFromCruisePort": {
+      "meters": 7500,
+      "walkingTime": "Not recommended to walk (1.5 hours)",
+      "drivingTime": "15-20 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 620 034",
+    "email": "mnj@mj.dgpc.pt",
+    "website": "https://www.museusemonumentos.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos-e-capela-de-sao-jeronimo",
+    "bookingUrl": "https://www.jeronimosmonasterytickets.com/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/mosteirodojeronimos",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/mosterodojeronimos/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except certain holidays",
+      "seasonal": [
+        {
+          "season": "October - April",
+          "days": "Tuesday - Sunday",
+          "hours": "10:00 - 17:30",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season": "May - September",
+          "days": "Tuesday - Sunday",
+          "hours": "10:00 - 18:30",
+          "lastAdmission": "18:00"
+        }
+      ],
+      "closedDates": [
+        "Mondays (except holiday Mondays)",
+        "January 1",
+        "Easter Sunday",
+        "May 1",
+        "June 13",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 10,
+      "youth": 5,
+      "child": 0,
+      "senior": 5,
+      "lisboaCardFree": true,
+      "comboTicket": "Joint ticket with Belem Tower: €12 adults",
+      "notes": "Children under 12 free. Youth pricing for ages 13-25. Seniors 65+. Free first Sunday of each month. Online booking strongly recommended to avoid long queues."
+    },
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "Early morning at opening (10am) or late afternoon after 4pm to avoid peak crowds. Visit Tuesday-Thursday for fewer visitors than weekends.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Weekends and Portuguese public holidays",
+      "Summer months (June-September)",
+      "First Sunday of month (free admission)"
+    ],
+    "adviceForVisitors": "Book tickets online in advance to skip the often 1-2 hour queues. Arrive at opening time for best experience. Allow 1.5-2 hours minimum. Photography allowed but no flash. Church is free to enter for religious services. Combine with nearby Belem Tower and Padrao dos Descobrimentos. Try famous Pasteis de Belem custard tarts nearby. Free admission on first Sunday of month but expect massive crowds."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours minimum (includes travel, visit, and buffer time)",
+    "accessibility": "Moderate - requires tram or taxi to reach. Some stairs within monastery but main areas accessible.",
+    "combinableWith": [
+      "Belem Tower",
+      "Padrao dos Descobrimentos (Monument to Discoveries)",
+      "Pasteis de Belem bakery",
+      "MAAT Museum",
+      "National Coach Museum",
+      "Maritime Museum"
+    ],
+    "tips": [
+      "Perfect anchor attraction for half-day Belem district tour",
+      "Take tram 15E for scenic journey - included with Lisboa Card",
+      "Book tickets online to avoid 1-2 hour queues",
+      "Visit Belem Tower and Monument to Discoveries same trip",
+      "Free with Lisboa Card - excellent value for cruise passengers",
+      "Allow full morning or afternoon (3-4 hours including travel)",
+      "Stop at Pasteis de Belem for authentic Portuguese custard tarts",
+      "Wear comfortable shoes - lots of walking on stone floors",
+      "Bring water - limited facilities inside",
+      "Return to port easily via same tram or taxi"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Magnificent Manueline cloister with intricate stone carvings",
+      "Church of Santa Maria with vaulted ceiling and royal tombs",
+      "Tomb of Vasco da Gama, discoverer of sea route to India",
+      "Tomb of poet Luis de Camoes, author of The Lusiads",
+      "South Portal with detailed Manueline decorations",
+      "Refectory with beautiful azulejo tiles",
+      "Chapter House and monks' cells",
+      "UNESCO World Heritage Site designation"
+    ],
+    "facilities": [
+      "Ticket office with advance booking option",
+      "Audio guides available (multiple languages)",
+      "Guided tours in various languages",
+      "Gift shop with books and souvenirs",
+      "Restrooms",
+      "Benches and seating areas",
+      "Information panels in multiple languages"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Main church and ground floor of cloister accessible. Upper cloister level requires stairs. Wheelchair access via ramps. Accessible restrooms available. Call ahead for assistance.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "/images/attractions/mosteiro-dos-jeronimos-hero.jpg",
+      "alt": "Mosteiro dos Jeronimos monastery facade",
+      "caption": "The magnificent Manueline facade of Jeronimos Monastery in Belem"
+    },
+    "gallery": [
+      {
+        "url": "/images/attractions/mosteiro-dos-jeronimos-1.jpg",
+        "alt": "Jeronimos Monastery cloister",
+        "caption": "The stunning two-story cloister with intricate stone carvings"
+      },
+      {
+        "url": "/images/attractions/mosteiro-dos-jeronimos-2.jpg",
+        "alt": "Church of Santa Maria interior",
+        "caption": "The soaring vaulted ceiling of the Church of Santa Maria"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Belem Tower",
+      "distance": "1.2 km",
+      "type": "tower",
+      "walkingTime": "15 minutes along waterfront"
+    },
+    {
+      "name": "Padrao dos Descobrimentos",
+      "distance": "450 meters",
+      "type": "monument",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "Pasteis de Belem",
+      "distance": "400 meters",
+      "type": "bakery",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "900 meters",
+      "type": "museum",
+      "walkingTime": "12 minutes"
+    },
+    {
+      "name": "National Coach Museum",
+      "distance": "600 meters",
+      "type": "museum",
+      "walkingTime": "8 minutes"
+    }
+  ],
+  "tags": [
+    "monastery",
+    "unesco",
+    "belem",
+    "manueline-architecture",
+    "vasco-da-gama",
+    "age-of-discoveries",
+    "must-see",
+    "iconic",
+    "historic",
+    "religious-site",
+    "portuguese-history",
+    "architecture"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "culture-seekers",
+    "photographers",
+    "families",
+    "cruise-passengers",
+    "first-time-visitors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewCount": 32500,
+  "reviewSource": "TripAdvisor/Google"
+}
