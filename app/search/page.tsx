@@ -7,8 +7,16 @@ export const metadata = {
   description: 'Search for tourist attractions in Lisbon by name, category, or tag',
 };
 
-export default async function SearchPage({ searchParams }: { searchParams: { q?: string } }) {
-  const query = searchParams.q || '';
+// Force dynamic rendering for search page
+export const dynamic = 'force-dynamic';
+
+export default async function SearchPage({
+  searchParams
+}: {
+  searchParams: Promise<{ q?: string }>
+}) {
+  const params = await searchParams;
+  const query = params.q || '';
   const results = query ? await searchAttractions(query) : [];
 
   return (
