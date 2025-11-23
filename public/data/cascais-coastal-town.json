@@ -68,7 +68,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free to visit town and beaches. Individual attractions (museums, lighthouse) charge separate admission. Train fare from Lisbon: €2.30 single, €4.60 return."
     },
     "averageVisitDuration": "4-8 hours (half to full day)",
@@ -154,30 +154,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitcascais.com/sites/default/files/styles/crop_16_9_width_1920/public/2024-11/cascais-bay-beach-aerial-view.jpg",
-      "alt": "Aerial view of Cascais bay with golden sand beaches, turquoise waters, and historic town",
-      "caption": "Cascais offers multiple beautiful beaches within walking distance of the charming historic town center"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cascais_bay_2013.jpg/1200px-Cascais_bay_2013.jpg",
+      "alt": "Cascais bay and marina",
+      "caption": "The picturesque bay and marina of Cascais"
     },
     "gallery": [
       {
-        "url": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_landing/public/mediateca/N1.boca-do-inferno-CMS1.jpg",
-        "alt": "Boca do Inferno - dramatic coastal cliff formation with crashing waves",
-        "caption": "Boca do Inferno (Mouth of Hell) - spectacular natural rock formation carved by Atlantic waves"
-      },
-      {
-        "url": "https://www.visitcascais.com/sites/default/files/styles/crop_16_9_width_1920/public/2024-11/guincho-beach-surfing-sunset.jpg",
-        "alt": "Guincho Beach with surfers at sunset, dramatic cliffs in background",
-        "caption": "Guincho Beach, just 6km north of Cascais, is a world-renowned surfing destination"
-      },
-      {
-        "url": "https://www.visitlisboa.com/sites/default/files/2024-11/cascais-old-town-cobblestone-streets.jpg",
-        "alt": "Charming cobblestone street in Cascais Old Town with colorful azulejo tiles and outdoor cafes",
-        "caption": "The historic Old Town charms visitors with traditional azulejo tiles and authentic Portuguese atmosphere"
-      },
-      {
-        "url": "https://www.visitcascais.com/sites/default/files/2024-11/santa-marta-lighthouse-cascais.jpg",
-        "alt": "Iconic blue and white striped Santa Marta Lighthouse on rocky Atlantic coast",
-        "caption": "The picturesque Santa Marta Lighthouse is one of Cascais' most photographed landmarks"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cascais_Portugal_beach.jpg/1200px-Cascais_Portugal_beach.jpg",
+        "alt": "Beach in Cascais",
+        "caption": "Beautiful sandy beaches along the Cascais coastline"
       }
     ]
   },

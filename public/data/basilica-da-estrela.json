@@ -71,7 +71,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free entry to basilica. Optional donation appreciated. Access to dome terrace may have small fee (check locally). Photography allowed but flash photography discouraged."
     },
     "averageVisitDuration": "30-45 minutes for interior and nativity scene",
@@ -147,30 +147,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NzcsInB1ciI6ImJsb2JfaWQifX0=--b9e91c27829e957bad895395b7ada2f6f27f34b0/be_1.jpg",
-      "alt": "Basílica da Estrela with white dome and twin bell towers",
-      "caption": "The magnificent 18th-century basilica with its iconic white dome dominates Lisbon's western skyline"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Basilica_da_Estrela_Lisbon.jpg/1200px-Basilica_da_Estrela_Lisbon.jpg",
+      "alt": "Basílica da Estrela exterior",
+      "caption": "The magnificent white marble Estrela Basilica with its dome"
     },
     "gallery": [
       {
-        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NzgsInB1ciI6ImJsb2JfaWQifX0=--3b38d7ec5cc0be3b0b7d64b00df4daca22847647/be_2.jpg",
-        "alt": "Interior of Basílica da Estrela showing baroque decoration",
-        "caption": "The lavish interior features colorful marble and baroque paintings"
-      },
-      {
-        "url": "https://www.portugal.com/wp-content/uploads/basilica-estrela-lisbon.jpg",
-        "alt": "Basílica da Estrela facade with Tram 28",
-        "caption": "The famous Tram 28 stops directly in front of the basilica"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/basilica-estrela.jpg",
-        "alt": "White dome of Basílica da Estrela from Estrela Garden",
-        "caption": "The striking white dome viewed from the gardens across the square"
-      },
-      {
-        "url": "https://www.visitlisboa.com/images/basilica-estrela-nativity.jpg",
-        "alt": "Famous cork and terracotta nativity scene",
-        "caption": "The remarkable 500-piece nativity scene by Machado de Castro is a Portuguese treasure"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basilica_Estrela_interior.jpg/1200px-Basilica_Estrela_interior.jpg",
+        "alt": "Interior of Basílica da Estrela",
+        "caption": "The ornate baroque interior with pink and gray marble"
       }
     ]
   },

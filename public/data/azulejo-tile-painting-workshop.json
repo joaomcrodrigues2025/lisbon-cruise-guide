@@ -72,10 +72,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 50.0,
-      "youth": 50.0,
-      "child": 45.0,
-      "senior": 50.0,
+      "adult": 50,
+      "youth": 50,
+      "child": 45,
+      "senior": 50,
       "lisboaCardFree": false,
       "comboTicket": "Group rates available for 4+ people - 45 EUR per person. Private workshops for groups 6-12 people - 55 EUR per person",
       "notes": "Price includes all materials, instruction, two ceramic tiles, firing service, and refreshments. Tiles ready for collection 5-7 days after workshop or international shipping available (additional fee). Children 7+ welcome with adult supervision. Booking required minimum 24 hours in advance."
@@ -160,25 +160,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://handson.pt/wp-content/uploads/2025/07/1000014635-1200x1800.jpeg",
-      "alt": "Hands painting traditional blue and white Portuguese azulejo tile",
-      "caption": "Create your own Portuguese azulejo tile using traditional techniques and materials"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064168-1200x675.jpg",
-        "alt": "Workshop participants painting azulejo tiles at workstations",
-        "caption": "Small group workshops provide personalized instruction from expert ceramic artists"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064167-1200x675.jpg",
-        "alt": "Traditional Portuguese azulejo patterns and painting materials",
-        "caption": "Learn authentic Portuguese tile painting techniques using traditional brushes and cobalt blue pigments"
-      },
-      {
-        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064160-1200x675.jpg",
-        "alt": "Finished hand-painted azulejo tiles drying before firing",
-        "caption": "Your finished tiles are professionally fired and ready to take home or ship internationally"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },
@@ -234,7 +229,7 @@
   "indoorActivities": true,
   "outdoorActivities": false,
   "priceRange": "$$",
-  "rating": 5.0,
+  "rating": 5,
   "reviewCount": 187,
   "reviewSource": "Google Reviews / HandsOn.pt"
 }

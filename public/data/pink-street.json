@@ -68,7 +68,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free to visit street. Individual bars and clubs charge for drinks and some have cover charges on busy nights. Expect 5-10 EUR for cocktails, 3-6 EUR for beers."
     },
     "averageVisitDuration": "5-10 minutes for photos, 2-4 hours for nightlife experience",
@@ -138,9 +138,9 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://lisbonlisboaportugal.com/images/650x450/pink-street-lisbon.jpg",
-      "alt": "Pink Street with its distinctive pink pavement and colorful umbrellas overhead",
-      "caption": "Lisbon's iconic Pink Street with its vibrant pink pavement has become one of the city's most photographed locations"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pink_Street_Lisbon_2015.jpg/1200px-Pink_Street_Lisbon_2015.jpg",
+      "alt": "Pink Street (Rua Nova do Carvalho)",
+      "caption": "The famous pink-painted street in Cais do Sodré"
     },
     "gallery": [
       {

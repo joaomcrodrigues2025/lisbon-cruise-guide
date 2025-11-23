@@ -91,10 +91,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 7.0,
-      "youth": 5.0,
-      "child": 0.0,
-      "senior": 5.0,
+      "adult": 7,
+      "youth": 5,
+      "child": 0,
+      "senior": 5,
       "lisboaCardFree": false,
       "notes": "Children 0-14 free (must be accompanied). Students (with ID) €5. Seniors 65+ €5. Lisboa Card holders €5. Portuguese residents €5. Groups 30+ €5 per person. Reduced mobility visitors free (plus 1 companion with certificate)."
     },
@@ -168,25 +168,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.lisbonportugaltourism.com/images/convento-carmo-lisbon.jpg",
-      "alt": "Gothic ruins of Carmo Convent with soaring arches open to the sky",
-      "caption": "The hauntingly beautiful roofless Gothic church, preserved as a memorial to the 1755 earthquake"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.museuarqueologicodocarmo.pt/recepcao/portal.jpg",
-        "alt": "Gothic portal entrance to Carmo Archaeological Museum",
-        "caption": "The magnificent Gothic entrance portal welcomes visitors to this unique museum"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.portugal.com/wp-content/uploads/2023/10/1-6.jpeg",
-        "alt": "Interior of roofless Carmo church showing Gothic architecture",
-        "caption": "The open-air nave creates an atmospheric setting unlike any other museum in Lisbon"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/carmo-convent-ruins.jpg",
-        "alt": "Archaeological artifacts displayed in the Carmo Museum",
-        "caption": "The museum houses fascinating archaeological treasures spanning centuries of history"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

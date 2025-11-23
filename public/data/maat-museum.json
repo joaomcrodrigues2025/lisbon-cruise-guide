@@ -74,10 +74,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 15.0,
-      "youth": 8.0,
-      "senior": 9.0,
-      "child": 0.0,
+      "adult": 15,
+      "youth": 8,
+      "senior": 9,
+      "child": 0,
       "lisboaCardFree": false,
       "notes": "Portuguese residents: Adults €11, Students €8, Seniors 65+/Unemployed €9. Non-residents: Adults €15, Students €8. Children 0-12 free. Free first Sunday of month 10:00-13:00 (Portuguese residents only). MAAT Friends membership available. Students require valid ID."
     },
@@ -164,30 +164,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://maat.pt/sites/default/files/2023-10/037_0.JPG",
-      "alt": "MAAT Museum contemporary building on Tagus River waterfront",
-      "caption": "Amanda Levete's striking contemporary design creates an iconic riverside landmark in Belém"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/MAAT_Lisbon_2016.jpg/1200px-MAAT_Lisbon_2016.jpg",
+      "alt": "MAAT Museum exterior",
+      "caption": "The striking contemporary architecture of MAAT"
     },
     "gallery": [
       {
-        "url": "https://maat.pt/sites/default/files/2023-10/1.%20maat_Francisco%20Nogueira.jpg",
-        "alt": "MAAT Museum building with undulating white roof",
-        "caption": "The distinctive wave-like roof covered in 15,000 white tiles reflects light from the Tagus River"
-      },
-      {
-        "url": "https://maat.pt/sites/default/files/2023-10/2.%20Central_FG%2BSG%20%281%29_jpeg_0.jpg",
-        "alt": "Historic Central Tejo power station interior with machinery",
-        "caption": "The preserved 1908 power station creates a dramatic setting for exhibitions and heritage displays"
-      },
-      {
-        "url": "https://maat.pt/sites/default/files/2024-05/015.JPG",
-        "alt": "MAAT campus showing modern gallery, power station and riverside gardens",
-        "caption": "The integrated museum campus combines contemporary architecture, industrial heritage, and landscaped gardens"
-      },
-      {
-        "url": "https://maat.pt/sites/default/files/2023-10/178_0.JPG",
-        "alt": "MAAT Garden riverside park with plantings and pathways",
-        "caption": "The 225-meter riverside garden provides peaceful outdoor space with river views"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MAAT_building_by_river.jpg/1200px-MAAT_building_by_river.jpg",
+        "alt": "MAAT by the Tagus River",
+        "caption": "MAAT's white curved structure along the riverfront"
       }
     ]
   },

@@ -67,11 +67,11 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 26.0,
-      "youth": 17.0,
-      "child": 11.0,
-      "senior": 17.0,
-      "family": 66.0,
+      "adult": 26,
+      "youth": 17,
+      "child": 11,
+      "senior": 17,
+      "family": 66,
       "lisboaCardFree": false,
       "notes": "Children under 3 free. Youth 4-12 years. Seniors 65+. Family ticket covers 2 adults + 2 children. Combined tickets with cable car available. Discounts for online booking"
     },
@@ -151,30 +151,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://oceanario.pt/wp-content/uploads/2024/12/Universo-Submerso-Nova-Exposicao-Oceanario-de-Lisboa_news_619x450.jpg",
-      "alt": "Visitors viewing the massive central ocean tank with sharks and rays",
-      "caption": "The spectacular 5-million-liter central tank creates the illusion of a single massive ocean"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lisbon_Oceanarium_-_Main_Tank.jpg/1200px-Lisbon_Oceanarium_-_Main_Tank.jpg",
+      "alt": "Main central tank at Oceanário de Lisboa with diverse marine life",
+      "caption": "The spectacular 5-million-liter central ocean tank with sharks, rays, and tropical fish"
     },
     "gallery": [
       {
-        "url": "https://oceanario.pt/wp-content/uploads/2024/06/7-motivos-para-visitar-o-oceanario-de-lisboa_aquario-central_619x450.jpg",
-        "alt": "Central aquarium with diverse marine life including sharks",
-        "caption": "Over 100 species from around the world inhabit the central ocean tank"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lisboa_June_2014-8a.jpg/1200px-Lisboa_June_2014-8a.jpg",
+        "alt": "Oceanário de Lisboa building exterior",
+        "caption": "The iconic Oceanarium building in Parque das Nações"
       },
       {
-        "url": "https://oceanario.pt/wp-content/uploads/2024/07/oceanario-de-lisboa_aquario-central-tubaroes-raias-peixes.png",
-        "alt": "Rays and fish swimming in the central tank",
-        "caption": "The Oceanarium is home to spectacular rays, sharks, and thousands of fish"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lisboa_June_2014-8a.jpg/250px-Lisboa_June_2014-8a.jpg",
-        "alt": "Oceanário de Lisboa building exterior on the water",
-        "caption": "The iconic building rises from an artificial lagoon in Parque das Nações"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ocenarium_-_panoramio.jpg/250px-Ocenarium_-_panoramio.jpg",
-        "alt": "Entrance view of Oceanarium",
-        "caption": "The modern entrance welcomes over 1 million visitors annually"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ocenarium_-_panoramio.jpg/1200px-Ocenarium_-_panoramio.jpg",
+        "alt": "Entrance to Oceanário de Lisboa",
+        "caption": "The modern entrance welcoming over 1 million annual visitors"
       }
     ]
   },

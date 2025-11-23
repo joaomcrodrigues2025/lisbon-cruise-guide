@@ -79,9 +79,9 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 10.0,
-      "youth": 5.0,
-      "child": 0.0,
+      "adult": 10,
+      "youth": 5,
+      "child": 0,
       "senior": 8.5,
       "lisboaCardFree": true,
       "comboTicket": "Exhibition only ticket: €5 adults",
@@ -153,25 +153,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://padraodosdescobrimentos.pt/wp-content/uploads/2019/01/PT_AMLSB_LSB_100968.jpg",
-      "alt": "Padrao dos Descobrimentos monument on Tagus River waterfront",
-      "caption": "The Monument to the Discoveries celebrates Portugal's Age of Exploration with 33 historical figures"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Padrao_dos_Descobrimentos_April_2009-4a.jpg/1200px-Padrao_dos_Descobrimentos_April_2009-4a.jpg",
+      "alt": "Padrão dos Descobrimentos monument",
+      "caption": "The impressive Monument to the Discoveries overlooking the Tagus River"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lisboa_January_2015-49a.jpg/1200px-Lisboa_January_2015-49a.jpg",
-        "alt": "Monument to the Discoveries western profile with Tagus River",
-        "caption": "The 52-meter monument resembles a caravel ship ready to sail"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rosa-dos-ventos.JPG/1200px-Rosa-dos-ventos.JPG",
-        "alt": "Compass rose and world map mosaic at ground level",
-        "caption": "The 50-meter compass rose shows Portuguese maritime routes, gifted by South Africa"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/56_Meter_hoch_ist_das_Denkmal_der_Entdeckungen_in_Lissabon._03.jpg/1200px-56_Meter_hoch_ist_das_Denkmal_der_Entdeckungen_in_Lissabon._03.jpg",
-        "alt": "Monument to the Discoveries seen from the Tagus River",
-        "caption": "View from the river showing the monument's impressive scale and waterfront location"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padrao_Descobrimentos_360_Panorama%2C_Lisbon%2C_Portugal_-_Dec_2007.jpg/1200px-Padrao_Descobrimentos_360_Panorama%2C_Lisbon%2C_Portugal_-_Dec_2007.jpg",
+        "alt": "Aerial view of Padrão dos Descobrimentos",
+        "caption": "Panoramic view showing the monument and compass rose mosaic"
       }
     ]
   },

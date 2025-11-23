@@ -70,10 +70,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 6.0,
-      "youth": 3.0,
-      "child": 0.0,
-      "senior": 3.0,
+      "adult": 6,
+      "youth": 3,
+      "child": 0,
+      "senior": 3,
       "lisboaCardFree": true,
       "notes": "Children under 6 free. Youth 6-12 years. Free with Lisboa Card. Tickets available online or at entrance."
     },
@@ -155,25 +155,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1MDgsInB1ciI6ImJsb2JfaWQifX0=--e693d62c902ddfacf48fe91ebab3b55b8015914b/2025_Pilar-7.jpg",
-      "alt": "Pilar 7 Bridge Experience entrance with Ponte 25 de Abril overhead",
-      "caption": "The innovative Pilar 7 experience offers unique access inside Lisbon's iconic suspension bridge"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.lisbonportugaltourism.com/images/25-de-abril-bridge-viewing-deck.jpg",
-        "alt": "Panoramic observation deck at Pilar 7",
-        "caption": "Breathtaking 360-degree views from the bridge-level observation platform"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.lisbonportugaltourism.com/images/pilar-7-interior.jpg",
-        "alt": "Interactive exhibits inside Pilar 7",
-        "caption": "State-of-the-art multimedia exhibits detail the bridge's construction history"
-      },
-      {
-        "url": "https://www.lisbonportugaltourism.com/images/25-de-abril-bridge-view.jpg",
-        "alt": "View of Ponte 25 de Abril from observation deck",
-        "caption": "Unique perspective of the iconic red suspension bridge and Lisbon cityscape"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

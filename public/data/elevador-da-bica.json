@@ -75,7 +75,7 @@
       "currency": "EUR",
       "adult": 4.2,
       "youth": 4.2,
-      "child": 0.0,
+      "child": 0,
       "senior": 4.2,
       "lisboaCardFree": true,
       "comboTicket": "24-hour public transport pass: €7.00 - includes all funiculars, trams, buses and metro",
@@ -149,30 +149,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUyLCJwdXIiOiJibG9iX2lkIn19--187fbb2b4992b26722b862e6b583d0f1978e607e/elevador-da-bica-1.jpg",
-      "alt": "Bica Funicular climbing steep street with Tagus River in background",
-      "caption": "Lisbon's most iconic funicular view - the dramatic climb toward Bairro Alto"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elevador_da_Bica_Lisbon.jpg/1200px-Elevador_da_Bica_Lisbon.jpg",
+      "alt": "Elevador da Bica funicular",
+      "caption": "The iconic yellow Bica funicular climbing the steep street"
     },
     "gallery": [
       {
-        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/elevador-da-bica-lisbon-2.jpg",
-        "alt": "Yellow Bica funicular car on steep Rua da Bica",
-        "caption": "The charming yellow carriage navigating the steep Bairro da Bica street"
-      },
-      {
-        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUzLCJwdXIiOiJibG9iX2lkIn19--828ae81457538156127f7d2a8d969f7a36e5cec9/elevador-da-bica-2.jpg",
-        "alt": "Bica funicular with colorful neighborhood houses",
-        "caption": "Traditional Lisbon architecture frames the historic funicular"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/elevador-da-bica-interior.jpg",
-        "alt": "Traditional wood interior of Bica funicular",
-        "caption": "Original 1924 polished wood interior with brass controls"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/ascensor-bica-lisboa.jpg",
-        "alt": "View down Rua da Bica toward the Tagus River",
-        "caption": "The dramatic descent offering views toward the waterfront"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bica_funicular_Lisbon_2014.jpg/1200px-Bica_funicular_Lisbon_2014.jpg",
+        "alt": "View down Rua da Bica",
+        "caption": "Steep Rua da Bica with colorful buildings"
       }
     ]
   },
@@ -232,7 +217,7 @@
   "indoorActivities": true,
   "outdoorActivities": false,
   "priceRange": "$$",
-  "rating": 4.0,
+  "rating": 4,
   "reviewCount": 961,
   "reviewSource": "TripAdvisor"
 }

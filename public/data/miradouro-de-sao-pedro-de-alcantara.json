@@ -69,7 +69,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free to visit - public viewpoint and garden. Cafés sell drinks and light meals at standard prices."
     },
     "averageVisitDuration": "30-60 minutes (longer with café stop)",
@@ -150,30 +150,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.lisbonportugaltourism.com/images/miradouro-sao-pedro-alcantara.jpg",
-      "alt": "Lower terrace of Miradouro de São Pedro de Alcântara viewpoint",
-      "caption": "The beautifully landscaped lower terrace with geometric gardens and castle views"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_Lisbon.jpg/1200px-Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_Lisbon.jpg",
+      "alt": "View from Miradouro de São Pedro de Alcântara",
+      "caption": "Stunning panoramic views over Lisbon from the viewpoint"
     },
     "gallery": [
       {
-        "url": "https://www.lisbonportugaltourism.com/images/miradouro-de-sao-pedro-de-alcantara.jpg",
-        "alt": "Baroque fountain at São Pedro de Alcântara upper terrace",
-        "caption": "The elegant fountain at the center of the cobblestoned upper level"
-      },
-      {
-        "url": "https://www.lisbonportugaltourism.com/images/sao-pedro-de-alcantara-cafe.jpg",
-        "alt": "Kiosk café at São Pedro de Alcântara viewpoint",
-        "caption": "One of two charming kiosk cafés perfect for drinks with panoramic views"
-      },
-      {
-        "url": "https://www.lisbonportugaltourism.com/images/miradouro-sao-pedro-de-alcantara.jpg",
-        "alt": "Castle views from São Pedro de Alcântara",
-        "caption": "Sweeping eastward views to São Jorge Castle on the opposite hillside"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-principe-real-bairro-alto/miradouro-de-sao-pedro-de-alcantara-lisbon.jpg",
-        "alt": "Shaded garden area at São Pedro de Alcântara",
-        "caption": "The peaceful lower terrace garden offers shaded seating and tranquil atmosphere"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A3o_Pedro_de_Alc%C3%A2ntara_viewpoint.jpg/1200px-S%C3%A3o_Pedro_de_Alc%C3%A2ntara_viewpoint.jpg",
+        "alt": "Terrace at Miradouro de São Pedro de Alcântara",
+        "caption": "The beautifully landscaped terrace garden with viewing area"
       }
     ]
   },

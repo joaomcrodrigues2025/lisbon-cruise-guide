@@ -71,11 +71,11 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 13.0,
-      "youth": 10.0,
-      "child": 0.0,
-      "senior": 10.0,
-      "family": 35.0,
+      "adult": 13,
+      "youth": 10,
+      "child": 0,
+      "senior": 10,
+      "family": 35,
       "lisboaCardFree": false,
       "notes": "15% discount when purchasing online. Children 0-5 free. Youth 6-17 years. Seniors 65+. Family ticket covers 2 adults + 2 youth. Gardens are free to enter"
     },
@@ -148,30 +148,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.parquesdesintra.pt/media/mqrlmt4y/parques_de_sintra_palacio_nacional_de_sintra_hero_01.jpg",
-      "alt": "National Palace of Sintra with iconic twin conical chimneys rising above terracotta rooftops",
-      "caption": "The distinctive conical chimneys of the royal kitchen make the National Palace of Sintra instantly recognizable"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.parquesdesintra.pt/media/zpxg0zxt/parques_de_sintra_palacio_nacional_de_sintra_sala_manuelina_2.jpg",
-        "alt": "Manueline Room with ornate twisted columns",
-        "caption": "The Manueline Room showcases early 16th century Portuguese architectural style"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.parquesdesintra.pt/media/xjzbchpw/parques_de_sintra_palacio_nacional_de_sintra_sala_brasoes.jpg",
-        "alt": "Coats of Arms Room with octagonal domed ceiling displaying noble family shields",
-        "caption": "The spectacular Coats of Arms Room features 72 heraldic shields of Portuguese noble families"
-      },
-      {
-        "url": "https://www.parquesdesintra.pt/media/kfjbfmdq/parques_de_sintra_palacio_nacional_de_sintra_sala_cisnes.jpg",
-        "alt": "Swan Room ceiling decorated with 27 painted swans",
-        "caption": "The Swan Room ceiling features 27 elegantly painted swans"
-      },
-      {
-        "url": "https://www.parquesdesintra.pt/media/ya3jreyr/parques_de_sintra_palacio_nacional_de_sintra_sala_pegas.jpg",
-        "alt": "Magpie Room with ceiling covered in painted magpies",
-        "caption": "The Magpie Room displays 136 magpies, each holding a scroll with the royal motto"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

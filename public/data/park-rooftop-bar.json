@@ -74,7 +74,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free entry. Drinks €5-12. No reservations accepted - first come, first served."
     },
     "averageVisitDuration": "1.5-3 hours (longer for sunset and evening)",
@@ -145,25 +145,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-1.jpg",
-      "alt": "PARK rooftop bar Lisbon with city views at sunset",
-      "caption": "PARK's lush rooftop terrace offers breathtaking 360-degree views over Lisbon"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-2.jpg",
-        "alt": "PARK rooftop bar seating area with Lisbon panorama",
-        "caption": "Urban-chic seating areas with spectacular Tagus River views"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-3.jpg",
-        "alt": "Sunset views from PARK rooftop Lisbon",
-        "caption": "Breathtaking sunset over Lisbon from the rooftop terrace"
-      },
-      {
-        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-4.jpg",
-        "alt": "PARK rooftop bar evening atmosphere",
-        "caption": "Evening ambiance with twinkling city lights and cocktails"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

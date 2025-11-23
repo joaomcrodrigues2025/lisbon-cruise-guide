@@ -68,7 +68,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free to explore neighborhood. Individual bars and restaurants have their own pricing. Expect to pay 3-8 EUR for drinks."
     },
     "averageVisitDuration": "3-5 hours for full nightlife experience",
@@ -137,25 +137,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://lisbonlisboaportugal.com/images/650-nightlife/bairro-alto-nightlife-party.jpg",
-      "alt": "Crowded streets of Bairro Alto at night with people socializing outside bars",
-      "caption": "The vibrant atmosphere of Bairro Alto transforms narrow streets into Europe's most concentrated party scene"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bairro_Alto%2C_Lisbon_%2849942934943%29.jpg/1200px-Bairro_Alto%2C_Lisbon_%2849942934943%29.jpg",
+      "alt": "Colorful streets of Bairro Alto",
+      "caption": "The vibrant, narrow cobblestone streets of Bairro Alto"
     },
     "gallery": [
       {
-        "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/bairro-alto-streets.jpg",
-        "alt": "Narrow cobblestone streets of Bairro Alto lined with colorful buildings",
-        "caption": "Bairro Alto's characteristic narrow streets and traditional architecture"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bairro_Alto_at_night.jpg/1200px-Bairro_Alto_at_night.jpg",
+        "alt": "Bairro Alto nightlife scene",
+        "caption": "Bairro Alto comes alive at night with bars and street parties"
       },
       {
-        "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/bairro-alto-night.jpg",
-        "alt": "Bairro Alto nightlife with crowds and illuminated bars",
-        "caption": "As night falls, Bairro Alto transforms into Lisbon's premier nightlife destination"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/400alfamabaixa/miradouro-sao-pedro-alcantara-lisbon.jpg",
-        "alt": "Miradouro de São Pedro de Alcântara viewpoint overlooking Lisbon",
-        "caption": "The São Pedro de Alcântara viewpoint at the edge of Bairro Alto offers stunning city views"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lisbon_-_Bairro_Alto.jpg/1200px-Lisbon_-_Bairro_Alto.jpg",
+        "alt": "Traditional buildings in Bairro Alto",
+        "caption": "Historic architecture and traditional buildings in the district"
       }
     ]
   },

@@ -73,7 +73,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free entry to market. Individual food items typically €8-18. Full meals €15-30 per person. Drinks €3-8."
     },
     "averageVisitDuration": "1-2 hours for meal and browsing",
@@ -150,20 +150,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://media.timeout.com/images/105454166/750/562/image.jpg",
-      "alt": "Busy Time Out Market Lisboa food hall with communal seating",
-      "caption": "The vibrant central hall brings together Lisbon's best chefs and restaurants in one dynamic space"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Time_Out_Market_Lisboa_2016.jpg/1200px-Time_Out_Market_Lisboa_2016.jpg",
+      "alt": "Time Out Market Lisboa interior",
+      "caption": "The bustling interior of Time Out Market with food stalls and communal seating"
     },
     "gallery": [
       {
-        "url": "https://media.timeout.com/images/106292596/image.jpg",
-        "alt": "Various food stalls at Time Out Market",
-        "caption": "26 curated food stalls offer everything from traditional Portuguese to international cuisine"
-      },
-      {
-        "url": "https://media.timeout.com/images/105780024/750/562/image.jpg",
-        "alt": "Communal dining tables at Time Out Market Lisboa",
-        "caption": "Communal seating creates a social atmosphere perfect for families and groups"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mercado_da_Ribeira_facade.jpg/1200px-Mercado_da_Ribeira_facade.jpg",
+        "alt": "Historic facade of Mercado da Ribeira",
+        "caption": "The historic 19th-century facade of the market building"
       }
     ]
   },

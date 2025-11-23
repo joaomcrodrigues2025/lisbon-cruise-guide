@@ -67,7 +67,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Street is free to walk. Rua Augusta Arch viewpoint €3.00 adults, €2.50 seniors, €1.50 youth 12-25, free under 12."
     },
     "averageVisitDuration": "30-60 minutes for leisurely walk and window shopping; 2+ hours with shopping and dining",
@@ -143,35 +143,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTE3LCJwdXIiOiJibG9iX2lkIn19--d72f5ebc8f35f4e8bce22a5f5e8e3c3b8d3c3c3c/rua-augusta-1.jpg",
-      "alt": "Rua Augusta pedestrian street looking toward the triumphal arch",
-      "caption": "The grand avenue lined with elegant Pombaline buildings and outdoor cafes"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rua_Augusta_Arch_Lisbon.jpg/1200px-Rua_Augusta_Arch_Lisbon.jpg",
+      "alt": "Arco da Rua Augusta",
+      "caption": "The triumphal Rua Augusta Arch at Praça do Comércio"
     },
     "gallery": [
       {
-        "url": "https://lisbonlisboaportugal.com/images/650-baixa/rua-augusta-lisbon-2.jpg",
-        "alt": "Rua Augusta Arch at entrance to Praca do Comercio",
-        "caption": "The magnificent 19th-century triumphal arch crowning the street"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-baixa/rua-augusta-night.jpg",
-        "alt": "Rua Augusta at night with illuminated buildings",
-        "caption": "The street transforms at night with elegant lighting and vibrant atmosphere"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-baixa/rua-augusta-street-performer.jpg",
-        "alt": "Street performer entertaining crowds on Rua Augusta",
-        "caption": "Living statues and performers add to the lively street culture"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-baixa/rua-augusta-cafes.jpg",
-        "alt": "Outdoor cafes with traditional Portuguese pavement",
-        "caption": "Elegant outdoor cafes line the black-and-white calcada portuguesa"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-baixa/rua-augusta-arch-view.jpg",
-        "alt": "View from top of Rua Augusta Arch over Baixa",
-        "caption": "Panoramic views from the arch viewpoint over the geometric Baixa grid"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rua_Augusta_pedestrian_street.jpg/1200px-Rua_Augusta_pedestrian_street.jpg",
+        "alt": "Rua Augusta pedestrian street",
+        "caption": "The lively pedestrian shopping street leading to the arch"
       }
     ]
   },

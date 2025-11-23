@@ -68,7 +68,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "No admission fee but dinner reservation required. Dinner with Fado show typically €45-75 per person including meal and performance. À la carte menu available. Minimum consumption required. Reserve in advance - essential."
     },
     "averageVisitDuration": "3-4 hours (full evening experience)",
@@ -143,25 +143,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-8.png",
-      "alt": "Fado singer performing at Clube de Fado in candlelit atmosphere",
-      "caption": "Experience the soul of Portugal through authentic Fado music in an intimate historic setting"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-13.png",
-        "alt": "Portuguese guitarist performing Fado accompaniment",
-        "caption": "The haunting sound of Portuguese guitar accompanies every Fado performance"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-65.png",
-        "alt": "Interior of Clube de Fado dining room",
-        "caption": "Intimate dining space with traditional Portuguese architecture and candlelight"
-      },
-      {
-        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Group-40.png",
-        "alt": "Historic moments at Clube de Fado",
-        "caption": "Decades of Fado tradition preserved in this iconic Alfama venue"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

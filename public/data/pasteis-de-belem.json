@@ -68,7 +68,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free entry. Pastéis de Belém cost €1.50 each or €9.00 for box of 6. Coffee from €1.10. Full menu available with sandwiches, snacks, and meals €2-8."
     },
     "averageVisitDuration": "30-60 minutes (longer if dining in)",
@@ -145,30 +145,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://pasteisdebelem.pt/wp-content/uploads/2015/12/pasteis_de_belem_fachada.jpg",
-      "alt": "Historic facade of Pastéis de Belém bakery with blue and white tiles",
-      "caption": "The iconic Pastéis de Belém bakery has been serving legendary custard tarts since 1837"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pasteis_de_Belem_Lisbon_2019.jpg/1200px-Pasteis_de_Belem_Lisbon_2019.jpg",
+      "alt": "Pastéis de Belém storefront",
+      "caption": "The iconic blue and white tiled facade of Pastéis de Belém"
     },
     "gallery": [
       {
-        "url": "https://pasteisdebelem.pt/wp-content/uploads/2014/05/pastel_de_belem_caixa.jpg",
-        "alt": "Fresh Pastéis de Belém custard tarts in traditional box",
-        "caption": "The famous Pastéis de Belém with their signature crispy pastry and creamy custard filling"
-      },
-      {
-        "url": "https://pasteisdebelem.pt/wp-content/uploads/2015/09/pasteis_espaco_salabalcao.jpg",
-        "alt": "Traditional azulejo-tiled dining room at Pastéis de Belém",
-        "caption": "Beautiful hand-painted tile walls decorate the historic dining rooms"
-      },
-      {
-        "url": "https://pasteisdebelem.pt/wp-content/uploads/2015/12/pasteis_fabrico_creme_nova_web_large.jpg",
-        "alt": "Pastry production at Pastéis de Belém factory",
-        "caption": "Thousands of tarts are hand-made daily following the secret monastery recipe"
-      },
-      {
-        "url": "https://pasteisdebelem.pt/wp-content/uploads/2015/12/pasteis_mesafinal_5.jpg",
-        "alt": "Pastéis de Belém served with coffee and cinnamon",
-        "caption": "Traditionally served warm with powdered sugar and cinnamon"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pastel_de_nata.jpg/1200px-Pastel_de_nata.jpg",
+        "alt": "Freshly baked pastéis de nata",
+        "caption": "The famous Portuguese custard tarts with cinnamon"
       }
     ]
   },

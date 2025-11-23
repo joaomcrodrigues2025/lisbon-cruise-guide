@@ -73,10 +73,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
-      "youth": 0.0,
-      "child": 0.0,
-      "senior": 0.0,
+      "adult": 0,
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
       "lisboaCardFree": true,
       "comboTicket": "Museum admission: €5 adults, €2.50 students/seniors",
       "notes": "Church entry free. Museum requires ticket. Photography without flash permitted in church."
@@ -149,25 +149,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Igreja_de_S%C3%A3o_Roque_HDR_%285074499278%29.jpg/1200px-Igreja_de_S%C3%A3o_Roque_HDR_%285074499278%29.jpg",
-      "alt": "Igreja de São Roque plain exterior facade in Lisbon's Bairro Alto",
-      "caption": "The unassuming exterior of São Roque hides Portugal's richest church interior"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_S%C3%A3o_Roque_Lisbon.jpg/1200px-Igreja_de_S%C3%A3o_Roque_Lisbon.jpg",
+      "alt": "Igreja de São Roque interior",
+      "caption": "The incredibly ornate Chapel of St. John the Baptist"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chapel_of_St_John_the_Baptist_in_the_Church_of_S%C3%A3o_Roque%2C_Lisbon.jpg/1200px-Chapel_of_St_John_the_Baptist_in_the_Church_of_S%C3%A3o_Roque%2C_Lisbon.jpg",
-        "alt": "Chapel of St. John the Baptist with lapis lazuli and gold decorations",
-        "caption": "The spectacular Chapel of St. John the Baptist, constructed in Rome and shipped to Lisbon"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/S%C3%A3o_Roque_Church_%28Lisbon%29.jpg/1200px-S%C3%A3o_Roque_Church_%28Lisbon%29.jpg",
-        "alt": "Interior nave of Igreja de São Roque showing baroque chapels",
-        "caption": "The ornate baroque interior contrasts dramatically with the simple facade"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Igreja_de_S%C3%A3o_Roque_-_Tecto.jpg/1200px-Igreja_de_S%C3%A3o_Roque_-_Tecto.jpg",
-        "alt": "Painted wooden ceiling with trompe-l'oeil barrel vault effect",
-        "caption": "The painted ceiling creates the illusion of stone vaulting through artistic techniques"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sao_Roque_chapel.jpg/1200px-Sao_Roque_chapel.jpg",
+        "alt": "Gold chapel at São Roque",
+        "caption": "The lavish gold and lapis lazuli decorated chapel"
       }
     ]
   },

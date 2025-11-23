@@ -80,7 +80,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free entry to complex and to walk around. Individual shops, restaurants, and cafes charge separately. Ler Devagar bookstore is free to enter."
     },
     "averageVisitDuration": "2-3 hours for browsing, photos, and dining. Full afternoon/evening possible with shopping and events.",
@@ -163,35 +163,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://lxfactory.com/wp-content/uploads/2019/01/lxfactory-main-building.jpg",
-      "alt": "LX Factory industrial complex with vibrant street art murals",
-      "caption": "The revitalized factory complex showcasing industrial heritage and contemporary street art"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LX_Factory_Lisbon.jpg/1200px-LX_Factory_Lisbon.jpg",
+      "alt": "LX Factory creative space",
+      "caption": "The trendy LX Factory converted industrial complex"
     },
     "gallery": [
       {
-        "url": "https://lxfactory.com/wp-content/uploads/2019/01/ler-devagar-bookstore-main.jpg",
-        "alt": "Ler Devagar bookstore interior with towering shelves and art installations",
-        "caption": "The spectacular Ler Devagar - one of the world's most beautiful bookstores"
-      },
-      {
-        "url": "https://lxfactory.com/wp-content/uploads/2019/01/47379785_2029332403769480_6016867900269264896_o.jpg",
-        "alt": "Street art mural Azulejo Oximoro at LX Factory",
-        "caption": "Vibrant street art transforms the industrial walls into outdoor galleries"
-      },
-      {
-        "url": "https://lxfactory.com/wp-content/uploads/2019/01/restaurants_lxfactory_banner.jpg",
-        "alt": "Outdoor dining area at LX Factory restaurants",
-        "caption": "Over 50 restaurants, cafes, and bars offer diverse dining experiences"
-      },
-      {
-        "url": "https://lxfactory.com/wp-content/uploads/2019/01/lxfactory-courtyard.jpg",
-        "alt": "LX Factory courtyard with people and shops",
-        "caption": "The creative hub attracts locals and tourists with its unique atmosphere"
-      },
-      {
-        "url": "https://ousortiralisbonne.com/wp-content/uploads/2023/07/LX-Factory-Filipa-Jacinto--1024x768.jpeg",
-        "alt": "LX Factory street art and industrial architecture",
-        "caption": "A perfect blend of preserved industrial heritage and contemporary culture"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LX_Factory_street_art.jpg/1200px-LX_Factory_street_art.jpg",
+        "alt": "Street art at LX Factory",
+        "caption": "Colorful street art and murals throughout LX Factory"
       }
     ]
   },

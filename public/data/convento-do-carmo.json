@@ -90,10 +90,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 7.0,
-      "youth": 5.0,
-      "child": 0.0,
-      "senior": 5.0,
+      "adult": 7,
+      "youth": 5,
+      "child": 0,
+      "senior": 5,
       "lisboaCardFree": true,
       "comboTicket": null,
       "notes": "Students with ID 5 EUR, Children 0-14 free with adult, Seniors 65+ with ID 5 EUR, Groups 30+ people 5 EUR per person, Portuguese residents with ID 5 EUR, Lisboa Card free entry, Reduced mobility free including 1 companion with 60%+ disability certificate"
@@ -175,25 +175,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Igreja_do_Carmo_Lisbon.jpg/1200px-Igreja_do_Carmo_Lisbon.jpg",
-      "alt": "Roofless Gothic arches of Convento do Carmo ruins open to the sky",
-      "caption": "The haunting beauty of Carmo's roofless nave, preserved as a memorial to the 1755 earthquake"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Convento_do_Carmo_ruins_Lisbon.jpg/1200px-Convento_do_Carmo_ruins_Lisbon.jpg",
+      "alt": "Ruins of Convento do Carmo",
+      "caption": "The hauntingly beautiful open-air ruins of Carmo Convent"
     },
     "gallery": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Igreja_do_Carmo_%28Lisbon%29_interior.jpg/1200px-Igreja_do_Carmo_%28Lisbon%29_interior.jpg",
-        "alt": "Interior view of Carmo convent ruins showing Gothic arches without roof",
-        "caption": "The nave's soaring Gothic arches create a unique architectural experience where interior meets sky"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Convento_do_Carmo_Archaeological_Museum.jpg/1200px-Convento_do_Carmo_Archaeological_Museum.jpg",
-        "alt": "Archaeological artifacts displayed in Carmo museum galleries",
-        "caption": "The archaeological museum houses eclectic collections from Roman times to the 19th century"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Largo_do_Carmo_Lisbon.jpg/1200px-Largo_do_Carmo_Lisbon.jpg",
-        "alt": "Largo do Carmo square with café tables and church ruins facade",
-        "caption": "The peaceful Largo do Carmo square fronts the evocative church ruins"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carmo_Archaeological_Museum.jpg/1200px-Carmo_Archaeological_Museum.jpg",
+        "alt": "Interior of Carmo Archaeological Museum",
+        "caption": "The roofless nave now houses an archaeological museum"
       }
     ]
   },

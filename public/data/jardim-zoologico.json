@@ -74,9 +74,9 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 27.5,
-      "youth": 19.0,
-      "child": 19.0,
-      "senior": 19.0,
+      "youth": 19,
+      "child": 19,
+      "senior": 19,
       "lisboaCardFree": false,
       "notes": "Children under 3 free. Youth/Child rate for ages 3-12. Senior rate for 65+. Online tickets save 2-3 euros. Family packages available. Lisboa Card provides 15% discount. Includes cable car, train ride, and all animal presentations."
     },
@@ -152,30 +152,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b9b856c3877e419f921cdc55499613a7b120ddc/256-jardim-zoologico-de-lisboa_(10).jpg",
-      "alt": "Lisbon Zoo entrance with visitors and lush vegetation",
-      "caption": "Jardim Zoológico de Lisboa welcomes over one million visitors annually to explore wildlife from around the world"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29.jpg/1200px-Lisbon_%2836831596786%29.jpg",
+      "alt": "Lisbon cityscape",
+      "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzMywicHVyIjoiYmxvYl9pZCJ9fQ==--30d08c8034c28b43d7524091dcf1a7827ad66c12/jardim-zoologico-de-lisboa-2.jpg",
-        "alt": "Dolphin show at Lisbon Zoo Dolphin Bay",
-        "caption": "The spectacular dolphin show is one of the zoo's most popular attractions"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lisbon_panorama_2017.jpg/1200px-Lisbon_panorama_2017.jpg",
+        "alt": "Lisbon panorama",
+        "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--029e74ec5b2357eccf5986e391fc8aa8de3d316c/jardim-zoologico-de-lisboa-3.jpg",
-        "alt": "Giraffes at MEO Savannah habitat in Lisbon Zoo",
-        "caption": "The African savannah habitat houses giraffes, elephants, zebras, and other species"
-      },
-      {
-        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e3f2472f5d94279f772d11add8f389cd501c6018/jardim-zoologico-de-lisboa-4.jpg",
-        "alt": "Cable car ride over Lisbon Zoo",
-        "caption": "The cable car provides aerial views of the zoo and is included in admission"
-      },
-      {
-        "url": "https://www.zoo.pt/media/icones_menus/conhecer/conhecer-animais.png",
-        "alt": "Children at Lidl Children's Farm petting animals",
-        "caption": "The Children's Farm allows kids to interact safely with domestic animals"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tram_28_Lisbon.jpg/1200px-Tram_28_Lisbon.jpg",
+        "alt": "Historic Tram 28 in Lisbon",
+        "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }
     ]
   },

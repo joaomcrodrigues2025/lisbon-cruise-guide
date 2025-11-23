@@ -67,7 +67,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Free to explore public areas. Individual attractions charge admission (Oceanarium €26, Science Museum €14, Cable Car €9.50 return)"
     },
     "averageVisitDuration": "Half day to full day depending on attractions visited",
@@ -147,25 +147,15 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/parque-das-nacoes-calm.jpg",
-      "alt": "Parque das Nações waterfront promenade with modern architecture",
-      "caption": "Wide, traffic-free promenades and contemporary architecture define Lisbon's modern waterfront district"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Parque_das_Na%C3%A7%C3%B5es_waterfront.jpg/1200px-Parque_das_Na%C3%A7%C3%B5es_waterfront.jpg",
+      "alt": "Parque das Nações waterfront",
+      "caption": "The modern waterfront promenade at Parque das Nações"
     },
     "gallery": [
       {
-        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/torre-da-vasco-da-gamma-lisbon.jpg",
-        "alt": "Torre Vasco da Gama - Lisbon's tallest building",
-        "caption": "The 145-meter Torre Vasco da Gama dominates the skyline and houses luxury hotel and restaurants"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/telecabine-de-lisboa-parque-das-nacoes-lisbon.jpg",
-        "alt": "Telecabine cable car over Parque das Nações",
-        "caption": "The cable car glides above the waterfront offering panoramic views of the district"
-      },
-      {
-        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/water-volcano-parque-nacoes-lisbon.jpg",
-        "alt": "Exploding water volcano towers at Parque das Nações",
-        "caption": "Free water features like the volcano towers delight children on hot summer days"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vasco_da_Gama_Tower.jpg/800px-Vasco_da_Gama_Tower.jpg",
+        "alt": "Vasco da Gama Tower",
+        "caption": "The distinctive Vasco da Gama Tower overlooking the Tagus"
       }
     ]
   },

@@ -78,7 +78,7 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0.0,
+      "adult": 0,
       "notes": "Town is free. Palace tickets separate: Pena Palace €14 (palace + park €20), Quinta da Regaleira €12, Moorish Castle €10, National Palace €10, Monserrate Palace €10. Combined tickets available. Book online in advance highly recommended to avoid queues. Bus 434 day ticket €6.90."
     },
     "averageVisitDuration": "6-10 hours (full day recommended)",
@@ -167,30 +167,20 @@
   },
   "images": {
     "heroImage": {
-      "url": "https://www.parquesdesintra.pt/wp-content/uploads/2024/11/pena-palace-colorful-facade-aerial-view.jpg",
-      "alt": "Colorful Pena Palace perched on mountain peak surrounded by lush forest, red and yellow facades",
-      "caption": "The fairytale Pena Palace crowns Sintra's highest peak with its vibrant Romanticist architecture"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pal%C3%A1cio_da_Pena_-_Sintra_5.jpg/1200px-Pal%C3%A1cio_da_Pena_-_Sintra_5.jpg",
+      "alt": "Pena Palace in Sintra",
+      "caption": "The colorful Pena Palace, UNESCO World Heritage Site"
     },
     "gallery": [
       {
-        "url": "https://www.visitsintra.travel/wp-content/uploads/2024/11/quinta-regaleira-initiation-well.jpg",
-        "alt": "Spiral stone staircase descending into mysterious Initiation Well at Quinta da Regaleira",
-        "caption": "The enigmatic Initiation Well at Quinta da Regaleira descends 27 meters in a mystical spiral"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quinta_da_Regaleira_-_Sintra.jpg/1200px-Quinta_da_Regaleira_-_Sintra.jpg",
+        "alt": "Quinta da Regaleira palace",
+        "caption": "The romantic Quinta da Regaleira with its mystical gardens"
       },
       {
-        "url": "https://www.parquesdesintra.pt/wp-content/uploads/2024/11/moorish-castle-sintra-mountain-views.jpg",
-        "alt": "Ancient stone walls of Moorish Castle snaking along mountain ridge with panoramic views",
-        "caption": "The 8th-century Moorish Castle offers breathtaking 360-degree views across Sintra mountains to the Atlantic"
-      },
-      {
-        "url": "https://www.visitsintra.travel/wp-content/uploads/2024/11/sintra-historic-center-national-palace.jpg",
-        "alt": "National Palace of Sintra with distinctive white twin conical chimneys in historic town square",
-        "caption": "The National Palace's iconic twin chimneys dominate Sintra's charming historic center"
-      },
-      {
-        "url": "https://www.parquesdesintra.pt/wp-content/uploads/2024/11/monserrate-palace-exotic-gardens.jpg",
-        "alt": "Monserrate Palace with Moorish dome surrounded by lush exotic botanical gardens",
-        "caption": "Monserrate Palace blends Gothic, Moorish and Indian architecture amid spectacular gardens"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sintra_-_Portugal_%2824174499179%29.jpg/1200px-Sintra_-_Portugal_%2824174499179%29.jpg",
+        "alt": "Sintra town center",
+        "caption": "The charming historic center of Sintra"
       }
     ]
   },
