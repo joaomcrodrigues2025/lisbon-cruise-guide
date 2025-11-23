@@ -1,0 +1,242 @@
+{
+  "id": "pilar-7-bridge-experience",
+  "name": "Pilar 7 Bridge Experience",
+  "tagline": "Interactive journey inside the iconic 25 de Abril Bridge with panoramic observation deck",
+  "type": "museum",
+  "categories": [
+    "museum",
+    "observation-deck",
+    "interactive-experience",
+    "viewpoint",
+    "bridge",
+    "cultural-attraction"
+  ],
+  "description": {
+    "short": "An innovative interactive center located inside Pillar 7 of the iconic Ponte 25 de Abril, offering a unique journey through the bridge's history, multimedia exhibits, virtual reality experiences, and a stunning panoramic viewing platform.",
+    "full": "The Pilar 7 Bridge Experience is a cutting-edge cultural attraction that transforms one of the seven massive pillars supporting Lisbon's iconic Ponte 25 de Abril into an immersive journey of discovery. Located in the Alcântara district along the Avenida da Índia waterfront, this interactive center invites visitors to explore both the exterior and interior of this key structural pillar of one of the world's most beautiful suspension bridges. The experience begins with a fascinating tour through the history of the bridge's construction, utilizing state-of-the-art multimedia devices that bring the engineering marvel to life. Visitors explore the exterior areas surrounding the pillar before venturing inside for a truly unique sensory experience. The journey culminates with an exhilarating elevator ride ascending to a panoramic viewing platform positioned at bridge level, providing unrivalled views of Lisbon, the Tagus River, and the surrounding landscape from a perspective few ever get to see. The observation deck offers breathtaking vistas that stretch across the city's hills, out to the Atlantic, and along the river's expanse. Following the viewing platform visit, guests participate in an immersive virtual reality experience that transports them to parts of the bridge that are normally inaccessible to the public, including the top of the towers and the main cable walkways high above the river. The VR technology provides a thrilling sense of what it's like to be a bridge worker performing maintenance hundreds of meters above the water. The visit concludes with a stop at the PhotoBooth, where visitors can capture and memorialize their unforgettable experience. Throughout the center, interactive displays explain the bridge's engineering, its historical significance in connecting Lisbon to the south bank, and its cultural impact on the city and country. The Ponte 25 de Abril, often compared to San Francisco's Golden Gate Bridge due to their similar appearance and engineering, opened in 1966 and remains one of the longest suspension bridges in Europe.",
+    "history": "The Ponte 25 de Abril was inaugurated on August 6, 1966, as the Salazar Bridge, named after Portugal's dictator. Following the Carnation Revolution of April 25, 1974, which brought democracy to Portugal, the bridge was renamed '25 de Abril Bridge' to commemorate that historic date. The Pilar 7 Bridge Experience opened as a cultural attraction in 2017, transforming the seventh pillar into an interactive museum and observation point, allowing the public to engage with this engineering icon for the first time.",
+    "significance": "The experience offers unprecedented public access to one of Portugal's most iconic modern structures. The Ponte 25 de Abril is a symbol of Lisbon and represents both the country's engineering prowess and its democratic transformation. The Pilar 7 experience democratizes access to this monument, allowing visitors to understand and appreciate the bridge's construction, history, and ongoing importance to the city."
+  },
+  "location": {
+    "address": {
+      "street": "Avenida da Índia, Pilar 7 da Ponte 25 de Abril",
+      "postal_code": "1349-028",
+      "neighborhood": "Alcântara",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.6936,
+      "longitude": -9.1771
+    },
+    "directions": {
+      "general": "Located in Alcântara district along Avenida da Índia waterfront, directly beneath the Ponte 25 de Abril suspension bridge",
+      "fromCruisePort": "6km west from cruise port. Take tram 15E along waterfront (30 min) or taxi (12-15 min). Can combine with Belém attractions.",
+      "publicTransport": "Tram 15E to Alcântara stop (walk 5 min). Buses 714, 727, 732, 751 to Alcântara. Train: Cascais line to Alcântara station (10-minute walk). Hop-on-hop-off buses include this stop.",
+      "parking": "Parking available at Praça da Indústria (Industries Square) and Congress Center nearby"
+    },
+    "distanceFromCruisePort": {
+      "meters": 6000,
+      "walkingTime": "Not recommended to walk",
+      "drivingTime": "12-15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 211 117 880",
+    "email": "info@lismarketing.pt",
+    "website": "https://www.visitlisboa.com",
+    "bookingUrl": "https://shop.visitlisboa.com/collections/tourist-attractions",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/visitlisboa/",
+      "twitter": "https://twitter.com/turismodelisboa",
+      "instagram": "https://www.instagram.com/visit_lisboa/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except December 25",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:00"
+        }
+      ],
+      "closedDates": [
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 6.0,
+      "youth": 3.0,
+      "child": 0.0,
+      "senior": 3.0,
+      "lisboaCardFree": true,
+      "notes": "Children under 6 free. Youth 6-12 years. Free with Lisboa Card. Tickets available online or at entrance."
+    },
+    "averageVisitDuration": "60-90 minutes",
+    "bestTimeToVisit": "Early morning or late afternoon for best light from observation deck. Weekdays less crowded than weekends. Clear days offer best views.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Weekends",
+      "Summer months (June-September)",
+      "School holidays"
+    ],
+    "adviceForVisitors": "Book tickets online to avoid queues. Allow at least 90 minutes for full experience including VR. Observation deck can be windy - bring a jacket. Photography encouraged but no tripods on observation platform. Virtual reality experience may not be suitable for those with motion sickness or fear of heights. Combine visit with Belém district attractions (1.5km away). Audio guides available in multiple languages."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3 hours including travel and visit",
+    "accessibility": "Good - located along waterfront with tram access. Elevator to observation deck.",
+    "combinableWith": [
+      "Belém Tower",
+      "Jerónimos Monastery",
+      "Monument to the Discoveries",
+      "MAAT Museum",
+      "LX Factory",
+      "Belém waterfront walk"
+    ],
+    "tips": [
+      "Easily combinable with Belém attractions",
+      "Take tram 15E for scenic waterfront ride",
+      "Free with Lisboa Card (great value)",
+      "VR experience is highlight - don't miss it",
+      "Best views on clear days",
+      "Can get windy on observation deck",
+      "Perfect for engineering/architecture enthusiasts",
+      "PhotoBooth creates great souvenirs",
+      "Visit early or late to avoid crowds",
+      "Allow 90 minutes minimum for full experience"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Panoramic observation deck at bridge level",
+      "Stunning 360-degree views of Lisbon and Tagus River",
+      "Immersive virtual reality experience",
+      "Access to normally inaccessible bridge areas via VR",
+      "Interactive multimedia exhibits",
+      "Journey through bridge construction history",
+      "Elevator ride to viewing platform",
+      "PhotoBooth for memorable photos",
+      "Unique perspective from inside bridge pillar",
+      "Educational displays about engineering",
+      "Audio guides in multiple languages",
+      "Views extending to Atlantic Ocean and Cristo Rei"
+    ],
+    "facilities": [
+      "Observation deck",
+      "Virtual reality room",
+      "Interactive exhibition space",
+      "PhotoBooth",
+      "Elevator to viewing platform",
+      "Audio guide system",
+      "Gift shop",
+      "Restrooms",
+      "Information desk",
+      "Accessible throughout"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully accessible via elevator to observation deck. All exhibition areas wheelchair accessible. Observation platform has safety barriers suitable for all visitors.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1MDgsInB1ciI6ImJsb2JfaWQifX0=--e693d62c902ddfacf48fe91ebab3b55b8015914b/2025_Pilar-7.jpg",
+      "alt": "Pilar 7 Bridge Experience entrance with Ponte 25 de Abril overhead",
+      "caption": "The innovative Pilar 7 experience offers unique access inside Lisbon's iconic suspension bridge"
+    },
+    "gallery": [
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/25-de-abril-bridge-viewing-deck.jpg",
+        "alt": "Panoramic observation deck at Pilar 7",
+        "caption": "Breathtaking 360-degree views from the bridge-level observation platform"
+      },
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/pilar-7-interior.jpg",
+        "alt": "Interactive exhibits inside Pilar 7",
+        "caption": "State-of-the-art multimedia exhibits detail the bridge's construction history"
+      },
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/25-de-abril-bridge-view.jpg",
+        "alt": "View of Ponte 25 de Abril from observation deck",
+        "caption": "Unique perspective of the iconic red suspension bridge and Lisbon cityscape"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Monument to the Discoveries",
+      "distance": "1.5 km",
+      "type": "monument",
+      "walkingTime": "18-20 minutes along waterfront"
+    },
+    {
+      "name": "Belém Tower",
+      "distance": "2 km",
+      "type": "monument",
+      "walkingTime": "25 minutes along waterfront"
+    },
+    {
+      "name": "Jerónimos Monastery",
+      "distance": "2.2 km",
+      "type": "monastery",
+      "walkingTime": "27-30 minutes"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "1.2 km",
+      "type": "museum",
+      "walkingTime": "15 minutes along waterfront"
+    },
+    {
+      "name": "LX Factory",
+      "distance": "800 meters",
+      "type": "cultural-center",
+      "walkingTime": "10-12 minutes"
+    }
+  ],
+  "tags": [
+    "bridge",
+    "observation-deck",
+    "viewpoint",
+    "engineering",
+    "interactive-museum",
+    "vr-experience",
+    "ponte-25-de-abril",
+    "alcantara",
+    "panoramic-views",
+    "modern-architecture",
+    "educational",
+    "family-friendly"
+  ],
+  "suitableFor": [
+    "families",
+    "engineering-enthusiasts",
+    "photographers",
+    "architecture-lovers",
+    "history-buffs",
+    "technology-fans",
+    "all-ages"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 3.9,
+  "reviewCount": 286,
+  "reviewSource": "TripAdvisor"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "mercado-campo-de-ourique",
+  "name": "Mercado de Campo de Ourique",
+  "tagline": "Lisbon's beloved neighborhood market blending traditional food stalls with modern food court",
+  "type": "market",
+  "categories": [
+    "food-market",
+    "food-court",
+    "market",
+    "local-experience",
+    "dining",
+    "neighborhood"
+  ],
+  "description": {
+    "short": "Mercado de Campo de Ourique is a charming blend of traditional Portuguese market and modern food court, offering fresh produce, artisanal products, and diverse cuisine in a relaxed neighborhood atmosphere beloved by locals.",
+    "full": "Mercado de Campo de Ourique represents a successful marriage of tradition and modernity in Lisbon's food scene. This neighborhood market combines classic market stalls selling fresh fish, meat, fruits, vegetables, and Portuguese specialties with a contemporary food court featuring diverse culinary options from traditional Portuguese to international cuisines. Unlike the touristy Time Out Market, Campo de Ourique maintains an authentic local vibe, attracting neighborhood residents for daily shopping and casual dining. The market's layout creates a beautiful symbiosis: food court vendors source ingredients directly from the market stalls, ensuring freshness while supporting traditional vendors. Communal seating fills the center of the market, surrounded by both food stalls and produce vendors, creating a lively social atmosphere. The food court section offers everything from traditional Portuguese petiscos and seafood to Asian cuisine, gourmet burgers, fresh juices, craft beer, and artisanal coffee. You might find bacalhau croquettes next to Vietnamese pho, Portuguese wine bars beside craft beer taps, and traditional pastries alongside modern fusion dishes. The market building itself features attractive architecture and good natural lighting, making it an pleasant space to linger. Morning visits reveal the traditional market in full swing, with locals selecting fresh ingredients, while lunch and evening transform it into a buzzing dining destination. Located in the residential Campo de Ourique neighborhood away from main tourist zones, the market offers an authentic glimpse into local Lisbon life while providing excellent food at reasonable prices.",
+    "history": "Mercado de Campo de Ourique, like many Lisbon neighborhood markets, was originally built in the early 20th century to serve the local community with fresh produce and goods. As shopping habits changed and supermarkets emerged, many traditional markets struggled or closed. Campo de Ourique's market underwent renovation and reinvention, adding the food court concept while preserving the traditional market section. This hybrid model proved successful, revitalizing the space and making it financially viable while maintaining its community role.",
+    "significance": "Mercado de Campo de Ourique demonstrates how traditional markets can evolve and survive by adapting to contemporary needs while preserving their essential character. It serves as a neighborhood anchor, providing both daily necessities and social gathering space. Unlike purely tourist-oriented food halls, it remains genuinely local while welcoming visitors, offering an authentic window into Lisbon's everyday life and food culture."
+  },
+  "location": {
+    "address": {
+      "street": "Rua Coelho da Rocha 104",
+      "postal_code": "1350-075",
+      "neighborhood": "Campo de Ourique",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7185,
+      "longitude": -9.1658
+    },
+    "directions": {
+      "general": "Located in Campo de Ourique residential neighborhood, west of central Lisbon between Estrela and Amoreiras",
+      "fromCruisePort": "5km from cruise port - 15 minute taxi ride or combination of metro and walking. Tram 28 passes nearby.",
+      "publicTransport": "Tram 28 to Campo de Ourique area. Tram 25E from Cais do Sodré. Metro: Rato station (Yellow line) then 10-minute walk. Bus routes 702, 706, 720, 738, 773, 774.",
+      "parking": "Limited street parking in residential area. Some paid parking nearby."
+    },
+    "distanceFromCruisePort": {
+      "meters": 5000,
+      "walkingTime": "Not recommended (1+ hour)",
+      "drivingTime": "15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 380 7920",
+    "email": "geral@mercadocampodeourique.pt",
+    "website": "https://www.mercadocampodeourique.com/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/MercadoCampoDeOurique",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/mercadocampodeourique/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday to Saturday",
+          "hours": "08:00 - 21:00",
+          "notes": "Traditional market stalls: 08:00-14:00, Food court: 10:00-21:00"
+        },
+        {
+          "season": "Year-round",
+          "days": "Sunday",
+          "hours": "10:00 - 21:00",
+          "notes": "Food court only - traditional market closed"
+        }
+      ],
+      "closedDates": [
+        "Major holidays may vary by vendor"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free entry. Individual food and drink purchases €3-15. Market produce at standard prices. Budget €8-20 per person for food court meal."
+    },
+    "averageVisitDuration": "45 minutes to 2 hours",
+    "bestTimeToVisit": "Morning (09:00-11:00) to see traditional market in action. Lunch (12:00-14:00) for food court at its liveliest. Less crowded than Time Out Market.",
+    "busyPeriods": [
+      "Lunch time (12:00-14:00)",
+      "Saturday mornings",
+      "Weekend afternoons"
+    ],
+    "adviceForVisitors": "Visit morning for traditional market shopping, return for lunch in food court. More local atmosphere than tourist markets. Mix and match dishes from different vendors. Try Portuguese specialties and fresh juice bars. Good for families - variety pleases everyone. Casual, relaxed vibe - no rush. Cash helpful for some traditional stalls though most accept cards."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3.5 hours total (includes travel time)",
+    "accessibility": "Moderate - requires transportation to neighborhood, but rewarding for those seeking local experience",
+    "combinableWith": [
+      "Estrela neighborhood",
+      "Estrela Basilica",
+      "Estrela Garden",
+      "Tram 28 ride",
+      "Amoreiras shopping"
+    ],
+    "tips": [
+      "Authentic local experience - few tourists",
+      "Combine with Tram 28 journey through neighborhood",
+      "Perfect lunch stop if exploring Campo de Ourique or Estrela",
+      "More affordable than central tourist markets",
+      "Great for foodies wanting to escape tourist areas",
+      "Try fresh juice stands - excellent value",
+      "Sample Portuguese petiscos from multiple vendors",
+      "Browse traditional market for local food products",
+      "Relaxed pace - good break from tourist crowds",
+      "Nearby Estrela Garden perfect for post-lunch stroll",
+      "English spoken at food court vendors, limited at traditional stalls",
+      "Kids friendly - diverse food options"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Blend of traditional market and modern food court",
+      "Fresh fish, meat, fruit, and vegetable stalls",
+      "20+ food court vendors with diverse cuisines",
+      "Local neighborhood atmosphere",
+      "Communal seating area",
+      "Portuguese specialties and international options",
+      "Fresh juice and smoothie bars",
+      "Craft beer and wine selections",
+      "Artisanal products and Portuguese delicacies",
+      "Gourmet food vendors and traditional options",
+      "Seafood, Asian cuisine, burgers, pastries, coffee",
+      "Vendors source ingredients from market stalls"
+    ],
+    "facilities": [
+      "Traditional market stalls (morning hours)",
+      "20+ food court vendors",
+      "Communal seating area",
+      "Restrooms",
+      "Free Wi-Fi",
+      "High tables and regular tables",
+      "Natural lighting and ventilation",
+      "Baby changing facilities"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Ground level market, wheelchair accessible. Wide aisles, accessible restrooms. Some traditional market areas may be more crowded.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English limited at traditional stalls, better at food court"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://anneskitchen.lu/wp-content/uploads/2025/02/Mercado-de-campo-de-Ourique-3.jpg",
+      "alt": "Interior of Mercado de Campo de Ourique with communal seating and food stalls",
+      "caption": "A vibrant neighborhood market blending traditional Portuguese stalls with modern food court dining"
+    },
+    "gallery": [
+      {
+        "url": "https://anneskitchen.lu/wp-content/uploads/2025/02/Mercado-de-campo-de-Ourique-2.jpg",
+        "alt": "Fresh produce and traditional market stalls",
+        "caption": "Traditional market stalls offer fresh local produce and Portuguese specialties"
+      },
+      {
+        "url": "https://anneskitchen.lu/wp-content/uploads/2025/02/Mercado-de-campo-de-Ourique-1.jpg",
+        "alt": "Food court vendors and seating area",
+        "caption": "Diverse food court options surround communal seating in the market center"
+      },
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/mercado-campo-ourique.jpg",
+        "alt": "Bustling lunch scene at Campo de Ourique market",
+        "caption": "Locals gather for lunch at this beloved neighborhood food destination"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Estrela Basilica",
+      "distance": "800 meters",
+      "type": "church",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Jardim da Estrela (Estrela Garden)",
+      "distance": "900 meters",
+      "type": "park",
+      "walkingTime": "11-12 minutes"
+    },
+    {
+      "name": "Tram 28 route",
+      "distance": "200 meters",
+      "type": "transport",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Amoreiras Shopping Center",
+      "distance": "1.2 km",
+      "type": "shopping",
+      "walkingTime": "15 minutes"
+    },
+    {
+      "name": "Casa Fernando Pessoa Museum",
+      "distance": "400 meters",
+      "type": "museum",
+      "walkingTime": "5 minutes"
+    }
+  ],
+  "tags": [
+    "market",
+    "food-court",
+    "local",
+    "neighborhood",
+    "campo-de-ourique",
+    "portuguese-food",
+    "fresh-produce",
+    "casual-dining",
+    "authentic",
+    "family-friendly",
+    "budget-friendly"
+  ],
+  "suitableFor": [
+    "locals",
+    "foodies",
+    "families",
+    "budget-travelers",
+    "authentic-experience-seekers",
+    "lunch-seekers",
+    "market-lovers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$",
+  "rating": 4.3,
+  "reviewCount": 1876,
+  "reviewSource": "TripAdvisor/Google"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "miradouro-de-sao-pedro-de-alcantara",
+  "name": "Miradouro de São Pedro de Alcântara",
+  "tagline": "Lisbon's most romantic hilltop garden viewpoint with castle vistas and café charm",
+  "type": "viewpoint",
+  "categories": [
+    "viewpoint",
+    "miradouro",
+    "garden",
+    "scenic-overlook",
+    "sunset-spot",
+    "historic-garden",
+    "cafe"
+  ],
+  "description": {
+    "short": "A beautifully landscaped terraced garden viewpoint split across two levels, offering stunning easterly views toward São Jorge Castle, decorated with historic busts, tile panels, baroque fountains, and two charming kiosk cafés.",
+    "full": "The Miradouro de São Pedro de Alcântara stands as Lisbon's most romantic and elegantly landscaped hilltop viewpoint, gracefully positioned at the top of the historic Glória funicular in the Bairro Alto district. This exquisite viewing terrace faces eastward toward the iconic São Jorge Castle perched on the opposite hill, providing sweeping panoramas across the entire Baixa district, Mouraria neighborhood, and extending to the shimmering Tagus estuary beyond. The viewpoint is thoughtfully designed across two distinct levels, each offering its own unique character and charm. The upper level features beautiful cobblestone paving displaying Portugal's traditional calçada portuguesa geometric designs, centered around an elegant fountain transferred from the Palácio da Bemposta when it was converted to a Military Academy. A detailed tile panel added in 1952 helpfully illustrates all the monuments visible from this vantage point, while a monument from 1904 pays tribute to Bairro Alto's historic newspaper sellers - the neighborhood once served as Portugal's press center, and the statue depicts Eduardo Coelho, founder of the 'Diario de Noticias,' with a barefoot boy representing an early newspaper seller. Throughout the terrace, historic and mythological busts dot the landscape, adding cultural gravitas to the scenic beauty. The lower level transforms into a geometric French-inspired garden complete with manicured hedges, shaded benches beneath mature trees, and a hidden wall fountain that once received waters from the city's monumental aqueduct. Two welcoming kiosk cafés - the Miradouro bar and its companion - serve drinks and light meals, making this an ideal spot to linger over coffee or cocktails while absorbing the magnificent views. The viewpoint sits at a fascinating crossroads between three distinct Lisbon neighborhoods: to the east (down the hill) lies the historic Baixa district with its grand plazas, to the west extends the affluent Príncipe Real neighborhood with its elegant mansions and gardens, while to the south pulses the bohemian energy of Bairro Alto's nightlife scene. This unique positioning gives São Pedro de Alcântara a wonderfully diverse atmosphere - jovial and social yet maintaining a touch of class and historical significance. Behind the garden stands the frequently overlooked Convento de São Pedro de Alcântara, a 1670 building that opened to the public in 2014, revealing an outstanding marble chapel and baroque church. The yellow carriages of tram route 24 cheerfully rattle past along Rua de São Pedro de Alcântara, connecting to Príncipe Real and offering a quieter alternative to the famous tram 28.",
+    "history": "The viewpoint's unique two-level terrace design was not accidental but rather constructed in the 17th century as the initial preparatory stage for a grand aqueduct intended to cross the valley to the Graça district. The aqueduct project was abandoned after the devastating 1755 earthquake, but the substantial shear wall at the garden's base - built in preparation for the aqueduct - remains as a historical artifact. The baroque fountain at the garden's center originally graced the grounds of Palácio da Bemposta before being transferred here. The 1904 newspaper sellers monument commemorates Bairro Alto's rich publishing heritage.",
+    "significance": "As one of Lisbon's premier miradouros, São Pedro de Alcântara represents the city's tradition of creating beautiful public spaces that serve both practical and aesthetic purposes. The viewpoint embodies the meeting point of three historic neighborhoods, making it a social and cultural crossroads. The preservation of its baroque fountain, historic monuments, and traditional Portuguese garden design showcases Lisbon's commitment to maintaining its heritage."
+  },
+  "location": {
+    "address": {
+      "street": "Rua de São Pedro de Alcântara",
+      "postal_code": "1250",
+      "neighborhood": "Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7151,
+      "longitude": -9.1442
+    },
+    "directions": {
+      "general": "Located at the top of Elevador da Glória funicular in upper Bairro Alto, at the junction with Príncipe Real",
+      "fromCruisePort": "2km from cruise port. Metro to Baixa-Chiado then walk up (15 min uphill) OR take Elevador da Glória funicular from Praça dos Restauradores (3 min ride)",
+      "publicTransport": "Elevador da Glória funicular from Praça dos Restauradores (lower Baixa) - included in 24-hour ticket. Tram 24 stops behind viewpoint. From Chiado/Bairro Alto: short uphill walk. Metro: Baixa-Chiado or Restauradores.",
+      "parking": "Very limited street parking in Bairro Alto. Public parking at Praça dos Restauradores (walk up or take funicular)"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "25-30 minutes (steep uphill)",
+      "drivingTime": "8-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": "https://www.visitlisboa.com",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7 - public garden and viewpoint",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours",
+          "notes": "Kiosk cafés have variable hours (typically 09:00-21:00). Best visited during daylight hours."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to visit - public viewpoint and garden. Cafés sell drinks and light meals at standard prices."
+    },
+    "averageVisitDuration": "30-60 minutes (longer with café stop)",
+    "bestTimeToVisit": "Late afternoon for beautiful golden light. Sunset for romantic atmosphere. Early morning for peaceful atmosphere before tourist crowds. Evening when viewpoint is illuminated and city lights sparkle.",
+    "busyPeriods": [
+      "Mid-morning to afternoon (10:00-16:00)",
+      "Sunset time",
+      "Weekends",
+      "After Elevador da Glória deposits tourists"
+    ],
+    "adviceForVisitors": "Take the charming Elevador da Glória funicular to save energy climbing the steep hill (included in 24-hour transport ticket or €3.80 return). The viewpoint offers shaded seating under trees - perfect for hot summer days. Enjoy drinks at the kiosk cafés while taking in the view. The tile panel shows what monuments you're seeing. Combine with visits to nearby Príncipe Real gardens (10-minute walk) or São Roque Church. Tram 24 from here connects to Príncipe Real and beyond. Evening visits offer romantic atmosphere with twinkling city lights."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2 hours including travel and relaxing",
+    "accessibility": "Moderate - requires funicular ride OR steep uphill walk. Once at viewpoint, relatively flat terraces.",
+    "combinableWith": [
+      "Elevador da Glória funicular ride",
+      "Bairro Alto exploration",
+      "Príncipe Real neighborhood and gardens",
+      "São Roque Church",
+      "Chiado shopping district",
+      "Convento de São Pedro de Alcântara",
+      "Tram 24 scenic ride"
+    ],
+    "tips": [
+      "Take Elevador da Glória funicular (€3.80 return or FREE with 24-hour ticket)",
+      "Perfect stop after visiting Baixa district",
+      "Two kiosk cafés - great for coffee or drinks with a view",
+      "Less crowded than other major viewpoints",
+      "Beautiful at sunset and in evening with city lights",
+      "Tile panel identifies all visible landmarks",
+      "Combine with Príncipe Real gardens (10-minute walk)",
+      "Convento rarely visited - worth peeking inside if open",
+      "Tram 24 behind viewpoint offers scenic route",
+      "Shaded seating - comfortable even in summer heat"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Panoramic eastward views to São Jorge Castle",
+      "Sweeping vistas across Baixa, Mouraria, Tagus River",
+      "Two-level terraced garden design",
+      "Beautiful Portuguese cobblestone (calçada) paving",
+      "Historic baroque fountain from Palácio da Bemposta",
+      "1952 tile panel identifying visible monuments",
+      "1904 newspaper sellers monument (Eduardo Coelho statue)",
+      "Historic and mythological busts throughout",
+      "Two charming kiosk cafés (Miradouro bar)",
+      "French-inspired geometric lower garden",
+      "Shaded seating under mature trees",
+      "Wall fountain from historic aqueduct",
+      "Views of Rossio, castle, river, city landmarks",
+      "Junction of three historic neighborhoods",
+      "Tram 24 connection to Príncipe Real",
+      "Romantic evening atmosphere with city lights"
+    ],
+    "facilities": [
+      "Two kiosk cafés",
+      "Shaded benches and seating areas",
+      "Tile information panel",
+      "Historic monuments and sculptures",
+      "Terraced gardens",
+      "Public restrooms nearby",
+      "Elevador da Glória funicular access",
+      "Tram 24 stop"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Upper and lower terraces relatively flat once reached. Main challenge is getting to viewpoint - requires steep uphill walk OR Elevador da Glória funicular (which is accessible). Lower level has some steps between sections.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English spoken at cafés"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.lisbonportugaltourism.com/images/miradouro-sao-pedro-alcantara.jpg",
+      "alt": "Lower terrace of Miradouro de São Pedro de Alcântara viewpoint",
+      "caption": "The beautifully landscaped lower terrace with geometric gardens and castle views"
+    },
+    "gallery": [
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/miradouro-de-sao-pedro-de-alcantara.jpg",
+        "alt": "Baroque fountain at São Pedro de Alcântara upper terrace",
+        "caption": "The elegant fountain at the center of the cobblestoned upper level"
+      },
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/sao-pedro-de-alcantara-cafe.jpg",
+        "alt": "Kiosk café at São Pedro de Alcântara viewpoint",
+        "caption": "One of two charming kiosk cafés perfect for drinks with panoramic views"
+      },
+      {
+        "url": "https://www.lisbonportugaltourism.com/images/miradouro-sao-pedro-de-alcantara.jpg",
+        "alt": "Castle views from São Pedro de Alcântara",
+        "caption": "Sweeping eastward views to São Jorge Castle on the opposite hillside"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-principe-real-bairro-alto/miradouro-de-sao-pedro-de-alcantara-lisbon.jpg",
+        "alt": "Shaded garden area at São Pedro de Alcântara",
+        "caption": "The peaceful lower terrace garden offers shaded seating and tranquil atmosphere"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Elevador da Glória",
+      "distance": "At viewpoint entrance",
+      "type": "funicular",
+      "walkingTime": "0 minutes - connects to viewpoint"
+    },
+    {
+      "name": "Convento de São Pedro de Alcântara",
+      "distance": "Adjacent",
+      "type": "convent",
+      "walkingTime": "1 minute"
+    },
+    {
+      "name": "Príncipe Real Gardens (Jardim do Príncipe Real)",
+      "distance": "500 meters",
+      "type": "garden",
+      "walkingTime": "7-10 minutes west"
+    },
+    {
+      "name": "São Roque Church",
+      "distance": "400 meters",
+      "type": "church",
+      "walkingTime": "5-7 minutes"
+    },
+    {
+      "name": "Bairro Alto nightlife district",
+      "distance": "300 meters south",
+      "type": "neighborhood",
+      "walkingTime": "4-6 minutes downhill"
+    },
+    {
+      "name": "Chiado shopping district",
+      "distance": "600 meters",
+      "type": "shopping",
+      "walkingTime": "8-10 minutes"
+    },
+    {
+      "name": "Praça dos Restauradores",
+      "distance": "300 meters downhill",
+      "type": "plaza",
+      "walkingTime": "10 minutes or 3-minute funicular"
+    }
+  ],
+  "tags": [
+    "viewpoint",
+    "miradouro",
+    "garden",
+    "bairro-alto",
+    "panoramic-views",
+    "cafe",
+    "romantic",
+    "historic-garden",
+    "funicular",
+    "sunset",
+    "castle-views",
+    "baroque-fountain",
+    "portuguese-tiles",
+    "scenic",
+    "photography"
+  ],
+  "suitableFor": [
+    "couples",
+    "photographers",
+    "garden-lovers",
+    "coffee-enthusiasts",
+    "viewpoint-seekers",
+    "families",
+    "solo-travelers",
+    "history-buffs"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "Free (viewpoint) - € (cafés)",
+  "rating": 4.5,
+  "reviewCount": 3892,
+  "reviewSource": "TripAdvisor"
+}

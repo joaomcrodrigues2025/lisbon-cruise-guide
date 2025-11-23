@@ -1,0 +1,233 @@
+{
+  "id": "park-rooftop-bar",
+  "name": "PARK Rooftop Bar",
+  "tagline": "Urban rooftop oasis with 360-degree Lisbon views and spectacular sunsets",
+  "type": "viewpoint",
+  "categories": [
+    "rooftop-bar",
+    "viewpoint",
+    "bar",
+    "sunset-spot",
+    "nightlife",
+    "photo-spot"
+  ],
+  "description": {
+    "short": "Perched on the 6th floor of a parking garage in Bairro Alto, PARK is Lisbon's most unique rooftop bar, offering stunning 360-degree panoramic views, lush garden atmosphere, and breathtaking sunsets over the Tagus River.",
+    "full": "PARK Rooftop Bar is a trendy and urban oasis located on the unlikely 6th floor of a parking garage in Lisbon's vibrant Bairro Alto neighborhood. Not the easiest place to find - you have to walk into the parking garage and locate the elevator to the top floor - but the reward is absolutely worth it. As you emerge onto the rooftop, you'll discover one of Lisbon's best-kept secrets: a lush, green terrace where wooden furniture mingles with potted plants, creating an unexpectedly chilled-out atmosphere high above the city streets. The rooftop terrace has a very open and airy feel, with urban seating arrangements including both chairs and more casual bench-like pyramid structures. There's also a cozy lodge-like indoor area for cooler evenings. PARK offers a large selection of classic cocktails at reasonable prices, served from both indoor and outdoor bars, along with beers, wines, sangria, and bar bites like burgers. On Sundays, the bar serves an all-day brunch. The views are simply spectacular: 360-degree panoramas spanning from the Tagus River to the castle, with sunsets that are absolutely breathtaking. As evening falls, PARK transforms into a party destination with 'PARKBEAT' sessions featuring different DJs spinning tunes late into the night. The atmosphere strikes a perfect balance between daytime chill-out vibes and nighttime energy, making it ideal for sunset drinks before dinner or a full evening of music and dancing under the stars. This is an extremely popular spot that doesn't take reservations, so arrive early to secure the best seats, especially around sunset time.",
+    "history": "PARK Rooftop Bar opened in 2013, transforming the top floor of a mundane parking garage into one of Lisbon's most sought-after rooftop destinations. The concept was revolutionary at the time: taking an industrial space and creating an urban garden paradise with unbeatable views. The bar quickly became a favorite among locals and tourists alike, pioneering the rooftop bar scene in Lisbon and inspiring similar venues across the city.",
+    "significance": "PARK represents Lisbon's creative spirit and ability to transform unexpected spaces into unique experiences. It has become an iconic destination for experiencing Lisbon's famous sunsets and is consistently ranked among the best rooftop bars in Europe. The venue showcases the city's young, vibrant energy and has helped establish Bairro Alto as a nightlife destination."
+  },
+  "location": {
+    "address": {
+      "street": "Calçada do Combro 58",
+      "postal_code": "1200-123",
+      "neighborhood": "Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7123,
+      "longitude": -9.1453
+    },
+    "directions": {
+      "general": "Located on the 6th floor of a parking garage in Bairro Alto, near the top of Elevador da Glória",
+      "fromCruisePort": "2km from cruise port. Take metro to Baixa-Chiado (15 min) then walk up through Bairro Alto (10 min uphill) or take Elevador da Glória funicular",
+      "publicTransport": "Metro: Baixa-Chiado station (Green/Blue lines), then 10-minute uphill walk or take Elevador da Glória funicular. Tram 28 stops nearby. Bus routes 758, 773 to Bairro Alto.",
+      "parking": "The bar is IN a parking garage - park on lower floors and take elevator to 6th floor"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "25-30 minutes uphill",
+      "drivingTime": "8-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 21 591 4011",
+    "email": null,
+    "website": "https://www.facebook.com/parklisboaofficial/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/parklisboaofficial/",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/parklisboa/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday-Saturday",
+          "hours": "15:00 - 02:00",
+          "notes": "Sunday brunch service 13:00-21:00"
+        },
+        {
+          "season": "Year-round",
+          "days": "Sunday",
+          "hours": "13:00 - 21:00",
+          "notes": "All-day brunch service"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free entry. Drinks €5-12. No reservations accepted - first come, first served."
+    },
+    "averageVisitDuration": "1.5-3 hours (longer for sunset and evening)",
+    "bestTimeToVisit": "Arrive 1-2 hours before sunset (around 17:00-18:00 in summer, 16:00-17:00 in winter) to secure good seats. Early evening for best views and atmosphere. Late night for DJ sessions and dancing.",
+    "busyPeriods": [
+      "Sunset time (peak hours)",
+      "Friday and Saturday evenings",
+      "Summer months (June-September)",
+      "Weekends"
+    ],
+    "adviceForVisitors": "Arrive EARLY for sunset - this place fills up fast! Enter through the parking garage entrance (yes, really!) and take elevator/stairs to 6th floor. No reservations accepted. Dress code is casual but smart-casual recommended for evenings. Bring a light jacket as it can get breezy. Cash and cards accepted. Amazing photo opportunities but be respectful of other guests' views."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours including travel and drinks",
+    "accessibility": "Challenging - steep uphill walk to Bairro Alto OR take funicular/metro. Once at parking garage, elevator available to 6th floor.",
+    "combinableWith": [
+      "Bairro Alto district exploration",
+      "Chiado shopping district",
+      "São Pedro de Alcântara viewpoint",
+      "Elevador da Glória funicular ride",
+      "Príncipe Real neighborhood"
+    ],
+    "tips": [
+      "Perfect for sunset drinks with a view",
+      "No reservations - arrive 1-2 hours before sunset",
+      "Look for the parking garage entrance - it's hidden!",
+      "Great cocktails at reasonable prices for a rooftop bar",
+      "Combine with Bairro Alto evening exploration",
+      "Cash and cards accepted",
+      "Can get chilly in evening - bring a jacket",
+      "Don't leave valuables unattended",
+      "Sunday brunch is less crowded"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "360-degree panoramic views of Lisbon and Tagus River",
+      "Spectacular sunset views - rated among Europe's best",
+      "Lush rooftop garden with urban-chic atmosphere",
+      "Indoor and outdoor bars",
+      "Live DJ sessions 'PARKBEAT' on weekends",
+      "Sunday all-day brunch",
+      "Hidden location in parking garage (unique experience)",
+      "Views of São Jorge Castle, Tagus River, Cristo Rei statue",
+      "Relaxed daytime atmosphere, party vibes at night"
+    ],
+    "facilities": [
+      "Outdoor rooftop terrace",
+      "Indoor lodge-like area",
+      "Two bar areas (indoor and outdoor)",
+      "Seating areas with wooden furniture",
+      "DJ booth for live music",
+      "Bar bites and light meals available",
+      "Restrooms"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Elevator access to 6th floor from parking garage. Once on rooftop level, relatively flat with some steps. The biggest challenge is reaching Bairro Alto district itself (steep hills).",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-1.jpg",
+      "alt": "PARK rooftop bar Lisbon with city views at sunset",
+      "caption": "PARK's lush rooftop terrace offers breathtaking 360-degree views over Lisbon"
+    },
+    "gallery": [
+      {
+        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-2.jpg",
+        "alt": "PARK rooftop bar seating area with Lisbon panorama",
+        "caption": "Urban-chic seating areas with spectacular Tagus River views"
+      },
+      {
+        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-3.jpg",
+        "alt": "Sunset views from PARK rooftop Lisbon",
+        "caption": "Breathtaking sunset over Lisbon from the rooftop terrace"
+      },
+      {
+        "url": "https://www.therooftopguide.com/rooftop-bars-in-lisbon/Bilder/park-600-4.jpg",
+        "alt": "PARK rooftop bar evening atmosphere",
+        "caption": "Evening ambiance with twinkling city lights and cocktails"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Elevador da Glória",
+      "distance": "200 meters",
+      "type": "funicular",
+      "walkingTime": "3 minutes downhill"
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "250 meters",
+      "type": "viewpoint",
+      "walkingTime": "3-4 minutes"
+    },
+    {
+      "name": "Bairro Alto nightlife district",
+      "distance": "Adjacent",
+      "type": "neighborhood",
+      "walkingTime": "0-5 minutes"
+    },
+    {
+      "name": "Chiado shopping district",
+      "distance": "600 meters",
+      "type": "shopping",
+      "walkingTime": "8-10 minutes downhill"
+    },
+    {
+      "name": "Príncipe Real neighborhood",
+      "distance": "500 meters",
+      "type": "neighborhood",
+      "walkingTime": "7-8 minutes"
+    }
+  ],
+  "tags": [
+    "rooftop-bar",
+    "sunset",
+    "viewpoint",
+    "panoramic-views",
+    "nightlife",
+    "cocktails",
+    "photography",
+    "bairro-alto",
+    "hidden-gem",
+    "party",
+    "dj-sessions",
+    "urban-garden",
+    "instagram-worthy"
+  ],
+  "suitableFor": [
+    "couples",
+    "friends",
+    "solo-travelers",
+    "photographers",
+    "sunset-chasers",
+    "nightlife-lovers",
+    "cocktail-enthusiasts"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.3,
+  "reviewCount": 15,
+  "reviewSource": "The Rooftop Guide"
+}

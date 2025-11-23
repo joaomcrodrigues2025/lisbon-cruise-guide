@@ -1,0 +1,262 @@
+{
+  "id": "lx-factory",
+  "name": "LX Factory",
+  "tagline": "Lisbon's creative industrial hub - art, street culture, dining, and shopping in a revitalized factory complex",
+  "type": "cultural-complex",
+  "categories": [
+    "creative-hub",
+    "street-art",
+    "restaurants",
+    "shopping",
+    "cultural-space",
+    "industrial-heritage"
+  ],
+  "description": {
+    "short": "LX Factory is a former textile industrial complex transformed into Lisbon's premier creative and cultural hub. This 23,000-square-meter space in Alcantara features over 50 shops, restaurants, bars, art galleries, co-working spaces, and the famous Ler Devagar bookstore, all set against spectacular street art.",
+    "full": "LX Factory is a stunning example of industrial adaptive reuse, transforming a 19th-century textile factory complex into one of Europe's most dynamic creative hubs. Located in the Alcantara district beneath the 25 de Abril Bridge, this sprawling 23,000-square-meter complex dates to 1846 when the Company of Wiring and Fabricos Lisbonense established one of Lisbon's most important industrial sites. After decades of decline and eventual abandonment, the complex was reimagined in the late 2000s as a space fostering creativity, innovation, and community. Today, the preserved industrial architecture - brick warehouses, iron structures, and soaring factory halls - houses an eclectic mix of independent boutiques, artisan workshops, design studios, trendy restaurants, cafes, bars, and co-working spaces. The complex has become a canvas for street art, with vibrant murals covering walls, creating an Instagram-worthy backdrop throughout. The crown jewel is Ler Devagar, one of the world's most beautiful bookstores, occupying a 600-square-meter former industrial space across four floors with 40,000 titles and a restaurant. LX Factory hosts regular markets (especially busy Sunday markets), art exhibitions, live music events, and cultural happenings. The atmosphere blends industrial grit with contemporary creativity, attracting a diverse crowd of locals, expats, digital nomads, and tourists. While some critics note it has become tourist-oriented with higher prices, it remains an essential Lisbon destination showcasing the city's creative evolution and successful heritage preservation.",
+    "history": "1846: Company of Wiring and Fabricos Lisbonense establishes the textile factory complex. Late 19th-early 20th century: Site occupied by Industrial Company of Portugal and Colonies, typography companies, and printing houses. Late 20th century: Industrial decline leads to abandonment. Late 2000s: Vision to create creative hub begins. 2008: LX Factory officially opens as cultural and creative space. 2010s-present: Continuous evolution with new tenants, events, and international recognition as innovative urban regeneration project.",
+    "significance": "LX Factory represents successful adaptive reuse of industrial heritage, demonstrating how abandoned industrial sites can be transformed into vibrant cultural spaces. It has become a model for urban regeneration projects across Europe and a symbol of Lisbon's creative renaissance and contemporary culture."
+  },
+  "location": {
+    "address": {
+      "street": "Rua Rodrigues Faria 103",
+      "postal_code": "1300-501",
+      "neighborhood": "Alcantara",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.70621,
+      "longitude": -9.17453
+    },
+    "directions": {
+      "general": "Located in Alcantara district beneath the 25 de Abril Bridge. Main entrance on Rua Rodrigues Faria 103.",
+      "fromCruisePort": "30-35 minute walk west along waterfront (2.8km), or take Tram 15E to Calvario stop (15 min ride + 5 min walk). Taxi/Uber 10 minutes.",
+      "publicTransport": "Tram 15E or 18E to Calvario stop (5 min walk). Bus routes 706, 714, 720, 732, 738, 760 stop nearby. Train: Alcantara-Terra station (10 min walk).",
+      "parking": "Free parking available on-site. Street parking in surrounding area."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2800,
+      "walkingTime": "32-35 minutes",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 143 399",
+    "email": "geral@lxfactory.com",
+    "website": "https://lxfactory.com",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lxfactory",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/lxfactory"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round (individual business hours vary)",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Sunday to Wednesday",
+          "hours": "10:00 - 22:00",
+          "notes": "Most shops and restaurants. Ler Devagar bookstore opens 10:00-22:00"
+        },
+        {
+          "season": "Year-round",
+          "days": "Thursday to Saturday",
+          "hours": "10:00 - 24:00",
+          "notes": "Extended hours for bars and restaurants. Ler Devagar until midnight"
+        },
+        {
+          "season": "Sunday Market",
+          "days": "Sundays",
+          "hours": "11:00 - 19:00",
+          "notes": "Weekly market with crafts, vintage items, food vendors"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free entry to complex and to walk around. Individual shops, restaurants, and cafes charge separately. Ler Devagar bookstore is free to enter."
+    },
+    "averageVisitDuration": "2-3 hours for browsing, photos, and dining. Full afternoon/evening possible with shopping and events.",
+    "bestTimeToVisit": "Weekday mornings (10am-1pm) for quieter exploration and better light. Sunday mornings for the market. Late afternoon-evening Thursday-Saturday for vibrant atmosphere.",
+    "busyPeriods": [
+      "Weekends, especially Sunday market (11am-3pm)",
+      "Summer months (June-September)",
+      "Evenings Thursday-Saturday",
+      "When cruise ships in port"
+    ],
+    "adviceForVisitors": "Wear comfortable shoes - large complex with multiple levels. Budget extra for shopping - unique artisan goods and design items. Don't miss Ler Devagar bookstore - it's spectacular. Many restaurants are trendy/upscale - prices higher than average Lisbon. Some note limited air conditioning in summer heat. Great for photography - street art everywhere. Sunday market worth visiting. Combine with Belem area (15 min walk west)."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (4-5 hours) including transport, exploration, and dining",
+    "accessibility": "Moderate - 30-min walk or 15-min tram ride. Complex has stairs between levels but ground floor accessible. Some restaurants have outdoor seating.",
+    "combinableWith": [
+      "Belem district (Monastery, Tower, Pasteis)",
+      "Alcantara waterfront",
+      "25 de Abril Bridge viewpoints",
+      "Museum of Art, Architecture and Technology (MAAT)"
+    ],
+    "tips": [
+      "Take Tram 15E from cruise port - scenic waterfront route (15 min)",
+      "Alternatively walk along waterfront for 30-35 minutes",
+      "Allow 2-3 hours minimum to explore properly",
+      "Visit Sunday morning for the weekly market",
+      "Ler Devagar bookstore is must-see - free to enter",
+      "Bring camera - street art photo opportunities everywhere",
+      "Prices higher than typical Lisbon - budget accordingly",
+      "Many trendy restaurants - reserve for lunch/dinner",
+      "Can get hot in summer - limited AC in complex",
+      "Combine with Belem (15 min walk) for full day",
+      "Unique souvenirs - artisan shops and design stores",
+      "Great for younger travelers and creative types"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "23,000-square-meter former textile factory complex from 1846",
+      "50+ shops, restaurants, cafes, bars, and galleries",
+      "Ler Devagar - spectacular 600m² bookstore on four floors",
+      "Vibrant street art murals throughout complex",
+      "Industrial architecture - exposed brick, iron structures",
+      "Sunday weekly market with crafts and vintage items",
+      "Co-working spaces and creative studios",
+      "Regular cultural events - exhibitions, concerts, workshops",
+      "Diverse dining - from casual cafes to upscale restaurants",
+      "Artisan workshops and independent boutiques",
+      "Photography paradise - Instagram-worthy everywhere",
+      "Beneath the 25 de Abril Bridge"
+    ],
+    "facilities": [
+      "Restaurants (Portuguese, international, vegetarian options)",
+      "Cafes and pastry shops",
+      "Bookstore (Ler Devagar)",
+      "Fashion boutiques and concept stores",
+      "Art galleries",
+      "Design shops",
+      "Tattoo studio",
+      "Barber shop (The Barber Factory)",
+      "Hostel (LX Hostel)",
+      "Co-working spaces",
+      "Event venues",
+      "Public restrooms",
+      "Free parking",
+      "Free WiFi in many areas"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Ground floor mostly accessible. Some areas have stairs between levels. Uneven surfaces in places due to industrial heritage. Outdoor areas accessible. Many venues have step-free ground-floor access. Limited elevator access between levels.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English widely spoken",
+      "International staff at many venues"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lxfactory.com/wp-content/uploads/2019/01/lxfactory-main-building.jpg",
+      "alt": "LX Factory industrial complex with vibrant street art murals",
+      "caption": "The revitalized factory complex showcasing industrial heritage and contemporary street art"
+    },
+    "gallery": [
+      {
+        "url": "https://lxfactory.com/wp-content/uploads/2019/01/ler-devagar-bookstore-main.jpg",
+        "alt": "Ler Devagar bookstore interior with towering shelves and art installations",
+        "caption": "The spectacular Ler Devagar - one of the world's most beautiful bookstores"
+      },
+      {
+        "url": "https://lxfactory.com/wp-content/uploads/2019/01/47379785_2029332403769480_6016867900269264896_o.jpg",
+        "alt": "Street art mural Azulejo Oximoro at LX Factory",
+        "caption": "Vibrant street art transforms the industrial walls into outdoor galleries"
+      },
+      {
+        "url": "https://lxfactory.com/wp-content/uploads/2019/01/restaurants_lxfactory_banner.jpg",
+        "alt": "Outdoor dining area at LX Factory restaurants",
+        "caption": "Over 50 restaurants, cafes, and bars offer diverse dining experiences"
+      },
+      {
+        "url": "https://lxfactory.com/wp-content/uploads/2019/01/lxfactory-courtyard.jpg",
+        "alt": "LX Factory courtyard with people and shops",
+        "caption": "The creative hub attracts locals and tourists with its unique atmosphere"
+      },
+      {
+        "url": "https://ousortiralisbonne.com/wp-content/uploads/2023/07/LX-Factory-Filipa-Jacinto--1024x768.jpeg",
+        "alt": "LX Factory street art and industrial architecture",
+        "caption": "A perfect blend of preserved industrial heritage and contemporary culture"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Belem District (Monastery, Tower, Pasteis)",
+      "distance": "1.2 km west",
+      "type": "historic-district",
+      "walkingTime": "15 minutes along waterfront"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "1.5 km west",
+      "type": "museum",
+      "walkingTime": "18 minutes"
+    },
+    {
+      "name": "25 de Abril Bridge",
+      "distance": "Adjacent",
+      "type": "landmark",
+      "walkingTime": "Views from LX Factory"
+    },
+    {
+      "name": "Docas de Santo Amaro (waterfront bars)",
+      "distance": "1 km east",
+      "type": "nightlife",
+      "walkingTime": "12 minutes"
+    },
+    {
+      "name": "National Museum of Ancient Art",
+      "distance": "1.8 km northeast",
+      "type": "museum",
+      "walkingTime": "22 minutes"
+    }
+  ],
+  "tags": [
+    "creative-hub",
+    "street-art",
+    "industrial-heritage",
+    "bookstore",
+    "restaurants",
+    "shopping",
+    "alcantara",
+    "cultural-space",
+    "adaptive-reuse",
+    "instagram-spot",
+    "trendy",
+    "markets"
+  ],
+  "suitableFor": [
+    "art-lovers",
+    "photographers",
+    "foodies",
+    "shoppers",
+    "creative-types",
+    "instagram-lovers",
+    "couples",
+    "young-travelers",
+    "design-enthusiasts"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$-$$$",
+  "rating": 4.5,
+  "reviewCount": 12847,
+  "reviewSource": "TripAdvisor/Google combined"
+}

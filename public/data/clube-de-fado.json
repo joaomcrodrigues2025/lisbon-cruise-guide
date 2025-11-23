@@ -1,0 +1,230 @@
+{
+  "id": "clube-de-fado",
+  "name": "Clube de Fado",
+  "tagline": "Experience authentic Portuguese soul through traditional Fado music in historic Alfama",
+  "type": "fado-house",
+  "categories": [
+    "fado-music",
+    "restaurant",
+    "cultural-experience",
+    "nightlife",
+    "portuguese-culture",
+    "live-music"
+  ],
+  "description": {
+    "short": "Clube de Fado, one of Lisbon's most iconic Fado venues, has been showcasing Portugal's soulful traditional music since its establishment in historic Alfama. Just steps from Lisbon Cathedral, this intimate venue offers authentic Fado performances alongside refined Portuguese cuisine.",
+    "full": "Nestled in the heart of Alfama, Lisbon's oldest neighborhood, Clube de Fado stands as one of the city's most respected and iconic Fado houses. Located just steps from the imposing Lisbon Cathedral (Sé de Lisboa), this intimate venue occupies a historic building where centuries-old stone walls and an ancient Moorish well create an atmospheric setting for Portugal's most emotional musical tradition. Fado, recognized by UNESCO as Intangible Cultural Heritage, is Portugal's soul-stirring musical genre characterized by mournful tunes and lyrics expressing saudade - a deep emotional state of nostalgic longing. At Clube de Fado, this tradition comes alive nightly through performances by both renowned fadistas and emerging talents, accompanied by the haunting sounds of Portuguese guitar. The venue has hosted some of Fado's greatest names over the years, from the legendary Amália Rodrigues to contemporary stars like Camané, Mariza, and Ana Moura. The intimate atmosphere places audiences close to performers, creating powerful emotional connections as voices rise with feeling in the candlelit space. Clube de Fado pairs these memorable musical experiences with elevated Portuguese cuisine, offering traditional dishes prepared with quality ingredients and modern technique. The menu features classics like bacalhau (codfish), grilled meats, fresh seafood, and regional specialties. The evening unfolds with dinner service beginning around 20:00, followed by Fado performances that typically start around 20:30 and continue until 01:00, with sets rotating between different singers and musicians. The venue's intimate size means advance reservations are essential, and the dress code leans smart casual out of respect for the tradition.",
+    "history": "Clube de Fado has been a cornerstone of Lisbon's Fado scene for decades, occupying a historic building in Alfama that dates back centuries. The venue's location near the Sé Cathedral places it at the heart of Fado's birthplace - the narrow streets of Alfama where this music originated among the working-class neighborhoods of 19th-century Lisbon. The building itself features architectural elements from different eras, including Moorish influences visible in the ancient well and stone construction. Throughout its history, Clube de Fado has been a training ground for emerging fadistas while also attracting established stars, making it a living museum of Fado tradition.",
+    "significance": "Clube de Fado represents the preservation and continuation of authentic Fado tradition in an era of commercialization. Unlike tourist-oriented venues, it maintains high artistic standards while making Fado accessible to visitors seeking genuine cultural experiences. The venue's location in Alfama, Fado's birthplace, adds historical authenticity. It serves as a cultural ambassador, introducing international audiences to this UNESCO-recognized art form while remaining a favorite among local Fado enthusiasts."
+  },
+  "location": {
+    "address": {
+      "street": "Rua de São João da Praça 94",
+      "postal_code": "1100-521",
+      "neighborhood": "Alfama",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7105,
+      "longitude": -9.1295
+    },
+    "directions": {
+      "general": "Located in Alfama's winding streets, near Lisbon Cathedral (Sé) and São Jorge Castle",
+      "fromCruisePort": "1.5km from cruise terminals - 10 minute taxi or 20 minute walk through Alfama's steep streets. Tram 28 stops nearby.",
+      "publicTransport": "Tram 28 to Sé Cathedral, then 5-minute walk. Bus 737 to Sé. Metro: Terreiro do Paço or Santa Apolónia (Blue line) then 10-15 minute uphill walk.",
+      "parking": "Very limited street parking in Alfama. Best parking at Portas do Sol or Sé Cathedral area (5-10 minute walk)."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1500,
+      "walkingTime": "15-20 minutes uphill",
+      "drivingTime": "8-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 422 281",
+    "email": "clubedefado@fadoandfood.pt",
+    "website": "https://www.clubedefado.pt/en/",
+    "bookingUrl": "https://www.clubedefado.pt/en/booking/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/clubedefado/",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/clubedefado/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open every evening year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "19:30 - 01:00",
+          "notes": "Dinner service from 19:30, Fado performances 20:30-01:00"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "No admission fee but dinner reservation required. Dinner with Fado show typically €45-75 per person including meal and performance. À la carte menu available. Minimum consumption required. Reserve in advance - essential."
+    },
+    "averageVisitDuration": "3-4 hours (full evening experience)",
+    "bestTimeToVisit": "Any evening - book several days to weeks in advance during summer and peak season. Tuesday-Thursday slightly less busy than weekends.",
+    "busyPeriods": [
+      "Friday and Saturday nights",
+      "Summer season (June-September)",
+      "Holiday periods",
+      "Weekends year-round"
+    ],
+    "adviceForVisitors": "MUST book in advance - walk-ins rarely possible. Arrive on time for dinner reservation. Silence is essential during Fado performances - talking/phone use not permitted. Photography usually allowed without flash between songs - check with staff. Smart casual dress code recommended. Plan for full evening commitment. Budget appropriately - this is an upscale experience."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Full evening - 5-6 hours total (include time to/from ship, dinner, performances)",
+    "accessibility": "Moderate - short distance from port but evening commitment required. Venue has stairs and historic building limitations.",
+    "combinableWith": [
+      "Alfama daytime exploration",
+      "Lisbon Cathedral visit",
+      "São Jorge Castle (if visiting earlier)",
+      "Evening in Alfama"
+    ],
+    "tips": [
+      "BOOK WELL IN ADVANCE - essential for cruise passengers",
+      "Perfect evening cultural experience near cruise port",
+      "Allows time to return to ship - ends by 01:00",
+      "Combine with daytime Alfama exploration",
+      "Authentic Fado in intimate historic setting",
+      "Respect silence during performances - cultural tradition",
+      "Budget €50-80 per person for full experience",
+      "Smart casual dress - show respect for tradition",
+      "No need to speak Portuguese - universal emotional experience",
+      "Short taxi ride from port - easy logistics",
+      "Consider dining earlier in venue before main performances",
+      "Photography between songs usually permitted"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Authentic traditional Fado performances nightly",
+      "Historic Alfama building with ancient Moorish well",
+      "Intimate candlelit atmosphere",
+      "Renowned fadistas and Portuguese guitar musicians",
+      "Has hosted Fado legends: Amália Rodrigues, Camané, Mariza, Ana Moura",
+      "Elevated Portuguese cuisine and traditional dishes",
+      "Multiple Fado sets throughout evening",
+      "Close proximity to performers",
+      "UNESCO Intangible Cultural Heritage experience",
+      "Centuries-old stone walls and architecture",
+      "Professional sound system enhancing acoustics",
+      "Rotating lineup of talented fadistas"
+    ],
+    "facilities": [
+      "Restaurant dining room",
+      "Bar",
+      "Intimate performance space",
+      "Restrooms",
+      "Coat check",
+      "Air conditioning"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Historic building with stairs and uneven floors. Not suitable for wheelchairs or significant mobility limitations. Narrow doorways and passages. Contact venue in advance for specific accessibility questions.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Staff multilingual"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-8.png",
+      "alt": "Fado singer performing at Clube de Fado in candlelit atmosphere",
+      "caption": "Experience the soul of Portugal through authentic Fado music in an intimate historic setting"
+    },
+    "gallery": [
+      {
+        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-13.png",
+        "alt": "Portuguese guitarist performing Fado accompaniment",
+        "caption": "The haunting sound of Portuguese guitar accompanies every Fado performance"
+      },
+      {
+        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Rectangle-65.png",
+        "alt": "Interior of Clube de Fado dining room",
+        "caption": "Intimate dining space with traditional Portuguese architecture and candlelight"
+      },
+      {
+        "url": "https://www.clubedefado.pt/wp-content/uploads/2025/11/Group-40.png",
+        "alt": "Historic moments at Clube de Fado",
+        "caption": "Decades of Fado tradition preserved in this iconic Alfama venue"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Lisbon Cathedral (Sé de Lisboa)",
+      "distance": "200 meters",
+      "type": "cathedral",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "São Jorge Castle",
+      "distance": "600 meters",
+      "type": "castle",
+      "walkingTime": "8-10 minutes uphill"
+    },
+    {
+      "name": "Alfama neighborhood streets",
+      "distance": "Immediate area",
+      "type": "neighborhood",
+      "walkingTime": "0 minutes - in heart of Alfama"
+    },
+    {
+      "name": "Portas do Sol viewpoint",
+      "distance": "400 meters",
+      "type": "viewpoint",
+      "walkingTime": "5-6 minutes"
+    },
+    {
+      "name": "Santa Luzia viewpoint",
+      "distance": "350 meters",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes"
+    }
+  ],
+  "tags": [
+    "fado",
+    "live-music",
+    "portuguese-culture",
+    "traditional",
+    "unesco-heritage",
+    "alfama",
+    "restaurant",
+    "dinner-show",
+    "authentic",
+    "cultural-experience",
+    "evening",
+    "romantic"
+  ],
+  "suitableFor": [
+    "culture-seekers",
+    "music-lovers",
+    "couples",
+    "adults",
+    "fado-enthusiasts",
+    "romantic-evenings",
+    "cultural-travelers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$$",
+  "rating": 4.6,
+  "reviewCount": 3254,
+  "reviewSource": "TripAdvisor/Google"
+}

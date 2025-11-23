@@ -1,0 +1,239 @@
+{
+  "id": "basilica-da-estrela",
+  "name": "Basílica da Estrela",
+  "tagline": "Magnificent 18th-century baroque basilica with iconic white dome dominating Lisbon's skyline",
+  "type": "church",
+  "categories": [
+    "basilica",
+    "church",
+    "religious-site",
+    "baroque",
+    "neoclassical",
+    "monument",
+    "architecture"
+  ],
+  "description": {
+    "short": "The Basílica da Estrela is one of Lisbon's most impressive and recognizable churches, featuring a stunning white dome, twin bell towers, and elaborate baroque interior with colored marble decoration. Built in the late 18th century, it stands majestically opposite the beautiful Estrela Garden.",
+    "full": "The Basílica da Estrela (Estrela Basilica) is one of Lisbon's most magnificent religious buildings and a landmark visible across the city thanks to its striking white dome. Built in neoclassical and baroque styles between 1779 and 1790, the basilica was commissioned by Queen Maria I as fulfillment of a vow she made if she bore a son and heir to the Portuguese throne. The queen promised to build a church dedicated to the Sacred Heart of Jesus, and when Prince José was born in 1761, she kept her word, though tragically the prince died of smallpox before the basilica's completion. The church was designed by architects Mateus Vicente de Oliveira and Reinaldo Manuel dos Santos as a simplified replica of the Mafra Convent. Its imposing façade features twin bell towers that frame the entrance, while the massive white dome crowns the structure and defines Lisbon's western skyline. The basilica's interior is breathtaking, decorated with marble in various colors - pink, black, yellow, and grey marble from different Portuguese quarries creates striking visual contrasts. Beautiful paintings by renowned artists Pompeo Batoni and Pedro Alexandrino adorn the walls and ceiling, depicting religious scenes in the baroque style. The church houses the ornate tomb of Queen Maria I, who commissioned it, and features a remarkable and unique nativity scene (presépio) created with over 500 hand-carved cork and terracotta figures by sculptor Machado de Castro - one of Portugal's artistic treasures. The basilica remains an active place of worship while welcoming visitors who come to admire its architectural beauty and artistic riches. Its location opposite the lovely Estrela Garden and along the famous Tram 28 route makes it easily accessible and a popular stop for tourists exploring Lisbon's historic neighborhoods.",
+    "history": "Construction began in 1779 under Queen Maria I's orders, following her vow to build a church if she produced a male heir. Her son Prince José was born in 1761 but died of smallpox at age 27 in 1788, before the basilica's completion in 1790. The church was designed by Mateus Vicente de Oliveira and Reinaldo Manuel dos Santos in neoclassical style with baroque elements, modeled after the Convento de Mafra. Queen Maria I, who suffered from mental illness in her later years, was buried here in 1816. The basilica has served as an important religious center ever since.",
+    "significance": "The Basílica da Estrela is one of Lisbon's most important religious and architectural monuments. Its distinctive white dome is an iconic element of the city's skyline. The church represents late 18th-century Portuguese neoclassical and baroque architecture at its finest. The remarkable nativity scene by Machado de Castro is considered a masterpiece of Portuguese decorative arts. As the burial place of Queen Maria I, it holds historical significance in Portuguese royal history."
+  },
+  "location": {
+    "address": {
+      "street": "Praça da Estrela (Largo da Estrela)",
+      "postal_code": "1200-694",
+      "neighborhood": "Estrela",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7139,
+      "longitude": -9.161
+    },
+    "directions": {
+      "general": "Located in Estrela neighborhood, directly opposite Estrela Garden (Jardim da Estrela), on a hill west of city center",
+      "fromCruisePort": "30-35 minute walk through Lapa district, or take Tram 28 (20 minutes) or taxi (12 minutes). Bus and tram routes available.",
+      "publicTransport": "Tram 28 stops directly in front (Estrela stop) - iconic tram route. Tram 25E also stops here. Bus routes 773, 774. No nearby metro station.",
+      "parking": "Street parking around Praça da Estrela and nearby streets. Parking can be challenging to find."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2800,
+      "walkingTime": "30-35 minutes",
+      "drivingTime": "12 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 960 915",
+    "email": null,
+    "website": "https://www.visitlisboa.com/en/places/basilica-da-estrela",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily for visits and worship",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "09:00 - 20:00",
+          "notes": "Church is active place of worship. Mass times may affect visiting. Respectful dress and behavior required."
+        }
+      ],
+      "closedDates": [
+        "During special religious services and ceremonies"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free entry to basilica. Optional donation appreciated. Access to dome terrace may have small fee (check locally). Photography allowed but flash photography discouraged."
+    },
+    "averageVisitDuration": "30-45 minutes for interior and nativity scene",
+    "bestTimeToVisit": "Mid-morning or late afternoon for best natural light. Weekday mornings less crowded. Avoid visiting during Mass times if you're not attending service.",
+    "busyPeriods": [
+      "Sunday mornings during Mass",
+      "Tram 28 tourist arrival times (mid-morning to afternoon)",
+      "Religious holidays"
+    ],
+    "adviceForVisitors": "Dress modestly (covered shoulders and knees) as this is an active place of worship. Be quiet and respectful inside. Don't miss the remarkable cork and terracotta nativity scene - a unique Portuguese treasure. The white dome is spectacular when viewed from outside. Combine visit with relaxing in Estrela Garden across the street. Arrive via Tram 28 for iconic Lisbon experience."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-2.5 hours including Tram 28 ride and visit",
+    "accessibility": "Moderate - requires tram or taxi. Basilica interior has steps but main floor accessible. Dome climb (if open) not wheelchair accessible.",
+    "combinableWith": [
+      "Estrela Garden",
+      "Tram 28 route",
+      "Lapa district",
+      "National Museum of Ancient Art",
+      "Alcântara waterfront"
+    ],
+    "tips": [
+      "Take famous Tram 28 directly to basilica - stops right outside",
+      "Combine with Estrela Garden visit across the street",
+      "Free entry makes it budget-friendly",
+      "Don't miss the unique 500-piece nativity scene",
+      "Dress code: covered shoulders and knees required",
+      "Beautiful baroque interior with colorful marble",
+      "Great photo opportunity from outside with white dome",
+      "Less touristy than central churches - more authentic",
+      "Queen Maria I's tomb inside - Portuguese royal history",
+      "Peaceful atmosphere compared to crowded city center",
+      "Check if dome terrace is open for panoramic city views",
+      "Continue on Tram 28 to explore more of Lisbon"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Iconic white dome visible across Lisbon skyline",
+      "Twin bell towers flanking impressive façade",
+      "Neoclassical and baroque architectural style",
+      "Interior decorated with pink, black, yellow, and grey marble",
+      "Paintings by Pompeo Batoni and Pedro Alexandrino",
+      "Ornate tomb of Queen Maria I",
+      "Unique nativity scene with 500+ cork and terracotta figures by Machado de Castro",
+      "High vaulted ceilings and elaborate columns",
+      "Beautiful baroque altars and religious sculptures",
+      "Simplified replica of Convento de Mafra design",
+      "Stop on iconic Tram 28 route",
+      "Located opposite beautiful Estrela Garden"
+    ],
+    "facilities": [
+      "Main basilica worship space",
+      "Nativity scene display area",
+      "Small gift/religious items shop",
+      "Benches for rest and prayer",
+      "Restrooms (basic)",
+      "Information about history and architecture"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Main church floor accessible with some steps at entrance. Interior generally manageable for wheelchairs on main level. Dome access (if available) requires stairs - not wheelchair accessible. Some areas may be challenging for limited mobility.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English information available",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NzcsInB1ciI6ImJsb2JfaWQifX0=--b9e91c27829e957bad895395b7ada2f6f27f34b0/be_1.jpg",
+      "alt": "Basílica da Estrela with white dome and twin bell towers",
+      "caption": "The magnificent 18th-century basilica with its iconic white dome dominates Lisbon's western skyline"
+    },
+    "gallery": [
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NzgsInB1ciI6ImJsb2JfaWQifX0=--3b38d7ec5cc0be3b0b7d64b00df4daca22847647/be_2.jpg",
+        "alt": "Interior of Basílica da Estrela showing baroque decoration",
+        "caption": "The lavish interior features colorful marble and baroque paintings"
+      },
+      {
+        "url": "https://www.portugal.com/wp-content/uploads/basilica-estrela-lisbon.jpg",
+        "alt": "Basílica da Estrela facade with Tram 28",
+        "caption": "The famous Tram 28 stops directly in front of the basilica"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/basilica-estrela.jpg",
+        "alt": "White dome of Basílica da Estrela from Estrela Garden",
+        "caption": "The striking white dome viewed from the gardens across the square"
+      },
+      {
+        "url": "https://www.visitlisboa.com/images/basilica-estrela-nativity.jpg",
+        "alt": "Famous cork and terracotta nativity scene",
+        "caption": "The remarkable 500-piece nativity scene by Machado de Castro is a Portuguese treasure"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jardim da Estrela (Estrela Garden)",
+      "distance": "Directly opposite",
+      "type": "park",
+      "walkingTime": "0 minutes - across the square"
+    },
+    {
+      "name": "Tram 28 route",
+      "distance": "Stops at basilica",
+      "type": "transport-attraction",
+      "walkingTime": "0 minutes"
+    },
+    {
+      "name": "National Museum of Ancient Art",
+      "distance": "1.2 km",
+      "type": "museum",
+      "walkingTime": "15 minutes downhill"
+    },
+    {
+      "name": "Lapa neighborhood",
+      "distance": "500 meters",
+      "type": "neighborhood",
+      "walkingTime": "7-10 minutes"
+    },
+    {
+      "name": "English Cemetery",
+      "distance": "300 meters",
+      "type": "historic-site",
+      "walkingTime": "4-5 minutes"
+    }
+  ],
+  "tags": [
+    "basilica",
+    "church",
+    "baroque",
+    "neoclassical",
+    "dome",
+    "religious-site",
+    "architecture",
+    "tram-28",
+    "royal-tomb",
+    "nativity-scene",
+    "marble",
+    "estrela",
+    "iconic"
+  ],
+  "suitableFor": [
+    "architecture-lovers",
+    "history-enthusiasts",
+    "religious-travelers",
+    "photographers",
+    "culture-seekers",
+    "families"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "Free",
+  "rating": 4.2,
+  "reviewCount": 711,
+  "reviewSource": "TripAdvisor"
+}

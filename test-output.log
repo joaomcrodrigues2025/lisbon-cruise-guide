@@ -1,0 +1,234 @@
+
+Running 13 tests using 1 worker
+
+
+=== STARTING PLAYWRIGHT TEST SUITE ===
+
+Base URL: http://localhost:3002
+Total Attractions: 29
+Total Categories: 118
+Total Tags: 239
+Expected Pages: 390
+
+======================================
+
+
+=== TEST SUITE COMPLETED ===
+
+
+Console Errors: 8
+  - Homepage: Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  - Homepage: ./app/globals.css:984:8
+Parsing CSS source code failed
+  982 |   }
+  983 | }
+> 984 | @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+      |        ^
+  985 | @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap');
+  986 | :root {
+  987 |   --color-primary: #003366;
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+  ✘   1 [chromium] › tests/lisbon-cruise-guide.spec.ts:49:7 › Lisbon Cruise Guide - Complete Validation › Homepage loads successfully without errors (718ms)
+
+=== STARTING PLAYWRIGHT TEST SUITE ===
+
+Base URL: http://localhost:3002
+Total Attractions: 29
+Total Categories: 118
+Total Tags: 239
+Expected Pages: 390
+
+======================================
+
+
+Testing 5 specific attraction pages...
+
+❌ Found 5 errors in specific attraction pages
+
+=== TEST SUITE COMPLETED ===
+
+Total Errors Found: 5
+  - SERVER ERROR 500: /attractions/oceanario-de-lisboa
+  - SERVER ERROR 500: /attractions/pasteis-de-belem
+  - SERVER ERROR 500: /attractions/time-out-market-lisboa
+  - SERVER ERROR 500: /attractions/parque-das-nacoes
+  - SERVER ERROR 500: /attractions/bairro-alto
+  ✘   2 [chromium] › tests/lisbon-cruise-guide.spec.ts:92:7 › Lisbon Cruise Guide - Complete Validation › Specific attraction pages load without 404s (3.0s)
+
+=== STARTING PLAYWRIGHT TEST SUITE ===
+
+Base URL: http://localhost:3002
+Total Attractions: 29
+Total Categories: 118
+Total Tags: 239
+Expected Pages: 390
+
+======================================
+
+
+Testing 15 sample attraction pages...
+❌ Found 15 errors in sample attractions
+
+=== TEST SUITE COMPLETED ===
+
+Total Errors Found: 15
+  - STATUS 500: /attractions/azulejo-tile-painting-workshop
+  - STATUS 500: /attractions/bairro-alto
+  - STATUS 500: /attractions/basilica-da-estrela
+  - STATUS 500: /attractions/by-the-wine
+  - STATUS 500: /attractions/cabo-da-roca
+  - STATUS 500: /attractions/carmo-archaeological-museum
+  - STATUS 500: /attractions/cascais-coastal-town
+  - STATUS 500: /attractions/chiado
+  - STATUS 500: /attractions/clube-de-fado
+  - STATUS 500: /attractions/convento-do-carmo
+  - STATUS 500: /attractions/elevador-da-bica
+  - STATUS 500: /attractions/igreja-de-sao-roque
+  - STATUS 500: /attractions/jardim-zoologico
+  - STATUS 500: /attractions/lisbon-botanical-garden
+  - STATUS 500: /attractions/lx-factory
+  ✘   3 [chromium] › tests/lisbon-cruise-guide.spec.ts:163:7 › Lisbon Cruise Guide - Complete Validation › Sample of all attraction pages load correctly (8.4s)
+
+=== STARTING PLAYWRIGHT TEST SUITE ===
+
+Base URL: http://localhost:3002
+Total Attractions: 29
+Total Categories: 118
+Total Tags: 239
+Expected Pages: 390
+
+======================================
+
+
+Testing 10 of 118 category pages...
+❌ Found 10 errors in category pages
+
+=== TEST SUITE COMPLETED ===
+
+Total Errors Found: 10
+  - STATUS 500: /categories/animals
+  - STATUS 500: /categories/aquarium
+  - STATUS 500: /categories/archaeological
+  - STATUS 500: /categories/archaeological-museum
+  - STATUS 500: /categories/architectural-landmark
+  - STATUS 500: /categories/architecture
+  - STATUS 500: /categories/art-class
+  - STATUS 500: /categories/baixa-district
+  - STATUS 500: /categories/bakery
+  - STATUS 500: /categories/bar
+  ✘   4 [chromium] › tests/lisbon-cruise-guide.spec.ts:203:7 › Lisbon Cruise Guide - Complete Validation › Sample category pages load with correct filtering (6.1s)
+
+=== STARTING PLAYWRIGHT TEST SUITE ===
+
+Base URL: http://localhost:3002
+Total Attractions: 29
+Total Categories: 118
+Total Tags: 239
+Expected Pages: 390
+
+======================================
+
+
+Testing 10 of 239 tag pages...

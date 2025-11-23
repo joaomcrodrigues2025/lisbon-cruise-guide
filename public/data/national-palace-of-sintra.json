@@ -1,0 +1,237 @@
+{
+  "id": "national-palace-of-sintra",
+  "name": "National Palace of Sintra",
+  "tagline": "Portugal's oldest palace with over 1000 years of history",
+  "type": "palace",
+  "categories": [
+    "palace",
+    "historic-site",
+    "royal-residence",
+    "museum",
+    "cultural-attraction"
+  ],
+  "description": {
+    "short": "Located in the heart of Sintra village and spanning over 1000 years of Portuguese history, the National Palace of Sintra is one of the oldest palaces in Portugal, instantly recognizable by its two iconic conical chimneys.",
+    "full": "The National Palace of Sintra emerges from many centuries of royal construction and adaptation, making it a unique architectural ensemble that spans the entire history of Portugal. The palace's origins likely date back to the 10th or 11th century during Moorish rule. At the end of the Middle Ages, it became one of the preferred destinations for Portuguese monarchs, who were drawn by abundant hunting, the cool summer climate, and the need for refuge during plague outbreaks in Lisbon. The palace features remarkable rooms including the Swan Room, Magpie Room, and the spectacular Coats of Arms Room with its domed ceiling displaying the heraldic shields of 72 noble Portuguese families. The iconic twin conical chimneys, rising 33 meters above the royal kitchen, have become the symbol of Sintra. The palace showcases various architectural styles from different periods, including Moorish, Gothic, and Manueline elements, with stunning azulejo tilework throughout. Today, it houses an exceptional collection of furniture, decorative arts, and historical artifacts that bring centuries of Portuguese royal life to vivid reality.",
+    "history": "The current palace emerges from many royal buildings constructed, added, and adapted over centuries. The first building was likely constructed around the 10th or 11th century when Sintra was under Moorish rule. King João I ordered major renovations in the late 14th and early 15th centuries, adding the distinctive chimneys and many of the rooms visitors see today. King Manuel I continued expansions in the early 16th century. The palace served as a summer residence for Portuguese royalty until the 19th century and survived the devastating 1755 earthquake that destroyed much of Lisbon.",
+    "significance": "As the only palace spanning the entire history of Portugal, it serves as a guardian of memories and witness to defining episodes in Portuguese history. The palace is part of the Cultural Landscape of Sintra, designated as a UNESCO World Heritage Site, and represents an exceptional testimony to royal life across nearly a millennium."
+  },
+  "location": {
+    "address": {
+      "street": "Largo Rainha D. Amélia",
+      "postal_code": "2710-616",
+      "neighborhood": "Historic Center",
+      "city": "Sintra",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7975,
+      "longitude": -9.3908
+    },
+    "directions": {
+      "general": "Located in the historic center of Sintra village, the palace is easily identifiable by its two massive conical chimneys",
+      "fromCruisePort": "From Lisbon cruise port, take train from Rossio or Oriente station to Sintra (40 minutes), then walk 10 minutes uphill or take bus 434/435",
+      "publicTransport": "Train from Lisbon (Rossio, Oriente, or Entrecampos stations) to Sintra station (30-40 minutes). From Sintra station, walk 10-15 minutes uphill or take Scotturb buses 434 or 435 directly to the palace",
+      "parking": "Limited parking in historic center. Use designated car parks and walk or take public transport to the palace"
+    },
+    "distanceFromCruisePort": {
+      "meters": 28000,
+      "walkingTime": "Not recommended - use train",
+      "drivingTime": "35-45 minutes from Lisbon cruise port"
+    }
+  },
+  "contact": {
+    "phone": "+351 219 237 300",
+    "email": "info@parquesdesintra.pt",
+    "website": "https://www.parquesdesintra.pt/en/parks-monuments/national-palace-of-sintra/",
+    "bookingUrl": "https://bilheteira.parquesdesintra.pt/home/en",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/parquesdesintra",
+      "twitter": "https://twitter.com/parquesdesintra",
+      "instagram": "https://www.instagram.com/parquesdesintra/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "09:30 - 18:30",
+          "lastAdmission": "18:00",
+          "notes": "Ticket office closed from 12:00 to 13:00. Automatic ticket vending machines available"
+        }
+      ],
+      "closedDates": [
+        "January 1",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 13.0,
+      "youth": 10.0,
+      "child": 0.0,
+      "senior": 10.0,
+      "family": 35.0,
+      "lisboaCardFree": false,
+      "notes": "15% discount when purchasing online. Children 0-5 free. Youth 6-17 years. Seniors 65+. Family ticket covers 2 adults + 2 youth. Gardens are free to enter"
+    },
+    "averageVisitDuration": "90-120 minutes",
+    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon to avoid peak crowds. Weekdays are quieter than weekends",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Summer months (June-September)",
+      "Weekends and public holidays"
+    ],
+    "adviceForVisitors": "Purchase tickets online for 15% discount and to skip queues. Sintra can be visited year-round but mornings tend to be fresher. Wear comfortable shoes for walking through multiple rooms and levels. Consider a combined ticket to visit multiple Sintra palaces. Allow a full day to explore Sintra's multiple attractions"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day minimum (4-5 hours including train travel from Lisbon)",
+    "accessibility": "Moderate - requires train journey from Lisbon (40 minutes) plus short walk or bus from Sintra station",
+    "combinableWith": [
+      "Pena Palace",
+      "Quinta da Regaleira",
+      "Moorish Castle",
+      "Sintra village",
+      "Monserrate Palace"
+    ],
+    "tips": [
+      "Start very early to visit multiple Sintra attractions in one day",
+      "Buy train tickets from Lisbon in advance during peak season",
+      "Consider purchasing Parks of Sintra combo ticket for multiple palaces",
+      "Sintra is cooler than Lisbon - bring a light jacket",
+      "Combine with lunch in Sintra's charming historic center",
+      "Try the famous travesseiros pastries at Piriquita bakery",
+      "Take bus 434 tourist route to visit multiple sites efficiently",
+      "This is a full half-day excursion - not suitable for short port calls"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Two iconic 33-meter conical chimneys crowning the kitchen",
+      "Swan Room with 27 swans painted on the ceiling",
+      "Magpie Room featuring 136 magpies holding scrolls",
+      "Coats of Arms Room with spectacular domed ceiling",
+      "Extensive collection of 15th-16th century azulejo tiles",
+      "Moorish-influenced architecture and decorative elements",
+      "Golden Chamber with intricate coffered ceiling",
+      "Chapel with beautiful tile panels",
+      "Palace gardens with peacocks and historic trees",
+      "Panoramic views over Sintra village"
+    ],
+    "facilities": [
+      "Museum exhibits and historical displays",
+      "Gift shop with local crafts and souvenirs",
+      "Restrooms",
+      "Gardens with seating areas",
+      "Information center",
+      "Audio guides available",
+      "Free garden access"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Ground floor and some rooms are accessible. Upper floors require stairs. Historic building with some narrow passages and uneven floors. Gardens are more accessible than interior",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.parquesdesintra.pt/media/mqrlmt4y/parques_de_sintra_palacio_nacional_de_sintra_hero_01.jpg",
+      "alt": "National Palace of Sintra with iconic twin conical chimneys rising above terracotta rooftops",
+      "caption": "The distinctive conical chimneys of the royal kitchen make the National Palace of Sintra instantly recognizable"
+    },
+    "gallery": [
+      {
+        "url": "https://www.parquesdesintra.pt/media/zpxg0zxt/parques_de_sintra_palacio_nacional_de_sintra_sala_manuelina_2.jpg",
+        "alt": "Manueline Room with ornate twisted columns",
+        "caption": "The Manueline Room showcases early 16th century Portuguese architectural style"
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/media/xjzbchpw/parques_de_sintra_palacio_nacional_de_sintra_sala_brasoes.jpg",
+        "alt": "Coats of Arms Room with octagonal domed ceiling displaying noble family shields",
+        "caption": "The spectacular Coats of Arms Room features 72 heraldic shields of Portuguese noble families"
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/media/kfjbfmdq/parques_de_sintra_palacio_nacional_de_sintra_sala_cisnes.jpg",
+        "alt": "Swan Room ceiling decorated with 27 painted swans",
+        "caption": "The Swan Room ceiling features 27 elegantly painted swans"
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/media/ya3jreyr/parques_de_sintra_palacio_nacional_de_sintra_sala_pegas.jpg",
+        "alt": "Magpie Room with ceiling covered in painted magpies",
+        "caption": "The Magpie Room displays 136 magpies, each holding a scroll with the royal motto"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Pena Palace",
+      "distance": "3.5 km",
+      "type": "palace",
+      "walkingTime": "Not walkable - bus or car required"
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "distance": "800 meters",
+      "type": "palace-estate",
+      "walkingTime": "10-12 minutes"
+    },
+    {
+      "name": "Moorish Castle",
+      "distance": "2.5 km",
+      "type": "castle-ruins",
+      "walkingTime": "Not walkable - bus or car required"
+    },
+    {
+      "name": "Sintra Historic Center",
+      "distance": "Adjacent",
+      "type": "neighborhood",
+      "walkingTime": "Within the center"
+    },
+    {
+      "name": "Sintra National Park",
+      "distance": "Surrounding area",
+      "type": "natural-park",
+      "walkingTime": "Varies"
+    }
+  ],
+  "tags": [
+    "palace",
+    "royal-residence",
+    "sintra",
+    "unesco",
+    "medieval",
+    "moorish",
+    "manueline",
+    "azulejos",
+    "historic",
+    "must-see"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "culture-seekers",
+    "photographers",
+    "families",
+    "art-lovers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewCount": 18500,
+  "reviewSource": "TripAdvisor/Google"
+}

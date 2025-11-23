@@ -1,0 +1,226 @@
+{
+  "id": "chiado",
+  "name": "Chiado",
+  "tagline": "Lisbon's elegant cultural and shopping heart with historic cafés and theatres",
+  "type": "neighborhood",
+  "categories": [
+    "shopping",
+    "cultural-district",
+    "historic-area",
+    "cafes",
+    "theaters",
+    "bookstores"
+  ],
+  "description": {
+    "short": "Chiado is Lisbon's most elegant neighborhood, a sophisticated district of 19th-century buildings, designer boutiques, historic cafés, and grand theaters that represents the intellectual and cultural heart of the city.",
+    "full": "Chiado sits right at the heart of Lisbon and is both a cultural and shopping hotspot. This district has been around since Roman times, but it really made its mark in the 18th and 19th centuries, and you'll easily sense the elegant charm from those times while exploring Chiado. During the 19th century, the district became popular with artisans and intellectuals, who would frequent the coffee shops and bars. Chiado's reputation as an artisan district was enhanced with the construction of Lisbon's grand opera house, the Teatro Nacional de São Carlos. On August 25, 1988, Chiado was ravaged by a terrible fire which destroyed a great swathe of the district along with many historic shops. The restoration took over 10 years but has faithfully retained much of the character of the district, and today it bustles with shoppers browsing the independent shops and family-run businesses. Rua Garrett is the main street, with the Armazéns do Chiado mall at one end and the landmark A Brasileira café at the other. In between is one of the city's most beautiful stores - a 1909 jewelry store that seems to belong to a Louis XV palace, and one of Europe's first and most beautiful elevators, installed in the Ramiro Leão department store and now protected like a museum piece. Chiado is where everyone meets for coffee, shopping, or before a night out in neighboring Bairro Alto, maintaining its position as Lisbon's most cosmopolitan and culturally vibrant neighborhood.",
+    "history": "The district is named after António Ribeiro, a Franciscan monk who left the order to become a satirical poet and actor in the 16th century. António's distinctive style was his shrill and high voice, which gave him the nickname Chiado (Screech in Portuguese). In 1988, a devastating fire destroyed much of the district on August 25th, but architect Álvaro Siza Vieira led a careful restoration that preserved the area's historic character while modernizing its infrastructure.",
+    "significance": "Chiado represents the refined, intellectual soul of Lisbon and has been the gathering place for writers, artists, and intellectuals for centuries. Famous Portuguese poet Fernando Pessoa was a regular at the historic cafés. The district is a living museum of Belle Époque architecture and culture, maintaining its role as Lisbon's premier shopping and cultural destination."
+  },
+  "location": {
+    "address": {
+      "street": "N/A - Entire neighborhood",
+      "postal_code": "1200",
+      "neighborhood": "Chiado",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7108,
+      "longitude": -9.1421
+    },
+    "directions": {
+      "general": "Located in central Lisbon between Bairro Alto and Baixa districts, near Praça Luís de Camões",
+      "fromCruisePort": "15-20 minute walk uphill from cruise terminal, or take metro to Baixa-Chiado station (direct access)",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines). Tram 28 passes through. Buses 758, 202. Elevador da Santa Justa lift connects to Baixa.",
+      "parking": "Limited street parking. Public parking at Armazéns do Chiado mall and nearby garages."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1500,
+      "walkingTime": "15-20 minutes",
+      "drivingTime": "7-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "N/A",
+    "email": "N/A",
+    "website": "https://www.visitlisboa.com/en/places/chiado",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily - public area",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Streets accessible 24/7",
+          "notes": "Shops typically open 10:00-19:00/20:00. Cafés and restaurants have varied hours. Some close Sundays."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to explore neighborhood. Individual shops, cafés, museums have their own pricing."
+    },
+    "averageVisitDuration": "2-4 hours",
+    "bestTimeToVisit": "Morning for shopping and café culture (10:00-13:00). Late afternoon for relaxed browsing. Weekdays less crowded than weekends.",
+    "busyPeriods": [
+      "Weekday lunch hours (12:00-14:00)",
+      "Saturday afternoons",
+      "December holiday shopping season"
+    ],
+    "adviceForVisitors": "Wear comfortable shoes for walking and hills. Visit Livraria Bertrand, the world's oldest bookstore. Stop at A Brasileira café for coffee. Explore side streets for hidden boutiques. Combine with visit to nearby Convento do Carmo ruins. Allow time for browsing unique shops."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day recommended (3-4 hours)",
+    "accessibility": "Moderate - some hills but generally walkable. Metro station has elevator access. Main shopping street is relatively flat.",
+    "combinableWith": [
+      "Bairro Alto nightlife",
+      "Convento do Carmo",
+      "Elevador de Santa Justa",
+      "Baixa district",
+      "Rossio Square"
+    ],
+    "tips": [
+      "Easy metro access from cruise port area",
+      "Perfect for morning/afternoon shore excursion",
+      "Visit Livraria Bertrand - world's oldest bookstore (since 1732)",
+      "Stop at A Brasileira café - see Fernando Pessoa statue",
+      "Shop at Armazéns do Chiado mall",
+      "Explore Rua Garrett for designer boutiques",
+      "Visit Convento do Carmo ruins nearby",
+      "Take Elevador de Santa Justa for city views",
+      "Many shops accept credit cards"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Rua Garrett - main shopping street",
+      "A Brasileira - historic 1905 café with Fernando Pessoa statue",
+      "Livraria Bertrand - world's oldest operating bookstore",
+      "Teatro Nacional de São Carlos - opera house",
+      "Armazéns do Chiado - elegant shopping center",
+      "Beautiful 19th-century architecture",
+      "Historic jewelry stores and boutiques",
+      "Convento do Carmo ruins nearby",
+      "Designer and Portuguese brand shops",
+      "Cultural venues and galleries"
+    ],
+    "facilities": [
+      "Shopping mall with 50+ stores",
+      "Historic cafés and restaurants",
+      "Bookstores and libraries",
+      "Theaters and cultural venues",
+      "Designer boutiques",
+      "ATMs throughout area",
+      "Public restrooms in mall",
+      "Metro station access"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Main streets like Rua Garrett are accessible. Some side streets have cobblestones and slight inclines. Metro station Baixa-Chiado has elevator. Armazéns do Chiado mall is fully accessible. Historic elevators may have limitations.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French widely spoken in shops"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/chiado-lisbon-district.jpg",
+      "alt": "Bustling outdoor cafés in Chiado district with historic buildings",
+      "caption": "Chiado's elegant cafés and 19th-century architecture create Lisbon's most sophisticated atmosphere"
+    },
+    "gallery": [
+      {
+        "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/fernando-pessoa-statue-lisbon.jpg",
+        "alt": "Bronze statue of poet Fernando Pessoa outside A Brasileira café",
+        "caption": "The famous Fernando Pessoa statue at Café A Brasileira, a must-visit historic café"
+      },
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5MzcsInB1ciI6ImJsb2JfaWQifX0=--ef37c1f87a8cd8580f2aaf89df94df44a9f936a4/Armazéns-do-Chiado-1.jpg",
+        "alt": "Interior of Armazéns do Chiado shopping center",
+        "caption": "Armazéns do Chiado combines modern shopping with historic elegance"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-principe-real-bairro-alto/igreja-do-carmo-lisbon.jpg",
+        "alt": "Gothic ruins of Convento do Carmo church",
+        "caption": "The haunting Convento do Carmo ruins, a memorial to the 1755 earthquake"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Bairro Alto",
+      "distance": "Adjacent uphill",
+      "type": "nightlife-district",
+      "walkingTime": "5 minutes uphill"
+    },
+    {
+      "name": "Convento do Carmo",
+      "distance": "200 meters",
+      "type": "historic-ruins",
+      "walkingTime": "3-5 minutes"
+    },
+    {
+      "name": "Elevador de Santa Justa",
+      "distance": "300 meters",
+      "type": "landmark",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Praça Luís de Camões",
+      "distance": "100 meters",
+      "type": "square",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Baixa District",
+      "distance": "400 meters downhill",
+      "type": "historic-district",
+      "walkingTime": "5-7 minutes"
+    }
+  ],
+  "tags": [
+    "shopping",
+    "culture",
+    "cafes",
+    "historic",
+    "elegant",
+    "bookstores",
+    "theaters",
+    "boutiques",
+    "intellectual",
+    "belle-epoque"
+  ],
+  "suitableFor": [
+    "shoppers",
+    "culture-lovers",
+    "foodies",
+    "coffee-enthusiasts",
+    "architecture-admirers",
+    "families",
+    "couples"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$-$$$",
+  "rating": 4.6,
+  "reviewCount": 21000,
+  "reviewSource": "TripAdvisor/Google"
+}

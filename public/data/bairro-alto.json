@@ -1,0 +1,222 @@
+{
+  "id": "bairro-alto",
+  "name": "Bairro Alto",
+  "tagline": "Lisbon's vibrant nightlife hub with historic charm and endless bars",
+  "type": "neighborhood",
+  "categories": [
+    "nightlife",
+    "historic-district",
+    "entertainment",
+    "bars",
+    "fado-music",
+    "cultural-experience"
+  ],
+  "description": {
+    "short": "Bairro Alto is Lisbon's legendary nightlife district, a maze of narrow cobblestone streets that transforms from quiet residential area by day into one of Europe's most concentrated party hubs by night.",
+    "full": "Bairro Alto, meaning 'upper district', extends over the hill to the west of central Lisbon and the Baixa district. At the heart of Bairro Alto are narrow cobbled streets densely packed with apartments, restaurants and bars. This historic neighborhood has always been associated with liberals and progressives, and after the collapse of the authoritarian dictatorship of the Estado Novo in 1974, the area became a haven for those simply wanting to enjoy life. Found within a relatively compact area are over two hundred family-run restaurants and small bars, catering for every genre and taste. Many of these bars are tiny, only providing seating for a handful of patrons, so as the night progresses the socializing spills out onto the streets, and the entire district becomes one huge party. The unique grid layout of central Bairro Alto is unusual for a medieval-era city district, as it originally followed ancient farming plots which were rectangular in size. Bairro Alto has matured since the heady days of the 1980s, but it is still the location for vibrant nightlife and late-night socializing, attracting both locals and tourists who come to experience authentic Lisbon nightlife.",
+    "history": "Bairro Alto was developed in the 16th century as a planned neighborhood, unusual for its time with its grid-pattern streets. Throughout its history, it has been home to intellectuals, artists, and bohemians. The area survived the devastating 1755 earthquake relatively intact. In 1988, the neighboring Chiado was ravaged by a terrible fire, but Bairro Alto escaped damage. After Portugal's 1974 revolution ending the Estado Novo dictatorship, Bairro Alto flourished as a center of freedom and expression.",
+    "significance": "Bairro Alto represents the bohemian soul of Lisbon and is one of the city's most important cultural and nightlife districts. It's a living example of how historic neighborhoods can maintain their character while serving modern purposes. The district is famous for its authentic atmosphere where locals and visitors mix freely, creating a unique social experience."
+  },
+  "location": {
+    "address": {
+      "street": "N/A - Entire neighborhood",
+      "postal_code": "1200",
+      "neighborhood": "Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7142,
+      "longitude": -9.1459
+    },
+    "directions": {
+      "general": "Located on a hillside west of Baixa district, between Chiado and Príncipe Real",
+      "fromCruisePort": "20-25 minute walk from cruise terminal, or take metro to Baixa-Chiado station then walk uphill (10 minutes), or use Elevador da Glória funicular from Restauradores",
+      "publicTransport": "Metro: Baixa-Chiado (Blue/Green lines). Elevador da Glória funicular from Praça dos Restauradores. Tram 28 passes through the area. Multiple bus routes including 758.",
+      "parking": "Very limited street parking. Public parking at Praça Luís de Camões and nearby garages. Best explored on foot."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1800,
+      "walkingTime": "20-25 minutes",
+      "drivingTime": "8-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "N/A",
+    "email": "N/A",
+    "website": "https://www.visitlisboa.com/en/places/bairro-alto",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7 - public streets",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours access to streets",
+          "notes": "Bars typically open from 19:00-20:00 and close at 02:00. Most establishments closed Monday-Wednesday evenings."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to explore neighborhood. Individual bars and restaurants have their own pricing. Expect to pay 3-8 EUR for drinks."
+    },
+    "averageVisitDuration": "3-5 hours for full nightlife experience",
+    "bestTimeToVisit": "Evening from 21:00 onwards for nightlife. Thursday-Saturday are busiest. Early morning for photography and quiet exploration.",
+    "busyPeriods": [
+      "Thursday-Saturday nights (22:00-02:00)",
+      "Summer months (June-September)",
+      "June - Santo António festival"
+    ],
+    "adviceForVisitors": "Wear comfortable shoes for cobblestones and hills. Pace yourself - the night starts late in Lisbon. Be aware of pickpockets in crowded areas. Cash is useful as some small bars don't accept cards. The area looks shabby during the day but comes alive at night. Don't judge it until you experience the evening atmosphere."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Allow 3-4 hours minimum for evening experience",
+    "accessibility": "Challenging - steep hills, many staircases, narrow cobblestone streets. Funicular available but not wheelchair accessible inside district.",
+    "combinableWith": [
+      "Chiado shopping district",
+      "Cais do Sodré nightlife",
+      "Pink Street",
+      "São Pedro de Alcântara viewpoint",
+      "Príncipe Real"
+    ],
+    "tips": [
+      "Perfect for evening shore leave if ship stays overnight",
+      "Start at São Pedro de Alcântara viewpoint at sunset",
+      "Do your own bar crawl - explore multiple venues",
+      "Try local ginjinha (cherry liqueur) and Portuguese wine",
+      "Experience authentic Fado music in traditional houses",
+      "Combine with dinner in nearby Chiado before nightlife",
+      "Use Elevador da Glória funicular to save energy",
+      "Keep valuables secure in crowded streets"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Over 200 bars and restaurants in compact area",
+      "Authentic Fado music venues",
+      "Street party atmosphere on weekends",
+      "Historic 16th century grid-pattern streets",
+      "Colorful graffiti and street art",
+      "Igreja de São Roque church with ornate interior",
+      "Miradouro de São Pedro de Alcântara viewpoint",
+      "Mix of traditional and modern bars",
+      "LGBTQ+ friendly atmosphere",
+      "Live music venues"
+    ],
+    "facilities": [
+      "200+ bars and restaurants",
+      "Fado houses",
+      "Live music venues",
+      "Small boutiques and shops",
+      "ATMs scattered throughout",
+      "Public restrooms limited",
+      "Viewpoint terraces"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Not suitable for wheelchairs or limited mobility. Very steep hills, many staircases, narrow cobblestone streets with uneven surfaces. Elevador da Glória funicular has stairs. Best for able-bodied visitors.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English widely spoken in tourist-oriented establishments"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lisbonlisboaportugal.com/images/650-nightlife/bairro-alto-nightlife-party.jpg",
+      "alt": "Crowded streets of Bairro Alto at night with people socializing outside bars",
+      "caption": "The vibrant atmosphere of Bairro Alto transforms narrow streets into Europe's most concentrated party scene"
+    },
+    "gallery": [
+      {
+        "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/bairro-alto-streets.jpg",
+        "alt": "Narrow cobblestone streets of Bairro Alto lined with colorful buildings",
+        "caption": "Bairro Alto's characteristic narrow streets and traditional architecture"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/400-sodre-chiado-bairro/bairro-alto-night.jpg",
+        "alt": "Bairro Alto nightlife with crowds and illuminated bars",
+        "caption": "As night falls, Bairro Alto transforms into Lisbon's premier nightlife destination"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/400alfamabaixa/miradouro-sao-pedro-alcantara-lisbon.jpg",
+        "alt": "Miradouro de São Pedro de Alcântara viewpoint overlooking Lisbon",
+        "caption": "The São Pedro de Alcântara viewpoint at the edge of Bairro Alto offers stunning city views"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Chiado District",
+      "distance": "Adjacent",
+      "type": "shopping-district",
+      "walkingTime": "5 minutes downhill"
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "At district edge",
+      "type": "viewpoint",
+      "walkingTime": "0-5 minutes"
+    },
+    {
+      "name": "Pink Street (Cais do Sodré)",
+      "distance": "600 meters",
+      "type": "nightlife",
+      "walkingTime": "10 minutes downhill"
+    },
+    {
+      "name": "Príncipe Real",
+      "distance": "300 meters north",
+      "type": "neighborhood",
+      "walkingTime": "5-7 minutes"
+    },
+    {
+      "name": "Igreja de São Roque",
+      "distance": "Within district",
+      "type": "church",
+      "walkingTime": "5 minutes"
+    }
+  ],
+  "tags": [
+    "nightlife",
+    "bars",
+    "fado",
+    "party",
+    "historic",
+    "bohemian",
+    "entertainment",
+    "music",
+    "social",
+    "authentic-lisbon"
+  ],
+  "suitableFor": [
+    "nightlife-enthusiasts",
+    "young-travelers",
+    "social-groups",
+    "party-goers",
+    "culture-seekers",
+    "music-lovers",
+    "photographers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.5,
+  "reviewCount": 18500,
+  "reviewSource": "Google/TripAdvisor"
+}

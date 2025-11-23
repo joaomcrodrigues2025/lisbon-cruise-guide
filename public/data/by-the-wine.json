@@ -1,0 +1,245 @@
+{
+  "id": "by-the-wine",
+  "name": "By The Wine",
+  "tagline": "Portugal's finest wines paired with gourmet tapas in the heart of Chiado",
+  "type": "wine-bar",
+  "categories": [
+    "wine-bar",
+    "restaurant",
+    "tapas",
+    "portuguese-wine",
+    "dining",
+    "wine-tasting"
+  ],
+  "description": {
+    "short": "By The Wine brings the complete range of Sogrape wines - Portugal's largest wine producer - to a relaxed, cosmopolitan wine bar in Chiado. Since 2015, it has been the perfect spot to discover Portuguese wines alongside carefully curated tapas and regional specialties.",
+    "full": "By The Wine opened in the heart of Chiado in 2015 as a flagship wine bar showcasing the extensive portfolio of Sogrape, Portugal's largest and most prestigious wine producer. Since March 2021, the bar exclusively presents the entire range of Sogrape wines, including iconic brands such as Mateus Rosé, Casa Ferreirinha (Douro), Herdade do Peso (Alentejo), Quinta dos Carvalhais (Dão), Quinta da Romeira (Lisboa), and the famous Port wines from Sandeman and Ferreira. The selection extends to Sogrape's international properties in New Zealand, Argentina, Chile, and Spain, offering around 80 wine references in total. The relaxed and cosmopolitan space pairs these exceptional wines with a diverse gastronomic menu featuring homemade Algarvian bread, Iberian bellota ham platters, salmon ceviche, loin steak sandwiches (bifanas), beef carpaccio, veal cheek, and an array of Portuguese and Spanish tapas. The atmosphere is warm and welcoming, perfect for an informal snack between sightseeing or a full dining experience. The knowledgeable staff guide guests through wine selections, making it ideal for both wine connoisseurs and curious beginners. Whether stopping for a quick glass and petiscos (Portuguese tapas) or settling in for a multi-course meal, By The Wine offers an authentic taste of Portugal's rich wine culture. In November 2024, a second location opened in Porto, expanding this successful concept. The Chiado location's central position makes it a convenient stop during city exploration, and the vibrant atmosphere attracts a mix of locals and tourists throughout the day and evening.",
+    "history": "By The Wine opened in Chiado in 2015 as an innovative wine bar concept, initially showcasing various Portuguese wines. In March 2021, it became exclusively dedicated to Sogrape wines, becoming the winery's flagship tasting venue in Lisbon. Sogrape, founded by Fernando van Zeller Guedes, has been producing Portuguese wines since the early 20th century and is known worldwide for Mateus Rosé. The partnership created a unique space where Sogrape's full range - from everyday table wines to premium reserves and vintage Ports - could be experienced in a casual setting.",
+    "significance": "By The Wine serves as an ambassador for Portuguese wine culture in one of Lisbon's most visited neighborhoods. It democratizes wine tasting by offering high-quality wines by the glass in a relaxed atmosphere, making premium Portuguese wines accessible to all. The bar plays an educational role in promoting Portuguese wine regions and varieties to international visitors while maintaining popularity with discerning locals."
+  },
+  "location": {
+    "address": {
+      "street": "Rua das Flores 41-43",
+      "postal_code": "1200-193",
+      "neighborhood": "Chiado",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.709,
+      "longitude": -9.1437
+    },
+    "directions": {
+      "general": "Located on Rua das Flores in the historic Chiado shopping district, near Praça Luís de Camões",
+      "fromCruisePort": "2km from cruise terminals - 10 minute taxi ride or 20 minute walk through Baixa to Chiado. Metro: Baixa-Chiado station.",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines) 5-minute walk. Tram 28 stops nearby. Bus routes 758, 760 serve the area. Gloria funicular nearby.",
+      "parking": "Limited street parking. Public parking at Praça Luís de Camões or Armazéns do Chiado parking garage (5-minute walk)."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "20-25 minutes uphill",
+      "drivingTime": "8-10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 420 319",
+    "email": "bythewine@bythewine.pt",
+    "website": "https://www.bythewine.pt/en/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ByTheWineLisboa",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/bythewine_restaurant"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily except Monday daytime",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday",
+          "hours": "19:00 - 00:00 (midnight)",
+          "notes": "Dinner service only"
+        },
+        {
+          "season": "Year-round",
+          "days": "Tuesday to Sunday",
+          "hours": "13:00 - 00:00 (midnight)",
+          "notes": "Lunch and dinner service"
+        },
+        {
+          "season": "August",
+          "days": "Monday to Sunday",
+          "hours": "18:00 - 00:00 (midnight)",
+          "notes": "Special summer hours"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "No entry fee. Wine by the glass €4-12. Tapas and small plates €6-18. Full meals €15-30 per person. Tasting menus available."
+    },
+    "averageVisitDuration": "1-2 hours for wine and tapas",
+    "bestTimeToVisit": "Late afternoon (17:00-19:00) for aperitivo hour. Lunch (13:00-15:00) for quieter experience. Reserve ahead for dinner on weekends.",
+    "busyPeriods": [
+      "Friday and Saturday evenings",
+      "Dinner service (20:00-22:00)",
+      "Weekend afternoons"
+    ],
+    "adviceForVisitors": "Staff are knowledgeable about wines - ask for recommendations based on your taste preferences. Try wine flights to sample different Portuguese regions. Reservations recommended for dinner, especially weekends. Sharing plates encouraged for variety. Many wines available by the glass. English-speaking staff available. Casual dress code."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2.5 hours total (short journey, leisurely dining)",
+    "accessibility": "Good - central Chiado location, short taxi ride or pleasant walk through downtown, ground floor venue",
+    "combinableWith": [
+      "Chiado shopping",
+      "Carmo Convent ruins",
+      "Rossio Square",
+      "Santa Justa Lift",
+      "Bairro Alto",
+      "Príncipe Real"
+    ],
+    "tips": [
+      "Perfect introduction to Portuguese wines",
+      "Centrally located in shopping/tourist district",
+      "Great stop during Chiado/Bairro Alto exploration",
+      "Ask about wine and food pairings",
+      "Try vinho verde (young Portuguese white wine)",
+      "Excellent Iberian ham and cheese platters",
+      "Sogrape wines showcase all Portuguese regions",
+      "Good value wine by the glass selection",
+      "Comfortable atmosphere - not overly formal",
+      "Can purchase wines to take away",
+      "Staff speak English - happy to educate about Portuguese wines",
+      "Combine with shopping in Chiado district"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Approximately 80 Portuguese wine references",
+      "Complete Sogrape wine portfolio (Portugal's largest producer)",
+      "Iconic brands: Mateus Rosé, Casa Ferreirinha, Sandeman Port, Ferreira Port",
+      "Wines from all major Portuguese regions (Douro, Alentejo, Dão, Lisboa)",
+      "International Sogrape wines from Spain, Chile, Argentina, New Zealand",
+      "Portuguese and Spanish tapas menu",
+      "Iberian bellota ham platters",
+      "Fresh seafood including salmon ceviche",
+      "Homemade Algarvian bread",
+      "Gourmet sandwiches and carpaccio",
+      "Wine flights and tasting options",
+      "Knowledgeable sommelier staff",
+      "Relaxed, cosmopolitan atmosphere"
+    ],
+    "facilities": [
+      "Indoor seating",
+      "Bar counter",
+      "Table service",
+      "Wine retail section",
+      "Restrooms",
+      "Air conditioning"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Ground floor venue, may have one or two steps at entrance. Narrow space between tables. Best to call ahead regarding specific accessibility needs.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish - staff multilingual"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.bythewine.pt/images/rodape_logotipo.png",
+      "alt": "By The Wine wine bar interior with bottles and seating",
+      "caption": "A relaxed space to discover Portugal's finest wines and gourmet tapas in Chiado"
+    },
+    "gallery": [
+      {
+        "url": "https://www.bythewine.pt/images/blank-loop-item.png",
+        "alt": "Wine selection at By The Wine",
+        "caption": "Approximately 80 wine references showcasing Sogrape's complete Portuguese portfolio"
+      },
+      {
+        "url": "https://www.bythewine.pt/images/blank-loop-item.png",
+        "alt": "Tapas and food plates at By The Wine",
+        "caption": "Gourmet tapas and Portuguese specialties perfectly paired with wines"
+      },
+      {
+        "url": "https://www.bythewine.pt/images/blank-loop-item.png",
+        "alt": "Iberian ham platter",
+        "caption": "Premium Iberian bellota ham and artisanal cheese selections"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Chiado shopping district",
+      "distance": "Immediate area",
+      "type": "shopping",
+      "walkingTime": "0 minutes - on same street"
+    },
+    {
+      "name": "Carmo Convent ruins",
+      "distance": "300 meters",
+      "type": "historic-site",
+      "walkingTime": "4 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "500 meters",
+      "type": "plaza",
+      "walkingTime": "6-7 minutes downhill"
+    },
+    {
+      "name": "Santa Justa Lift",
+      "distance": "400 meters",
+      "type": "landmark",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Bairro Alto nightlife",
+      "distance": "400 meters",
+      "type": "neighborhood",
+      "walkingTime": "5-6 minutes"
+    }
+  ],
+  "tags": [
+    "wine-bar",
+    "portuguese-wine",
+    "tapas",
+    "sogrape",
+    "wine-tasting",
+    "chiado",
+    "dining",
+    "port-wine",
+    "gourmet",
+    "romantic",
+    "date-night",
+    "wine-education"
+  ],
+  "suitableFor": [
+    "wine-lovers",
+    "couples",
+    "foodies",
+    "wine-beginners",
+    "groups",
+    "romantics",
+    "culture-seekers",
+    "adults"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.5,
+  "reviewCount": 1847,
+  "reviewSource": "TripAdvisor/Google"
+}

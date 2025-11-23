@@ -1,0 +1,257 @@
+{
+  "id": "maat-museum",
+  "name": "MAAT - Museum of Art, Architecture and Technology",
+  "tagline": "Striking contemporary museum on the Tagus riverfront exploring art, architecture and technology",
+  "type": "museum",
+  "categories": [
+    "museum",
+    "contemporary-art",
+    "architecture",
+    "technology",
+    "cultural-center",
+    "modern-museum"
+  ],
+  "description": {
+    "short": "MAAT is Lisbon's innovative contemporary museum dedicated to art, architecture, and technology, housed in a stunning waterfront building designed by Amanda Levete. Opened in 2016 in Belém, it combines cutting-edge exhibitions with a historic power station and riverside public spaces.",
+    "full": "The Museum of Art, Architecture and Technology (MAAT) opened in October 2016 as an ambitious international cultural institution on Lisbon's Belém waterfront. Created by EDP Foundation as part of their long-standing cultural patronage, MAAT aims to spark critical discourse and creative practice about our historical present and responsible commitment to the future. The museum campus comprises three distinctive spaces: the striking contemporary MAAT Gallery building designed by British architect Amanda Levete's firm AL_A, the historic Central Tejo power station (built 1908-1940s, converted to MAAT Central), and MAAT Garden - a beautifully landscaped 225-meter riverside park by Lebanese architect Vladimir Djurovic connecting everything. The MAAT Gallery building is an architectural masterpiece that has become one of Lisbon's most recognizable modern landmarks. Its low-slung design features a distinctive undulating roof covered in 15,000 three-dimensional white tiles that catch and reflect the Tagus River's light. The building merges with the landscape - visitors can walk on, under, and through it, with the roof accessible as a riverside promenade offering stunning city and river views. Inside, 3,000 square meters of exhibition space flows organically through volumes of radically different scales, including the unusual elliptical Oval Gallery. MAAT Central, the converted Central Tejo power station, preserves Portugal's industrial heritage while housing permanent exhibitions about electricity's history (The Electricity Factory), plus rotating contemporary exhibitions. The historic brick-clad iron structure with its massive turbines and machinery creates a dramatic contrast to the sleek modern gallery. MAAT presents an ambitious program of temporary exhibitions featuring international contemporary artists, architects, and technologists, along with public programs, workshops, performances, and events. The museum's mission goes beyond traditional museum functions - it seeks to question and celebrate how we imagine (with art), inhabit (with architecture), and create (with technology) the world, fostering critical thinking about our relationship with the planetary ecosystem.",
+    "history": "The Central Tejo power station was constructed between 1908 and the 1940s, belonging to Companhias Reunidas de Gás e Eletricidade (CRGE). It supplied electricity to Lisbon from 1909 to 1954, with limited service until the 1970s. Listed as a building of public interest in 1986, it opened as the Museum of Electricity in 1990, underwent restoration, and reopened in 2006. In 2016, EDP Foundation transformed the site into MAAT, adding Amanda Levete's contemporary building to create an integrated art, architecture, and technology museum campus.",
+    "significance": "MAAT represents one of Europe's most innovative contemporary museum projects, combining industrial heritage preservation with cutting-edge contemporary architecture. Amanda Levete's building is internationally recognized for its architectural excellence and sensitive integration with the historic waterfront. The museum plays a vital role in Lisbon's cultural landscape, bringing world-class contemporary art, architecture, and technology exhibitions to Portugal while contributing to the revitalization of the Belém waterfront area."
+  },
+  "location": {
+    "address": {
+      "street": "Av. Brasília, Belém",
+      "postal_code": "1300-598",
+      "neighborhood": "Belém",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.6957,
+      "longitude": -9.2042
+    },
+    "directions": {
+      "general": "Located on the Tagus River waterfront in Belém district, between Jerónimos Monastery and 25 de Abril Bridge",
+      "fromCruisePort": "7km west - take Tram 15E from Praça do Comércio (35 minutes) or taxi/Uber (15 minutes). Scenic riverside location.",
+      "publicTransport": "Tram 15E from Praça do Comércio to Altinho stop (5-minute walk from museum). Trains from Cais do Sodré to Belém station (10-minute walk). Buses 728, 714, 727, 729, 751. Free shuttle from Cais do Sodré weekends.",
+      "parking": "Free public parking 500m from museum. Bicycle parking available at entrance."
+    },
+    "distanceFromCruisePort": {
+      "meters": 7000,
+      "walkingTime": "Not recommended - too far",
+      "drivingTime": "15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 210 028 130",
+    "email": "maat@edp.pt",
+    "website": "https://maat.pt/en",
+    "bookingUrl": "https://maat.pt/en/tickets-0",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/maatmuseum",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/maatmuseum/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Wednesday to Monday",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Wednesday to Monday",
+          "hours": "10:00 - 19:00",
+          "notes": "Closed Tuesdays"
+        }
+      ],
+      "closedDates": [
+        "Tuesdays",
+        "January 1",
+        "May 1",
+        "December 25",
+        "December 24 and 31 (closes at 15:00)"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 15.0,
+      "youth": 8.0,
+      "senior": 9.0,
+      "child": 0.0,
+      "lisboaCardFree": false,
+      "notes": "Portuguese residents: Adults €11, Students €8, Seniors 65+/Unemployed €9. Non-residents: Adults €15, Students €8. Children 0-12 free. Free first Sunday of month 10:00-13:00 (Portuguese residents only). MAAT Friends membership available. Students require valid ID."
+    },
+    "averageVisitDuration": "2-3 hours for full museum and grounds",
+    "bestTimeToVisit": "Weekday mornings less crowded. Late afternoon for beautiful light on the building and river views. Sunset from the rooftop walkway is spectacular.",
+    "busyPeriods": [
+      "Weekend afternoons",
+      "First Sunday of month (free admission)",
+      "School holidays"
+    ],
+    "adviceForVisitors": "Don't miss walking on the undulating rooftop for stunning Tagus River and Belém views. Visit both the modern MAAT Gallery and historic Central Tejo power station. Allow time to explore MAAT Garden along the riverfront. The riverside promenade extends to nearby attractions. Photography encouraged. Combine with other Belém attractions (Jerónimos, Belém Tower) for full-day itinerary. MAAT Café & Kitchen offers dining with river views."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day minimum - 4-5 hours including travel and Belém exploration",
+    "accessibility": "Good - Tram 15E provides direct access. Museum fully wheelchair accessible with elevators and ramps. Moderate distance from port requires dedicated time.",
+    "combinableWith": [
+      "Jerónimos Monastery",
+      "Belém Tower",
+      "Monument to the Discoveries",
+      "Pastéis de Belém",
+      "National Coach Museum",
+      "Belém Cultural Center"
+    ],
+    "tips": [
+      "Perfect for contemporary art and architecture enthusiasts",
+      "Combine with Belém's UNESCO World Heritage sites",
+      "Take Tram 15E - scenic 35-minute riverside journey",
+      "Walk on the museum roof for incredible photo opportunities",
+      "Free rooftop access even without museum ticket",
+      "MAAT Central (power station) shows Portugal's industrial heritage",
+      "Beautiful riverside garden perfect for relaxing",
+      "MAAT Café offers lunch with stunning river views",
+      "Architecture itself is worth the visit - Amanda Levete design",
+      "Visit Pastéis de Belém bakery (15-minute walk) for famous custard tarts",
+      "Allow 4-5 hours for full Belém district experience",
+      "First Sunday of month free for Portuguese residents (10:00-13:00)",
+      "Excellent museum shop with Portuguese design products"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Stunning contemporary building by Amanda Levete/AL_A",
+      "15,000 white ceramic tiles creating wave-like roof",
+      "Accessible rooftop walkway with panoramic Tagus River views",
+      "3,000 m² exhibition space with unique Oval Gallery",
+      "Historic Central Tejo power station (1908-1940s)",
+      "The Electricity Factory permanent exhibition",
+      "International contemporary art exhibitions",
+      "Architecture and technology exhibitions",
+      "MAAT Garden - 225m riverside landscaped park",
+      "Outdoor sculptures in gardens",
+      "Belém waterfront location",
+      "Industrial heritage preservation"
+    ],
+    "facilities": [
+      "MAAT Gallery (contemporary building)",
+      "MAAT Central (historic power station)",
+      "MAAT Garden (riverside park)",
+      "MAAT Café & Kitchen restaurant",
+      "MAAT Shop (Portuguese design products)",
+      "Event venues and auditorium",
+      "Educational workshop spaces",
+      "Free Wi-Fi throughout",
+      "Lockers",
+      "Restrooms including wheelchair accessible",
+      "Baby changing facilities",
+      "ATM",
+      "Bicycle parking"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully wheelchair accessible. Elevators and ramps throughout both buildings. Wheelchair accessible restrooms. Two wheelchairs available on request at ticket office. Adapted for visitors with reduced mobility.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://maat.pt/sites/default/files/2023-10/037_0.JPG",
+      "alt": "MAAT Museum contemporary building on Tagus River waterfront",
+      "caption": "Amanda Levete's striking contemporary design creates an iconic riverside landmark in Belém"
+    },
+    "gallery": [
+      {
+        "url": "https://maat.pt/sites/default/files/2023-10/1.%20maat_Francisco%20Nogueira.jpg",
+        "alt": "MAAT Museum building with undulating white roof",
+        "caption": "The distinctive wave-like roof covered in 15,000 white tiles reflects light from the Tagus River"
+      },
+      {
+        "url": "https://maat.pt/sites/default/files/2023-10/2.%20Central_FG%2BSG%20%281%29_jpeg_0.jpg",
+        "alt": "Historic Central Tejo power station interior with machinery",
+        "caption": "The preserved 1908 power station creates a dramatic setting for exhibitions and heritage displays"
+      },
+      {
+        "url": "https://maat.pt/sites/default/files/2024-05/015.JPG",
+        "alt": "MAAT campus showing modern gallery, power station and riverside gardens",
+        "caption": "The integrated museum campus combines contemporary architecture, industrial heritage, and landscaped gardens"
+      },
+      {
+        "url": "https://maat.pt/sites/default/files/2023-10/178_0.JPG",
+        "alt": "MAAT Garden riverside park with plantings and pathways",
+        "caption": "The 225-meter riverside garden provides peaceful outdoor space with river views"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jerónimos Monastery",
+      "distance": "800 meters",
+      "type": "monastery",
+      "walkingTime": "10-12 minutes"
+    },
+    {
+      "name": "Belém Tower",
+      "distance": "1.5 km",
+      "type": "tower",
+      "walkingTime": "18-20 minutes along waterfront"
+    },
+    {
+      "name": "Monument to the Discoveries",
+      "distance": "1 km",
+      "type": "monument",
+      "walkingTime": "12-15 minutes"
+    },
+    {
+      "name": "Pastéis de Belém",
+      "distance": "1 km",
+      "type": "bakery",
+      "walkingTime": "12-15 minutes"
+    },
+    {
+      "name": "National Coach Museum",
+      "distance": "1.2 km",
+      "type": "museum",
+      "walkingTime": "15 minutes"
+    }
+  ],
+  "tags": [
+    "contemporary-art",
+    "museum",
+    "architecture",
+    "technology",
+    "modern",
+    "belem",
+    "riverside",
+    "amanda-levete",
+    "power-station",
+    "industrial-heritage",
+    "cultural-center",
+    "design",
+    "exhibitions"
+  ],
+  "suitableFor": [
+    "art-lovers",
+    "architecture-enthusiasts",
+    "photographers",
+    "families",
+    "technology-interested",
+    "culture-seekers",
+    "design-lovers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.5,
+  "reviewCount": 4523,
+  "reviewSource": "TripAdvisor/Google"
+}

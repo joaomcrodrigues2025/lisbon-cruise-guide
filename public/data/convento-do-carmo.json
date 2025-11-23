@@ -1,0 +1,265 @@
+{
+  "id": "convento-do-carmo",
+  "name": "Convento do Carmo and Archaeological Museum",
+  "tagline": "Hauntingly beautiful roofless Gothic church ruins preserved as 1755 earthquake memorial",
+  "type": "ruins",
+  "categories": [
+    "archaeological-museum",
+    "historic-site",
+    "church-ruins",
+    "cultural-attraction",
+    "monument"
+  ],
+  "description": {
+    "short": "The Convento do Carmo is the most evocative reminder of the devastating 1755 Lisbon earthquake. The roofless Gothic church ruins, deliberately left unrestored, now house the Carmo Archaeological Museum with artifacts spanning from prehistory to the 19th century.",
+    "full": "Perched atop one of Lisbon's seven hills in the Chiado district, the Convento do Carmo stands as a powerful memorial to the catastrophic earthquake of November 1, 1755. Founded in 1389 by Constable D. Nuno Álvares Pereira, this was once one of Lisbon's largest and most magnificent churches, home to the Order of Carmelites. The earthquake struck during All Saints Day mass, bringing down the roof and vaults, killing countless worshippers inside. The subsequent tsunami and fires devastated what remained. Rather than rebuild, Lisbon's leaders chose to preserve the ruins as a poignant reminder of the disaster—creating one of Europe's most atmospheric historic sites. Today, visitors walk beneath soaring Gothic arches open to the sky, experiencing the church much as it appeared in the days following the catastrophe. The nave, with its pointed arches reaching heavenward without a roof to cap them, creates an almost surreal architectural experience where interior meets exterior. In 1864, the Association of Portuguese Archaeologists established the Carmo Archaeological Museum within the ruins, making it Portugal's first archaeological museum. The collection includes Roman remains, Visigothic pillars, medieval tombs, pre-Columbian artifacts, Egyptian mummies, and azulejo panels. The museum's eclectic collection reflects 19th-century archaeological curiosity, displaying everything from Portuguese historical artifacts to exotic pieces from distant lands. The site also holds historical significance from the 1974 Carnation Revolution, when it served as the last refuge of dictator Marcelo Caetano before he surrendered, marking the end of the Estado Novo regime.",
+    "history": "Founded in 1389 by Nuno Álvares Pereira as a Carmelite convent. The earthquake of November 1, 1755 destroyed the roof and killed many inside. The decision was made to preserve the ruins rather than rebuild. In 1836, the military used habitable parts as headquarters. The Carmo Archaeological Museum was established in 1864, Portugal's first. During the 1974 Carnation Revolution, dictator Marcelo Caetano took his final refuge here before surrendering.",
+    "significance": "The ruins serve as Lisbon's most powerful memorial to the 1755 earthquake, one of history's deadliest natural disasters. The preservation represents an early example of heritage conservation. The archaeological museum houses Portugal's first archaeological collection and played a role in the peaceful 1974 revolution."
+  },
+  "location": {
+    "address": {
+      "street": "Largo do Carmo",
+      "postal_code": "1200-092",
+      "neighborhood": "Chiado",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7119,
+      "longitude": -9.1402
+    },
+    "directions": {
+      "general": "Located in Largo do Carmo square in Chiado, accessible via Elevador de Santa Justa or uphill from Rossio",
+      "fromCruisePort": "1.8km from cruise terminals - 25-minute uphill walk, or metro to Baixa-Chiado then Elevador de Santa Justa, or taxi 10 minutes",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines), exit toward Santa Justa Lift, walk or take elevator up. Bus: 758. Tram: 28 passes nearby.",
+      "parking": "Extremely limited. Nearest parking at Restauradores or Portas do Sol. Not recommended to drive."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1800,
+      "walkingTime": "25 minutes steep uphill",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 460 473",
+    "email": "secretaria@arqueologos.pt",
+    "website": "https://www.museuarqueologicodocarmo.pt/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/MAC-Museu-Arqueológico-do-Carmo",
+      "twitter": "https://twitter.com/museuarqcarmo",
+      "instagram": "https://www.instagram.com/museuarqueologicodocarmo/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Monday to Saturday",
+      "seasonal": [
+        {
+          "season": "Summer (May - October)",
+          "days": "Monday to Saturday",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:40"
+        },
+        {
+          "season": "Winter (November - April)",
+          "days": "Monday to Saturday",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:40"
+        },
+        {
+          "season": "Easter Week",
+          "days": "Daily",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:40"
+        },
+        {
+          "season": "December 26 - January 6",
+          "days": "Daily",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:40"
+        }
+      ],
+      "closedDates": [
+        "Sundays",
+        "January 1",
+        "May 1",
+        "December 25"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 7.0,
+      "youth": 5.0,
+      "child": 0.0,
+      "senior": 5.0,
+      "lisboaCardFree": true,
+      "comboTicket": null,
+      "notes": "Students with ID 5 EUR, Children 0-14 free with adult, Seniors 65+ with ID 5 EUR, Groups 30+ people 5 EUR per person, Portuguese residents with ID 5 EUR, Lisboa Card free entry, Reduced mobility free including 1 companion with 60%+ disability certificate"
+    },
+    "averageVisitDuration": "30-60 minutes",
+    "bestTimeToVisit": "Early morning (10:00-11:00) or late afternoon for best light in the roofless nave. Weekday mornings least crowded. Sunset creates dramatic lighting through Gothic arches.",
+    "busyPeriods": [
+      "Mid-day 11:30-14:30",
+      "Cruise ship days",
+      "Summer months June-August",
+      "Weekends particularly Saturdays"
+    ],
+    "adviceForVisitors": "Photography allowed without flash or tripod. Weather affects experience - rain falls into roofless nave but covered galleries provide shelter. Dress for weather as half the visit is effectively outdoors. Large suitcases must be left at reception (space limited). Combine with Elevador de Santa Justa for efficient routing. Allow time to absorb the atmosphere - the ruins are contemplative and moving."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2 hours including travel and visit",
+    "accessibility": "Challenging - steep uphill from port. Elevador de Santa Justa helps but still involves stairs. Interior largely accessible once there.",
+    "combinableWith": [
+      "Elevador de Santa Justa",
+      "Igreja de São Roque",
+      "Chiado shopping district",
+      "Bairro Alto",
+      "Miradouro de São Pedro de Alcântara",
+      "Rossio Square"
+    ],
+    "tips": [
+      "Take Elevador de Santa Justa from Baixa to avoid steep uphill walk",
+      "Top viewing platform of Santa Justa connects directly to Carmo via walkway",
+      "Visit early morning to avoid crowds and enjoy atmospheric lighting",
+      "Combine with Chiado shopping and São Roque Church for full morning",
+      "Free with Lisboa Card which also covers metro and Santa Justa elevator",
+      "Rainy days add dramatic atmosphere but bring umbrella",
+      "The ruins are more impactful if you understand 1755 earthquake context",
+      "Small museum but fascinating eclectic collection",
+      "Don't rush - the atmospheric ruins deserve quiet contemplation",
+      "Nearby cafés in Largo do Carmo perfect for post-visit reflection"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Roofless Gothic nave with arches open to sky",
+      "1755 earthquake memorial and ruins",
+      "Archaeological museum inside church ruins",
+      "Roman sarcophagi and ancient artifacts",
+      "Medieval tombs and funerary sculpture",
+      "Pre-Columbian ceramics and mummies",
+      "Visigothic pillars and stonework",
+      "Gothic architectural details",
+      "16th-century azulejo panels",
+      "Historic site of 1974 Revolution finale",
+      "Peaceful Largo do Carmo square",
+      "Views through ruined arches"
+    ],
+    "facilities": [
+      "Small museum shop",
+      "Restrooms",
+      "Information panels in Portuguese and English",
+      "Reception area",
+      "Limited luggage storage (space dependent)",
+      "Free WiFi",
+      "Benches for rest",
+      "Guided tours available (pre-book)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Main nave level accessible once you reach the site. Museum galleries accessible on ground floor. Reaching the site involves uphill journey - Elevador de Santa Justa helps but has steps. Once inside, mostly flat surfaces. Free entry for visitors with 60%+ disability plus one companion.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Igreja_do_Carmo_Lisbon.jpg/1200px-Igreja_do_Carmo_Lisbon.jpg",
+      "alt": "Roofless Gothic arches of Convento do Carmo ruins open to the sky",
+      "caption": "The haunting beauty of Carmo's roofless nave, preserved as a memorial to the 1755 earthquake"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Igreja_do_Carmo_%28Lisbon%29_interior.jpg/1200px-Igreja_do_Carmo_%28Lisbon%29_interior.jpg",
+        "alt": "Interior view of Carmo convent ruins showing Gothic arches without roof",
+        "caption": "The nave's soaring Gothic arches create a unique architectural experience where interior meets sky"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Convento_do_Carmo_Archaeological_Museum.jpg/1200px-Convento_do_Carmo_Archaeological_Museum.jpg",
+        "alt": "Archaeological artifacts displayed in Carmo museum galleries",
+        "caption": "The archaeological museum houses eclectic collections from Roman times to the 19th century"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Largo_do_Carmo_Lisbon.jpg/1200px-Largo_do_Carmo_Lisbon.jpg",
+        "alt": "Largo do Carmo square with café tables and church ruins facade",
+        "caption": "The peaceful Largo do Carmo square fronts the evocative church ruins"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Elevador de Santa Justa",
+      "distance": "100 meters via connecting walkway",
+      "type": "elevator/viewpoint",
+      "walkingTime": "2-3 minutes"
+    },
+    {
+      "name": "Igreja de São Roque",
+      "distance": "400 meters",
+      "type": "church",
+      "walkingTime": "5-6 minutes"
+    },
+    {
+      "name": "Chiado",
+      "distance": "200 meters downhill",
+      "type": "shopping-district",
+      "walkingTime": "3-4 minutes"
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "350 meters",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Rossio Square",
+      "distance": "500 meters downhill",
+      "type": "plaza",
+      "walkingTime": "7-8 minutes"
+    },
+    {
+      "name": "Bairro Alto",
+      "distance": "300 meters",
+      "type": "neighborhood",
+      "walkingTime": "4-5 minutes"
+    }
+  ],
+  "tags": [
+    "ruins",
+    "earthquake-memorial",
+    "gothic-architecture",
+    "archaeological-museum",
+    "historic-site",
+    "chiado",
+    "1755-earthquake",
+    "cultural-heritage",
+    "medieval",
+    "atmospheric"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "photographers",
+    "culture-seekers",
+    "contemplative-visitors",
+    "archaeology-fans"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 8750,
+  "reviewSource": "TripAdvisor/Google"
+}

@@ -1,0 +1,240 @@
+{
+  "id": "azulejo-tile-painting-workshop",
+  "name": "Portuguese Azulejo Tile Painting Workshop",
+  "tagline": "Learn traditional Portuguese tile painting techniques and create your own azulejo souvenir",
+  "type": "workshop",
+  "categories": [
+    "hands-on-experience",
+    "traditional-craft",
+    "cultural-workshop",
+    "art-class",
+    "souvenir-making"
+  ],
+  "description": {
+    "short": "An authentic hands-on workshop where visitors learn traditional Portuguese azulejo (tile) painting techniques from local artisans and create their own hand-painted ceramic tile to take home as a unique, personally-crafted souvenir.",
+    "full": "Portugal is world-renowned for its azulejos—the decorative ceramic tiles that adorn buildings, churches, palaces, and homes throughout the country. These tiles represent centuries of Portuguese artistic tradition, with roots tracing back to Moorish influences and evolving into a distinctly Portuguese art form. This immersive workshop offers visitors the rare opportunity to learn authentic azulejo painting techniques from experienced Portuguese ceramic artists and tile painters. Participants discover the history and cultural significance of azulejos while mastering traditional painting methods using specialized brushes and cobalt blue pigments on white ceramic tiles. The workshop begins with an introduction to azulejo history, from 15th-century Moorish geometric patterns to elaborate 18th-century baroque narrative panels. Artists demonstrate classic Portuguese tile painting techniques, including the distinctive brush strokes, shading methods, and traditional motifs such as pomegranates, acanthus leaves, rope borders, and geometric patterns. Participants then design and paint their own tiles, choosing from traditional Portuguese patterns or creating original designs. Expert instructors provide personalized guidance, ensuring everyone—from complete beginners to experienced artists—achieves beautiful results. The intimate workshop setting, often in historic buildings or traditional ceramic studios, enhances the authentic cultural experience. After painting, tiles are professionally fired in ceramic kilns and can be collected later or shipped internationally. This experience offers more than just creating a souvenir—it provides deep cultural insight into an art form that has shaped Portuguese visual identity for over 500 years.",
+    "history": "Azulejo tradition in Portugal dates to the 15th century when Moorish influences introduced decorative tiles. The name derives from Arabic 'al-zulayj' meaning 'polished stone.' Portuguese azulejo art flourished in the 16th-18th centuries, evolving from geometric Islamic patterns to elaborate figurative scenes. Tiles became integral to Portuguese architecture and cultural expression, adorning everything from humble homes to grand palaces.",
+    "significance": "Azulejos represent Portuguese cultural heritage and artistic identity. Learning this traditional craft connects visitors to centuries of Portuguese artistry and craftsmanship. The workshops preserve traditional techniques while making this historic art form accessible to new generations and international visitors."
+  },
+  "location": {
+    "address": {
+      "street": "R. Ilha Terceira 42D, Armazém 3",
+      "postal_code": "1000-174",
+      "neighborhood": "Marvila / Creative Studios Area",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7335,
+      "longitude": -9.1401
+    },
+    "directions": {
+      "general": "Located in a creative studio area east of central Lisbon, accessible via metro and bus",
+      "fromCruisePort": "3.5km from cruise terminals - metro from Santa Apolónia to workshop area (15 minutes), or taxi (10-12 minutes)",
+      "publicTransport": "Metro: Santa Apolónia or Oriente stations, then bus or 10-minute walk. Bus routes serve the area. Specific directions provided upon booking.",
+      "parking": "Street parking available in the area"
+    },
+    "distanceFromCruisePort": {
+      "meters": 3500,
+      "walkingTime": "45 minutes (not recommended)",
+      "drivingTime": "10-12 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 912 345 678",
+    "email": "workshops@azulejolisbon.pt",
+    "website": "https://handson.pt/workshop/portuguese-azulejo-tile-painting-workshop/",
+    "bookingUrl": "https://handson.pt/workshop/portuguese-azulejo-tile-painting-workshop/",
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "By appointment - advance booking required",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday, Wednesday, Thursday, Saturday",
+          "hours": "Multiple sessions: 10:00-12:00, 13:00-15:00, 15:00-17:00",
+          "notes": "Specific times confirmed upon booking. Private sessions available on request."
+        }
+      ],
+      "closedDates": [
+        "Sundays",
+        "Portuguese public holidays",
+        "December 24-26",
+        "January 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 50.0,
+      "youth": 50.0,
+      "child": 45.0,
+      "senior": 50.0,
+      "lisboaCardFree": false,
+      "comboTicket": "Group rates available for 4+ people - 45 EUR per person. Private workshops for groups 6-12 people - 55 EUR per person",
+      "notes": "Price includes all materials, instruction, two ceramic tiles, firing service, and refreshments. Tiles ready for collection 5-7 days after workshop or international shipping available (additional fee). Children 7+ welcome with adult supervision. Booking required minimum 24 hours in advance."
+    },
+    "averageVisitDuration": "2-2.5 hours",
+    "bestTimeToVisit": "Morning sessions (10:00-12:00) for fresh energy and concentration. Weekday sessions less crowded than Saturdays. Book early in your trip so tiles can be fired and collected before departure.",
+    "busyPeriods": [
+      "Saturday sessions",
+      "Summer months June-September",
+      "Holiday periods",
+      "Cruise ship port days"
+    ],
+    "adviceForVisitors": "Book minimum 2-3 days before departure to allow tile firing time (5-7 days). Wear comfortable clothes that can get paint spots (aprons provided but paint may splatter). No artistic experience necessary - all skill levels welcome. Children 7+ must be accompanied by participating adult. Bring creativity and patience - tile painting requires concentration and steady hands. Photography encouraged. Refreshments included. Tiles can be collected later or shipped (shipping costs extra)."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours including travel and workshop",
+    "accessibility": "Good - reachable by metro and taxi. Workshop space on ground level, wheelchair accessible.",
+    "combinableWith": [
+      "Azulejo museum visit",
+      "National Tile Museum (Museu Nacional do Azulejo)",
+      "Traditional Lisbon neighborhoods",
+      "Local artisan shops"
+    ],
+    "tips": [
+      "Book early in your Lisbon stay to allow 5-7 days firing time before collection",
+      "Arrange international shipping if departing before tiles ready (additional 15-25 EUR)",
+      "Perfect rainy day activity - completely indoors",
+      "Creates meaningful, personally-made souvenir",
+      "Suitable for all ages (7+) and skill levels",
+      "Learn authentic Portuguese cultural tradition",
+      "Small group sizes ensure personalized instruction",
+      "Combine with visit to National Tile Museum for deeper understanding",
+      "Some workshops located in historic ceramic factory buildings",
+      "English-speaking instructors available",
+      "Great for families, couples, or solo travelers seeking cultural immersion",
+      "Book as early in trip as possible for tile collection before ship departs"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Hands-on traditional Portuguese azulejo painting",
+      "Expert instruction from professional ceramic artists",
+      "Learn 500+ year old Portuguese craft tradition",
+      "Create two personalized ceramic tiles",
+      "Traditional brushes, paints, and techniques",
+      "Historic and cultural context of Portuguese tiles",
+      "Small group sizes (maximum 8-12 participants)",
+      "All materials and tools provided",
+      "Professional kiln firing included",
+      "Take home unique handmade souvenir",
+      "International shipping available",
+      "Choose from traditional patterns or create original designs",
+      "English, Portuguese, and Spanish instruction",
+      "Refreshments included",
+      "Certificate of completion"
+    ],
+    "facilities": [
+      "Professional ceramic studio",
+      "All painting materials and tools",
+      "Ceramic kiln firing services",
+      "Aprons and protective equipment",
+      "Refreshments (water, coffee, tea)",
+      "Restrooms",
+      "WiFi",
+      "Photo opportunities",
+      "Comfortable seating and workstations",
+      "Climate-controlled indoor space"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Ground floor studios generally wheelchair accessible. Wide doorways and workspace. Accessible restrooms. Seating provided. Notify when booking for any specific accessibility needs.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://handson.pt/wp-content/uploads/2025/07/1000014635-1200x1800.jpeg",
+      "alt": "Hands painting traditional blue and white Portuguese azulejo tile",
+      "caption": "Create your own Portuguese azulejo tile using traditional techniques and materials"
+    },
+    "gallery": [
+      {
+        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064168-1200x675.jpg",
+        "alt": "Workshop participants painting azulejo tiles at workstations",
+        "caption": "Small group workshops provide personalized instruction from expert ceramic artists"
+      },
+      {
+        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064167-1200x675.jpg",
+        "alt": "Traditional Portuguese azulejo patterns and painting materials",
+        "caption": "Learn authentic Portuguese tile painting techniques using traditional brushes and cobalt blue pigments"
+      },
+      {
+        "url": "https://handson.pt/wp-content/uploads/2025/07/1000064160-1200x675.jpg",
+        "alt": "Finished hand-painted azulejo tiles drying before firing",
+        "caption": "Your finished tiles are professionally fired and ready to take home or ship internationally"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "National Tile Museum (Museu Nacional do Azulejo)",
+      "distance": "2 km",
+      "type": "museum",
+      "walkingTime": "25 minutes or 10 minutes by bus"
+    },
+    {
+      "name": "Viúva Lamego Tile Factory",
+      "distance": "3.5 km",
+      "type": "tile-factory/shop",
+      "walkingTime": "15 minutes by metro"
+    },
+    {
+      "name": "Marvila Creative District",
+      "distance": "Adjacent area",
+      "type": "artistic-neighborhood",
+      "walkingTime": "Walkable within district"
+    },
+    {
+      "name": "Parque das Nações",
+      "distance": "4 km",
+      "type": "modern-district",
+      "walkingTime": "15 minutes by metro to Oriente"
+    }
+  ],
+  "tags": [
+    "azulejo",
+    "workshop",
+    "hands-on",
+    "traditional-craft",
+    "portuguese-culture",
+    "tile-painting",
+    "artisan-experience",
+    "souvenir-making",
+    "cultural-immersion",
+    "art-class"
+  ],
+  "suitableFor": [
+    "culture-seekers",
+    "art-lovers",
+    "families-with-older-children",
+    "couples",
+    "solo-travelers",
+    "creative-people",
+    "hands-on-learners",
+    "souvenir-hunters"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 5.0,
+  "reviewCount": 187,
+  "reviewSource": "Google Reviews / HandsOn.pt"
+}

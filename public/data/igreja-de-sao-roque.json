@@ -1,0 +1,234 @@
+{
+  "id": "igreja-de-sao-roque",
+  "name": "Igreja de São Roque",
+  "tagline": "Modest baroque façade hiding Portugal's richest church interior with lavish chapels",
+  "type": "church",
+  "categories": [
+    "religious-site",
+    "baroque-architecture",
+    "museum",
+    "historic-site",
+    "cultural-attraction"
+  ],
+  "description": {
+    "short": "Igreja de São Roque is a 16th-century Jesuit church in Lisbon's Bairro Alto district, famous for its ornate baroque interior despite having one of the city's simplest facades. The church houses the Chapel of St. John the Baptist, one of the world's most expensive chapels ever built.",
+    "full": "The Church of São Roque stands as a testament to the deceptive nature of architectural appearances. While its facade is among Lisbon's plainest following the 1755 earthquake, the interior represents Portuguese Baroque artistry at its zenith. Built in 1565 by the Society of Jesus, it was Portugal's first Jesuit church and served as the order's headquarters until their expulsion in 1759. The church's pièce de résistance is the Chapel of St. John the Baptist, commissioned by King João V in 1742 and constructed in Rome using the finest materials available—lapis lazuli, agate, alabaster, porphyry, Carrara marble, and gold. The chapel was blessed by Pope Benedict XIV at Sant'Andrea delle Fratte in Rome before being disassembled, shipped to Lisbon in three ships, and meticulously reconstructed. Eight additional chapels line the nave, each dedicated to different saints and displaying various artistic styles from Mannerist to Baroque. The church's painted wooden ceiling creates the illusion of vaulted stone through trompe-l'oeil techniques. Adjacent to the church, the São Roque Museum houses sacred art, vestments, and treasures from the Jesuit period, including pieces from the chapel's original Roman construction. The church miraculously survived the 1755 earthquake largely intact, preserving its artistic treasures for future generations.",
+    "history": "Founded in 1565 by the Jesuits, Igreja de São Roque was designed by architect Afonso Álvares and Filippo Terzi. The church was built on the site of a plague cemetery and chapel dedicated to São Roque, patron saint of plague victims. Following the expulsion of the Jesuits from Portugal in 1759, the church was donated to Santa Casa da Misericórdia de Lisboa, a charitable institution that maintains it today. The church underwent restoration in the 20th century to preserve its artistic heritage.",
+    "significance": "The chapel of St. John the Baptist is considered one of the most expensive chapels ever constructed and represents the pinnacle of 18th-century decorative arts. The church demonstrates Portugal's wealth and power during the Age of Discovery and houses one of Europe's finest collections of sacred art. It remains an active place of worship while serving as an important cultural monument."
+  },
+  "location": {
+    "address": {
+      "street": "Largo Trindade Coelho",
+      "postal_code": "1200-470",
+      "neighborhood": "Bairro Alto",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7137,
+      "longitude": -9.1444
+    },
+    "directions": {
+      "general": "Located in Bairro Alto district, on Largo Trindade Coelho, next to São Roque Museum",
+      "fromCruisePort": "2km from cruise terminal - 30 minutes uphill walk, or take metro to Baixa-Chiado then Elevador da Glória funicular",
+      "publicTransport": "Metro to Baixa-Chiado (Blue/Green lines), then Elevador da Glória funicular. Bus routes 758, 790. Tram 28 stops nearby.",
+      "parking": "Limited street parking. Nearest car park at Praça dos Restauradores"
+    },
+    "distanceFromCruisePort": {
+      "meters": 2000,
+      "walkingTime": "25-30 minutes uphill",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 235 065",
+    "email": "info@scml.pt",
+    "website": "https://www.scml.pt/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday to Sunday",
+          "hours": "09:30 - 18:00 (Church) / 10:00 - 18:00 (Museum)",
+          "lastAdmission": "17:30",
+          "notes": "Church may close during mass times"
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1",
+        "Easter Sunday",
+        "Services during major religious festivals"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "youth": 0.0,
+      "child": 0.0,
+      "senior": 0.0,
+      "lisboaCardFree": true,
+      "comboTicket": "Museum admission: €5 adults, €2.50 students/seniors",
+      "notes": "Church entry free. Museum requires ticket. Photography without flash permitted in church."
+    },
+    "averageVisitDuration": "45-60 minutes for church, add 30 minutes for museum",
+    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon (16:00-18:00) to avoid tour groups. Weekday mornings are quietest.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Sunday mornings during mass",
+      "Cruise ship days in summer"
+    ],
+    "adviceForVisitors": "Take time to explore each chapel individually. The Chapel of St. John the Baptist is on the left side near the altar. Visit the adjacent museum for context on the church's treasures. Dress modestly as it's an active place of worship. Free entry makes this an excellent budget-friendly cultural stop."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5-2 hours including travel and visit",
+    "accessibility": "Moderate - requires uphill walk or funicular ride. Church interior is accessible, but museum has stairs.",
+    "combinableWith": [
+      "Miradouro de São Pedro de Alcântara",
+      "Bairro Alto neighborhood",
+      "Elevador da Glória",
+      "Convento do Carmo",
+      "Chiado district"
+    ],
+    "tips": [
+      "Free church entry makes this perfect for cruise passengers on a budget",
+      "Take Elevador da Glória funicular from Restauradores to save energy",
+      "Combine with Bairro Alto neighborhood exploration",
+      "Don't be deceived by the plain exterior - interior is spectacular",
+      "Flash photography not permitted inside church",
+      "Museum ticket worthwhile for art and history enthusiasts",
+      "Active place of worship - be respectful during services",
+      "Allow 45-60 minutes minimum to appreciate the chapels"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Chapel of St. John the Baptist - one of world's most expensive chapels",
+      "Eight ornate baroque chapels lining the nave",
+      "Painted wooden ceiling with trompe-l'oeil effects",
+      "Sacred art museum with Jesuit treasures",
+      "Lapis lazuli, agate, alabaster, and gold decorations",
+      "16th-century azulejo tile panels",
+      "Relics and religious artifacts from Rome",
+      "Magnificent altar pieces and paintings",
+      "Carrara marble and precious stone inlays"
+    ],
+    "facilities": [
+      "Museum shop",
+      "Restrooms",
+      "Information panels in multiple languages",
+      "Benches for rest and contemplation",
+      "Adjacent São Roque Museum",
+      "Guided tours available (pre-book)",
+      "Audio guides"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Church level is wheelchair accessible via main entrance. Museum has stairs but ground floor accessible. Some narrow passages between pews.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Igreja_de_S%C3%A3o_Roque_HDR_%285074499278%29.jpg/1200px-Igreja_de_S%C3%A3o_Roque_HDR_%285074499278%29.jpg",
+      "alt": "Igreja de São Roque plain exterior facade in Lisbon's Bairro Alto",
+      "caption": "The unassuming exterior of São Roque hides Portugal's richest church interior"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chapel_of_St_John_the_Baptist_in_the_Church_of_S%C3%A3o_Roque%2C_Lisbon.jpg/1200px-Chapel_of_St_John_the_Baptist_in_the_Church_of_S%C3%A3o_Roque%2C_Lisbon.jpg",
+        "alt": "Chapel of St. John the Baptist with lapis lazuli and gold decorations",
+        "caption": "The spectacular Chapel of St. John the Baptist, constructed in Rome and shipped to Lisbon"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/S%C3%A3o_Roque_Church_%28Lisbon%29.jpg/1200px-S%C3%A3o_Roque_Church_%28Lisbon%29.jpg",
+        "alt": "Interior nave of Igreja de São Roque showing baroque chapels",
+        "caption": "The ornate baroque interior contrasts dramatically with the simple facade"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Igreja_de_S%C3%A3o_Roque_-_Tecto.jpg/1200px-Igreja_de_S%C3%A3o_Roque_-_Tecto.jpg",
+        "alt": "Painted wooden ceiling with trompe-l'oeil barrel vault effect",
+        "caption": "The painted ceiling creates the illusion of stone vaulting through artistic techniques"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "150 meters",
+      "type": "viewpoint",
+      "walkingTime": "2-3 minutes"
+    },
+    {
+      "name": "Elevador da Glória",
+      "distance": "200 meters",
+      "type": "funicular",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Bairro Alto",
+      "distance": "Adjacent",
+      "type": "neighborhood",
+      "walkingTime": "0 minutes - in the heart of district"
+    },
+    {
+      "name": "Convento do Carmo",
+      "distance": "500 meters",
+      "type": "ruins/museum",
+      "walkingTime": "7-8 minutes"
+    },
+    {
+      "name": "Chiado",
+      "distance": "400 meters downhill",
+      "type": "shopping district",
+      "walkingTime": "5-6 minutes"
+    }
+  ],
+  "tags": [
+    "church",
+    "baroque",
+    "jesuit",
+    "religious-art",
+    "free-entry",
+    "hidden-gem",
+    "sacred-art",
+    "museum",
+    "bairro-alto",
+    "chapel"
+  ],
+  "suitableFor": [
+    "art-lovers",
+    "history-enthusiasts",
+    "architecture-admirers",
+    "culture-seekers",
+    "photographers",
+    "budget-travelers",
+    "spiritual-seekers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "Free (church) / $ (museum)",
+  "rating": 4.6,
+  "reviewCount": 4892,
+  "reviewSource": "TripAdvisor/Google"
+}

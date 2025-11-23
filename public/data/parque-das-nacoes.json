@@ -1,0 +1,218 @@
+{
+  "id": "parque-das-nacoes",
+  "name": "Parque das Nações",
+  "tagline": "Lisbon's modern waterfront district with family attractions, parks, and stunning contemporary architecture",
+  "type": "neighborhood",
+  "categories": [
+    "district",
+    "waterfront",
+    "family-friendly",
+    "modern-architecture",
+    "parks"
+  ],
+  "description": {
+    "short": "Parque das Nações is Lisbon's ultra-modern waterfront district, born from Expo 98. This family-friendly area features wide pedestrian promenades, contemporary architecture, waterfront gardens, the Oceanarium, science museum, cable car, and excellent dining options.",
+    "full": "Parque das Nações represents Lisbon's vision of the future - a striking waterfront district that rose from abandoned industrial land to become one of Europe's most successful urban renewal projects. Built to host Expo 98 (celebrating the 500th anniversary of Vasco da Gama's voyage to India), this contemporary neighborhood has evolved into a thriving, family-oriented community. The district stretches along the Tejo estuary with wide, traffic-free promenades, innovative water gardens, and bold modern architecture. Unlike historic Lisbon with its narrow cobblestone streets and hills, Parque das Nações offers flat, spacious walkways perfect for strollers and wheelchairs. The area is anchored by major attractions including the Oceanário de Lisboa (Europe's largest aquarium), Pavilhão do Conhecimento (interactive science museum), and the Telecabine cable car offering panoramic views. Families appreciate the free water features like Jardins da Água with fountains and waterfalls, exploding water volcano towers, and the Jardim da Música with interactive play areas. The district showcases Vasco da Gama-themed architecture including the Torre Vasco da Gama (Lisbon's tallest building), apartment towers designed like sailing ships, and the Vasco da Gama Bridge. The Centro Vasco da Gama shopping center provides dining, cinema, and retail. The area features over 120 restaurants ranging from traditional Portuguese to international cuisine, plus trendy bars and the Casino de Lisboa. The waterfront marina offers a peaceful setting for evening strolls. With its combination of attractions, green spaces, dining, and modern infrastructure, Parque das Nações provides a complete family day out and showcases Lisbon's contemporary identity.",
+    "history": "Parque das Nações was created for Expo 98, the World's Fair celebrating the 'Oceans: A Heritage for the Future' theme. The site was previously Lisbon's industrial zone and petroleum storage area - a desolate wasteland along the Tejo River. The Portuguese government invested heavily in transforming this 5-kilometer stretch into a modern exhibition space. After Expo 98 ended successfully with millions of visitors, planners wisely converted the area into a permanent residential and commercial district rather than letting it decay. The thoughtful post-Expo development created a sustainable neighborhood combining residential towers, office spaces, cultural venues, parks, and infrastructure. Today it stands as a model of successful urban regeneration.",
+    "significance": "Parque das Nações represents Lisbon's modern face and successful urban renewal. The district demonstrates how industrial wasteland can be transformed into vibrant, sustainable communities. It serves as a major residential area for 25,000 people, an important business center, and Lisbon's premier family entertainment zone. The area symbolizes Portugal's forward-looking identity while honoring its maritime heritage. It's become a case study in post-event urban planning worldwide."
+  },
+  "location": {
+    "address": {
+      "street": "Various locations throughout district",
+      "postal_code": "1990",
+      "neighborhood": "Parque das Nações",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7681,
+      "longitude": -9.0947
+    },
+    "directions": {
+      "general": "Located along Lisbon's eastern waterfront on the Tejo River, extending from Oriente station to the Vasco da Gama Bridge",
+      "fromCruisePort": "30 minutes by metro - take Red Line directly to Oriente station which is the gateway to Parque das Nações",
+      "publicTransport": "Metro: Red Line to Oriente station (main hub). Buses: 705, 708, 725, 728, 744, 750, 759, 782, 794. Train: Oriente station connects to regional and national services.",
+      "parking": "Multiple paid parking facilities including Centro Vasco da Gama, Oceanário, and street parking"
+    },
+    "distanceFromCruisePort": {
+      "meters": 8500,
+      "walkingTime": "Not recommended - 1h 45min",
+      "drivingTime": "15-20 minutes"
+    }
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": "https://www.visitlisboa.com/en/places/parque-das-nacoes",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Public area open 24/7",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours (public spaces)",
+          "notes": "Individual attractions have their own hours"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to explore public areas. Individual attractions charge admission (Oceanarium €26, Science Museum €14, Cable Car €9.50 return)"
+    },
+    "averageVisitDuration": "Half day to full day depending on attractions visited",
+    "bestTimeToVisit": "Weekday mornings for quieter experience at attractions. Evenings for waterfront dining and sunset views. Spring and autumn offer pleasant weather.",
+    "busyPeriods": [
+      "Weekends",
+      "Summer months",
+      "School holidays",
+      "Event days at venues"
+    ],
+    "adviceForVisitors": "Completely flat and stroller-friendly unlike most of Lisbon. Start at Oriente station and walk along the waterfront. Free attractions include gardens, water features, and public art. Combine Oceanarium and Science Museum for full family day. Centro Vasco da Gama has food court with good value options. Cable car provides great overview. Wear comfortable shoes despite flat terrain. Bring sunscreen in summer - limited shade along waterfront. Best area in Lisbon for families with young children."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half to full day - easy 30-minute metro access makes it very cruise-passenger friendly",
+    "accessibility": "Excellent - completely flat, wide promenades, wheelchair and stroller accessible throughout. Easy metro access on Red Line.",
+    "combinableWith": [
+      "Oceanário de Lisboa",
+      "Pavilhão do Conhecimento",
+      "Cable car ride",
+      "Centro Vasco da Gama dining"
+    ],
+    "tips": [
+      "Take Red Line metro to Oriente - very easy and fast",
+      "Perfect for families with kids and strollers - all flat",
+      "Free to walk around - only attractions cost money",
+      "Water gardens and fountains are free and fun for kids",
+      "Excellent dining options for all budgets",
+      "Complete contrast to historic Lisbon - modern architecture",
+      "Can easily spend full day with Oceanarium + Science Museum",
+      "Safe, clean, and very family-oriented atmosphere",
+      "One of best areas in Lisbon for cruise passengers with children"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Oceanário de Lisboa - Europe's largest aquarium",
+      "Pavilhão do Conhecimento - interactive science museum",
+      "Telecabine cable car with waterfront views",
+      "Jardins da Água - water gardens with fountains and waterfalls",
+      "Garcia d'Orta Gardens representing five countries",
+      "Water volcano towers (free entertainment)",
+      "Torre Vasco da Gama - Lisbon's tallest building",
+      "Vasco da Gama Bridge views",
+      "Oriente Station - stunning modern architecture",
+      "Marina and waterfront promenade",
+      "Centro Vasco da Gama shopping center",
+      "Casino de Lisboa",
+      "Over 120 restaurants and bars",
+      "Modern public art installations",
+      "Bike-friendly paths and rental stations"
+    ],
+    "facilities": [
+      "Oriente metro/bus/train station",
+      "Multiple shopping centers",
+      "Restaurants ranging from budget to high-end",
+      "Cafés and ice cream shops",
+      "Public restrooms at major attractions",
+      "ATMs throughout district",
+      "Free WiFi in some areas",
+      "Bike rentals and paths",
+      "Ample parking facilities",
+      "Playgrounds and green spaces"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Completely wheelchair and stroller accessible. Flat terrain throughout. Wide promenades. Elevators at Oriente station and shopping centers. One of most accessible areas in Lisbon.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English widely spoken",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/parque-das-nacoes-calm.jpg",
+      "alt": "Parque das Nações waterfront promenade with modern architecture",
+      "caption": "Wide, traffic-free promenades and contemporary architecture define Lisbon's modern waterfront district"
+    },
+    "gallery": [
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/torre-da-vasco-da-gamma-lisbon.jpg",
+        "alt": "Torre Vasco da Gama - Lisbon's tallest building",
+        "caption": "The 145-meter Torre Vasco da Gama dominates the skyline and houses luxury hotel and restaurants"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/telecabine-de-lisboa-parque-das-nacoes-lisbon.jpg",
+        "alt": "Telecabine cable car over Parque das Nações",
+        "caption": "The cable car glides above the waterfront offering panoramic views of the district"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-north-lisbon/water-volcano-parque-nacoes-lisbon.jpg",
+        "alt": "Exploding water volcano towers at Parque das Nações",
+        "caption": "Free water features like the volcano towers delight children on hot summer days"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Oceanário de Lisboa",
+      "distance": "Within district",
+      "type": "aquarium",
+      "walkingTime": "10 minutes from Oriente"
+    },
+    {
+      "name": "Pavilhão do Conhecimento",
+      "distance": "Within district",
+      "type": "museum",
+      "walkingTime": "8 minutes from Oriente"
+    },
+    {
+      "name": "Centro Vasco da Gama",
+      "distance": "Adjacent to Oriente station",
+      "type": "shopping",
+      "walkingTime": "0 minutes"
+    }
+  ],
+  "tags": [
+    "modern",
+    "waterfront",
+    "family-friendly",
+    "architecture",
+    "parks",
+    "dining",
+    "flat-terrain",
+    "accessible",
+    "Expo-98"
+  ],
+  "suitableFor": [
+    "families-with-kids",
+    "stroller-users",
+    "wheelchair-users",
+    "architecture-enthusiasts",
+    "photographers",
+    "all-ages"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "Free to $$$",
+  "rating": 4.5,
+  "reviewCount": 12500,
+  "reviewSource": "TripAdvisor/Google combined"
+}

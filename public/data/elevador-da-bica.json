@@ -1,0 +1,238 @@
+{
+  "id": "elevador-da-bica",
+  "name": "Elevador da Bica (Bica Funicular)",
+  "tagline": "Lisbon's most photogenic funicular climbing steep slopes with the Tagus as backdrop",
+  "type": "funicular",
+  "categories": [
+    "funicular",
+    "transport",
+    "photography-spot",
+    "historic-transport",
+    "street-art"
+  ],
+  "description": {
+    "short": "The Elevador da Bica is Lisbon's most photographed funicular, climbing the steep Rua da Bica de Duarte Belo with dramatic views of the Tagus River. Dating from 1892, this charming yellow tram connects Cais do Sodre with Bairro Alto through the picturesque Bairro da Bica neighborhood.",
+    "full": "The Elevador da Bica is arguably Lisbon's most iconic and photogenic funicular, immortalized in countless photos and social media posts. Inaugurated on June 28, 1892, this delightful funicular railway connects the Cais do Sodre waterfront area (Rua de Sao Paulo) with the hilltop Bairro Alto district (Rua do Loreto) via a steep 283-meter route with an average gradient of 11 percent. The two charming yellow carriages travel the entire length of Rua da Bica de Duarte Belo through the authentic Bairro da Bica neighborhood, offering glimpses into traditional Lisbon life with colorful houses, hanging laundry, and neighborhood cafes. What makes Bica truly special is its dramatic setting: the steep street leads the eye down toward the sparkling Tagus River, creating one of Lisbon's most photographed vistas. Originally powered by water (with tanks on the carriage roofs), then steam in 1896, the funicular was electrified in 1924 using the same carriages that operate today. The system works with two cars connected by a cable - as one ascends, it assists the other's descent. Classified as a National Monument in 2002, the funicular is operated by Carris as route 53E. The neighborhood surrounding it has become a vibrant part of Lisbon's nightlife and creative scene, with street art adorning many walls, though this sometimes includes graffiti on the funicular itself.",
+    "history": "The Elevador da Bica was the third funicular installed in Lisbon. It opened June 28, 1892, using an innovative water-powered system where reservoirs on carriage roofs were filled/emptied to control movement. Converted to steam power in 1896, then electrified in 1924 with the current carriages. The funicular was designed by Portuguese engineer Raoul Mesnier du Ponsard, who studied under Gustave Eiffel. It has been operating continuously for over 130 years, making it an essential part of Lisbon's transport history.",
+    "significance": "A National Monument since 2002 and Lisbon's most photographed funicular. The dramatic street view with the Tagus River backdrop has become an iconic image of Lisbon, representing the city's steep topography, historic charm, and successful preservation of heritage transport."
+  },
+  "location": {
+    "address": {
+      "street": "Rua da Bica de Duarte Belo",
+      "postal_code": "1200-113",
+      "neighborhood": "Bairro da Bica (between Cais do Sodre and Bairro Alto)",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.70871,
+      "longitude": -9.14526
+    },
+    "directions": {
+      "general": "Lower entrance on Rua de Sao Paulo near Cais do Sodre waterfront. Upper entrance on Rua do Loreto at edge of Bairro Alto district.",
+      "fromCruisePort": "15-20 minute walk west along waterfront to Cais do Sodre area, or take metro to Cais do Sodre station (5 min walk to lower entrance)",
+      "publicTransport": "Metro: Cais do Sodre (Green line) - 5 min walk. Train: Cais do Sodre station. Tram 28, Tram 25E nearby.",
+      "parking": "Limited street parking. Public parking at Cais do Sodre area recommended."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1800,
+      "walkingTime": "20-22 minutes",
+      "drivingTime": "8 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 500 115",
+    "email": "carris@carris.pt",
+    "website": "https://www.carris.pt",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/carris.pt",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/carris.pt"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Operating daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Monday to Saturday",
+          "hours": "07:00 - 21:00",
+          "notes": "Every 12 minutes during peak times"
+        },
+        {
+          "season": "Year-round",
+          "days": "Sundays and holidays",
+          "hours": "09:00 - 21:00",
+          "notes": "Slightly reduced frequency"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 4.2,
+      "youth": 4.2,
+      "child": 0.0,
+      "senior": 4.2,
+      "lisboaCardFree": true,
+      "comboTicket": "24-hour public transport pass: €7.00 - includes all funiculars, trams, buses and metro",
+      "notes": "€4.20 cash return on board. Free with Lisboa Card. Much cheaper with 24-hour pass (€1.70 with Zapping card). Children under 4 free."
+    },
+    "averageVisitDuration": "5 minutes ride time (one way), 15-20 minutes with photography stops",
+    "bestTimeToVisit": "Early morning (7-9am) for best lighting and fewer crowds. Late afternoon for golden hour photography. Weekday mornings quietest.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (10:00-14:00)",
+      "Summer months",
+      "When Tram 28 is full - tourists seek alternatives",
+      "Weekend afternoons"
+    ],
+    "adviceForVisitors": "Perfect for photography - position yourself at bottom for classic shot looking uphill with river behind. The ride itself is brief but scenic. Bairro da Bica neighborhood is charming to explore on foot. Consider walking down to enjoy the street better - ride up to save energy. Often covered in street art (sometimes graffiti). Best to take photos from street rather than riding if you just want the Instagram shot."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "1.5 hours including walk to Cais do Sodre and neighborhood exploration",
+    "accessibility": "Moderate - 20-minute walk from port, or short metro ride. Funicular itself has steps to board. Not wheelchair accessible.",
+    "combinableWith": [
+      "Cais do Sodre nightlife district",
+      "Pink Street",
+      "Time Out Market",
+      "Bairro Alto bars",
+      "Miradouro de Santa Catarina viewpoint",
+      "Chiado shopping"
+    ],
+    "tips": [
+      "20-minute walk from cruise port through waterfront",
+      "Alternatively take metro to Cais do Sodre (3 stops)",
+      "Perfect Instagram photo from bottom looking uphill",
+      "Walk through charming Bairro da Bica neighborhood",
+      "Less crowded than Tram 28 - good alternative",
+      "Buy 24-hour transport pass for better value (€7 vs €4.20)",
+      "At top, walk to Miradouro de Santa Catarina for river views",
+      "Combine with Cais do Sodre area - Time Out Market nearby",
+      "Evening visit good for Bairro Alto nightlife access",
+      "Lisboa Card includes unlimited rides"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Lisbon's most photogenic funicular with river backdrop",
+      "Operates since 1892 - over 130 years of history",
+      "283-meter steep route (11% gradient)",
+      "Classic yellow carriages from 1924",
+      "Passes through authentic Bairro da Bica neighborhood",
+      "Dramatic view down to Tagus River",
+      "Two-car cable system - unique engineering",
+      "National Monument status since 2002",
+      "Street art and colorful facades along route",
+      "Part of Lisbon's public transport network"
+    ],
+    "facilities": [
+      "Two vintage funicular cars",
+      "Ticket purchase on board",
+      "Polished wood interiors",
+      "Standing and seating capacity",
+      "Traditional brass controls"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "mobilityNotes": "Not accessible for wheelchairs. Steps to board both ends. Steep gradient. Alternative: walk the gradual streets around Bairro da Bica or use accessible buses.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English signage"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUyLCJwdXIiOiJibG9iX2lkIn19--187fbb2b4992b26722b862e6b583d0f1978e607e/elevador-da-bica-1.jpg",
+      "alt": "Bica Funicular climbing steep street with Tagus River in background",
+      "caption": "Lisbon's most iconic funicular view - the dramatic climb toward Bairro Alto"
+    },
+    "gallery": [
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/elevador-da-bica-lisbon-2.jpg",
+        "alt": "Yellow Bica funicular car on steep Rua da Bica",
+        "caption": "The charming yellow carriage navigating the steep Bairro da Bica street"
+      },
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUzLCJwdXIiOiJibG9iX2lkIn19--828ae81457538156127f7d2a8d969f7a36e5cec9/elevador-da-bica-2.jpg",
+        "alt": "Bica funicular with colorful neighborhood houses",
+        "caption": "Traditional Lisbon architecture frames the historic funicular"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/elevador-da-bica-interior.jpg",
+        "alt": "Traditional wood interior of Bica funicular",
+        "caption": "Original 1924 polished wood interior with brass controls"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/650-cais-do-sodre/ascensor-bica-lisboa.jpg",
+        "alt": "View down Rua da Bica toward the Tagus River",
+        "caption": "The dramatic descent offering views toward the waterfront"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Miradouro de Santa Catarina",
+      "distance": "300 meters from top",
+      "type": "viewpoint",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Cais do Sodre (nightlife district)",
+      "distance": "200 meters from bottom",
+      "type": "neighborhood",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Pink Street (Rua Nova do Carvalho)",
+      "distance": "300 meters",
+      "type": "nightlife-street",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Time Out Market",
+      "distance": "400 meters",
+      "type": "food-market",
+      "walkingTime": "6 minutes"
+    },
+    {
+      "name": "Bairro Alto",
+      "distance": "At top of funicular",
+      "type": "neighborhood",
+      "walkingTime": "0 minutes from upper entrance"
+    }
+  ],
+  "tags": [
+    "funicular",
+    "historic-transport",
+    "photography",
+    "instagram-spot",
+    "yellow-tram",
+    "bairro-da-bica",
+    "steep-street",
+    "iconic",
+    "public-transport",
+    "national-monument"
+  ],
+  "suitableFor": [
+    "photographers",
+    "instagram-lovers",
+    "transport-enthusiasts",
+    "couples",
+    "solo-travelers",
+    "anyone-visiting-lisbon"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$",
+  "rating": 4.0,
+  "reviewCount": 961,
+  "reviewSource": "TripAdvisor"
+}

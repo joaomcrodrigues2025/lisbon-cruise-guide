@@ -1,0 +1,245 @@
+{
+  "id": "cabo-da-roca",
+  "name": "Cabo da Roca",
+  "tagline": "Europe's westernmost point - where land meets the Atlantic in dramatic fashion",
+  "type": "scenic-viewpoint",
+  "categories": [
+    "scenic-viewpoint",
+    "natural-attraction",
+    "landmark",
+    "day-trip",
+    "coastal",
+    "photography"
+  ],
+  "description": {
+    "short": "Cabo da Roca is the westernmost point of continental Europe, a dramatic windswept cape where 140-meter-high cliffs plunge into the crashing Atlantic Ocean. Located 40km west of Lisbon and 18km from Sintra, this spectacular headland offers breathtaking views, wild natural beauty, and the symbolic experience of standing at Europe's western edge. A stone monument marks the geographic significance, and visitors can obtain a certificate proving they've reached this historic landmark.",
+    "full": "Cabo da Roca (Cape Roca) represents one of nature's most dramatic stage sets - a place where the European continent literally ends and the vast Atlantic Ocean begins. Standing atop the windswept promontory 140 meters above the churning sea, with nothing but 5,000 kilometers of ocean between you and North America, creates a powerful sense of standing at the edge of the world. The cape has captivated travelers for centuries; Portuguese poet Luis de Camoes famously described it as 'where the land ends and the sea begins' (Onde a terra se acaba e o mar comeca). A stone monument bearing these words stands at the headland, along with a lighthouse that has guided ships since 1772. The landscape is starkly beautiful - barren cliffs covered in low scrub vegetation, shaped by relentless Atlantic winds and salt spray. On clear days, views extend north along the rugged coastline toward Guincho Beach and south past the Sintra-Cascais Natural Park. The cape sits within the Sintra-Cascais Natural Park, a protected landscape recognized for its geological and ecological importance. While the monument area is developed with a visitor center, gift shop, and viewing platforms, the surrounding cliffs retain their wild, elemental character. The experience of visiting Cabo da Roca goes beyond mere sightseeing - it's about experiencing the raw power of nature and the historical significance of a place that once marked the known world's boundary. For cruise passengers, Cabo da Roca makes an excellent addition to a Sintra or Cascais day trip, offering a completely different perspective on Portugal's Atlantic coastline.",
+    "history": "Cabo da Roca has been known as the western edge of Europe since ancient times. Romans called it Promontorium Magnum (Great Promontory). The lighthouse was established in 1772, making it one of Portugal's oldest. During the Age of Discoveries, Portuguese navigators departing from nearby Lisbon would pass this point as their last sight of European land before heading into unknown Atlantic waters. The cape's coordinates - 9°30' West longitude - mark Europe's westernmost point, though this wasn't officially confirmed until modern survey techniques emerged.",
+    "significance": "Cabo da Roca's significance is both geographic and symbolic. As continental Europe's westernmost point, it represents a literal 'edge of Europe.' For centuries, it symbolized the boundary between the known world and the unknown. Today it's a popular tourist landmark where visitors can obtain an official certificate proving they've stood at Europe's western extremity. The site is protected within Sintra-Cascais Natural Park for its geological formations and coastal ecosystem."
+  },
+  "location": {
+    "address": {
+      "street": "Estrada do Cabo da Roca",
+      "postal_code": "2705-001",
+      "neighborhood": "Colares",
+      "city": "Sintra",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7803,
+      "longitude": -9.4986
+    },
+    "directions": {
+      "general": "Located on the Atlantic coast 40km west of Lisbon, 18km west of Sintra, 14km northwest of Cascais",
+      "fromCruisePort": "Not directly accessible by public transport from port. Best options: (1) Rent car/take taxi (45 min), (2) Join organized tour from Lisbon, (3) Visit as part of Sintra or Cascais day trip. From Sintra: Bus 403 to Cabo da Roca (40 min). From Cascais: Bus 403 (45 min).",
+      "publicTransport": "Scotturb bus 403 from Sintra (€4.25 single, 40 min) or Cascais (€4.25, 45 min). Runs 5-6 times daily. Check schedules carefully - infrequent service. No direct bus from Lisbon. Many visitors combine with Sintra day trip using bus 403.",
+      "parking": "Large free parking lot at visitor center. Can be very full in peak season. Accessible by car via N247 coastal road from either Sintra or Cascais."
+    },
+    "distanceFromCruisePort": {
+      "meters": 44000,
+      "walkingTime": "Not recommended to walk",
+      "drivingTime": "45 minutes via A5 and Sintra"
+    }
+  },
+  "contact": {
+    "phone": "+351 219 280 081",
+    "email": "info@parquesnaturais.pt",
+    "website": "https://www.cascaisloures.pt/equipamento/cabo-da-roca",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round - outdoor natural site",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24/7 - cape accessible anytime. Visitor center/shop typically 9:00-19:00 (summer) or 9:00-18:00 (winter)",
+          "notes": "Best visited during daylight hours for views and safety"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to visit cape and viewpoints. Official certificate of visiting Europe's westernmost point available at visitor center for €11. Parking free."
+    },
+    "averageVisitDuration": "30-60 minutes",
+    "bestTimeToVisit": "Sunset offers spectacular views and dramatic lighting. Late afternoon less crowded than midday. Spring and fall provide clearer weather than summer (often foggy). Early morning very quiet. Avoid visiting during strong winds (common) or fog which obscures views. Weekdays less crowded than weekends.",
+    "busyPeriods": [
+      "Midday to early afternoon (11:00-15:00)",
+      "Summer months (June-August)",
+      "Weekends",
+      "Tour bus arrivals (usually late morning)"
+    ],
+    "adviceForVisitors": "Extremely windy - bring jacket even in summer. Stay well back from cliff edges - no barriers in many areas. Paths can be slippery. Appropriate footwear essential. Combine visit with Sintra or Cascais for efficient day trip. Bus 403 infrequent - check return times carefully. Popular photo spot at monument - be patient for clear shot. Certificate purchase is optional tourist gimmick but unique souvenir. Limited facilities - just visitor center, café, restrooms. No shade - bring sun protection. Weather changes quickly - dress in layers."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "3-4 hours if combined with Sintra or Cascais (plus their visit time)",
+    "accessibility": "Challenging - requires organized tour, car rental, or combining with Sintra/Cascais trip using infrequent bus 403. Not easily accessible independently from cruise port. Once there, main viewing areas accessible but uneven ground and strong winds make it challenging for limited mobility.",
+    "combinableWith": [
+      "Sintra (18km east)",
+      "Cascais (14km south)",
+      "Guincho Beach (7km south)",
+      "Colares village",
+      "Azenhas do Mar (6km north)"
+    ],
+    "tips": [
+      "Best combined with Sintra or Cascais day trip",
+      "From Sintra: take bus 403 to Cabo da Roca (40 min)",
+      "From Cascais: bus 403 or taxi/Uber (30 min)",
+      "Organized tours from Lisbon often include Cabo da Roca with Sintra/Cascais",
+      "Bus 403 runs only 5-6 times daily - check schedule carefully",
+      "Allow 30-60 minutes at the cape",
+      "Extremely windy - bring warm layers",
+      "Stay back from cliff edges - dangerous drops",
+      "Sunset visits spectacular but bus service ends early",
+      "Certificate of visiting available for €11 - unique souvenir",
+      "Take N247 scenic coastal road if driving",
+      "Limited food options - just small café at visitor center",
+      "Photo at monument marker requires patience - popular spot",
+      "Combine with visit to nearby Guincho Beach",
+      "Check weather forecast - fog common, especially summer mornings"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Westernmost point of continental Europe (9°30'W)",
+      "Spectacular 140-meter-high cliffs above Atlantic Ocean",
+      "Historic lighthouse dating to 1772",
+      "Stone monument with Luis de Camoes poem inscription",
+      "Official certificate of visiting Europe's westernmost point",
+      "Breathtaking panoramic ocean and coastal views",
+      "Raw, windswept natural beauty",
+      "Part of Sintra-Cascais Natural Park",
+      "Dramatic sunset viewing location",
+      "Wild Atlantic coastline scenery",
+      "Low scrubland and maritime vegetation",
+      "Photography opportunities",
+      "Symbolic 'edge of Europe' experience",
+      "Historic maritime significance",
+      "Unique geological formations"
+    ],
+    "facilities": [
+      "Visitor center with information",
+      "Gift shop selling certificates and souvenirs",
+      "Small café",
+      "Public restrooms",
+      "Free parking lot",
+      "Viewing platforms and paths",
+      "Information panels",
+      "Lighthouse (not open to public)",
+      "Postal service (send postcards from Europe's edge)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Limited",
+      "mobilityNotes": "Main monument and viewing areas accessible via paved paths from parking lot. However, strong winds, uneven surfaces, and lack of barriers at cliff edges make it challenging for visitors with mobility issues. Visitor center accessible. Best views require walking on uneven coastal paths. Not recommended for wheelchair users due to wind exposure and terrain.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_landing/public/mediateca/cabo-da-roca-cliffs-lighthouse-monument.jpg",
+      "alt": "Dramatic view of Cabo da Roca lighthouse and monument on windswept clifftop above Atlantic Ocean",
+      "caption": "Cabo da Roca - Europe's westernmost point where 140-meter cliffs meet the vast Atlantic"
+    },
+    "gallery": [
+      {
+        "url": "https://www.visitportugal.com/sites/default/files/cabo-da-roca-stone-monument-poem-inscription.jpg",
+        "alt": "Stone cross monument at Cabo da Roca with Luis de Camoes poem inscription and GPS coordinates",
+        "caption": "The iconic monument marks Europe's western edge with Camoes' famous words: 'Where the land ends and the sea begins'"
+      },
+      {
+        "url": "https://www.visitsintra.travel/wp-content/uploads/cabo-da-roca-sunset-golden-hour-cliffs.jpg",
+        "alt": "Spectacular sunset view from Cabo da Roca with golden light on cliffs and ocean",
+        "caption": "Sunset at Cabo da Roca offers some of Portugal's most dramatic coastal views"
+      },
+      {
+        "url": "https://www.visitportugal.com/sites/default/files/cabo-da-roca-aerial-view-coastline-cliffs.jpg",
+        "alt": "Aerial view showing rugged coastline and sheer cliffs extending from Cabo da Roca",
+        "caption": "The windswept promontory juts dramatically into the Atlantic, marking the continent's western limit"
+      },
+      {
+        "url": "https://www.visitportugal.com/sites/default/files/cabo-da-roca-lighthouse-red-white-stripes.jpg",
+        "alt": "Historic red and white striped lighthouse standing guard at Europe's western edge",
+        "caption": "The lighthouse has guided ships past this treacherous cape since 1772"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Sintra",
+      "distance": "18 km east",
+      "type": "historic-town",
+      "walkingTime": "Not walkable - 40 min by bus 403 or 25 min drive"
+    },
+    {
+      "name": "Cascais",
+      "distance": "14 km southeast",
+      "type": "beach-town",
+      "walkingTime": "Not walkable - 45 min by bus 403 or 20 min drive"
+    },
+    {
+      "name": "Guincho Beach",
+      "distance": "7 km south",
+      "type": "beach",
+      "walkingTime": "Not walkable - 15 min drive"
+    },
+    {
+      "name": "Azenhas do Mar",
+      "distance": "6 km north",
+      "type": "coastal-village",
+      "walkingTime": "Not walkable - 15 min drive along N247"
+    },
+    {
+      "name": "Praia da Ursa",
+      "distance": "2 km north",
+      "type": "beach",
+      "walkingTime": "30-40 min hike down steep trail (challenging)"
+    }
+  ],
+  "tags": [
+    "scenic-viewpoint",
+    "westernmost-europe",
+    "cliffs",
+    "atlantic",
+    "lighthouse",
+    "natural-beauty",
+    "photography",
+    "landmark",
+    "coastal",
+    "dramatic",
+    "must-see"
+  ],
+  "suitableFor": [
+    "photographers",
+    "nature-lovers",
+    "adventure-seekers",
+    "history-enthusiasts",
+    "scenic-drive-lovers",
+    "couples",
+    "solo-travelers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "Free (optional €11 certificate)",
+  "rating": 4.6,
+  "reviewCount": 22800,
+  "reviewSource": "TripAdvisor/Google"
+}

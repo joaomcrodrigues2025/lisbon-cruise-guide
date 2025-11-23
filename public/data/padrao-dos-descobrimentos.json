@@ -1,0 +1,238 @@
+{
+  "id": "padrao-dos-descobrimentos",
+  "name": "Padrao dos Descobrimentos (Monument to the Discoveries)",
+  "tagline": "Monumental tribute to Portugal's Age of Discovery with stunning river views",
+  "type": "monument",
+  "categories": [
+    "monument",
+    "historic-site",
+    "viewpoint",
+    "cultural-attraction",
+    "waterfront"
+  ],
+  "description": {
+    "short": "Standing 52 meters tall on the Tagus River waterfront, this striking monument celebrates Portugal's Age of Discovery. Designed as a stylized caravel ship with 33 historical figures, it offers panoramic views from its rooftop terrace.",
+    "full": "The Padrao dos Descobrimentos (Monument to the Discoveries) is one of Lisbon's most iconic modern monuments, standing majestically on the northern bank of the Tagus River in Belem. Designed as a stylized caravel ship ready to set sail, the monument reaches 52 meters into the sky and features Henry the Navigator at its prow, followed by 32 significant figures from Portugal's Age of Discovery arranged along two ascending ramps. The monument was first built in 1940 for the Portuguese World Exhibition, then reconstructed permanently in 1960 to mark the 500th anniversary of Henry the Navigator's death. Visitors can ascend to the rooftop viewpoint for breathtaking panoramic views of the Tagus estuary, the 25 de Abril Bridge, and the Belem waterfront. At ground level, a magnificent 50-meter compass rose mosaic, gifted by South Africa, displays a world map marking Portuguese maritime routes. The monument also houses exhibition halls and an auditorium showcasing Portugal's maritime heritage through multimedia presentations and temporary exhibitions.",
+    "history": "The Monument to the Discoveries was originally created in 1940 as a temporary structure for the Portuguese World Exhibition, built from perishable materials including a light iron and cement frame with gypsum sculptures. After the exhibition, it was demolished in 1943. The monument was reconstructed permanently between 1958 and 1960, this time in concrete and rose-tinted Leiria stone with limestone sculptures from Sintra, to commemorate the 500th anniversary of the death of Prince Henry the Navigator. The project was based on Cottinelli Telmo's original design, though he had died and was replaced by Antonio Pardal Monteiro. The sculptures were modeled by Leopoldo de Almeida with assistance from sculptors Soares Branco and Antonio Santos. It was inaugurated on August 9, 1960, and in 1985, a cultural center was opened inside with a viewpoint, auditorium, and exhibition hall.",
+    "significance": "The Monument to the Discoveries represents Portugal's golden age of maritime exploration and discovery, celebrating the courage and vision of Portuguese navigators who opened new sea routes to Africa, Asia, and the Americas during the 15th and 16th centuries. It stands as a symbol of Portugal's historical global influence and maritime heritage. The monument is one of Lisbon's most photographed landmarks and an essential stop for understanding Portuguese history and its role in shaping the modern world."
+  },
+  "location": {
+    "address": {
+      "street": "Av. Brasilia",
+      "postal_code": "1400-038",
+      "neighborhood": "Belem",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.693611,
+      "longitude": -9.205722
+    },
+    "directions": {
+      "general": "Located on the Belem waterfront between Jeronimos Monastery and Belem Tower, directly on the Tagus River",
+      "fromCruisePort": "7km west from cruise port - take tram 15E to Belem (30 minutes) or taxi (15 minutes). Very close to other Belem attractions.",
+      "publicTransport": "Tram 15E from Praca do Comercio to Belem. Buses 727, 28, 729, 714, 751. Train to Belem station then 10-minute walk along waterfront.",
+      "parking": "Public parking available at Praca do Imperio nearby and along Avenida Brasilia"
+    },
+    "distanceFromCruisePort": {
+      "meters": 7000,
+      "walkingTime": "Not recommended to walk (1.5 hours)",
+      "drivingTime": "15 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 031 950",
+    "email": "info@padraodosdescobrimentos.pt",
+    "website": "https://padraodosdescobrimentos.pt/en/",
+    "bookingUrl": "https://padraodosdescobrimentos.bol.pt/Comprar/Bilhetes/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/padraodosdescobrimentos/",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/padraodosdescobrimentos/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round except certain holidays",
+      "seasonal": [
+        {
+          "season": "October - February",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "March - September",
+          "days": "Daily",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:30"
+        }
+      ],
+      "closedDates": [
+        "January 1",
+        "May 1",
+        "December 24",
+        "December 25",
+        "December 31"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 10.0,
+      "youth": 5.0,
+      "child": 0.0,
+      "senior": 8.5,
+      "lisboaCardFree": true,
+      "comboTicket": "Exhibition only ticket: €5 adults",
+      "notes": "Children under 12 free. Youth 13-25 (non-residents). Seniors 65+. Various discounts for students, culture professionals, CML employees. Lisbon residents free on Sundays and holidays until 14:00."
+    },
+    "averageVisitDuration": "45-60 minutes",
+    "bestTimeToVisit": "Early morning or late afternoon for best light and fewer crowds. Sunset offers spectacular views from the viewpoint.",
+    "busyPeriods": [
+      "Mid-morning to early afternoon (11:00-15:00)",
+      "Weekends",
+      "Summer months (June-August)"
+    ],
+    "adviceForVisitors": "Combine visit with nearby Jeronimos Monastery and Belem Tower. Buy tickets online to avoid queues. The rooftop viewpoint offers 360-degree views - bring a camera. The compass rose mosaic at ground level is best photographed from the viewpoint above. Film screenings about monument construction shown on Saturdays, Sundays and holidays at 11:15am and 4:00pm."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2.5-3 hours minimum (includes travel to Belem)",
+    "accessibility": "Moderate - requires tram or taxi to reach. Elevator available to viewpoint level.",
+    "combinableWith": [
+      "Jeronimos Monastery",
+      "Belem Tower",
+      "Pasteis de Belem bakery",
+      "MAAT Museum",
+      "National Coach Museum"
+    ],
+    "tips": [
+      "Perfect for a Belem district half-day tour",
+      "Take tram 15E - scenic ride included with Lisboa Card",
+      "Visit Belem Tower and Jeronimos Monastery in same trip",
+      "Don't miss the compass rose mosaic at ground level",
+      "Elevator to viewpoint - no stairs required",
+      "Free with Lisboa Card",
+      "Allow 3-4 hours for complete Belem district visit",
+      "Try famous Pasteis de Nata at nearby Pasteis de Belem bakery"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "52-meter tall monument shaped like a caravel ship",
+      "33 historical figures led by Henry the Navigator",
+      "Rooftop viewpoint with panoramic Tagus River views",
+      "50-meter compass rose mosaic with world map",
+      "Exhibition halls about Portuguese discoveries",
+      "Multimedia presentations and films",
+      "Views of Belem Tower and 25 de Abril Bridge",
+      "Rose-tinted Leiria stone and limestone construction"
+    ],
+    "facilities": [
+      "Elevator to viewpoint",
+      "Exhibition halls",
+      "Auditorium with film screenings",
+      "Gift shop",
+      "Information desk",
+      "Restrooms",
+      "Free WiFi"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Elevator provides access to viewpoint level. Ground level and compass rose mosaic fully accessible. Exhibition halls accessible.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://padraodosdescobrimentos.pt/wp-content/uploads/2019/01/PT_AMLSB_LSB_100968.jpg",
+      "alt": "Padrao dos Descobrimentos monument on Tagus River waterfront",
+      "caption": "The Monument to the Discoveries celebrates Portugal's Age of Exploration with 33 historical figures"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lisboa_January_2015-49a.jpg/1200px-Lisboa_January_2015-49a.jpg",
+        "alt": "Monument to the Discoveries western profile with Tagus River",
+        "caption": "The 52-meter monument resembles a caravel ship ready to sail"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rosa-dos-ventos.JPG/1200px-Rosa-dos-ventos.JPG",
+        "alt": "Compass rose and world map mosaic at ground level",
+        "caption": "The 50-meter compass rose shows Portuguese maritime routes, gifted by South Africa"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/56_Meter_hoch_ist_das_Denkmal_der_Entdeckungen_in_Lissabon._03.jpg/1200px-56_Meter_hoch_ist_das_Denkmal_der_Entdeckungen_in_Lissabon._03.jpg",
+        "alt": "Monument to the Discoveries seen from the Tagus River",
+        "caption": "View from the river showing the monument's impressive scale and waterfront location"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jeronimos Monastery",
+      "distance": "450 meters",
+      "type": "monastery",
+      "walkingTime": "6-7 minutes"
+    },
+    {
+      "name": "Belem Tower",
+      "distance": "1.5 km",
+      "type": "tower",
+      "walkingTime": "18-20 minutes along waterfront"
+    },
+    {
+      "name": "Pasteis de Belem",
+      "distance": "800 meters",
+      "type": "bakery",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "MAAT Museum",
+      "distance": "600 meters",
+      "type": "museum",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "National Coach Museum",
+      "distance": "680 meters",
+      "type": "museum",
+      "walkingTime": "9 minutes"
+    }
+  ],
+  "tags": [
+    "monument",
+    "discoveries",
+    "age-of-exploration",
+    "viewpoint",
+    "belem",
+    "waterfront",
+    "henry-navigator",
+    "maritime-history",
+    "iconic",
+    "must-see",
+    "photography"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "photographers",
+    "culture-lovers",
+    "families",
+    "architecture-lovers",
+    "cruise-passengers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.5,
+  "reviewCount": 18500,
+  "reviewSource": "TripAdvisor/Google"
+}

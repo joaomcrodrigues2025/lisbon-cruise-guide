@@ -1,0 +1,249 @@
+{
+  "id": "cascais-coastal-town",
+  "name": "Cascais",
+  "tagline": "Charming Portuguese Riviera beach town just 30 minutes from Lisbon cruise port",
+  "type": "beach",
+  "categories": [
+    "beach-town",
+    "coastal-destination",
+    "day-trip",
+    "surfing",
+    "waterfront",
+    "cultural-experience"
+  ],
+  "description": {
+    "short": "Cascais is a picturesque seaside town 30km west of Lisbon, known as the Portuguese Riviera. Once a humble fishing village, it transformed into an elegant resort when Portuguese royalty made it their summer residence in the 19th century. Today it offers golden beaches, rugged coastal scenery, charming cobbled streets, and excellent seafood.",
+    "full": "Cascais is a captivating coastal gem that perfectly blends royal elegance with authentic Portuguese charm. Located just 30 kilometers west of Lisbon along the stunning Estoril Coast, this former fishing village rose to prominence in the late 19th century when King Luis I chose it as the royal family's official summer residence. The royal connection transformed Cascais into an exclusive resort destination, attracting European aristocracy and wealthy visitors who built magnificent mansions along its shores. Today, Cascais retains its refined atmosphere while offering something for everyone: pristine beaches with crystal-clear Atlantic waters, dramatic clifftop walks, world-class surfing spots, a charming historic center filled with azulejo-decorated buildings, boutique shopping, art galleries, and outstanding seafood restaurants. The town is famous for its multiple beaches, each with its own character - from the sheltered Praia da Rainha (Queen's Beach) to the wild, wind-swept Guincho Beach popular with surfers. The seafront promenade connects picturesque coves and passes iconic sights like the Santa Marta Lighthouse and the dramatic Boca do Inferno (Mouth of Hell) rock formation. Cascais is incredibly accessible from Lisbon via a scenic 40-minute train ride along the coast, making it the perfect day trip or relaxing beach escape for cruise passengers with limited time.",
+    "history": "Cascais has ancient roots dating back to prehistoric times, with evidence of Roman occupation. For centuries it remained a modest fishing village until 1870 when King Luis I and the Portuguese royal family began spending summers here, transforming it into a fashionable resort. During World War II, Portugal's neutrality made Cascais a haven for European royalty and spies, adding to its cosmopolitan mystique. The town modernized significantly in the 20th century while preserving its historic charm and royal heritage.",
+    "significance": "Cascais represents the perfect accessible beach destination for cruise passengers visiting Lisbon. Its combination of easy accessibility, royal history, stunning coastline, authentic Portuguese culture, and variety of beaches makes it an ideal day trip. The town showcases Portugal's maritime heritage while offering modern amenities and experiences for all types of travelers."
+  },
+  "location": {
+    "address": {
+      "street": "N/A - Coastal town",
+      "postal_code": "2750",
+      "neighborhood": "Cascais",
+      "city": "Cascais",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.6979,
+      "longitude": -9.4207
+    },
+    "directions": {
+      "general": "Located on the Atlantic coast, 30km west of Lisbon along the Estoril Coast",
+      "fromCruisePort": "Take train from Cais do Sodre station (10-minute walk from cruise terminal) to Cascais. Trains run every 20 minutes. Journey takes 40 minutes along scenic coastal route.",
+      "publicTransport": "CP commuter train from Cais do Sodre to Cascais terminus (40 min, €2.30 single). Trains every 20 minutes from 5:30am to 1:30am. Lisboa Card includes this journey. Bus 417 also connects Cascais to Sintra.",
+      "parking": "Multiple paid parking lots in town center. Free parking available further from center. Limited street parking."
+    },
+    "distanceFromCruisePort": {
+      "meters": 30000,
+      "walkingTime": "Not recommended to walk",
+      "drivingTime": "30 minutes via A5 highway"
+    }
+  },
+  "contact": {
+    "phone": "+351 214 815 200",
+    "email": "turismo@cm-cascais.pt",
+    "website": "https://www.visitcascais.com/en",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/visitcascais",
+      "twitter": null,
+      "instagram": "@visitcascais"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year-round - outdoor destination",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "24 hours - beaches and town accessible anytime",
+          "notes": "Beach season typically May-September. Restaurants and shops have individual hours."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to visit town and beaches. Individual attractions (museums, lighthouse) charge separate admission. Train fare from Lisbon: €2.30 single, €4.60 return."
+    },
+    "averageVisitDuration": "4-8 hours (half to full day)",
+    "bestTimeToVisit": "May to September for beach weather. September offers warm temperatures with fewer crowds. Spring and fall excellent for sightseeing without summer heat. Weekday visits less crowded than weekends.",
+    "busyPeriods": [
+      "Summer weekends (June-August)",
+      "July and August peak season",
+      "Portuguese public holidays",
+      "Sunny weekends year-round"
+    ],
+    "adviceForVisitors": "Sit on left side of train from Lisbon for best coastal views. Bring sun protection - limited shade on beaches and coastal walks. Try fresh seafood at harborside restaurants. Walk to Boca do Inferno (15 mins) for dramatic coastal scenery. Visit Santini ice cream parlor - oldest in Portugal. Comfortable walking shoes essential for cobblestone streets. Beach clubs provide loungers and umbrellas for rent. Praia do Guincho (6km north) is spectacular for surfing and scenery."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "5-8 hours for full day experience (includes 1.5 hours round-trip train travel)",
+    "accessibility": "Excellent - easy train access from port area. Town center mostly flat and walkable. Beaches have stairs/access points. Some beach clubs have accessibility features. Coastal walk has uneven surfaces.",
+    "combinableWith": [
+      "Estoril (adjacent town)",
+      "Cabo da Roca",
+      "Guincho Beach",
+      "Sintra (30 min by bus)",
+      "Belem district (on train route)"
+    ],
+    "tips": [
+      "Perfect easy day trip - just 40 minutes by scenic coastal train",
+      "Purchase Lisboa Card for free train travel to Cascais",
+      "Arrive early (9-10am) to maximize beach time",
+      "Explore Old Town before or after beach time",
+      "Lunch at harbourside seafood restaurants - try fresh grilled fish",
+      "Visit Santa Marta Lighthouse and Boca do Inferno rock formation",
+      "Praia da Conceicao and Praia da Rainha closest to town center",
+      "For surfing, take bus/taxi to Guincho Beach",
+      "Try Santini gelato - legendary ice cream since 1949",
+      "Sample travesseiros and queijadas pastries",
+      "Train runs late (until 1:30am) allowing dinner in Cascais",
+      "Combine with Sintra visit using bus 417"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Multiple beautiful beaches - Praia da Conceicao, Praia da Rainha, Praia da Ribeira",
+      "Guincho Beach - world-renowned surfing destination 6km north",
+      "Boca do Inferno - dramatic coastal rock formation",
+      "Santa Marta Lighthouse and Museum",
+      "Charming Old Town with cobblestone streets and azulejos",
+      "Casa de Santa Maria - Italianate waterfront mansion",
+      "Marina and fishing harbor",
+      "Parque Marechal Carmona - beautiful gardens and ponds",
+      "Museu Condes de Castro Guimaraes - fairytale castle museum",
+      "Citadel of Cascais - modern art and cultural space",
+      "Excellent seafood restaurants",
+      "Scenic coastal promenade and cliff walks",
+      "Water sports - surfing, paddleboarding, sailing, jet skiing",
+      "Shopping in historic center",
+      "Famous Santini ice cream parlor"
+    ],
+    "facilities": [
+      "Train station in town center",
+      "Tourist information office",
+      "Numerous restaurants and cafes",
+      "Beach facilities - showers, restrooms, rentals",
+      "Public restrooms in Parque Marechal Carmona",
+      "ATMs throughout town",
+      "Supermarkets and shops",
+      "Pharmacy",
+      "Free WiFi in some public areas",
+      "Bike rental shops",
+      "Beach equipment rentals",
+      "Parking facilities"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Town center relatively flat with some wheelchair-accessible routes. Old Town has cobblestones and hills. Some beaches have accessible ramps (Praia da Conceicao). Beach clubs may have accessibility features. Trains from Lisbon are accessible. Santa Marta Lighthouse not wheelchair accessible. Coastal walks have uneven terrain.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English widely spoken",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitcascais.com/sites/default/files/styles/crop_16_9_width_1920/public/2024-11/cascais-bay-beach-aerial-view.jpg",
+      "alt": "Aerial view of Cascais bay with golden sand beaches, turquoise waters, and historic town",
+      "caption": "Cascais offers multiple beautiful beaches within walking distance of the charming historic town center"
+    },
+    "gallery": [
+      {
+        "url": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_landing/public/mediateca/N1.boca-do-inferno-CMS1.jpg",
+        "alt": "Boca do Inferno - dramatic coastal cliff formation with crashing waves",
+        "caption": "Boca do Inferno (Mouth of Hell) - spectacular natural rock formation carved by Atlantic waves"
+      },
+      {
+        "url": "https://www.visitcascais.com/sites/default/files/styles/crop_16_9_width_1920/public/2024-11/guincho-beach-surfing-sunset.jpg",
+        "alt": "Guincho Beach with surfers at sunset, dramatic cliffs in background",
+        "caption": "Guincho Beach, just 6km north of Cascais, is a world-renowned surfing destination"
+      },
+      {
+        "url": "https://www.visitlisboa.com/sites/default/files/2024-11/cascais-old-town-cobblestone-streets.jpg",
+        "alt": "Charming cobblestone street in Cascais Old Town with colorful azulejo tiles and outdoor cafes",
+        "caption": "The historic Old Town charms visitors with traditional azulejo tiles and authentic Portuguese atmosphere"
+      },
+      {
+        "url": "https://www.visitcascais.com/sites/default/files/2024-11/santa-marta-lighthouse-cascais.jpg",
+        "alt": "Iconic blue and white striped Santa Marta Lighthouse on rocky Atlantic coast",
+        "caption": "The picturesque Santa Marta Lighthouse is one of Cascais' most photographed landmarks"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Estoril",
+      "distance": "3 km east",
+      "type": "coastal-town",
+      "walkingTime": "30 minutes along beach promenade (or one train stop)"
+    },
+    {
+      "name": "Guincho Beach",
+      "distance": "6 km northwest",
+      "type": "beach",
+      "walkingTime": "Not walkable - 10 min drive or bus 405/415"
+    },
+    {
+      "name": "Cabo da Roca",
+      "distance": "16 km northwest",
+      "type": "scenic-viewpoint",
+      "walkingTime": "Not walkable - 20 min drive or bus 403"
+    },
+    {
+      "name": "Sintra",
+      "distance": "16 km north",
+      "type": "historic-town",
+      "walkingTime": "Not walkable - 30 min by bus 417 or car"
+    },
+    {
+      "name": "Boca do Inferno",
+      "distance": "2 km west",
+      "type": "natural-formation",
+      "walkingTime": "20-25 minutes along coastal path"
+    }
+  ],
+  "tags": [
+    "beach",
+    "coastal-town",
+    "day-trip",
+    "surfing",
+    "royal-history",
+    "seafood",
+    "waterfront",
+    "portuguese-riviera",
+    "train-accessible",
+    "family-friendly",
+    "water-sports",
+    "photography"
+  ],
+  "suitableFor": [
+    "beach-lovers",
+    "families",
+    "couples",
+    "surfers",
+    "photographers",
+    "foodies",
+    "cruise-passengers",
+    "day-trippers",
+    "solo-travelers",
+    "history-enthusiasts"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "Free to $$ (beaches free, dining/activities vary)",
+  "rating": 4.7,
+  "reviewCount": 18500,
+  "reviewSource": "TripAdvisor/Google"
+}

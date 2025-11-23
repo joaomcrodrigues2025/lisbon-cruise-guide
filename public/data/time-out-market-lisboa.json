@@ -1,0 +1,216 @@
+{
+  "id": "time-out-market-lisboa",
+  "name": "Time Out Market Lisboa",
+  "tagline": "The world's first editorially-curated food hall featuring Lisbon's best chefs under one roof",
+  "type": "market",
+  "categories": [
+    "food-market",
+    "dining",
+    "family-friendly",
+    "indoor",
+    "gourmet"
+  ],
+  "description": {
+    "short": "Time Out Market Lisboa, located in the historic Mercado da Ribeira at Cais do Sodré, brings together 26 restaurants from Lisbon's top chefs, 8 bars, shops, and live events in one vibrant food hall perfect for families seeking variety.",
+    "full": "Time Out Market Lisboa revolutionized the food hall concept when it opened in 2014 as the world's first editorially-curated market. Located inside the historic Mercado da Ribeira building dating from 1892, this innovative concept brings together the best of Lisbon's culinary scene in one dynamic space. The market features 26 food stalls representing top chefs and restaurants handpicked by Time Out's editors - from Michelin-starred chefs to local favorites serving traditional Portuguese cuisine, fresh seafood, artisanal pizzas, Asian fusion, burgers, desserts, and more. Eight bars offer everything from craft cocktails to Portuguese wines and beers. The concept is simple but brilliant: instead of traveling across Lisbon to try different restaurants, families can sample the city's best cuisine in one location while seated at communal tables in the central hall. This makes it perfect for groups where everyone wants something different - one person orders seafood, another pizza, kids get burgers, and everyone eats together. The market operates from 10am to midnight (until 2am on weekends), serving breakfast through dinner. Beyond food, the market includes a dozen shops selling Portuguese products, books, and gourmet items. The Time Out Studio hosts concerts and events, while the Time Out Academy offers cooking classes. The traditional fruit, vegetable, and fish market continues operating on the perimeter, maintaining the building's authentic market atmosphere. While some locals consider it touristy and prices are higher than local restaurants, the quality is excellent and the convenience unbeatable for families. The lively atmosphere, communal seating, and variety make it especially popular with visitors.",
+    "history": "Mercado da Ribeira has been Lisbon's main wholesale market since 1892. Located in Cais do Sodré near the Tagus River, it served as a vital food distribution center for over a century. By the early 2000s, the market faced decline as wholesale operations moved elsewhere. In 2014, Time Out magazine partnered with the municipal market to transform half the building into an innovative curated food hall while preserving the traditional market stalls. The Time Out Market concept was groundbreaking - rather than typical food court vendors, editors selected established restaurants and chefs to operate stalls. The project succeeded beyond expectations, attracting over 3 million visitors annually and becoming one of Portugal's most visited attractions. The concept has since expanded to other cities worldwide including Miami, New York, Boston, Dubai, and more.",
+    "significance": "Time Out Market Lisboa pioneered the curated food hall model that has since been replicated globally. It revitalized the historic Mercado da Ribeira and the Cais do Sodré neighborhood while preserving an important cultural landmark. The market democratized access to high-end cuisine by bringing Michelin-starred chefs and top restaurants to casual, affordable settings. It showcases Portuguese culinary excellence to international visitors while providing a social gathering space for locals. The market represents the evolution of food halls from simple food courts to destination dining experiences."
+  },
+  "location": {
+    "address": {
+      "street": "Avenida 24 de Julho",
+      "postal_code": "1200-479",
+      "neighborhood": "Cais do Sodré",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.707,
+      "longitude": -9.1459
+    },
+    "directions": {
+      "general": "Located inside Mercado da Ribeira building at Cais do Sodré, between downtown Lisbon and Belém district",
+      "fromCruisePort": "15-20 minute walk along the waterfront westward, or 10 minutes by metro (Green Line to Cais do Sodré)",
+      "publicTransport": "Metro: Green Line to Cais do Sodré (direct access). Train: Cais do Sodré station adjacent. Trams: 15E, 25E. Ferries: Cais do Sodré terminal next door. Buses: 706, 711, 713, 714, 728, 732, 760.",
+      "parking": "Paid parking at Praça Dom Luís I underground car park (short walk). Limited street parking."
+    },
+    "distanceFromCruisePort": {
+      "meters": 1200,
+      "walkingTime": "15-20 minutes along waterfront",
+      "drivingTime": "5-8 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 951 274",
+    "email": "geral@timeoutmarket.com",
+    "website": "https://www.timeout.com/time-out-market-lisboa",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/timeoutmarketlisboa",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/timeoutmarketlisboa/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Sunday to Wednesday",
+          "hours": "10:00 - 00:00",
+          "notes": "Food stalls open from 10am, some until midnight"
+        },
+        {
+          "season": "Year-round",
+          "days": "Thursday to Saturday",
+          "hours": "10:00 - 02:00",
+          "notes": "Extended hours on weekends"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free entry to market. Individual food items typically €8-18. Full meals €15-30 per person. Drinks €3-8."
+    },
+    "averageVisitDuration": "1-2 hours for meal and browsing",
+    "bestTimeToVisit": "Weekday lunchtimes (12:00-14:00) for local atmosphere. Arrive before 12:30 or after 14:00 to find seating easier. Evenings and weekends are very busy.",
+    "busyPeriods": [
+      "Lunch hours (12:30-14:30)",
+      "Dinner hours (19:00-21:00)",
+      "Weekends all day",
+      "Rainy days"
+    ],
+    "adviceForVisitors": "Come with patience for finding seats - communal seating means you wait for space. Send one person to scout for tables while others order food. Most stalls give you a buzzer when food is ready (10-20 minutes). Take time browsing all options before deciding - variety is overwhelming. Prices are higher than local restaurants but portions are good. Try multiple small dishes to sample variety. Cash and cards accepted. Can be noisy and chaotic during peak times. Outside seating area quieter if available. Great for families where everyone wants different food. Not ideal for romantic quiet dinners but perfect for casual group dining."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours including 15-minute walk and meal",
+    "accessibility": "Excellent - easy 15-minute walk from cruise terminal or quick metro ride. Market is flat and accessible.",
+    "combinableWith": [
+      "Pink Street nightlife",
+      "Baixa district shopping",
+      "Ribeira das Naus waterfront",
+      "Ferry to Cacilhas",
+      "Tram 28 ride"
+    ],
+    "tips": [
+      "Very close to cruise port - easy walk along waterfront",
+      "Perfect for groups who want different cuisines",
+      "No reservations - communal seating first-come-first-served",
+      "Peak lunch/dinner times very crowded - plan accordingly",
+      "Try Portuguese classics: cod, octopus, sardines",
+      "Don't miss Manteigaria for pastel de nata dessert",
+      "Good middle-ground between fast food and full restaurant",
+      "Traditional market stalls also worth exploring",
+      "Can be combined with Cais do Sodré nightlife area",
+      "Bring patience for crowds but food quality is excellent"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "26 food stalls from Lisbon's top chefs and restaurants",
+      "Cuisine variety: Portuguese, seafood, pizza, Asian, burgers, desserts",
+      "Several Michelin-starred chefs represented",
+      "8 bars serving wine, cocktails, craft beer",
+      "Communal dining hall atmosphere",
+      "Traditional produce and fish market on perimeter",
+      "Time Out Studio for concerts and events",
+      "Time Out Academy cooking classes",
+      "Shops selling Portuguese products and books",
+      "Open from breakfast through late night",
+      "Central location near waterfront and transport"
+    ],
+    "facilities": [
+      "Central communal seating area with hundreds of seats",
+      "Outside terrace seating",
+      "Restrooms",
+      "ATMs",
+      "Free WiFi",
+      "High chairs for children",
+      "Accessible restrooms",
+      "Shops and retail",
+      "Event space"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully accessible with flat floors, wide aisles, and accessible restrooms. Communal tables may be challenging but doable. Some outdoor seating available.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://media.timeout.com/images/105454166/750/562/image.jpg",
+      "alt": "Busy Time Out Market Lisboa food hall with communal seating",
+      "caption": "The vibrant central hall brings together Lisbon's best chefs and restaurants in one dynamic space"
+    },
+    "gallery": [
+      {
+        "url": "https://media.timeout.com/images/106292596/image.jpg",
+        "alt": "Various food stalls at Time Out Market",
+        "caption": "26 curated food stalls offer everything from traditional Portuguese to international cuisine"
+      },
+      {
+        "url": "https://media.timeout.com/images/105780024/750/562/image.jpg",
+        "alt": "Communal dining tables at Time Out Market Lisboa",
+        "caption": "Communal seating creates a social atmosphere perfect for families and groups"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Pink Street (Rua Nova do Carvalho)",
+      "distance": "200 meters",
+      "type": "nightlife",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Cais do Sodré Ferry Terminal",
+      "distance": "Adjacent",
+      "type": "transport",
+      "walkingTime": "1 minute"
+    },
+    {
+      "name": "Ribeira das Naus Waterfront",
+      "distance": "400 meters",
+      "type": "waterfront",
+      "walkingTime": "5 minutes"
+    }
+  ],
+  "tags": [
+    "food-market",
+    "dining",
+    "family-friendly",
+    "casual",
+    "variety",
+    "Portuguese-cuisine",
+    "seafood",
+    "indoor",
+    "central-location"
+  ],
+  "suitableFor": [
+    "families-with-kids",
+    "groups",
+    "foodies",
+    "couples",
+    "solo-travelers",
+    "everyone"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$-$$$",
+  "rating": 4.2,
+  "reviewCount": 28000,
+  "reviewSource": "TripAdvisor/Yelp combined"
+}

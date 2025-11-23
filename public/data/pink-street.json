@@ -1,0 +1,223 @@
+{
+  "id": "pink-street",
+  "name": "Pink Street (Rua Nova do Carvalho)",
+  "tagline": "Lisbon's iconic pink-paved party street transformed from red-light district to nightlife hub",
+  "type": "nightlife-district",
+  "categories": [
+    "nightlife",
+    "entertainment",
+    "bars",
+    "clubs",
+    "street-scene",
+    "instagram-spot"
+  ],
+  "description": {
+    "short": "Pink Street (Rua Nova do Carvalho) is a vibrant pedestrian street in Cais do Sodré known for its bright pink pavement and buzzing nightlife, transformed from a notorious red-light district into one of Lisbon's most recognizable and photographed nightlife destinations.",
+    "full": "Pink Street, officially Rua Nova do Carvalho, is a short pedestrian street in Lisbon's Cais do Sodré district that has become one of the city's most iconic destinations. Originally the heart of Lisbon's red-light district, the street was lined with brothels and seedy establishments frequented by sailors for decades. In 2011, a major revitalization project transformed the street, painting the pavement a vibrant pink and rebranding it as a trendy destination for nightlife and entertainment. The transformation has been largely successful, turning Pink Street into one of Lisbon's most recognizable and photographed locations, often decorated with colorful umbrellas suspended above the pavement during summer and cultural events. The street is home to several well-loved bars and clubs that draw both locals and tourists. During the day, Pink Street is mostly quiet, with people passing through, taking photos, or stopping for a coffee. The energy completely transforms in the evening, when it becomes much livelier, attracting crowds who come for drinks, live music, and the vibrant street party atmosphere. Popular venues include Pink Wine Point for excellent Portuguese wines and live music, Pensão Amor in a former brothel with theatrical décor, and various cocktail bars creating an intimate, energetic scene. While it has shed much of its notorious past, some bars within Pink Street keep elements of its history, such as nautical or brothel themes, offering a mix of old and new and a unique atmosphere that celebrates the street's transformation while acknowledging its colorful history.",
+    "history": "For decades, Rua Nova do Carvalho was the heart of Lisbon's red-light district, considered unsafe and neglected. In 2011, the Lisbon city government began a revitalization initiative, painting the street's pavement bright pink and encouraging new businesses to move in. Old brothels and seedy bars were converted into stylish cocktail lounges and restaurants. The project aimed to attract a new crowd and shed the street's notorious past, while some establishments chose to preserve historical elements as quirky design features. The transformation has been successful, making Pink Street a symbol of urban renewal.",
+    "significance": "Pink Street represents successful urban regeneration and the transformation of Lisbon's waterfront districts. It has become an Instagram-famous landmark and a symbol of the city's creative transformation. The street demonstrates how historic areas can be reimagined while maintaining character, though it also serves as a reminder of gentrification's impact on neighborhoods."
+  },
+  "location": {
+    "address": {
+      "street": "Rua Nova do Carvalho",
+      "postal_code": "1200-372",
+      "neighborhood": "Cais do Sodré",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7069,
+      "longitude": -9.1452
+    },
+    "directions": {
+      "general": "Located in Cais do Sodré district, just off the waterfront between Time Out Market and Bairro Alto",
+      "fromCruisePort": "12 minute walk west along waterfront, or take tram 15E to Cais do Sodré (2 stops)",
+      "publicTransport": "Metro: Cais do Sodré (Green line - 2 min walk). Train: Cais do Sodré station. Tram: 15E, 18E, 25E. The street is pedestrian-only.",
+      "parking": "No parking on street itself. Public parking at Praça Dom Luís I (500m) or nearby garages."
+    },
+    "distanceFromCruisePort": {
+      "meters": 900,
+      "walkingTime": "12 minutes",
+      "drivingTime": "5 minutes to nearby parking"
+    }
+  },
+  "contact": {
+    "phone": "N/A",
+    "email": "N/A",
+    "website": "https://www.visitlisboa.com/en/places/pink-street",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open 24/7 - public street",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Street accessible 24/7",
+          "notes": "Best visited early morning for photos or after dark for nightlife. Bars typically open from 18:00-20:00 until 02:00-04:00. Busiest Thursday-Saturday nights."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0.0,
+      "notes": "Free to visit street. Individual bars and clubs charge for drinks and some have cover charges on busy nights. Expect 5-10 EUR for cocktails, 3-6 EUR for beers."
+    },
+    "averageVisitDuration": "5-10 minutes for photos, 2-4 hours for nightlife experience",
+    "bestTimeToVisit": "Early morning (7:00-9:00) for photos without crowds. Evening from 22:00 onwards for nightlife. Thursday-Saturday are busiest. Avoid Monday when many venues are closed.",
+    "busyPeriods": [
+      "Thursday-Saturday nights (22:00-02:00)",
+      "Summer months (June-September)",
+      "Holiday weekends"
+    ],
+    "adviceForVisitors": "Visit during day for photos, return at night for full experience. Be aware Pink Street can get very crowded and rowdy on weekend nights. Keep valuables secure in crowds. Some bars have heavy-handed security reported. Combine with Time Out Market for dinner before nightlife. The street is short - explore surrounding Cais do Sodré area as well."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Allow 2-3 hours for evening experience",
+    "accessibility": "Excellent - 12-minute walk from port, flat pedestrian street, accessible by metro",
+    "combinableWith": [
+      "Time Out Market",
+      "Cais do Sodré nightlife",
+      "Bairro Alto",
+      "Chiado",
+      "Praça do Comércio"
+    ],
+    "tips": [
+      "Perfect for evening shore leave if ship stays overnight",
+      "Only 12 minutes walk from cruise terminals",
+      "Take iconic pink pavement photo during day",
+      "Experience local nightlife scene in the evening",
+      "Easy to combine with Time Out Market dinner",
+      "Metro station nearby for quick return to port",
+      "Be aware of pickpockets in crowded areas",
+      "Pace yourself - drinks start late in Lisbon",
+      "Explore neighboring streets for more bar options"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Iconic pink painted pavement",
+      "Colorful suspended umbrellas (seasonal)",
+      "Pink elephant statue photo opportunity",
+      "Pensão Amor - former brothel turned cocktail bar",
+      "Pink Wine Point - wine bar with live music",
+      "Pink Bar - creative cocktails",
+      "Street party atmosphere on weekends",
+      "Mix of historic and modern bars",
+      "Live DJs and music venues",
+      "Vibrant nightlife scene"
+    ],
+    "facilities": [
+      "Multiple bars and clubs",
+      "Outdoor seating areas",
+      "Street performers (occasional)",
+      "Nearby Time Out Market",
+      "Metro station 2 minutes away",
+      "ATMs on surrounding streets",
+      "Limited public restrooms"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Main street is flat and pedestrian-only, fully accessible. Individual bars may have steps or narrow doorways. Street seating areas accessible.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English widely spoken in bars"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lisbonlisboaportugal.com/images/650x450/pink-street-lisbon.jpg",
+      "alt": "Pink Street with its distinctive pink pavement and colorful umbrellas overhead",
+      "caption": "Lisbon's iconic Pink Street with its vibrant pink pavement has become one of the city's most photographed locations"
+    },
+    "gallery": [
+      {
+        "url": "https://visit-lisbon.net/wp-content/uploads/2025/06/pink-street-3.jpg",
+        "alt": "Pink Street at night with crowds and illuminated bars",
+        "caption": "Pink Street transforms at night into a vibrant party destination"
+      },
+      {
+        "url": "https://amiroad.pt/wp-content/uploads/2024/05/rua-cor-de-rosa-3.jpg",
+        "alt": "Daytime view of Pink Street with pink pavement and traditional buildings",
+        "caption": "The distinctive pink pavement that gives the street its name"
+      },
+      {
+        "url": "https://media.timeout.com/images/105446664/750/562/image.jpg",
+        "alt": "Pink elephant statue at Delirium Café on Pink Street",
+        "caption": "The quirky pink elephant has become a popular photo opportunity"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Time Out Market Lisboa",
+      "distance": "200 meters",
+      "type": "food-hall",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Cais do Sodré Metro/Train Station",
+      "distance": "150 meters",
+      "type": "transport",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Bairro Alto",
+      "distance": "600 meters",
+      "type": "nightlife",
+      "walkingTime": "8-10 minutes uphill"
+    },
+    {
+      "name": "Chiado",
+      "distance": "700 meters",
+      "type": "shopping",
+      "walkingTime": "10 minutes uphill"
+    },
+    {
+      "name": "Praça do Comércio",
+      "distance": "1 km",
+      "type": "plaza",
+      "walkingTime": "12 minutes"
+    }
+  ],
+  "tags": [
+    "nightlife",
+    "pink-street",
+    "bars",
+    "party",
+    "instagram-spot",
+    "entertainment",
+    "music",
+    "trendy",
+    "urban-renewal",
+    "cais-do-sodre"
+  ],
+  "suitableFor": [
+    "nightlife-enthusiasts",
+    "young-travelers",
+    "photographers",
+    "instagram-users",
+    "party-goers",
+    "social-groups",
+    "culture-seekers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 3.8,
+  "reviewCount": 7000,
+  "reviewSource": "TripAdvisor/Google"
+}

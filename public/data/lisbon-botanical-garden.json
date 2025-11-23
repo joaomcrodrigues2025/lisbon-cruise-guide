@@ -1,0 +1,255 @@
+{
+  "id": "lisbon-botanical-garden",
+  "name": "Lisbon Botanical Garden (Jardim Botânico de Lisboa)",
+  "tagline": "A peaceful 19th-century scientific garden with 18,000+ plant species in the heart of Lisbon",
+  "type": "park",
+  "categories": [
+    "botanical-garden",
+    "park",
+    "garden",
+    "nature",
+    "scientific-garden",
+    "green-space"
+  ],
+  "description": {
+    "short": "The Lisbon Botanical Garden is a tranquil four-hectare scientific garden established in 1878, featuring over 18,000 plant species from around the world. This National Monument offers a peaceful escape in the Príncipe Real district, with exotic palms, subtropical plants, butterfly gardens, and historic greenhouses.",
+    "full": "The Jardim Botânico de Lisboa is a hidden gem nestled in the heart of Lisbon's Príncipe Real neighborhood. Established in 1878 as part of the Polytechnic School (now University of Lisbon), this four-hectare scientific garden was designed to support botanical teaching and research. The site has a rich history dating back over 400 years, when a Jesuit college occupied Monte Olivete hill (1609-1759). The garden's creation in the mid-19th century was spearheaded by professors Conde de Ficalho and Andrade Corvo, with the first plantings beginning in 1873. German gardener Edmund Goeze designed the upper 'Classe' section, while French gardener Jules Daveau created the lower 'Arboreto.' These pioneering gardeners collected an extraordinary diversity of plants from Portuguese territories around the world, showcasing Portugal's colonial reach. The garden's design brilliantly adapts to Lisbon's climate and topography, featuring winding pathways, terraced beds, cascading water features, ponds, and bridges connecting different garden sections. Today, the garden houses over 18,000 plant species representing flora from six continents, with particular emphasis on tropical and subtropical species from Australia, New Zealand, China, Japan, and South America. Notable collections include more than 30 species of palms, rare cycads (living fossils), carnivorous plants, medicinal herbs, aromatic plants, and a unique butterfly house - the only one open to the public in Europe. Declared a National Monument in 2010, the garden continues its scientific mission of plant conservation, biodiversity research, and environmental education while providing visitors with a serene escape from urban Lisbon's bustle.",
+    "history": "The site has botanical traditions dating to 1609 when a Jesuit college established gardens here. The scientific botanical garden was formally planned in 1843, with planting beginning in 1873 under professors Conde de Ficalho and Andrade Corvo. First head gardener Edmund Goeze designed the upper systematic 'Classe' section, while Jules Daveau created the lower 'Arboreto' with diverse tree species. The first seed catalogue was published in 1878. Major renovations occurred in the 1930s-40s under director Ruy Telles Palhinha. The Lisbon City Council restored the garden in 2016 through participatory budgeting.",
+    "significance": "Classified as a National Monument in 2010, the garden represents one of Portugal's most important scientific plant collections and botanical research centers. It serves vital roles in plant conservation, particularly for endangered species, biodiversity research, and environmental education. The garden preserves plants from former Portuguese territories worldwide and demonstrates Lisbon's favorable microclimate for cultivating diverse global flora."
+  },
+  "location": {
+    "address": {
+      "street": "R. da Escola Politécnica 58",
+      "postal_code": "1250-102",
+      "neighborhood": "Príncipe Real",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7189,
+      "longitude": -9.1542
+    },
+    "directions": {
+      "general": "Located in Príncipe Real district between Rato and Jardim do Príncipe Real, near São Pedro de Alcântara viewpoint",
+      "fromCruisePort": "25-30 minute walk through Chiado, or take metro to Rato station (6-minute walk from station). Taxi/Uber 10 minutes.",
+      "publicTransport": "Metro: Rato station (Yellow line) - 6-minute walk. Tram 28 stops nearby. Tram 24 or Bus 758 stop at Praça do Príncipe Real entrance. Multiple bus routes serve the area.",
+      "parking": "Limited street parking in Príncipe Real. Public parking at Rato metro station nearby."
+    },
+    "distanceFromCruisePort": {
+      "meters": 2200,
+      "walkingTime": "25-30 minutes uphill",
+      "drivingTime": "10 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 213 921 800",
+    "email": "info@museus.ulisboa.pt",
+    "website": "https://www.museus.ulisboa.pt/jardim-botanico-de-lisboa",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Summer (1 April - 30 September)",
+          "days": "Daily",
+          "hours": "10:00 - 20:00",
+          "notes": "Upper 'Classe' section free entry. Lower 'Arboreto' requires ticket."
+        },
+        {
+          "season": "Winter (1 October - 31 March)",
+          "days": "Daily",
+          "hours": "10:00 - 17:00",
+          "notes": "Upper 'Classe' section free entry. Lower 'Arboreto' requires ticket."
+        }
+      ],
+      "closedDates": [
+        "December 25",
+        "January 1",
+        "Easter Sunday",
+        "May 1"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5.0,
+      "youth": 2.5,
+      "child": 0.0,
+      "senior": 2.5,
+      "family": 8.0,
+      "lisboaCardFree": false,
+      "notes": "Upper 'Classe' section FREE entry. Ticket required only for lower 'Arboreto' section. Children under 10 free. Family ticket (2 adults + 2 children under 17) €8. Free on Sundays. Combination ticket with Natural History Museum €8. Guided tours available weekends."
+    },
+    "averageVisitDuration": "1-2 hours for full garden exploration",
+    "bestTimeToVisit": "Spring (March-May) and early summer for flowers in bloom. Early morning for peaceful atmosphere and best light. Weekdays less crowded than weekends. Upper free section accessible anytime during opening hours.",
+    "busyPeriods": [
+      "Weekend afternoons",
+      "Spring months (April-May)",
+      "Sundays (free admission days)"
+    ],
+    "adviceForVisitors": "Wear comfortable walking shoes for uneven paths and slopes. Bring water, especially in summer. The garden deliberately maintains a natural appearance with fallen leaves and branches to support biodiversity - this is intentional, not neglect. Summer watering is limited to preserve water resources. The upper free section offers excellent views and partial garden access. Combine with nearby Príncipe Real park and São Pedro de Alcântara viewpoint."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "2-3 hours including travel and leisurely garden visit",
+    "accessibility": "Moderate - requires metro or uphill walk. Garden has steep slopes, uneven paths, stairs. Partially wheelchair accessible (upper section easier than lower).",
+    "combinableWith": [
+      "Jardim do Príncipe Real",
+      "São Pedro de Alcântara viewpoint",
+      "São Roque Church",
+      "Chiado district",
+      "Bairro Alto"
+    ],
+    "tips": [
+      "Upper 'Classe' section has FREE entry - great for budget travelers",
+      "Perfect escape from Lisbon's heat and crowds",
+      "Bring sun protection - limited shade in some areas",
+      "The only public butterfly house in Europe!",
+      "Excellent for plant and nature enthusiasts",
+      "Photography permitted - beautiful settings for photos",
+      "Combine with Príncipe Real neighborhood exploration",
+      "Visit São Pedro de Alcântara viewpoint (5 min walk)",
+      "Peaceful atmosphere ideal for relaxation",
+      "Educational labels identify plant species",
+      "Spring flowers and autumn colors are spectacular",
+      "Wear layers - temperature varies in different garden zones"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Over 18,000 plant species from six continents",
+      "Collection of 30+ palm tree species creating tropical ambiance",
+      "Rare cycads (living fossils from ancient eras)",
+      "Europe's only public butterfly house with breeding program",
+      "Carnivorous plant collection",
+      "Medicinal and aromatic plant gardens",
+      "19th-century greenhouses and conservatories",
+      "Astronomical observatory (historic building)",
+      "Terraced landscapes with ponds and cascades",
+      "Tropical and subtropical species from Australia, Asia, Americas",
+      "National Monument status (2010)",
+      "Four hectares of serene green space in city center"
+    ],
+    "facilities": [
+      "Butterfly house",
+      "Historic greenhouses",
+      "Herbarium collection",
+      "Information panels with plant labels",
+      "Benches and seating areas throughout",
+      "Restrooms",
+      "Drinking fountains",
+      "Shaded walkways and paths",
+      "Museum connection (Natural History Museum adjacent)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "mobilityNotes": "Upper 'Classe' section more accessible with paved paths. Lower 'Arboreto' has steep slopes, stairs, uneven terrain - challenging for wheelchairs and limited mobility. Garden's hilly topography limits full accessibility. Best for visitors able to navigate slopes and stairs.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English labels and signage throughout"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://lisboavibes.com/wp-content/uploads/2024/08/Botanical-Garden-in-Lisbon-1024x769.jpg",
+      "alt": "Lush pathways and exotic plants in Lisbon Botanical Garden",
+      "caption": "A tranquil four-hectare oasis featuring 18,000+ plant species in the heart of the city"
+    },
+    "gallery": [
+      {
+        "url": "https://lisboavibes.com/wp-content/uploads/2024/08/Jardim-Botanica-Lisbon-1024x768.jpg",
+        "alt": "Terraced garden beds with exotic tropical plants",
+        "caption": "The garden showcases remarkable diversity with species from six continents"
+      },
+      {
+        "url": "https://lisboavibes.com/wp-content/uploads/2024/08/Jardim-Botanico-de-Lisboa-1024x767.jpg",
+        "alt": "Palm trees and subtropical vegetation in botanical garden",
+        "caption": "Over 30 species of palms create an unexpected tropical atmosphere"
+      },
+      {
+        "url": "https://lisboavibes.com/wp-content/uploads/2024/08/Botani-Garden-Lisbon-819x1024.jpg",
+        "alt": "Winding paths through botanical garden greenery",
+        "caption": "Peaceful pathways wind through terraced landscapes with ponds and cascades"
+      },
+      {
+        "url": "https://lisbonlisboaportugal.com/images/lisbon-botanical-garden.jpg",
+        "alt": "Historic greenhouse in Lisbon Botanical Garden",
+        "caption": "19th-century greenhouses house rare and delicate plant specimens"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Jardim do Príncipe Real",
+      "distance": "300 meters",
+      "type": "park",
+      "walkingTime": "4-5 minutes"
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "distance": "400 meters",
+      "type": "viewpoint",
+      "walkingTime": "6-8 minutes"
+    },
+    {
+      "name": "São Roque Church",
+      "distance": "500 meters",
+      "type": "church",
+      "walkingTime": "7-10 minutes"
+    },
+    {
+      "name": "National Museum of Natural History and Science",
+      "distance": "Adjacent",
+      "type": "museum",
+      "walkingTime": "0 minutes - same campus"
+    },
+    {
+      "name": "Chiado district",
+      "distance": "700 meters",
+      "type": "neighborhood",
+      "walkingTime": "10-12 minutes downhill"
+    }
+  ],
+  "tags": [
+    "botanical-garden",
+    "nature",
+    "plants",
+    "garden",
+    "green-space",
+    "peaceful",
+    "scientific",
+    "butterflies",
+    "palms",
+    "tropical",
+    "educational",
+    "national-monument",
+    "principe-real"
+  ],
+  "suitableFor": [
+    "nature-lovers",
+    "plant-enthusiasts",
+    "families",
+    "photographers",
+    "students",
+    "couples",
+    "solo-travelers",
+    "relaxation-seekers"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewCount": 2847,
+  "reviewSource": "TripAdvisor/Google"
+}

@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #003366;
+  --color-accent: #FFC72C;
+  --color-background-light: #f6f7f8;
+  --color-background-dark: #101a22;
+  --color-card-light: #FFFFFF;
+  --color-card-dark: #182531;
+  --color-text-light: #333333;
+  --color-text-dark: #F5F5F5;
+  --color-text-muted-light: #666666;
+  --color-text-muted-dark: #aaaaaa;
+  --color-border-light: #E0E0E0;
+  --color-border-dark: #304050;
+}
+
+@theme inline {
+  --font-display: 'Plus Jakarta Sans', sans-serif;
+
+  /* Custom colors */
+  --color-primary: #003366;
+  --color-accent: #FFC72C;
+  --color-secondary: #FFC72C;
+  --color-background-light: #f6f7f8;
+  --color-background-dark: #101a22;
+  --color-card-light: #FFFFFF;
+  --color-card-dark: #182531;
+  --color-text-light: #333333;
+  --color-text-dark: #F5F5F5;
+  --color-text-muted-light: #666666;
+  --color-text-muted-dark: #aaaaaa;
+  --color-border-light: #E0E0E0;
+  --color-border-dark: #304050;
+}
+
+body {
+  min-height: 100dvh;
+  background: var(--color-background-light);
+  color: var(--color-text-light);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.material-symbols-outlined.fill {
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

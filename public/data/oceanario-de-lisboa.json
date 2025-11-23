@@ -1,0 +1,246 @@
+{
+  "id": "oceanario-de-lisboa",
+  "name": "Oceanário de Lisboa",
+  "tagline": "One of the world's largest and most spectacular aquariums",
+  "type": "aquarium",
+  "categories": [
+    "aquarium",
+    "museum",
+    "marine-life",
+    "family-attraction",
+    "educational"
+  ],
+  "description": {
+    "short": "One of Europe's largest indoor aquariums and one of the world's most spectacular, featuring over 8,000 marine animals and plants from 500 different species in stunning exhibits designed by Peter Chermayeff.",
+    "full": "The Oceanário de Lisboa stands as one of the world's premier aquariums, built as the centerpiece of Expo '98 and designed by renowned architect Peter Chermayeff. The unique design places a massive 5-million-liter central tank at the heart of the building, surrounded by four habitat tanks representing the world's oceans - the North Atlantic, Antarctic, Temperate Pacific, and Tropical Indian Ocean. The central tank creates the illusion of a single massive ocean, separated only by invisible acrylic panels that allow sharks, rays, barracudas, and the famous ocean sunfish (one of the few in captivity worldwide) to appear to swim alongside smaller species. Over 8,000 marine animals representing 500 species call the Oceanarium home, including sea otters, penguins, rays, tropical fish, jellyfish, and corals. The facility also houses the world's largest nature aquarium, 'Forests Underwater' by Takashi Amano, a 160,000-liter freshwater exhibit. Educational programs focus on ocean conservation and marine biology. The Oceanarium was recognized as the first IUCN Center for Species Survival, emphasizing its role in marine conservation and research. With approximately 1 million visitors annually, it's Portugal's most visited cultural attraction.",
+    "history": "The Oceanário was designed by architect Peter Chermayeff and built for Expo '98, the World Fair celebrating the oceans. It opened to the public in 1998 and became an instant success. In 2011, a striking new annex designed by Portuguese architect Pedro Campos Costa was added, housing temporary exhibitions and additional facilities. The Oceanarium has since become a global model for aquarium design and marine conservation education.",
+    "significance": "Recognized as one of the world's best aquariums and Europe's largest indoor aquarium. In 2017, it was designated as the world's first Center for Species Survival by the IUCN Species Survival Commission, highlighting its crucial role in marine conservation and biodiversity research. The Oceanarium serves as both a major tourist attraction and an important educational and research institution."
+  },
+  "location": {
+    "address": {
+      "street": "Esplanada Dom Carlos I",
+      "postal_code": "1990-005",
+      "neighborhood": "Parque das Nações",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7635,
+      "longitude": -9.0937
+    },
+    "directions": {
+      "general": "Located in Parque das Nações on a pier in an artificial lagoon, adjacent to the stunning Oriente Station",
+      "fromCruisePort": "Take metro Red Line from Santa Apolónia to Oriente Station (15 minutes), then 5-minute walk. Or taxi (20 minutes)",
+      "publicTransport": "Metro Red Line to Oriente station (5-minute walk to Oceanarium). Trains to Oriente station from multiple Lisbon stations. Buses 705, 725, 728, 744, 708, 750, 759, 782, 794",
+      "parking": "Vasco da Gama Shopping Center car park (walking distance), or Parque das Nações public car parks"
+    },
+    "distanceFromCruisePort": {
+      "meters": 6500,
+      "walkingTime": "Not recommended - use metro",
+      "drivingTime": "20 minutes"
+    }
+  },
+  "contact": {
+    "phone": "+351 218 917 000",
+    "email": "info@oceanario.pt",
+    "website": "https://oceanario.pt/en/",
+    "bookingUrl": "https://tickets.oceanario.pt/?language=en",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/oceanariodelisboa",
+      "twitter": "https://twitter.com/Oceanario_pt",
+      "instagram": "https://www.instagram.com/oceanariodelisboa/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "10:00 - 20:00",
+          "lastAdmission": "19:00"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 26.0,
+      "youth": 17.0,
+      "child": 11.0,
+      "senior": 17.0,
+      "family": 66.0,
+      "lisboaCardFree": false,
+      "notes": "Children under 3 free. Youth 4-12 years. Seniors 65+. Family ticket covers 2 adults + 2 children. Combined tickets with cable car available. Discounts for online booking"
+    },
+    "averageVisitDuration": "2-3 hours",
+    "bestTimeToVisit": "Weekday mornings (10:00-12:00) for fewer crowds. Last entry at 19:00 allows quiet evening visit",
+    "busyPeriods": [
+      "Weekends all day",
+      "School holidays",
+      "Rainy days",
+      "Afternoons (14:00-17:00)"
+    ],
+    "adviceForVisitors": "Book tickets online in advance to avoid queues and save money. Allow 2-3 hours for full visit. Photography allowed (no flash). Combine with Parque das Nações cable car ride for views. Cafeteria available on site. Visit the temporary exhibition 'Submerged Universe' included with admission. The Oceanarium is fully indoors - perfect for rainy days"
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "Half day (4 hours including metro travel and visit)",
+    "accessibility": "Good - easy metro access on Red Line to Oriente station, then short walk",
+    "combinableWith": [
+      "Parque das Nações",
+      "Vasco da Gama Tower",
+      "Cable car ride",
+      "Vasco da Gama Shopping Center",
+      "Oriente Station architecture"
+    ],
+    "tips": [
+      "Easy metro access on Red Line - 15 minutes from Santa Apolónia",
+      "Perfect for families with children of all ages",
+      "Excellent rainy day option - completely indoors",
+      "Book tickets online in advance for best prices",
+      "Allow minimum 2-3 hours for visit",
+      "Combine with Parque das Nações waterfront walk",
+      "Take cable car for aerial views of the area",
+      "Food available on-site or at nearby Vasco da Gama mall",
+      "Very wheelchair and stroller accessible",
+      "Educational and entertaining for all ages"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "5-million-liter central ocean tank - one of the world's largest",
+      "Over 8,000 marine animals from 500 species",
+      "Rare ocean sunfish (mola mola) - one of few in captivity",
+      "Four ocean habitat tanks (Atlantic, Antarctic, Pacific, Indian)",
+      "World's largest nature aquarium 'Forests Underwater' by Takashi Amano",
+      "Sea otters, penguins, sharks, rays, and tropical fish",
+      "Stunning jellyfish displays",
+      "Interactive touch tanks",
+      "Temporary exhibition 'Submerged Universe'",
+      "First IUCN Center for Species Survival globally"
+    ],
+    "facilities": [
+      "Restaurant and cafeteria",
+      "Gift shop with marine-themed products",
+      "Educational programs and workshops",
+      "Temporary exhibition spaces",
+      "Audio guides available",
+      "Lockers available",
+      "Restrooms throughout",
+      "Elevators and ramps",
+      "Stroller and wheelchair accessible",
+      "Photo areas without glass reflection"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Fully accessible with elevators, ramps, and wide corridors throughout. Wheelchair rental available. Accessible restrooms on all floors. Stroller-friendly",
+      "visualAidServices": "Audio descriptions available",
+      "hearingAidServices": "Visual information displays throughout"
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://oceanario.pt/wp-content/uploads/2024/12/Universo-Submerso-Nova-Exposicao-Oceanario-de-Lisboa_news_619x450.jpg",
+      "alt": "Visitors viewing the massive central ocean tank with sharks and rays",
+      "caption": "The spectacular 5-million-liter central tank creates the illusion of a single massive ocean"
+    },
+    "gallery": [
+      {
+        "url": "https://oceanario.pt/wp-content/uploads/2024/06/7-motivos-para-visitar-o-oceanario-de-lisboa_aquario-central_619x450.jpg",
+        "alt": "Central aquarium with diverse marine life including sharks",
+        "caption": "Over 100 species from around the world inhabit the central ocean tank"
+      },
+      {
+        "url": "https://oceanario.pt/wp-content/uploads/2024/07/oceanario-de-lisboa_aquario-central-tubaroes-raias-peixes.png",
+        "alt": "Rays and fish swimming in the central tank",
+        "caption": "The Oceanarium is home to spectacular rays, sharks, and thousands of fish"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lisboa_June_2014-8a.jpg/250px-Lisboa_June_2014-8a.jpg",
+        "alt": "Oceanário de Lisboa building exterior on the water",
+        "caption": "The iconic building rises from an artificial lagoon in Parque das Nações"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ocenarium_-_panoramio.jpg/250px-Ocenarium_-_panoramio.jpg",
+        "alt": "Entrance view of Oceanarium",
+        "caption": "The modern entrance welcomes over 1 million visitors annually"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Telecabine Lisboa Cable Car",
+      "distance": "Adjacent",
+      "type": "cable-car",
+      "walkingTime": "2 minutes"
+    },
+    {
+      "name": "Pavilhão do Conhecimento",
+      "distance": "200 meters",
+      "type": "science-museum",
+      "walkingTime": "3 minutes"
+    },
+    {
+      "name": "Vasco da Gama Tower",
+      "distance": "800 meters",
+      "type": "landmark",
+      "walkingTime": "10 minutes"
+    },
+    {
+      "name": "Vasco da Gama Shopping Center",
+      "distance": "400 meters",
+      "type": "shopping",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Oriente Station",
+      "distance": "600 meters",
+      "type": "transport-hub",
+      "walkingTime": "8 minutes"
+    },
+    {
+      "name": "Parque das Nações Waterfront",
+      "distance": "Adjacent",
+      "type": "promenade",
+      "walkingTime": "Direct access"
+    }
+  ],
+  "tags": [
+    "aquarium",
+    "oceanarium",
+    "marine-life",
+    "family-friendly",
+    "educational",
+    "conservation",
+    "must-see",
+    "indoor-attraction",
+    "rainy-day"
+  ],
+  "suitableFor": [
+    "families",
+    "children",
+    "marine-enthusiasts",
+    "photographers",
+    "students",
+    "all-visitors",
+    "rainy-days"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "priceRange": "$$$",
+  "rating": 4.6,
+  "reviewCount": 42500,
+  "reviewSource": "TripAdvisor/Google"
+}

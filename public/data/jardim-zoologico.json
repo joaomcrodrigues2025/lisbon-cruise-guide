@@ -1,0 +1,235 @@
+{
+  "id": "jardim-zoologico",
+  "name": "Jardim Zoológico de Lisboa (Lisbon Zoo)",
+  "tagline": "Over 140 years of history with 2,000 animals from 300 species in the heart of Lisbon",
+  "type": "zoo",
+  "categories": [
+    "zoo",
+    "family-friendly",
+    "animals",
+    "outdoor",
+    "education"
+  ],
+  "description": {
+    "short": "Lisbon Zoo is one of the world's oldest zoos, established in 1884. Home to approximately 2,000 animals from 300 species, it combines conservation, education, and entertainment in a beautiful park setting in central Lisbon.",
+    "full": "Jardim Zoológico de Lisboa, established in 1884, is one of the oldest and most respected zoological parks in the world. Spanning 16 hectares in the heart of Lisbon, the zoo houses approximately 2,000 animals representing about 300 different species from around the globe. The zoo's mission extends far beyond entertainment - it plays a crucial role in conservation, scientific research, and environmental education. Visitors can explore diverse habitats including the Dolphin Bay with daily shows, the Enchanted Forest bird presentation, the Valley of Tigers featuring Sumatran tigers, the Temple of Primates with gorillas and chimpanzees, MEO Savannah with elephants and giraffes, the Reptile House, and the popular Lidl Children's Farm where kids can interact with domestic animals. The zoo offers included attractions such as the cable car providing aerial views, the miniature train tour around the park, and multiple daily animal presentations and feeding demonstrations. The park is beautifully landscaped with gardens, water features, and shaded walkways. As a member of EAZA, WAZA, and other international conservation organizations, Lisbon Zoo participates in numerous breeding programs for endangered species. The zoo emphasizes animal welfare, biodiversity conservation, and creating meaningful connections between visitors and wildlife. With its combination of education, conservation, and family entertainment, Lisbon Zoo provides a full day of discovery and fun for all ages.",
+    "history": "Inaugurated on May 28, 1884, Jardim Zoológico de Lisboa is one of the oldest zoos in the world and has been a Lisbon institution for over 140 years. The zoo was originally located in Palhavã but moved to its current location in Sete Rios in 1905. Throughout its history, it has evolved from a traditional Victorian-era menagerie to a modern conservation-focused zoological park. The zoo has weathered challenges including both World Wars and Portugal's political changes, adapting and modernizing to meet contemporary standards for animal welfare and conservation. Major renovations and expansions throughout the decades have created specialized habitats, improved visitor facilities, and enhanced educational programs. Today it stands as a testament to Lisbon's commitment to wildlife conservation and public education.",
+    "significance": "As a founding member of EAZA (European Association of Zoos and Aquaria), WAZA (World Association of Zoos and Aquariums), and participant in EEP (European Endangered Species Programmes), Lisbon Zoo plays a vital role in global conservation efforts. The zoo participates in breeding programs for endangered species, conducts important research, and educates over one million visitors annually about biodiversity and conservation. It serves as Portugal's premier zoological institution and a major family attraction in Lisbon."
+  },
+  "location": {
+    "address": {
+      "street": "Praça Marechal Humberto Delgado",
+      "postal_code": "1549-004",
+      "neighborhood": "Sete Rios",
+      "city": "Lisbon",
+      "region": "Lisbon Metropolitan Area",
+      "country": "Portugal"
+    },
+    "coordinates": {
+      "latitude": 38.7452,
+      "longitude": -9.1719
+    },
+    "directions": {
+      "general": "Located in Sete Rios, northwest of central Lisbon, near Benfica neighborhood",
+      "fromCruisePort": "35-40 minutes by metro - Blue Line to Jardim Zoológico station with direct access to zoo entrance",
+      "publicTransport": "Metro: Blue Line to Jardim Zoológico station (exit leads directly to zoo). Buses: 701, 716, 726, 746, 755, 758. Train: Sete Rios station (5-minute walk).",
+      "parking": "Paid parking available at zoo entrance and nearby shopping centers"
+    },
+    "distanceFromCruisePort": {
+      "meters": 9500,
+      "walkingTime": "Not recommended - 2 hours",
+      "drivingTime": "20-25 minutes depending on traffic"
+    }
+  },
+  "contact": {
+    "phone": "+351 217 232 900",
+    "email": "turismo@zoo.pt",
+    "website": "https://www.zoo.pt/en/",
+    "bookingUrl": "https://bilhetes.zoo.pt/Evento?IdEvento=4183",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/JardimZoologico.oficial",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/jardimzoologico_oficial/"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year-round",
+      "seasonal": [
+        {
+          "season": "Winter (September 21 - March 20)",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season": "Summer (March 21 - September 20)",
+          "days": "Daily",
+          "hours": "10:00 - 20:00",
+          "lastAdmission": "19:00"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 27.5,
+      "youth": 19.0,
+      "child": 19.0,
+      "senior": 19.0,
+      "lisboaCardFree": false,
+      "notes": "Children under 3 free. Youth/Child rate for ages 3-12. Senior rate for 65+. Online tickets save 2-3 euros. Family packages available. Lisboa Card provides 15% discount. Includes cable car, train ride, and all animal presentations."
+    },
+    "averageVisitDuration": "3-5 hours for full experience",
+    "bestTimeToVisit": "Weekday mornings for fewer crowds. Arrive at opening to see animals most active. Plan around dolphin show times (check schedule).",
+    "busyPeriods": [
+      "Weekends",
+      "School holidays",
+      "Summer months",
+      "Dolphin show times"
+    ],
+    "adviceForVisitors": "Wear comfortable walking shoes and sun protection. Bring water and snacks or use zoo restaurants. Check daily schedule for animal presentations and feeding times. Don't miss the dolphin show (2 shows daily). The cable car provides great aerial views. Allow 4-5 hours to see everything. Children's Farm is perfect for little ones. Map available at entrance - plan your route. Come early in summer as animals are more active in cooler hours."
+  },
+  "cruisePassengerInfo": {
+    "idealForCruisePassengers": true,
+    "timeNeededFromPort": "5-6 hours total including 35-minute metro ride each way and 4-hour zoo visit",
+    "accessibility": "Good - Blue Line metro goes directly to zoo entrance. Zoo has some hills but mostly accessible paths.",
+    "combinableWith": [
+      "Benfica Stadium tour",
+      "Colombo Shopping Center",
+      "Sete Rios area"
+    ],
+    "tips": [
+      "Blue Line metro goes directly to zoo - very convenient",
+      "Buy tickets online to save money and skip queues",
+      "Check dolphin show schedule and plan around it",
+      "Cable car and train rides included in admission",
+      "Allow 4-5 hours minimum to see everything",
+      "Bring sunscreen and hats in summer",
+      "Zoo has restaurants but bringing snacks saves money",
+      "Children's Farm is must-visit for families with young kids",
+      "Get there at opening for most active animals"
+    ]
+  },
+  "features": {
+    "highlights": [
+      "Dolphin Bay with spectacular dolphin shows (twice daily)",
+      "Enchanted Forest bird presentation with free-flying birds",
+      "MEO Savannah with elephants, giraffes, and zebras",
+      "Valley of Tigers featuring Sumatran tigers",
+      "Temple of Primates with gorillas and chimpanzees",
+      "Iberian Lynx Grove showcasing endangered species",
+      "Reptile House with snakes, crocodiles, and lizards",
+      "Lidl Children's Farm with domestic animals",
+      "Cable car ride over the zoo (included)",
+      "Miniature train tour around the park (included)",
+      "Pelican feeding demonstrations"
+    ],
+    "facilities": [
+      "Multiple restaurants and cafés",
+      "Gift shops",
+      "Stroller rentals",
+      "Lockers",
+      "Restrooms throughout park",
+      "Baby changing facilities",
+      "First aid station",
+      "Shaded picnic areas",
+      "Free WiFi in some areas",
+      "ATM machines"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "mobilityNotes": "Most paths are paved and accessible. Some areas have slopes. Wheelchairs available for rent. Cable car and train are accessible. Some viewing areas may be challenging.",
+      "visualAidServices": false,
+      "hearingAidServices": false
+    },
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b9b856c3877e419f921cdc55499613a7b120ddc/256-jardim-zoologico-de-lisboa_(10).jpg",
+      "alt": "Lisbon Zoo entrance with visitors and lush vegetation",
+      "caption": "Jardim Zoológico de Lisboa welcomes over one million visitors annually to explore wildlife from around the world"
+    },
+    "gallery": [
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzMywicHVyIjoiYmxvYl9pZCJ9fQ==--30d08c8034c28b43d7524091dcf1a7827ad66c12/jardim-zoologico-de-lisboa-2.jpg",
+        "alt": "Dolphin show at Lisbon Zoo Dolphin Bay",
+        "caption": "The spectacular dolphin show is one of the zoo's most popular attractions"
+      },
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--029e74ec5b2357eccf5986e391fc8aa8de3d316c/jardim-zoologico-de-lisboa-3.jpg",
+        "alt": "Giraffes at MEO Savannah habitat in Lisbon Zoo",
+        "caption": "The African savannah habitat houses giraffes, elephants, zebras, and other species"
+      },
+      {
+        "url": "https://www.visitlisboa.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDMzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e3f2472f5d94279f772d11add8f389cd501c6018/jardim-zoologico-de-lisboa-4.jpg",
+        "alt": "Cable car ride over Lisbon Zoo",
+        "caption": "The cable car provides aerial views of the zoo and is included in admission"
+      },
+      {
+        "url": "https://www.zoo.pt/media/icones_menus/conhecer/conhecer-animais.png",
+        "alt": "Children at Lidl Children's Farm petting animals",
+        "caption": "The Children's Farm allows kids to interact safely with domestic animals"
+      }
+    ]
+  },
+  "nearbyAttractions": [
+    {
+      "name": "Colombo Shopping Center",
+      "distance": "1.5 km",
+      "type": "shopping",
+      "walkingTime": "20 minutes or 1 metro stop"
+    },
+    {
+      "name": "Benfica Stadium (Estádio da Luz)",
+      "distance": "2 km",
+      "type": "sports-venue",
+      "walkingTime": "25 minutes or metro"
+    },
+    {
+      "name": "Sete Rios Transport Hub",
+      "distance": "400 meters",
+      "type": "transport",
+      "walkingTime": "5 minutes"
+    },
+    {
+      "name": "Parque Florestal de Monsanto",
+      "distance": "3 km",
+      "type": "park",
+      "walkingTime": "Not walkable - requires car/taxi"
+    }
+  ],
+  "tags": [
+    "zoo",
+    "family-friendly",
+    "animals",
+    "kids",
+    "dolphins",
+    "outdoor",
+    "conservation",
+    "education",
+    "wildlife",
+    "full-day"
+  ],
+  "suitableFor": [
+    "families-with-kids",
+    "children",
+    "animal-lovers",
+    "photographers",
+    "couples",
+    "school-groups"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$$$",
+  "rating": 4.3,
+  "reviewCount": 18000,
+  "reviewSource": "TripAdvisor/Google combined"
+}
