@@ -12,11 +12,11 @@ const plusJakarta = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: "Lisbon Shore Guide | Best Attractions for Cruise Passengers",
-  description: "Discover the top 37 tourist attractions in Lisbon perfect for cruise ship passengers. Complete guide with hours, prices, directions from port, photos, and insider tips.",
+  description: "Discover the top 39 tourist attractions in Lisbon perfect for cruise ship passengers. Complete guide with hours, prices, directions from port, photos, and insider tips.",
   keywords: "Lisbon attractions, cruise port Lisbon, Lisbon tourism, things to do Lisbon, Lisbon shore excursions, cruise passenger guide",
   openGraph: {
     title: "Lisbon Shore Guide - Best Attractions for Cruise Passengers",
-    description: "Explore 37 attractions in Lisbon with photos, prices, and visitor information optimized for cruise passengers",
+    description: "Explore 39 attractions in Lisbon with photos, prices, and visitor information optimized for cruise passengers",
     type: "website",
   },
 };
