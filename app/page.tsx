@@ -14,17 +14,17 @@ export default async function HomePage() {
         className="relative flex h-screen min-h-[600px] w-full flex-col"
         style={{
           backgroundImage:
-            "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.6) 100%), url('https://lh3.googleusercontent.com/aida-public/AB6AXuBkw_S0dCYDvoCoE_ATzx8_waJrV-n3g2GGyga-tD4aAdRzuhVISyZcoqRnps6UpCXTK9wL50DfkcSvhqVlHHY6pKGBsoW5Rrqm6Xa14niHyHzs-OjoOLfnS7S6_t05YnT0pTJ-RIb_hIZIUVHN7Mwofg-_v6CivlHkYQeiLvKtXDwBrEZ-c5vtuwy1bvX94T3kANFoQ-YDEKTEHLLKzLwez_hBKRdnzUmI7OyGWLIdFxVuId6T_l_Y7ohFh0Ex3LEnJg5GqyGPw80')",
+            "linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.3) 40%, rgba(0, 0, 0, 0.7) 100%), url('https://lh3.googleusercontent.com/aida-public/AB6AXuBkw_S0dCYDvoCoE_ATzx8_waJrV-n3g2GGyga-tD4aAdRzuhVISyZcoqRnps6UpCXTK9wL50DfkcSvhqVlHHY6pKGBsoW5Rrqm6Xa14niHyHzs-OjoOLfnS7S6_t05YnT0pTJ-RIb_hIZIUVHN7Mwofg-_v6CivlHkYQeiLvKtXDwBrEZ-c5vtuwy1bvX94T3kANFoQ-YDEKTEHLLKzLwez_hBKRdnzUmI7OyGWLIdFxVuId6T_l_Y7ohFh0Ex3LEnJg5GqyGPw80')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
       >
         <div className="relative flex flex-1 flex-col justify-center items-center p-6 text-white sm:p-8">
           <div className="flex flex-col items-center text-center max-w-3xl">
-            <h1 className="text-white tracking-tight text-4xl font-bold leading-tight md:text-5xl lg:text-6xl mb-4">
+            <h1 className="text-white tracking-tight text-4xl font-bold leading-tight md:text-5xl lg:text-6xl mb-4" style={{ textShadow: '0 2px 8px rgba(0, 0, 0, 0.8), 0 4px 16px rgba(0, 0, 0, 0.6)' }}>
               Welcome to Lisbon
             </h1>
-            <p className="mt-2 text-white/90 text-lg md:text-xl font-normal leading-normal max-w-2xl">
+            <p className="mt-2 text-white text-lg md:text-xl font-semibold leading-normal max-w-2xl" style={{ textShadow: '0 2px 6px rgba(0, 0, 0, 0.9), 0 3px 12px rgba(0, 0, 0, 0.7)' }}>
               Your guide to an unforgettable day in the city, optimized for cruise ship passengers
             </p>
 
