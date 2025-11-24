@@ -72,6 +72,15 @@ export default function Header() {
             >
               Search
             </Link>
+            <Link
+              href="/contact"
+              className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
+                isActive('/contact') ? 'bg-slate-100 font-semibold' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              Contact
+            </Link>
           </nav>
         </div>
       )}
