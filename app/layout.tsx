@@ -11,6 +11,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://lisbonshore.com'),
   title: "Lisbon Shore Guide | 70 Wonderful Attractions for Cruise Passengers",
   description: "Discover 70 amazing tourist attractions in Lisbon perfect for cruise ship passengers. Complete guide with hours, prices, directions from port, photos, and insider tips.",
   keywords: "Lisbon attractions, cruise port Lisbon, Lisbon tourism, things to do Lisbon, Lisbon shore excursions, cruise passenger guide",
@@ -18,6 +19,26 @@ export const metadata: Metadata = {
     title: "Lisbon Shore Guide - 70 Wonderful Attractions for Cruise Passengers",
     description: "Explore 70 amazing attractions in Lisbon with photos, prices, and visitor information optimized for cruise passengers",
     type: "website",
+    siteName: "Lisbon Shore Guide",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Lisbon Shore Guide - 70 Wonderful Attractions",
+    description: "Complete guide to Lisbon attractions for cruise passengers",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  alternates: {
+    canonical: 'https://lisbonshore.com',
   },
 };
 
