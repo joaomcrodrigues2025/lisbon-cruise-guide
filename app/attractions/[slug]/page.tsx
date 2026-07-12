@@ -21,9 +21,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: generateAttractionTitle(attraction),
     description: generateAttractionDescription(attraction),
     keywords: extractKeywords(attraction),
+    alternates: {
+      canonical: `/attractions/${slug}`,
+    },
     openGraph: {
       title: `${attraction.name} - Complete Visitor Guide`,
       description: attraction.tagline,
+      url: `/attractions/${slug}`,
       images: [attraction.images.heroImage.url],
     },
   };
@@ -81,7 +85,9 @@ export default async function AttractionDetailPage({ params }: { params: Promise
           <div className="flex items-center gap-2 mt-4">
             <div className="flex items-center">{renderStars(attraction.rating)}</div>
             <span className="font-bold text-[#003366]">{attraction.rating}</span>
-            <span className="text-sm text-slate-600">({attraction.reviewCount.toLocaleString()} reviews)</span>
+            <span className="text-sm text-slate-600">
+              ({attraction.reviewCount.toLocaleString()} reviews{attraction.reviewSource ? ` on ${attraction.reviewSource}` : ''})
+            </span>
           </div>
         </div>
       </div>
@@ -132,6 +138,28 @@ export default async function AttractionDetailPage({ params }: { params: Promise
             </p>
           </div>
         </div>
+
+        {attraction.description.history && (
+          <div className="mt-12">
+            <h2 className="text-3xl font-bold bg-gradient-to-r from-[#003366] to-[#004488] bg-clip-text text-transparent mb-6">History</h2>
+            <div className="prose prose-lg max-w-none">
+              <p className="text-lg leading-relaxed text-slate-700 whitespace-pre-line">
+                {attraction.description.history}
+              </p>
+            </div>
+          </div>
+        )}
+
+        {attraction.description.significance && (
+          <div className="mt-12">
+            <h2 className="text-3xl font-bold bg-gradient-to-r from-[#003366] to-[#004488] bg-clip-text text-transparent mb-6">Why It Matters</h2>
+            <div className="prose prose-lg max-w-none">
+              <p className="text-lg leading-relaxed text-slate-700 whitespace-pre-line">
+                {attraction.description.significance}
+              </p>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Image Gallery */}

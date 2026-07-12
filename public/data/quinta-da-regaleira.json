@@ -71,7 +71,10 @@
           "lastAdmission": "17:00"
         }
       ],
-      "closedDates": ["December 25", "January 1"]
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -163,28 +166,28 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/quinta-da-regaleira-hero.jpg",
+      "url": "/images/attractions/quinta-da-regaleira-hero.webp",
       "alt": "The famous Initiation Well at Quinta da Regaleira with spiral staircase descending into earth",
       "caption": "The iconic Initiation Well - a 27-meter inverted tower symbolizing an esoteric journey"
     },
     "gallery": [
       {
-        "url": "/images/attractions/quinta-da-regaleira-1.jpg",
+        "url": "/images/attractions/quinta-da-regaleira-1.webp",
         "alt": "Gothic Revival palace facade of Quinta da Regaleira",
         "caption": "The ornate Gothic palace with intricate stone carvings and gargoyles"
       },
       {
-        "url": "/images/attractions/quinta-da-regaleira-2.jpg",
+        "url": "/images/attractions/quinta-da-regaleira-2.webp",
         "alt": "Underground tunnel network at Quinta da Regaleira",
         "caption": "Mysterious underground tunnels connecting the estate's hidden features"
       },
       {
-        "url": "/images/attractions/quinta-da-regaleira-3.jpg",
+        "url": "/images/attractions/quinta-da-regaleira-3.webp",
         "alt": "Waterfall and grotto in the gardens",
         "caption": "Enchanted gardens with waterfalls, grottos, and lush vegetation"
       },
       {
-        "url": "/images/attractions/quinta-da-regaleira-4.jpg",
+        "url": "/images/attractions/quinta-da-regaleira-4.webp",
         "alt": "Aerial view of the Initiation Well showing spiral design",
         "caption": "Looking down into the Initiation Well's nine spiral platforms"
       }

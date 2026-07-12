@@ -163,13 +163,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/lx-factory-hero.jpg",
+      "url": "/images/attractions/lx-factory-hero.webp",
       "alt": "LX Factory creative space",
       "caption": "The trendy LX Factory converted industrial complex"
     },
     "gallery": [
       {
-        "url": "/images/attractions/lx-factory-1.jpg",
+        "url": "/images/attractions/lx-factory-1.webp",
         "alt": "Street art at LX Factory",
         "caption": "Colorful street art and murals throughout LX Factory"
       }

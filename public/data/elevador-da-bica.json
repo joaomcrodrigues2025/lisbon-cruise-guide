@@ -149,13 +149,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/elevador-da-bica-hero.jpg",
+      "url": "/images/attractions/elevador-da-bica-hero.webp",
       "alt": "Elevador da Bica funicular",
       "caption": "The iconic yellow Bica funicular climbing the steep street"
     },
     "gallery": [
       {
-        "url": "/images/attractions/elevador-da-bica-1.jpg",
+        "url": "/images/attractions/elevador-da-bica-1.webp",
         "alt": "View down Rua da Bica",
         "caption": "Steep Rua da Bica with colorful buildings"
       }

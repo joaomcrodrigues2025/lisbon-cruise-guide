@@ -164,23 +164,23 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/panteao-nacional-hero.jpg",
+      "url": "/images/attractions/panteao-nacional-hero.webp",
       "alt": "National Pantheon white dome and Baroque facade",
       "caption": "The majestic white dome of the Panteão Nacional dominates Lisbon's skyline"
     },
     "gallery": [
       {
-        "url": "/images/attractions/panteao-nacional-1.jpg",
+        "url": "/images/attractions/panteao-nacional-1.webp",
         "alt": "Interior of National Pantheon",
         "caption": "The stunning white marble Baroque interior with soaring cupola"
       },
       {
-        "url": "/images/attractions/panteao-nacional-2.jpg",
+        "url": "/images/attractions/panteao-nacional-2.webp",
         "alt": "Panoramic view from National Pantheon terrace",
         "caption": "360-degree panoramic views of Lisbon from the terrace"
       },
       {
-        "url": "/images/attractions/panteao-nacional-3.jpg",
+        "url": "/images/attractions/panteao-nacional-3.webp",
         "alt": "Tomb of Amália Rodrigues",
         "caption": "The tomb of fado legend Amália Rodrigues inside the Pantheon"
       }

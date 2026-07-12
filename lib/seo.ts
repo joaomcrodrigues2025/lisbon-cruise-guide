@@ -1,36 +1,14 @@
 import { Attraction } from './types';
+import { SITE_URL } from './taxonomy';
 
 export function generateAttractionTitle(attraction: Attraction): string {
   return `${attraction.name} - Everything You Need to Know | Lisbon Cruise Guide`;
 }
 
 export function generateAttractionDescription(attraction: Attraction): string {
-  const hours = attraction.visitingInformation.openingTimes.seasonal[0]?.hours || 'Check hours';
-  const price = attraction.visitingInformation.admissionPrices.adult === 0
-    ? 'Free entry'
-    : `€${attraction.visitingInformation.admissionPrices.adult}`;
-
-  return `Planning to visit ${attraction.name}? Get ${hours} hours, ${price} prices, photos & insider cruise passenger tips. ${attraction.tagline}`;
-}
-
-export function generateCategoryTitle(category: string, count: number): string {
-  const categoryName = category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-  return `Best ${categoryName} in Lisbon - Top ${count} ${categoryName} for Cruise Passengers`;
-}
-
-export function generateCategoryDescription(category: string, count: number): string {
-  const categoryName = category.replace(/-/g, ' ');
-  return `Discover the best ${categoryName} in Lisbon. Compare ${count} options with photos, reviews, prices, and directions from cruise port. Find your perfect ${categoryName} today!`;
-}
-
-export function generateTagTitle(tag: string, count: number): string {
-  const tagName = tag.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-  return `Top ${tagName} Attractions in Lisbon - ${count} Options for Cruise Passengers`;
-}
-
-export function generateTagDescription(tag: string, count: number): string {
-  const tagName = tag.replace(/-/g, ' ');
-  return `${count} amazing ${tagName} attractions in Lisbon perfect for cruise passengers. Explore with photos, reviews, directions from port, and visitor information.`;
+  const short = attraction.description.short.trim();
+  if (short.length <= 155) return short;
+  return `${short.slice(0, 152).replace(/\s+\S*$/, '')}…`;
 }
 
 export function extractKeywords(attraction: Attraction): string {
@@ -62,12 +40,16 @@ export function formatPriceRange(priceRange: string): string {
 }
 
 export function generateStructuredData(attraction: Attraction) {
+  const pageUrl = `${SITE_URL}/attractions/${attraction.id}`;
+
   return {
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
     name: attraction.name,
     description: attraction.description.short,
-    image: attraction.images.heroImage.url,
+    image: `${SITE_URL}${attraction.images.heroImage.url}`,
+    url: pageUrl,
+    mainEntityOfPage: pageUrl,
     address: {
       '@type': 'PostalAddress',
       streetAddress: attraction.location.address.street,
@@ -82,12 +64,7 @@ export function generateStructuredData(attraction: Attraction) {
       longitude: attraction.location.coordinates.longitude
     },
     telephone: attraction.contact.phone,
-    url: attraction.contact.website,
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: attraction.rating,
-      reviewCount: attraction.reviewCount
-    },
+    sameAs: attraction.contact.website ? [attraction.contact.website] : undefined,
     priceRange: attraction.priceRange,
   };
 }

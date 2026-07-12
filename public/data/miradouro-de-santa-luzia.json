@@ -165,18 +165,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/miradouro-de-santa-luzia-hero.jpg",
+      "url": "/images/attractions/miradouro-de-santa-luzia-hero.webp",
       "alt": "Romantic terrace of Miradouro de Santa Luzia with bougainvillea-covered pergola and Alfama views",
       "caption": "The romantic bougainvillea-draped pergola overlooking Alfama's terracotta rooftops"
     },
     "gallery": [
       {
-        "url": "/images/attractions/miradouro-de-santa-luzia-1.jpg",
+        "url": "/images/attractions/miradouro-de-santa-luzia-1.webp",
         "alt": "Historic azulejo tile panels showing pre-earthquake Lisbon and 1147 reconquest",
         "caption": "Magnificent azulejo panels depicting Lisbon's history - a cultural treasure"
       },
       {
-        "url": "/images/attractions/miradouro-de-santa-luzia-2.jpg",
+        "url": "/images/attractions/miradouro-de-santa-luzia-2.webp",
         "alt": "Lower terrace circular iron windows framing Alfama views",
         "caption": "Unique circular iron windows on lower terrace create perfect photo frames"
       }

@@ -158,18 +158,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/cork-workshop-hero.jpg",
+      "url": "/images/attractions/cork-workshop-hero.webp",
       "alt": "Participants creating cork crafts in Lisbon workshop",
       "caption": "Hands-on cork crafting workshop exploring Portugal's sustainable cork industry"
     },
     "gallery": [
       {
-        "url": "/images/attractions/cork-workshop-1.jpg",
+        "url": "/images/attractions/cork-workshop-1.webp",
         "alt": "Artisan demonstrating cork cutting techniques",
         "caption": "Expert instruction in traditional Portuguese cork craftsmanship"
       },
       {
-        "url": "/images/attractions/cork-workshop-2.jpg",
+        "url": "/images/attractions/cork-workshop-2.webp",
         "alt": "Handmade cork coasters and jewelry creations",
         "caption": "Beautiful cork products created during the workshop experience"
       }

@@ -69,7 +69,9 @@
           "lastAdmission": "Boarding closes 15 minutes before departure"
         }
       ],
-      "closedDates": ["Service may be canceled due to severe weather or unsafe river conditions"]
+      "closedDates": [
+        "Service may be canceled due to severe weather or unsafe river conditions"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -179,18 +181,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/tagus-river-sunset-cruise-hero.jpg",
+      "url": "/images/attractions/tagus-river-sunset-cruise-hero.webp",
       "alt": "Sunset cruise sailing past Belém Tower on the Tagus River with golden sky",
       "caption": "Experience Lisbon's iconic monuments bathed in magical golden-hour light from the historic Tagus River"
     },
     "gallery": [
       {
-        "url": "/images/attractions/tagus-river-sunset-cruise-1.jpg",
+        "url": "/images/attractions/tagus-river-sunset-cruise-1.webp",
         "alt": "25 de Abril Bridge and Cristo Rei statue at sunset",
         "caption": "Sail under the magnificent 25 de Abril Bridge with Cristo Rei statue glowing in evening light"
       },
       {
-        "url": "/images/attractions/tagus-river-sunset-cruise-2.jpg",
+        "url": "/images/attractions/tagus-river-sunset-cruise-2.webp",
         "alt": "Illuminated Praça do Comércio and Lisbon waterfront at twilight",
         "caption": "Watch Lisbon transform as city lights twinkle against the twilight sky along the elegant waterfront"
       }

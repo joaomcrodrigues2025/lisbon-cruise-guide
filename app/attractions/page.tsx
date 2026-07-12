@@ -1,16 +1,19 @@
-import { getAllAttractions, getAllCategories } from '@/lib/data';
+import { getAllAttractions } from '@/lib/data';
+import { CURATED_CATEGORIES } from '@/lib/taxonomy';
 import AttractionCard from '@/components/AttractionCard';
 import FilterChips from '@/components/FilterChips';
 import SearchBar from '@/components/SearchBar';
 
 export const metadata = {
   title: 'All Attractions in Lisbon | Complete Guide for Cruise Passengers',
-  description: 'Browse all 37 tourist attractions in Lisbon with photos, reviews, prices, and directions from cruise port. Find the perfect places to visit during your shore excursion.',
+  description: 'Browse all 70 tourist attractions in Lisbon with photos, reviews, prices, and directions from the cruise port. Find the perfect places to visit during your shore excursion.',
+  alternates: {
+    canonical: '/attractions',
+  },
 };
 
 export default async function AttractionsPage() {
   const attractions = await getAllAttractions();
-  const categories = await getAllCategories();
 
   return (
     <div className="relative flex flex-col w-full">
@@ -20,7 +23,7 @@ export default async function AttractionsPage() {
         <SearchBar />
       </div>
 
-      <FilterChips categories={categories} />
+      <FilterChips categories={CURATED_CATEGORIES.map((c) => ({ slug: c.slug, label: c.displayPlural }))} />
 
       <div className="px-4 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

@@ -162,18 +162,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/torre-de-belem-hero.jpg",
+      "url": "/images/attractions/torre-de-belem-hero.webp",
       "alt": "Torre de Belem tower on Tagus River",
       "caption": "The iconic Belem Tower rising from the Tagus River"
     },
     "gallery": [
       {
-        "url": "/images/attractions/torre-de-belem-1.jpg",
+        "url": "/images/attractions/torre-de-belem-1.webp",
         "alt": "Belem Tower architectural details",
         "caption": "Ornate Manueline stone carvings and corner turrets"
       },
       {
-        "url": "/images/attractions/torre-de-belem-2.jpg",
+        "url": "/images/attractions/torre-de-belem-2.webp",
         "alt": "View from Belem Tower terrace",
         "caption": "Panoramic views over the Tagus River and Belem waterfront"
       }

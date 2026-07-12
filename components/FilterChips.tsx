@@ -3,7 +3,7 @@
 import Link from 'next/link';
 
 interface FilterChipsProps {
-  categories: string[];
+  categories: Array<{ slug: string; label: string }>;
   activeCategory?: string;
 }
 
@@ -21,18 +21,15 @@ export default function FilterChips({ categories, activeCategory }: FilterChipsP
         >
           <p className="text-sm font-medium">All</p>
         </Link>
-        {categories.map((category) => {
-          const displayName = category
-            .split('-')
-            .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-            .join(' ');
+        {categories.map(({ slug, label }) => {
+          const displayName = label.replace(/^\w/, (c) => c.toUpperCase());
 
           return (
             <Link
-              key={category}
-              href={`/categories/${category}`}
+              key={slug}
+              href={`/categories/${slug}`}
               className={`flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-full pl-4 pr-4 transition-colors ${
-                activeCategory === category
+                activeCategory === slug
                   ? 'bg-[#003366] text-white'
                   : 'bg-slate-200 hover:bg-slate-300 text-slate-800'
               }`}

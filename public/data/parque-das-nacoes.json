@@ -147,13 +147,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/parque-das-nacoes-hero.jpg",
+      "url": "/images/attractions/parque-das-nacoes-hero.webp",
       "alt": "Parque das Nações waterfront",
       "caption": "The modern waterfront promenade at Parque das Nações"
     },
     "gallery": [
       {
-        "url": "/images/attractions/parque-das-nacoes-1.jpg",
+        "url": "/images/attractions/parque-das-nacoes-1.webp",
         "alt": "Vasco da Gama Tower",
         "caption": "The distinctive Vasco da Gama Tower overlooking the Tagus"
       }

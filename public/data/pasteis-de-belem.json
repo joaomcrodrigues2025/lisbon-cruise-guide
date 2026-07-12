@@ -145,13 +145,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/pasteis-de-belem-hero.jpg",
+      "url": "/images/attractions/pasteis-de-belem-hero.webp",
       "alt": "Pastéis de Belém storefront",
       "caption": "The iconic blue and white tiled facade of Pastéis de Belém"
     },
     "gallery": [
       {
-        "url": "/images/attractions/pasteis-de-belem-1.jpg",
+        "url": "/images/attractions/pasteis-de-belem-1.webp",
         "alt": "Freshly baked pastéis de nata",
         "caption": "The famous Portuguese custard tarts with cinnamon"
       }

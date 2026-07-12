@@ -157,18 +157,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/bacalhau-cooking-class-hero.jpg",
+      "url": "/images/attractions/bacalhau-cooking-class-hero.webp",
       "alt": "Chef teaching bacalhau preparation",
       "caption": "Learning to prepare traditional Portuguese bacalhau in hands-on cooking class"
     },
     "gallery": [
       {
-        "url": "/images/attractions/bacalhau-cooking-class-1.jpg",
+        "url": "/images/attractions/bacalhau-cooking-class-1.webp",
         "alt": "Completed bacalhau à Brás dish",
         "caption": "Delicious bacalhau à Brás prepared by class participants"
       },
       {
-        "url": "/images/attractions/bacalhau-cooking-class-2.jpg",
+        "url": "/images/attractions/bacalhau-cooking-class-2.webp",
         "alt": "Cooking class participants preparing ingredients",
         "caption": "Small group hands-on cooking experience in professional kitchen"
       }

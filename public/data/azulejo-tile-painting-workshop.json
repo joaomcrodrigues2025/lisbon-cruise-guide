@@ -160,18 +160,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/azulejo-tile-painting-workshop-hero.jpg",
+      "url": "/images/attractions/azulejo-tile-painting-workshop-hero.webp",
       "alt": "Lisbon cityscape",
       "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "/images/attractions/azulejo-tile-painting-workshop-1.jpg",
+        "url": "/images/attractions/azulejo-tile-painting-workshop-1.webp",
         "alt": "Lisbon panorama",
         "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "/images/attractions/azulejo-tile-painting-workshop-2.jpg",
+        "url": "/images/attractions/azulejo-tile-painting-workshop-2.webp",
         "alt": "Historic Tram 28 in Lisbon",
         "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }

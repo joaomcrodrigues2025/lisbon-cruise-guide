@@ -1,4 +1,5 @@
 import { Attraction } from './types';
+import { canonicalizeCategory } from './taxonomy';
 import fs from 'fs';
 import path from 'path';
 
@@ -53,6 +54,14 @@ export async function getAttractionsByCategory(category: string): Promise<Attrac
   const attractions = await getAllAttractions();
   return attractions.filter(attraction =>
     attraction.categories.includes(category)
+  );
+}
+
+// Get attractions by curated category, folding alias slugs into the canonical bucket
+export async function getAttractionsByCuratedCategory(slug: string): Promise<Attraction[]> {
+  const attractions = await getAllAttractions();
+  return attractions.filter(attraction =>
+    attraction.categories.some(category => canonicalizeCategory(category) === slug)
   );
 }
 

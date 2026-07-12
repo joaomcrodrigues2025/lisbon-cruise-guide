@@ -168,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/dolphin-watching-tour-hero.jpg",
+      "url": "/images/attractions/dolphin-watching-tour-hero.webp",
       "alt": "Bottlenose dolphins jumping in Sado Estuary waters",
       "caption": "Wild dolphins performing acrobatic displays during Sado Estuary boat tour"
     },
     "gallery": [
       {
-        "url": "/images/attractions/dolphin-watching-tour-1.jpg",
+        "url": "/images/attractions/dolphin-watching-tour-1.webp",
         "alt": "Tour boat with passengers observing dolphins",
         "caption": "Small-group eco-friendly boat tours offer intimate wildlife encounters"
       },
       {
-        "url": "/images/attractions/dolphin-watching-tour-2.jpg",
+        "url": "/images/attractions/dolphin-watching-tour-2.webp",
         "alt": "Sado Estuary with Arrábida cliffs in background",
         "caption": "Spectacular natural scenery of the Sado Estuary and Arrábida Natural Park"
       }

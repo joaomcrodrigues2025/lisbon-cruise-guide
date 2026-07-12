@@ -165,18 +165,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/obidos-hero.jpg",
+      "url": "/images/attractions/obidos-hero.webp",
       "alt": "Aerial view of Óbidos medieval walled town with white houses and castle",
       "caption": "The perfectly preserved medieval town of Óbidos enclosed within 12th-century walls"
     },
     "gallery": [
       {
-        "url": "/images/attractions/obidos-1.jpg",
+        "url": "/images/attractions/obidos-1.webp",
         "alt": "Colorful Rua Direita main street in Óbidos with shops and flowers",
         "caption": "The charming Rua Direita lined with traditional houses and artisan shops"
       },
       {
-        "url": "/images/attractions/obidos-2.jpg",
+        "url": "/images/attractions/obidos-2.webp",
         "alt": "Óbidos castle walls walkway with panoramic countryside views",
         "caption": "Walking the medieval walls offers spectacular 360-degree views of the region"
       }

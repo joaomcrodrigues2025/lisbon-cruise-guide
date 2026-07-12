@@ -168,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/nazare-hero.jpg",
+      "url": "/images/attractions/nazare-hero.webp",
       "alt": "Massive wave breaking at Praia do Norte in Nazaré with surfer",
       "caption": "Nazaré's legendary giant waves can reach 100 feet, making it the world's premier big wave surfing destination"
     },
     "gallery": [
       {
-        "url": "/images/attractions/nazare-1.jpg",
+        "url": "/images/attractions/nazare-1.webp",
         "alt": "Praia da Nazaré beach with colorful fishing boats and traditional houses",
         "caption": "The main beach of Nazaré retains its charming fishing village character"
       },
       {
-        "url": "/images/attractions/nazare-2.jpg",
+        "url": "/images/attractions/nazare-2.webp",
         "alt": "São Miguel Arcanjo Fort and lighthouse overlooking Praia do Norte",
         "caption": "The iconic fort and lighthouse offer the best vantage point for viewing giant waves"
       }

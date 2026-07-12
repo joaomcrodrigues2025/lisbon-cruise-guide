@@ -167,18 +167,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/sintra-unesco-town-hero.jpg",
+      "url": "/images/attractions/sintra-unesco-town-hero.webp",
       "alt": "Pena Palace in Sintra",
       "caption": "The colorful Pena Palace, UNESCO World Heritage Site"
     },
     "gallery": [
       {
-        "url": "/images/attractions/sintra-unesco-town-1.jpg",
+        "url": "/images/attractions/sintra-unesco-town-1.webp",
         "alt": "Quinta da Regaleira palace",
         "caption": "The romantic Quinta da Regaleira with its mystical gardens"
       },
       {
-        "url": "/images/attractions/sintra-unesco-town-2.jpg",
+        "url": "/images/attractions/sintra-unesco-town-2.webp",
         "alt": "Sintra town center",
         "caption": "The charming historic center of Sintra"
       }

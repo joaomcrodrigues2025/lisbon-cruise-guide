@@ -27,7 +27,7 @@
     },
     "coordinates": {
       "latitude": 38.7252,
-      "longitude": -9.1500
+      "longitude": -9.15
     },
     "directions": {
       "general": "Main starting point at Marquês de Pombal, with 38+ stops throughout Lisbon including near cruise terminals",
@@ -71,7 +71,7 @@
       "currency": "EUR",
       "adult": 39,
       "youth": 0,
-      "child": 19.50,
+      "child": 19.5,
       "senior": 39,
       "family": 0,
       "lisboaCardFree": false,
@@ -167,18 +167,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/hop-on-hop-off-bus-tour-hero.jpg",
+      "url": "/images/attractions/hop-on-hop-off-bus-tour-hero.webp",
       "alt": "Red City Sightseeing double-decker bus with open top in front of Belém Tower",
       "caption": "Explore Lisbon's UNESCO World Heritage sites on the open-top Hop-On Hop-Off Bus"
     },
     "gallery": [
       {
-        "url": "/images/attractions/hop-on-hop-off-bus-tour-1.jpg",
+        "url": "/images/attractions/hop-on-hop-off-bus-tour-1.webp",
         "alt": "Passengers enjoying panoramic views from upper deck of sightseeing bus",
         "caption": "360-degree panoramic views from the open-top upper deck"
       },
       {
-        "url": "/images/attractions/hop-on-hop-off-bus-tour-2.jpg",
+        "url": "/images/attractions/hop-on-hop-off-bus-tour-2.webp",
         "alt": "Hop-on hop-off bus passing through Praça do Comércio",
         "caption": "Convenient stops at all major Lisbon attractions including Praça do Comércio"
       }

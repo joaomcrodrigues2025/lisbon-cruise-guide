@@ -81,7 +81,9 @@
           "lastAdmission": "17:30"
         }
       ],
-      "closedDates": ["Major monuments closed: January 1, Easter Sunday, May 1, December 25"]
+      "closedDates": [
+        "Major monuments closed: January 1, Easter Sunday, May 1, December 25"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -184,18 +186,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/evora-hero.jpg",
+      "url": "/images/attractions/evora-hero.webp",
       "alt": "Roman Temple of Diana with Corinthian columns in Évora historic center",
       "caption": "The remarkably preserved 1st-century Roman Temple dominates Évora's UNESCO World Heritage historic center"
     },
     "gallery": [
       {
-        "url": "/images/attractions/evora-1.jpg",
+        "url": "/images/attractions/evora-1.webp",
         "alt": "Capela dos Ossos interior with walls covered in human bones and skulls",
         "caption": "The macabre Capela dos Ossos - walls and columns decorated with 5,000 human skeletons"
       },
       {
-        "url": "/images/attractions/evora-2.jpg",
+        "url": "/images/attractions/evora-2.webp",
         "alt": "Évora Cathedral (Sé) fortress-like Gothic exterior",
         "caption": "The imposing Sé Cathedral, one of Portugal's most important Gothic buildings"
       }

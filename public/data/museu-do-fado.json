@@ -160,18 +160,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/museu-do-fado-hero.jpg",
+      "url": "/images/attractions/museu-do-fado-hero.webp",
       "alt": "Museu do Fado exterior building",
       "caption": "The Fado Museum in Alfama, celebrating Portugal's musical soul"
     },
     "gallery": [
       {
-        "url": "/images/attractions/museu-do-fado-1.jpg",
+        "url": "/images/attractions/museu-do-fado-1.webp",
         "alt": "Portuguese guitar display",
         "caption": "Traditional Portuguese guitars and Fado instruments on display"
       },
       {
-        "url": "/images/attractions/museu-do-fado-2.jpg",
+        "url": "/images/attractions/museu-do-fado-2.webp",
         "alt": "Amalia Rodrigues exhibit",
         "caption": "Tribute to Amalia Rodrigues, the Queen of Fado"
       }

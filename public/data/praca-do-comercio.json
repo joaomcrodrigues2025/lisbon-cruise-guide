@@ -165,28 +165,28 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/praca-do-comercio-hero.jpg",
+      "url": "/images/attractions/praca-do-comercio-hero.webp",
       "alt": "Praça do Comércio with yellow colonnades and Arco da Rua Augusta",
       "caption": "The magnificent Praça do Comércio, Lisbon's grandest square opening onto the Tagus River"
     },
     "gallery": [
       {
-        "url": "/images/attractions/praca-do-comercio-1.jpg",
+        "url": "/images/attractions/praca-do-comercio-1.webp",
         "alt": "View of Praça do Comércio from Tagus River",
         "caption": "The square as seen from the river - Lisbon's historic gateway"
       },
       {
-        "url": "/images/attractions/praca-do-comercio-2.jpg",
+        "url": "/images/attractions/praca-do-comercio-2.webp",
         "alt": "Arco da Rua Augusta triumphal arch",
         "caption": "The magnificent Arco da Rua Augusta crowned with allegorical statues"
       },
       {
-        "url": "/images/attractions/praca-do-comercio-3.jpg",
+        "url": "/images/attractions/praca-do-comercio-3.webp",
         "alt": "Cais das Colunas marble stairs",
         "caption": "The iconic marble stairs to the river flanked by columns"
       },
       {
-        "url": "/images/attractions/praca-do-comercio-4.jpg",
+        "url": "/images/attractions/praca-do-comercio-4.webp",
         "alt": "Equestrian statue of King José I",
         "caption": "The imposing bronze equestrian statue at the square's center"
       }

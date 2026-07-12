@@ -164,18 +164,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/castelo-de-sao-jorge-hero.jpg",
+      "url": "/images/attractions/castelo-de-sao-jorge-hero.webp",
       "alt": "Castelo de Sao Jorge castle towers",
       "caption": "The imposing towers of St. George's Castle overlooking Lisbon"
     },
     "gallery": [
       {
-        "url": "/images/attractions/castelo-de-sao-jorge-1.jpg",
+        "url": "/images/attractions/castelo-de-sao-jorge-1.webp",
         "alt": "View from castle battlements",
         "caption": "Panoramic view over Lisbon's rooftops and the Tagus River"
       },
       {
-        "url": "/images/attractions/castelo-de-sao-jorge-2.jpg",
+        "url": "/images/attractions/castelo-de-sao-jorge-2.webp",
         "alt": "Medieval castle walls",
         "caption": "Walking the ancient battlements and defensive walls"
       }

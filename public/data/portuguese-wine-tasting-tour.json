@@ -154,18 +154,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/portuguese-wine-tasting-tour-hero.jpg",
+      "url": "/images/attractions/portuguese-wine-tasting-tour-hero.webp",
       "alt": "Portuguese wine tasting with regional wines",
       "caption": "Discovering Portugal's diverse wine regions through guided tasting experience"
     },
     "gallery": [
       {
-        "url": "/images/attractions/portuguese-wine-tasting-tour-1.jpg",
+        "url": "/images/attractions/portuguese-wine-tasting-tour-1.webp",
         "alt": "Sommelier presenting Portuguese wines",
         "caption": "Expert sommeliers guide guests through Portugal's unique wine varieties"
       },
       {
-        "url": "/images/attractions/portuguese-wine-tasting-tour-2.jpg",
+        "url": "/images/attractions/portuguese-wine-tasting-tour-2.webp",
         "alt": "Portuguese vineyard landscape",
         "caption": "Beautiful vineyard landscapes in Portugal's wine country near Lisbon"
       }

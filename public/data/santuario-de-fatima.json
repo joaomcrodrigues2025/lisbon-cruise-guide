@@ -29,7 +29,7 @@
     },
     "coordinates": {
       "latitude": 39.6312,
-      "longitude": -8.6720
+      "longitude": -8.672
     },
     "directions": {
       "general": "Located in Fátima town center, 130 km north of Lisbon. Well signposted from major highways. Large parking facilities available near sanctuary.",
@@ -168,28 +168,28 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/santuario-de-fatima-hero.jpg",
+      "url": "/images/attractions/santuario-de-fatima-hero.webp",
       "alt": "Vast esplanade of Santuário de Fátima with Basilica of Our Lady of the Rosary tower",
       "caption": "The massive sanctuary esplanade with the iconic Basilica tower dominating the skyline"
     },
     "gallery": [
       {
-        "url": "/images/attractions/santuario-de-fatima-1.jpg",
+        "url": "/images/attractions/santuario-de-fatima-1.webp",
         "alt": "Capela das Aparições - Chapel of the Apparitions at night",
         "caption": "The Chapel of Apparitions marking the exact spot where Mary appeared to the children"
       },
       {
-        "url": "/images/attractions/santuario-de-fatima-2.jpg",
+        "url": "/images/attractions/santuario-de-fatima-2.webp",
         "alt": "Candlelight procession at Fátima sanctuary at night",
         "caption": "Evening candlelight procession - one of Fátima's most moving spiritual experiences"
       },
       {
-        "url": "/images/attractions/santuario-de-fatima-3.jpg",
+        "url": "/images/attractions/santuario-de-fatima-3.webp",
         "alt": "Modern Basilica of the Holy Trinity interior",
         "caption": "The stunning modern Basilica of the Holy Trinity, one of the world's largest churches"
       },
       {
-        "url": "/images/attractions/santuario-de-fatima-4.jpg",
+        "url": "/images/attractions/santuario-de-fatima-4.webp",
         "alt": "Pilgrims gathered in esplanade during major pilgrimage",
         "caption": "Hundreds of thousands of pilgrims gather for major anniversaries on May 13 and October 13"
       }

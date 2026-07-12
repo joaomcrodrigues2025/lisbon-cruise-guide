@@ -155,18 +155,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/port-wine-tasting-experience-hero.jpg",
+      "url": "/images/attractions/port-wine-tasting-experience-hero.webp",
       "alt": "Port wine glasses with cheese pairings",
       "caption": "Premium port wine tasting with artisanal Portuguese cheese and charcuterie"
     },
     "gallery": [
       {
-        "url": "/images/attractions/port-wine-tasting-experience-1.jpg",
+        "url": "/images/attractions/port-wine-tasting-experience-1.webp",
         "alt": "Sommelier pouring port wine",
         "caption": "Expert sommelier guiding guests through port wine varieties"
       },
       {
-        "url": "/images/attractions/port-wine-tasting-experience-2.jpg",
+        "url": "/images/attractions/port-wine-tasting-experience-2.webp",
         "alt": "Historic Lisbon wine cellar",
         "caption": "Atmospheric wine cellar in historic Lisbon neighborhood"
       }

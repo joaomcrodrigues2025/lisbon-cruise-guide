@@ -155,23 +155,23 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/tram-28-hero.jpg",
+      "url": "/images/attractions/tram-28-hero.webp",
       "alt": "Iconic yellow Tram 28 on narrow Alfama street",
       "caption": "Vintage Tram 28 navigating the steep, narrow streets of historic Alfama"
     },
     "gallery": [
       {
-        "url": "/images/attractions/tram-28-1.jpg",
+        "url": "/images/attractions/tram-28-1.webp",
         "alt": "Inside vintage Tram 28",
         "caption": "The authentic 1930s wooden interior with brass fittings and vintage seating"
       },
       {
-        "url": "/images/attractions/tram-28-2.jpg",
+        "url": "/images/attractions/tram-28-2.webp",
         "alt": "Tram 28 passing Lisbon Cathedral",
         "caption": "Tram 28 stops right at the door of the Sé Cathedral in Alfama"
       },
       {
-        "url": "/images/attractions/tram-28-3.jpg",
+        "url": "/images/attractions/tram-28-3.webp",
         "alt": "Crowded Tram 28 in Chiado",
         "caption": "The tram passing through elegant Chiado shopping district"
       }

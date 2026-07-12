@@ -173,18 +173,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/lisbon-bike-tour-hero.jpg",
+      "url": "/images/attractions/lisbon-bike-tour-hero.webp",
       "alt": "Cyclists riding e-bikes through historic Alfama neighborhood",
       "caption": "Exploring Lisbon's charming streets and viewpoints on a guided e-bike tour"
     },
     "gallery": [
       {
-        "url": "/images/attractions/lisbon-bike-tour-1.jpg",
+        "url": "/images/attractions/lisbon-bike-tour-1.webp",
         "alt": "Tour group at Miradouro viewpoint overlooking Lisbon",
         "caption": "Panoramic city views from one of Lisbon's famous miradouros"
       },
       {
-        "url": "/images/attractions/lisbon-bike-tour-2.jpg",
+        "url": "/images/attractions/lisbon-bike-tour-2.webp",
         "alt": "Cyclists on Tagus River waterfront bike path",
         "caption": "Scenic riverside cycling along the beautiful Tagus River promenade"
       }

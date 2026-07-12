@@ -153,13 +153,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/padrao-dos-descobrimentos-hero.jpg",
+      "url": "/images/attractions/padrao-dos-descobrimentos-hero.webp",
       "alt": "Padrão dos Descobrimentos monument",
       "caption": "The impressive Monument to the Discoveries overlooking the Tagus River"
     },
     "gallery": [
       {
-        "url": "/images/attractions/padrao-dos-descobrimentos-1.jpg",
+        "url": "/images/attractions/padrao-dos-descobrimentos-1.webp",
         "alt": "Aerial view of Padrão dos Descobrimentos",
         "caption": "Panoramic view showing the monument and compass rose mosaic"
       }

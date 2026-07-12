@@ -162,18 +162,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/miradouro-da-graca-hero.jpg",
+      "url": "/images/attractions/miradouro-da-graca-hero.webp",
       "alt": "Sunset view over Lisbon from Miradouro da Graça with pine trees in foreground",
       "caption": "Spectacular sunset panorama from Lisbon's highest viewpoint - Miradouro da Graça"
     },
     "gallery": [
       {
-        "url": "/images/attractions/miradouro-da-graca-1.jpg",
+        "url": "/images/attractions/miradouro-da-graca-1.webp",
         "alt": "Pine tree shaded terrace at Miradouro da Graça with stone benches",
         "caption": "The characteristic Portuguese pine trees provide shade and Mediterranean atmosphere"
       },
       {
-        "url": "/images/attractions/miradouro-da-graca-2.jpg",
+        "url": "/images/attractions/miradouro-da-graca-2.webp",
         "alt": "Locals enjoying coffee at Esplanada da Graça café with city views",
         "caption": "Esplanada da Graça café terrace - a favorite local gathering spot"
       }

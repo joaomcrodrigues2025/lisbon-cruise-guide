@@ -64,7 +64,10 @@
           "lastAdmission": "18:00"
         }
       ],
-      "closedDates": ["December 25", "January 1"]
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -154,28 +157,28 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/palacio-da-pena-hero.jpg",
+      "url": "/images/attractions/palacio-da-pena-hero.webp",
       "alt": "Palácio Nacional da Pena with its iconic yellow and red facades against blue sky",
       "caption": "The stunning Romanticist Palácio da Pena perched on Sintra's highest peak"
     },
     "gallery": [
       {
-        "url": "/images/attractions/palacio-da-pena-1.jpg",
+        "url": "/images/attractions/palacio-da-pena-1.webp",
         "alt": "Panoramic view of Palácio da Pena from the park",
         "caption": "The fairytale palace rising above the forested Sintra hills"
       },
       {
-        "url": "/images/attractions/palacio-da-pena-2.jpg",
+        "url": "/images/attractions/palacio-da-pena-2.webp",
         "alt": "Ornate interior hall of Palácio da Pena with decorative ceiling",
         "caption": "Lavishly decorated Noble Hall with preserved 19th-century furnishings"
       },
       {
-        "url": "/images/attractions/palacio-da-pena-3.jpg",
+        "url": "/images/attractions/palacio-da-pena-3.webp",
         "alt": "Triton Terrace with mythological sculpture",
         "caption": "The famous Triton sculpture supporting the palace terraces"
       },
       {
-        "url": "/images/attractions/palacio-da-pena-4.jpg",
+        "url": "/images/attractions/palacio-da-pena-4.webp",
         "alt": "Sunset view from palace ramparts over Sintra landscape",
         "caption": "Breathtaking panoramic views extending to the Atlantic Ocean"
       }

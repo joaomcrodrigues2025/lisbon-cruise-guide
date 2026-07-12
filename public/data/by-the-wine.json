@@ -157,18 +157,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/by-the-wine-hero.jpg",
+      "url": "/images/attractions/by-the-wine-hero.webp",
       "alt": "Lisbon cityscape",
       "caption": "Beautiful view of Lisbon"
     },
     "gallery": [
       {
-        "url": "/images/attractions/by-the-wine-1.jpg",
+        "url": "/images/attractions/by-the-wine-1.webp",
         "alt": "Lisbon panorama",
         "caption": "Panoramic view of Lisbon and the Tagus River"
       },
       {
-        "url": "/images/attractions/by-the-wine-2.jpg",
+        "url": "/images/attractions/by-the-wine-2.webp",
         "alt": "Historic Tram 28 in Lisbon",
         "caption": "The iconic yellow Tram 28 on Lisbon streets"
       }

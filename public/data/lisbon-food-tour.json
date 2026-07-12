@@ -63,7 +63,10 @@
           "lastAdmission": "Booking required in advance"
         }
       ],
-      "closedDates": ["December 25", "January 1"]
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -161,18 +164,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/lisbon-food-tour-hero.jpg",
+      "url": "/images/attractions/lisbon-food-tour-hero.webp",
       "alt": "Group toasting with Portuguese wine on Lisbon food tour",
       "caption": "Discover authentic Portuguese cuisine and culture with local expert guides in hidden Lisbon neighborhoods"
     },
     "gallery": [
       {
-        "url": "/images/attractions/lisbon-food-tour-1.jpg",
+        "url": "/images/attractions/lisbon-food-tour-1.webp",
         "alt": "Traditional Portuguese petiscos spread at family restaurant",
         "caption": "Sample authentic Portuguese petiscos at traditional family-owned restaurants off the tourist path"
       },
       {
-        "url": "/images/attractions/lisbon-food-tour-2.jpg",
+        "url": "/images/attractions/lisbon-food-tour-2.webp",
         "alt": "Fresh pastel de nata Portuguese custard tarts",
         "caption": "Taste warm pastéis de nata fresh from traditional bakery ovens in historic neighborhoods"
       }
@@ -244,7 +247,7 @@
   "indoorActivities": true,
   "outdoorActivities": true,
   "priceRange": "$$$",
-  "rating": 5.0,
+  "rating": 5,
   "reviewCount": 6700,
   "reviewSource": "TripAdvisor/Google/Viator"
 }

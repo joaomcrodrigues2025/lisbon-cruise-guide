@@ -63,7 +63,9 @@
           "lastAdmission": "Book in advance, especially peak season"
         }
       ],
-      "closedDates": ["Tours may be canceled during severe weather (heavy rain, high winds) for safety"]
+      "closedDates": [
+        "Tours may be canceled during severe weather (heavy rain, high winds) for safety"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -174,18 +176,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/lisbon-tuk-tuk-tour-hero.jpg",
+      "url": "/images/attractions/lisbon-tuk-tuk-tour-hero.webp",
       "alt": "Colorful tuk-tuk navigating narrow cobblestone street in Alfama neighborhood",
       "caption": "Explore Lisbon's charming hills and hidden streets in comfort aboard eco-friendly tuk-tuks with expert local guides"
     },
     "gallery": [
       {
-        "url": "/images/attractions/lisbon-tuk-tuk-tour-1.jpg",
+        "url": "/images/attractions/lisbon-tuk-tuk-tour-1.webp",
         "alt": "Tuk-tuk at panoramic Portas do Sol viewpoint overlooking Alfama",
         "caption": "Stop at spectacular miradouros for Instagram-worthy panoramic views of historic Lisbon"
       },
       {
-        "url": "/images/attractions/lisbon-tuk-tuk-tour-2.jpg",
+        "url": "/images/attractions/lisbon-tuk-tuk-tour-2.webp",
         "alt": "Tuk-tuk passing Belém Tower with passengers taking photos",
         "caption": "Visit iconic monuments like Belém Tower while navigating effortlessly through Lisbon's diverse neighborhoods"
       }

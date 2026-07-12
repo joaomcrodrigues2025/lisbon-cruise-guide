@@ -69,7 +69,12 @@
           "lastAdmission": "17:30"
         }
       ],
-      "closedDates": ["January 1", "Easter Sunday", "May 1", "December 25"]
+      "closedDates": [
+        "January 1",
+        "Easter Sunday",
+        "May 1",
+        "December 25"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -168,18 +173,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/mosteiro-da-batalha-hero.jpg",
+      "url": "/images/attractions/mosteiro-da-batalha-hero.webp",
       "alt": "Batalha Monastery facade with Gothic spires and flying buttresses",
       "caption": "The magnificent facade of Batalha Monastery, a UNESCO World Heritage masterpiece of Portuguese Gothic architecture"
     },
     "gallery": [
       {
-        "url": "/images/attractions/mosteiro-da-batalha-1.jpg",
+        "url": "/images/attractions/mosteiro-da-batalha-1.webp",
         "alt": "Royal Cloister with delicate Manueline tracery arches",
         "caption": "The Royal Cloister showcases the finest Manueline Gothic architecture in Portugal"
       },
       {
-        "url": "/images/attractions/mosteiro-da-batalha-2.jpg",
+        "url": "/images/attractions/mosteiro-da-batalha-2.webp",
         "alt": "Unfinished Chapels octagonal rotunda with open sky",
         "caption": "The enigmatic Unfinished Chapels - a hauntingly beautiful incomplete masterpiece"
       }

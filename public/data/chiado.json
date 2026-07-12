@@ -141,13 +141,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/chiado-hero.jpg",
+      "url": "/images/attractions/chiado-hero.webp",
       "alt": "Chiado district shopping street",
       "caption": "The elegant shopping streets of Chiado"
     },
     "gallery": [
       {
-        "url": "/images/attractions/chiado-1.jpg",
+        "url": "/images/attractions/chiado-1.webp",
         "alt": "A Brasileira café in Chiado",
         "caption": "The historic A Brasileira café, a Chiado landmark"
       }

@@ -28,7 +28,7 @@
       "country": "Portugal"
     },
     "coordinates": {
-      "latitude": 38.7930,
+      "latitude": 38.793,
       "longitude": -9.4194
     },
     "directions": {
@@ -65,7 +65,10 @@
           "lastAdmission": "18:00"
         }
       ],
-      "closedDates": ["December 25", "January 1"]
+      "closedDates": [
+        "December 25",
+        "January 1"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -156,28 +159,28 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/palacio-de-monserrate-hero.jpg",
+      "url": "/images/attractions/palacio-de-monserrate-hero.webp",
       "alt": "Palácio de Monserrate with distinctive Moorish-Indian architecture and domed towers",
       "caption": "The exotic palace blending Moorish, Gothic, and Indian architectural styles"
     },
     "gallery": [
       {
-        "url": "/images/attractions/palacio-de-monserrate-1.jpg",
+        "url": "/images/attractions/palacio-de-monserrate-1.webp",
         "alt": "Octagonal Room with intricate honeycomb dome inspired by Alhambra",
         "caption": "The stunning Octagonal Room with ornate Islamic-inspired stucco work"
       },
       {
-        "url": "/images/attractions/palacio-de-monserrate-2.jpg",
+        "url": "/images/attractions/palacio-de-monserrate-2.webp",
         "alt": "Lush botanical gardens with exotic plants and pathways",
         "caption": "The magnificent 33-hectare gardens featuring plants from five continents"
       },
       {
-        "url": "/images/attractions/palacio-de-monserrate-3.jpg",
+        "url": "/images/attractions/palacio-de-monserrate-3.webp",
         "alt": "Mexican Garden with cacti and succulent collection",
         "caption": "The Mexican Garden showcasing exotic cacti and succulent species"
       },
       {
-        "url": "/images/attractions/palacio-de-monserrate-4.jpg",
+        "url": "/images/attractions/palacio-de-monserrate-4.webp",
         "alt": "Palace exterior showing Moorish arches and Indian-style domes",
         "caption": "Eclectic architectural fusion with Moorish arches and Indian domes"
       }

@@ -150,13 +150,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-hero.jpg",
+      "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-hero.webp",
       "alt": "View from Miradouro de São Pedro de Alcântara",
       "caption": "Stunning panoramic views over Lisbon from the viewpoint"
     },
     "gallery": [
       {
-        "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-1.jpg",
+        "url": "/images/attractions/miradouro-de-sao-pedro-de-alcantara-1.webp",
         "alt": "Terrace at Miradouro de São Pedro de Alcântara",
         "caption": "The beautifully landscaped terrace garden with viewing area"
       }

@@ -175,13 +175,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/convento-do-carmo-hero.jpg",
+      "url": "/images/attractions/convento-do-carmo-hero.webp",
       "alt": "Ruins of Convento do Carmo",
       "caption": "The hauntingly beautiful open-air ruins of Carmo Convent"
     },
     "gallery": [
       {
-        "url": "/images/attractions/convento-do-carmo-1.jpg",
+        "url": "/images/attractions/convento-do-carmo-1.webp",
         "alt": "Interior of Carmo Archaeological Museum",
         "caption": "The roofless nave now houses an archaeological museum"
       }

@@ -26,7 +26,7 @@
       "country": "Portugal"
     },
     "coordinates": {
-      "latitude": 38.7680,
+      "latitude": 38.768,
       "longitude": -9.0945
     },
     "directions": {
@@ -75,10 +75,10 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 6.50,
-      "youth": 3.50,
-      "child": 3.50,
-      "senior": 3.50,
+      "adult": 6.5,
+      "youth": 3.5,
+      "child": 3.5,
+      "senior": 3.5,
       "family": 18,
       "lisboaCardFree": false,
       "notes": "Adult one-way €6.50, round-trip €9.50. Children 4-12 years and seniors 65+ €3.50 one-way, €5.50 round-trip. Children under 4 free. Family ticket (2 adults + 2 children) €18 round-trip. Combined tickets with Oceanário available at discount. Lisboa Card holders receive 20% discount"
@@ -168,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/teleferico-de-lisboa-hero.jpg",
+      "url": "/images/attractions/teleferico-de-lisboa-hero.webp",
       "alt": "Lisbon Cable Car gondolas above Parque das Nações waterfront",
       "caption": "Spectacular aerial views of the Tagus River and Vasco da Gama Bridge from Teleférico de Lisboa"
     },
     "gallery": [
       {
-        "url": "/images/attractions/teleferico-de-lisboa-1.jpg",
+        "url": "/images/attractions/teleferico-de-lisboa-1.webp",
         "alt": "Cable car gondola with Oceanário in background",
         "caption": "Gliding above Parque das Nações with views of the iconic Oceanário"
       },
       {
-        "url": "/images/attractions/teleferico-de-lisboa-2.jpg",
+        "url": "/images/attractions/teleferico-de-lisboa-2.webp",
         "alt": "Panoramic view of Vasco da Gama Bridge from cable car",
         "caption": "Stunning perspective of Europe's longest bridge spanning the Tagus River"
       }

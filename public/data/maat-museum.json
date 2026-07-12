@@ -164,13 +164,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/maat-museum-hero.jpg",
+      "url": "/images/attractions/maat-museum-hero.webp",
       "alt": "MAAT Museum exterior",
       "caption": "The striking contemporary architecture of MAAT"
     },
     "gallery": [
       {
-        "url": "/images/attractions/maat-museum-1.jpg",
+        "url": "/images/attractions/maat-museum-1.webp",
         "alt": "MAAT by the Tagus River",
         "caption": "MAAT's white curved structure along the riverfront"
       }

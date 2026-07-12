@@ -69,7 +69,12 @@
           "lastAdmission": "16:30"
         }
       ],
-      "closedDates": ["January 1", "Easter Sunday", "May 1", "December 25"]
+      "closedDates": [
+        "January 1",
+        "Easter Sunday",
+        "May 1",
+        "December 25"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
@@ -163,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/museu-maritimo-nacional-hero.jpg",
+      "url": "/images/attractions/museu-maritimo-nacional-hero.webp",
       "alt": "Ornate royal barge on display at the Maritime Museum Lisbon",
       "caption": "Lavishly decorated royal barge used by Portuguese monarchs, one of the museum's crown jewels"
     },
     "gallery": [
       {
-        "url": "/images/attractions/museu-maritimo-nacional-1.jpg",
+        "url": "/images/attractions/museu-maritimo-nacional-1.webp",
         "alt": "Jerónimos Monastery exterior in Belém housing the Maritime Museum",
         "caption": "The Maritime Museum is housed in the iconic Jerónimos Monastery in Belém"
       },
       {
-        "url": "/images/attractions/museu-maritimo-nacional-2.jpg",
+        "url": "/images/attractions/museu-maritimo-nacional-2.webp",
         "alt": "Collection of historic ship models at the Maritime Museum",
         "caption": "Over 2,500 intricately detailed ship models chronicle Portuguese naval history"
       }

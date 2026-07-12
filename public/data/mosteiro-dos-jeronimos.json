@@ -159,18 +159,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/mosteiro-dos-jeronimos-hero.jpg",
+      "url": "/images/attractions/mosteiro-dos-jeronimos-hero.webp",
       "alt": "Mosteiro dos Jeronimos monastery facade",
       "caption": "The magnificent Manueline facade of Jeronimos Monastery in Belem"
     },
     "gallery": [
       {
-        "url": "/images/attractions/mosteiro-dos-jeronimos-1.jpg",
+        "url": "/images/attractions/mosteiro-dos-jeronimos-1.webp",
         "alt": "Jeronimos Monastery cloister",
         "caption": "The stunning two-story cloister with intricate stone carvings"
       },
       {
-        "url": "/images/attractions/mosteiro-dos-jeronimos-2.jpg",
+        "url": "/images/attractions/mosteiro-dos-jeronimos-2.webp",
         "alt": "Church of Santa Maria interior",
         "caption": "The soaring vaulted ceiling of the Church of Santa Maria"
       }

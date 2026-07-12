@@ -168,18 +168,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/parque-natural-da-arrabida-hero.jpg",
+      "url": "/images/attractions/parque-natural-da-arrabida-hero.webp",
       "alt": "Turquoise waters of Portinho da Arrábida beach with Serra da Arrábida mountains",
       "caption": "The pristine turquoise waters of Portinho da Arrábida, protected by dramatic mountain scenery"
     },
     "gallery": [
       {
-        "url": "/images/attractions/parque-natural-da-arrabida-1.jpg",
+        "url": "/images/attractions/parque-natural-da-arrabida-1.webp",
         "alt": "Dramatic cliffs and forests of Serra da Arrábida overlooking the sea",
         "caption": "The Serra da Arrábida mountains create a unique Mediterranean microclimate with lush forests"
       },
       {
-        "url": "/images/attractions/parque-natural-da-arrabida-2.jpg",
+        "url": "/images/attractions/parque-natural-da-arrabida-2.webp",
         "alt": "Ribeiro do Cavalo secluded beach with turquoise water",
         "caption": "Ribeiro do Cavalo - one of Portugal's most beautiful hidden beaches, accessible by coastal trail"
       }

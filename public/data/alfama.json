@@ -155,18 +155,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/alfama-hero.jpg",
+      "url": "/images/attractions/alfama-hero.webp",
       "alt": "Alfama narrow streets and traditional houses",
       "caption": "The charming cobblestone streets and colorful buildings of Alfama"
     },
     "gallery": [
       {
-        "url": "/images/attractions/alfama-1.jpg",
+        "url": "/images/attractions/alfama-1.webp",
         "alt": "Tram 28 in Alfama",
         "caption": "Iconic yellow Tram 28 navigating Alfama's narrow streets"
       },
       {
-        "url": "/images/attractions/alfama-2.jpg",
+        "url": "/images/attractions/alfama-2.webp",
         "alt": "Alfama viewpoint",
         "caption": "Panoramic view over Alfama's rooftops from Portas do Sol"
       }

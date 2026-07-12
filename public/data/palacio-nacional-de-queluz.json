@@ -155,18 +155,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/palacio-nacional-de-queluz-hero.jpg",
+      "url": "/images/attractions/palacio-nacional-de-queluz-hero.webp",
       "alt": "Palácio Nacional de Queluz pink facade with formal gardens",
       "caption": "The stunning Rococo facade of Queluz Palace with its geometric French gardens"
     },
     "gallery": [
       {
-        "url": "/images/attractions/palacio-nacional-de-queluz-1.jpg",
+        "url": "/images/attractions/palacio-nacional-de-queluz-1.webp",
         "alt": "Throne Room interior at Queluz Palace",
         "caption": "The magnificent Throne Room with painted ceiling and gilded decoration"
       },
       {
-        "url": "/images/attractions/palacio-nacional-de-queluz-2.jpg",
+        "url": "/images/attractions/palacio-nacional-de-queluz-2.webp",
         "alt": "Azulejo Canal at Queluz Gardens",
         "caption": "The famous tile-lined canal in the palace gardens"
       }

@@ -149,13 +149,13 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/igreja-de-sao-roque-hero.jpg",
+      "url": "/images/attractions/igreja-de-sao-roque-hero.webp",
       "alt": "Igreja de São Roque interior",
       "caption": "The incredibly ornate Chapel of St. John the Baptist"
     },
     "gallery": [
       {
-        "url": "/images/attractions/igreja-de-sao-roque-1.jpg",
+        "url": "/images/attractions/igreja-de-sao-roque-1.webp",
         "alt": "Gold chapel at São Roque",
         "caption": "The lavish gold and lapis lazuli decorated chapel"
       }

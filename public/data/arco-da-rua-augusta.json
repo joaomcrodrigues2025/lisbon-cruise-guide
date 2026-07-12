@@ -73,8 +73,8 @@
       "currency": "EUR",
       "adult": 5,
       "youth": 0,
-      "child": 2.50,
-      "senior": 2.50,
+      "child": 2.5,
+      "senior": 2.5,
       "family": 12,
       "lisboaCardFree": false,
       "notes": "Adult: €5. Youth/Student (13-25 with ID): €2.50. Children (6-12): €2.50. Children under 6: FREE. Seniors (65+): €2.50. Family ticket (2 adults + 2 children): €12. Free cancellation up to 24 hours before visit if booked online. Extremely affordable for the experience. Cash and card accepted. Book online to skip queues"
@@ -169,18 +169,18 @@
   },
   "images": {
     "heroImage": {
-      "url": "/images/attractions/arco-da-rua-augusta-hero.jpg",
+      "url": "/images/attractions/arco-da-rua-augusta-hero.webp",
       "alt": "Arco da Rua Augusta triumphal arch with Glory crowning Genius and Valor sculptures at top",
       "caption": "The magnificent Arco da Rua Augusta, gateway to Praça do Comércio and symbol of Lisbon's resilience"
     },
     "gallery": [
       {
-        "url": "/images/attractions/arco-da-rua-augusta-1.jpg",
+        "url": "/images/attractions/arco-da-rua-augusta-1.webp",
         "alt": "360-degree panoramic view from rooftop terrace showing Praça do Comércio and Tagus River",
         "caption": "Spectacular bird's-eye view of Praça do Comércio and the Tagus River from the rooftop terrace"
       },
       {
-        "url": "/images/attractions/arco-da-rua-augusta-2.jpg",
+        "url": "/images/attractions/arco-da-rua-augusta-2.webp",
         "alt": "Four colossal statues of Portuguese heroes on the arch facade",
         "caption": "Statues of Portuguese heroes: Viriatus, Vasco da Gama, Marquês de Pombal, and Nuno Álvares Pereira"
       }

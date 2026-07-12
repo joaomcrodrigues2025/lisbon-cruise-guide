@@ -14,7 +14,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 flex h-16 shrink-0 items-center justify-between border-b border-slate-200/80 bg-[#f6f7f8]/80 px-4 backdrop-blur-sm">
       <Link href="/" className="flex items-center gap-2">
         <span className="material-symbols-outlined text-[#FFC72C] text-3xl">anchor</span>
-        <span className="text-lg font-bold text-[#003366] tracking-wide">Lisbon Shore</span>
+        <span className="text-lg font-bold text-[#003366] tracking-wide">Lisbon Cruise Guide</span>
       </Link>
 
       <div className="flex items-center gap-2">
@@ -71,6 +71,15 @@ export default function Header() {
               onClick={() => setMenuOpen(false)}
             >
               Search
+            </Link>
+            <Link
+              href="/about"
+              className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
+                isActive('/about') ? 'bg-slate-100 font-semibold' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              About
             </Link>
             <Link
               href="/contact"

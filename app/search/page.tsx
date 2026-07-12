@@ -3,8 +3,11 @@ import AttractionCard from '@/components/AttractionCard';
 import SearchBar from '@/components/SearchBar';
 
 export const metadata = {
-  title: 'Search Attractions | Lisbon Shore Guide',
+  title: 'Search Attractions | Lisbon Cruise Guide',
   description: 'Search for tourist attractions in Lisbon by name, category, or tag',
+  alternates: {
+    canonical: '/search',
+  },
 };
 
 // Force dynamic rendering for search page
