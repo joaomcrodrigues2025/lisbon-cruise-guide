@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
           This website, lisbon-cruise-guide.com (“the Site”), is published by <strong>Better Skills</strong>{' '}
           (www.better-skills.com), a company based in Portugal, which acts as the data controller for any personal
           data processed through the Site. You can reach us regarding privacy matters at{' '}
-          <a href="mailto:comercial@better-skills.com" className="text-[#003366] underline">comercial@better-skills.com</a>.
+          <a href="mailto:info@lisbon-cruise-guide.com" className="text-[#003366] underline">info@lisbon-cruise-guide.com</a>.
         </p>
 
         <h2 className="text-2xl font-bold text-[#003366]">2. What data we process</h2>
@@ -109,7 +109,7 @@ export default function PrivacyPolicyPage() {
           object to its processing, and to data portability. You may also lodge a complaint with your supervisory
           authority; in Portugal this is the CNPD (Comissão Nacional de Proteção de Dados, www.cnpd.pt). To exercise
           any of these rights, email us at{' '}
-          <a href="mailto:comercial@better-skills.com" className="text-[#003366] underline">comercial@better-skills.com</a>.
+          <a href="mailto:info@lisbon-cruise-guide.com" className="text-[#003366] underline">info@lisbon-cruise-guide.com</a>.
         </p>
 
         <h2 className="text-2xl font-bold text-[#003366]">7. Children</h2>

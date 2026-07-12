@@ -83,7 +83,7 @@ export default function TermsPage() {
         <p>
           Questions about these terms can be sent via the{' '}
           <Link href="/contact" className="text-[#003366] underline">contact page</Link> or to{' '}
-          <a href="mailto:comercial@better-skills.com" className="text-[#003366] underline">comercial@better-skills.com</a>.
+          <a href="mailto:info@lisbon-cruise-guide.com" className="text-[#003366] underline">info@lisbon-cruise-guide.com</a>.
         </p>
       </div>
     </div>

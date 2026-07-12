@@ -32,11 +32,11 @@ export default function ContactPage() {
           <Link href="/about" className="text-[#003366] underline hover:text-[#004080]">about page</Link>.
         </p>
         <a
-          href="mailto:comercial@better-skills.com"
+          href="mailto:info@lisbon-cruise-guide.com"
           className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-[#003366] text-white font-semibold hover:bg-[#004080] transition-colors"
         >
           <span className="material-symbols-outlined">send</span>
-          comercial@better-skills.com
+          info@lisbon-cruise-guide.com
         </a>
         <p className="text-sm text-slate-500 mt-4">
           We aim to reply within a few working days. Please mention the attraction or page in question so we can act
