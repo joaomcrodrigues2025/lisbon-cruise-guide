@@ -52,6 +52,11 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap"
           rel="stylesheet"
         />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733114372522119"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="antialiased">
         <div className="relative flex min-h-screen w-full flex-col">
