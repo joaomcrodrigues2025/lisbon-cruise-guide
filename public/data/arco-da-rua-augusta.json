@@ -170,19 +170,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/arco-da-rua-augusta-hero.webp",
-      "alt": "Arco da Rua Augusta triumphal arch with Glory crowning Genius and Valor sculptures at top",
-      "caption": "The magnificent Arco da Rua Augusta, gateway to Praça do Comércio and symbol of Lisbon's resilience"
+      "alt": "Arco da Rua Augusta",
+      "caption": "Arco da Rua Augusta. Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/arco-da-rua-augusta-1.webp",
-        "alt": "360-degree panoramic view from rooftop terrace showing Praça do Comércio and Tagus River",
-        "caption": "Spectacular bird's-eye view of Praça do Comércio and the Tagus River from the rooftop terrace"
+        "alt": "Arco da Rua Augusta",
+        "caption": "Arco da Rua Augusta. Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/arco-da-rua-augusta-2.webp",
-        "alt": "Four colossal statues of Portuguese heroes on the arch facade",
-        "caption": "Statues of Portuguese heroes: Viriatus, Vasco da Gama, Marquês de Pombal, and Nuno Álvares Pereira"
+        "alt": "Arco da Rua Augusta",
+        "caption": "Arco da Rua Augusta. Photo: Bernard Gagnon, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

@@ -78,13 +78,13 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 12,
+      "adult": 15,
       "youth": 7,
       "child": 7,
       "senior": 7,
       "family": 30,
       "lisboaCardFree": false,
-      "notes": "Children under 6 free. Youth/student 6-17 years. Seniors 65+. Family ticket: 2 adults + 2 children (6-17). Discounts for online booking. Time-slot entry system implemented - book specific entry time online."
+      "notes": "Adults €15 self-guided (2026); guided tours from €25. Children under 6 free. Book online in high season."
     },
     "averageVisitDuration": "2-3 hours",
     "bestTimeToVisit": "Weekday mornings (9:30-11:00) for fewer crowds and best lighting in tunnels. Spring (March-May) and fall (September-October) for pleasant weather. Book earliest time slots available online. Avoid weekends and Portuguese holidays.",
@@ -167,29 +167,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/quinta-da-regaleira-hero.webp",
-      "alt": "The famous Initiation Well at Quinta da Regaleira with spiral staircase descending into earth",
-      "caption": "The iconic Initiation Well - a 27-meter inverted tower symbolizing an esoteric journey"
+      "alt": "Quinta da Regaleira",
+      "caption": "Quinta da Regaleira. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/quinta-da-regaleira-1.webp",
-        "alt": "Gothic Revival palace facade of Quinta da Regaleira",
-        "caption": "The ornate Gothic palace with intricate stone carvings and gargoyles"
+        "alt": "Quinta da Regaleira",
+        "caption": "Quinta da Regaleira. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/quinta-da-regaleira-2.webp",
-        "alt": "Underground tunnel network at Quinta da Regaleira",
-        "caption": "Mysterious underground tunnels connecting the estate's hidden features"
-      },
-      {
-        "url": "/images/attractions/quinta-da-regaleira-3.webp",
-        "alt": "Waterfall and grotto in the gardens",
-        "caption": "Enchanted gardens with waterfalls, grottos, and lush vegetation"
-      },
-      {
-        "url": "/images/attractions/quinta-da-regaleira-4.webp",
-        "alt": "Aerial view of the Initiation Well showing spiral design",
-        "caption": "Looking down into the Initiation Well's nine spiral platforms"
+        "alt": "Quinta da Regaleira",
+        "caption": "Quinta da Regaleira. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

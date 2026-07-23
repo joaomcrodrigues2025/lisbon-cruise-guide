@@ -7,30 +7,6 @@ interface AttractionCardProps {
 }
 
 export default function AttractionCard({ attraction }: AttractionCardProps) {
-  const renderStars = (rating: number) => {
-    const fullStars = Math.floor(rating);
-    const hasHalfStar = rating % 1 >= 0.5;
-    const stars = [];
-
-    for (let i = 0; i < fullStars; i++) {
-      stars.push(
-        <span key={`full-${i}`} className="material-symbols-outlined fill text-[#FFC72C]">
-          star
-        </span>
-      );
-    }
-
-    if (hasHalfStar) {
-      stars.push(
-        <span key="half" className="material-symbols-outlined fill text-[#FFC72C]">
-          star_half
-        </span>
-      );
-    }
-
-    return stars;
-  };
-
   return (
     <div className="flex flex-col items-stretch justify-start rounded-xl shadow-[0_2px_8px_rgba(0,0,0,0.08)] bg-white overflow-hidden hover:shadow-[0_4px_12px_rgba(0,0,0,0.12)] transition-shadow">
       <div className="relative h-48 w-full">
@@ -56,15 +32,6 @@ export default function AttractionCard({ attraction }: AttractionCardProps) {
           <p className="text-base font-normal leading-normal text-slate-600 line-clamp-2">
             {attraction.tagline}
           </p>
-
-          {/* Rating */}
-          <div className="flex items-center gap-2">
-            <div className="flex items-center">
-              {renderStars(attraction.rating)}
-            </div>
-            <span className="text-sm font-semibold text-slate-700">{attraction.rating}</span>
-            <span className="text-sm text-slate-500">({attraction.reviewCount.toLocaleString()})</span>
-          </div>
         </div>
 
         <div className="flex items-center gap-4 text-sm text-slate-600">

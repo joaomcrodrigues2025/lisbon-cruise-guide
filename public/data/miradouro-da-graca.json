@@ -163,19 +163,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/miradouro-da-graca-hero.webp",
-      "alt": "Sunset view over Lisbon from Miradouro da Graça with pine trees in foreground",
-      "caption": "Spectacular sunset panorama from Lisbon's highest viewpoint - Miradouro da Graça"
+      "alt": "Miradouro da Senhora do Monte (Graça)",
+      "caption": "Miradouro da Senhora do Monte (Graça). Photo: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/miradouro-da-graca-1.webp",
-        "alt": "Pine tree shaded terrace at Miradouro da Graça with stone benches",
-        "caption": "The characteristic Portuguese pine trees provide shade and Mediterranean atmosphere"
+        "alt": "Miradouro da Senhora do Monte (Graça)",
+        "caption": "Miradouro da Senhora do Monte (Graça). Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/miradouro-da-graca-2.webp",
-        "alt": "Locals enjoying coffee at Esplanada da Graça café with city views",
-        "caption": "Esplanada da Graça café terrace - a favorite local gathering spot"
+        "alt": "Miradouro da Senhora do Monte (Graça)",
+        "caption": "Miradouro da Senhora do Monte (Graça). Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

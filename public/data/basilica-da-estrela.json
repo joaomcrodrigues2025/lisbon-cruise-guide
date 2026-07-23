@@ -148,14 +148,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/basilica-da-estrela-hero.webp",
-      "alt": "Basílica da Estrela exterior",
-      "caption": "The magnificent white marble Estrela Basilica with its dome"
+      "alt": "Basílica da Estrela",
+      "caption": "Basílica da Estrela. Photo: SchiDD, CC BY 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/basilica-da-estrela-1.webp",
-        "alt": "Interior of Basílica da Estrela",
-        "caption": "The ornate baroque interior with pink and gray marble"
+        "alt": "Basílica da Estrela",
+        "caption": "Basílica da Estrela. Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/basilica-da-estrela-2.webp",
+        "alt": "Basílica da Estrela",
+        "caption": "Basílica da Estrela. Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

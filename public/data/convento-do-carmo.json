@@ -176,14 +176,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/convento-do-carmo-hero.webp",
-      "alt": "Ruins of Convento do Carmo",
-      "caption": "The hauntingly beautiful open-air ruins of Carmo Convent"
+      "alt": "Convento do Carmo and Archaeological Museum",
+      "caption": "Convento do Carmo and Archaeological Museum. Photo: Georges Jansoone, CC BY 2.5, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/convento-do-carmo-1.webp",
-        "alt": "Interior of Carmo Archaeological Museum",
-        "caption": "The roofless nave now houses an archaeological museum"
+        "alt": "Convento do Carmo and Archaeological Museum",
+        "caption": "Convento do Carmo and Archaeological Museum. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/convento-do-carmo-2.webp",
+        "alt": "Convento do Carmo and Archaeological Museum",
+        "caption": "Convento do Carmo and Archaeological Museum. Photo: Mogadir, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

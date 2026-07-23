@@ -153,19 +153,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/jardim-zoologico-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Jardim Zoológico de Lisboa (Lisbon Zoo)",
+      "caption": "Jardim Zoológico de Lisboa (Lisbon Zoo). Photo: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/jardim-zoologico-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "Jardim Zoológico de Lisboa (Lisbon Zoo)",
+        "caption": "Jardim Zoológico de Lisboa (Lisbon Zoo). Photo: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/jardim-zoologico-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "Jardim Zoológico de Lisboa (Lisbon Zoo)",
+        "caption": "Jardim Zoológico de Lisboa (Lisbon Zoo). Photo: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons"
       }
     ]
   },

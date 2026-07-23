@@ -169,19 +169,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/teleferico-de-lisboa-hero.webp",
-      "alt": "Lisbon Cable Car gondolas above Parque das Nações waterfront",
-      "caption": "Spectacular aerial views of the Tagus River and Vasco da Gama Bridge from Teleférico de Lisboa"
+      "alt": "Teleférico de Lisboa (Lisbon Cable Car)",
+      "caption": "Teleférico de Lisboa (Lisbon Cable Car). Photo: Rafael Rabello de Barros, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/teleferico-de-lisboa-1.webp",
-        "alt": "Cable car gondola with Oceanário in background",
-        "caption": "Gliding above Parque das Nações with views of the iconic Oceanário"
+        "alt": "Teleférico de Lisboa (Lisbon Cable Car)",
+        "caption": "Teleférico de Lisboa (Lisbon Cable Car). Photo: GualdimG, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/teleferico-de-lisboa-2.webp",
-        "alt": "Panoramic view of Vasco da Gama Bridge from cable car",
-        "caption": "Stunning perspective of Europe's longest bridge spanning the Tagus River"
+        "alt": "Teleférico de Lisboa (Lisbon Cable Car)",
+        "caption": "Teleférico de Lisboa (Lisbon Cable Car). Photo: GualdimG, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

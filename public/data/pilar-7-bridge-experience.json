@@ -156,19 +156,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/pilar-7-bridge-experience-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Pilar 7 Bridge Experience",
+      "caption": "Pilar 7 Bridge Experience. Photo: Mike, CC BY 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/pilar-7-bridge-experience-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "Pilar 7 Bridge Experience",
+        "caption": "Pilar 7 Bridge Experience. Photo: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY 2.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/pilar-7-bridge-experience-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "Pilar 7 Bridge Experience",
+        "caption": "Pilar 7 Bridge Experience. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

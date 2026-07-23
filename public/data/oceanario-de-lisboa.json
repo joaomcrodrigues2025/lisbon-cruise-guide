@@ -73,7 +73,7 @@
       "senior": 17,
       "family": 66,
       "lisboaCardFree": false,
-      "notes": "Children under 3 free. Youth 4-12 years. Seniors 65+. Family ticket covers 2 adults + 2 children. Combined tickets with cable car available. Discounts for online booking"
+      "notes": "Adult tickets €25-€31 depending on season/peak pricing (2026). Children 3-12 and seniors 65+ discounted; under 3 free. Book a timed slot online."
     },
     "averageVisitDuration": "2-3 hours",
     "bestTimeToVisit": "Weekday mornings (10:00-12:00) for fewer crowds. Last entry at 19:00 allows quiet evening visit",
@@ -152,19 +152,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/oceanario-de-lisboa-hero.webp",
-      "alt": "Main central tank at Oceanário de Lisboa with diverse marine life",
-      "caption": "The spectacular 5-million-liter central ocean tank with sharks, rays, and tropical fish"
+      "alt": "Oceanário de Lisboa",
+      "caption": "Oceanário de Lisboa. Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/oceanario-de-lisboa-1.webp",
-        "alt": "Oceanário de Lisboa building exterior",
-        "caption": "The iconic Oceanarium building in Parque das Nações"
+        "alt": "Oceanário de Lisboa",
+        "caption": "Oceanário de Lisboa. Photo: Sonse, CC BY 2.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/oceanario-de-lisboa-2.webp",
-        "alt": "Entrance to Oceanário de Lisboa",
-        "caption": "The modern entrance welcoming over 1 million annual visitors"
+        "alt": "Oceanário de Lisboa",
+        "caption": "Oceanário de Lisboa. Photo: Sonse, CC BY 2.0, via Wikimedia Commons"
       }
     ]
   },

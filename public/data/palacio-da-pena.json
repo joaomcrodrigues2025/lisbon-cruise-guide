@@ -71,13 +71,13 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 14,
+      "adult": 20,
       "youth": 12,
       "child": 10,
       "senior": 12,
       "family": 45,
       "lisboaCardFree": false,
-      "notes": "Children under 6 free. Youth 6-17 years. Seniors 65+. Family ticket: 2 adults + 2 children. Park-only tickets available at lower price. Combined tickets with other Sintra monuments offer discounts. Online booking recommended."
+      "notes": "Palace + Park adult ticket €20 (2026), timed entry — book days ahead in season. Park-only ticket cheaper and includes the terraces views. Children and senior discounts available."
     },
     "averageVisitDuration": "2-3 hours (palace + park)",
     "bestTimeToVisit": "Weekday mornings (9:30-11:00) or late afternoons after 16:00. Visit during spring (March-May) or fall (September-November) for pleasant weather and fewer crowds. Avoid weekends and Portuguese holidays.",
@@ -158,29 +158,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/palacio-da-pena-hero.webp",
-      "alt": "Palácio Nacional da Pena with its iconic yellow and red facades against blue sky",
-      "caption": "The stunning Romanticist Palácio da Pena perched on Sintra's highest peak"
+      "alt": "Palácio Nacional da Pena",
+      "caption": "Palácio Nacional da Pena. Photo: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/palacio-da-pena-1.webp",
-        "alt": "Panoramic view of Palácio da Pena from the park",
-        "caption": "The fairytale palace rising above the forested Sintra hills"
+        "alt": "Palácio Nacional da Pena",
+        "caption": "Palácio Nacional da Pena. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/palacio-da-pena-2.webp",
-        "alt": "Ornate interior hall of Palácio da Pena with decorative ceiling",
-        "caption": "Lavishly decorated Noble Hall with preserved 19th-century furnishings"
-      },
-      {
-        "url": "/images/attractions/palacio-da-pena-3.webp",
-        "alt": "Triton Terrace with mythological sculpture",
-        "caption": "The famous Triton sculpture supporting the palace terraces"
-      },
-      {
-        "url": "/images/attractions/palacio-da-pena-4.webp",
-        "alt": "Sunset view from palace ramparts over Sintra landscape",
-        "caption": "Breathtaking panoramic views extending to the Atlantic Ocean"
+        "alt": "Palácio Nacional da Pena",
+        "caption": "Palácio Nacional da Pena. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

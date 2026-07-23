@@ -81,8 +81,8 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 4,
-      "notes": "€4.00 adults. €2.00 seniors 65+ and students with ID. Free for children under 12. Free with Lisboa Card. Free on first Sunday of each month. Combined tickets available with other monuments."
+      "adult": 8,
+      "notes": "Adults €8 (2026). Discounts for seniors and students; children under 12 free. Free with Lisboa Card and on the first Sunday of each month for residents."
     },
     "averageVisitDuration": "45 minutes to 1 hour (including terrace visit)",
     "bestTimeToVisit": "Late afternoon for best light on the terrace. Weekday mornings are quietest. Avoid Tuesdays/Saturdays when the nearby Feira da Ladra flea market creates crowds.",
@@ -165,24 +165,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/panteao-nacional-hero.webp",
-      "alt": "National Pantheon white dome and Baroque facade",
-      "caption": "The majestic white dome of the Panteão Nacional dominates Lisbon's skyline"
+      "alt": "Panteão Nacional (National Pantheon)",
+      "caption": "Panteão Nacional (National Pantheon). Photo: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/panteao-nacional-1.webp",
-        "alt": "Interior of National Pantheon",
-        "caption": "The stunning white marble Baroque interior with soaring cupola"
+        "alt": "Panteão Nacional (National Pantheon)",
+        "caption": "Panteão Nacional (National Pantheon). Photo: Paulo.boto, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/panteao-nacional-2.webp",
-        "alt": "Panoramic view from National Pantheon terrace",
-        "caption": "360-degree panoramic views of Lisbon from the terrace"
-      },
-      {
-        "url": "/images/attractions/panteao-nacional-3.webp",
-        "alt": "Tomb of Amália Rodrigues",
-        "caption": "The tomb of fado legend Amália Rodrigues inside the Pantheon"
+        "alt": "Panteão Nacional (National Pantheon)",
+        "caption": "Panteão Nacional (National Pantheon). Photo: Adrianommb, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

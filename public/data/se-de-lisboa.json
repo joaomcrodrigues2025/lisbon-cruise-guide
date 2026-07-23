@@ -154,19 +154,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/se-de-lisboa-hero.webp",
-      "alt": "Sé de Lisboa Cathedral exterior with fortress-like twin towers",
-      "caption": "The imposing Romanesque facade of Lisbon Cathedral, built in 1147"
+      "alt": "Sé de Lisboa (Lisbon Cathedral)",
+      "caption": "Sé de Lisboa (Lisbon Cathedral). Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/se-de-lisboa-1.webp",
-        "alt": "Gothic cloister of Sé de Lisboa",
-        "caption": "The beautiful 14th-century Gothic cloister that survived the 1755 earthquake"
+        "alt": "Sé de Lisboa (Lisbon Cathedral)",
+        "caption": "Sé de Lisboa (Lisbon Cathedral). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/se-de-lisboa-2.webp",
-        "alt": "Interior of Lisbon Cathedral",
-        "caption": "The solemn three-nave Romanesque interior with barrel vaulting"
+        "alt": "Sé de Lisboa (Lisbon Cathedral)",
+        "caption": "Sé de Lisboa (Lisbon Cathedral). Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

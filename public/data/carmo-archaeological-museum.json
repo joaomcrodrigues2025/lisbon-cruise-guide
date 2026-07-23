@@ -169,19 +169,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/carmo-archaeological-museum-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Carmo Archaeological Museum (Convento do Carmo)",
+      "caption": "Carmo Archaeological Museum (Convento do Carmo). Photo: Georges Jansoone, CC BY 2.5, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/carmo-archaeological-museum-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "Carmo Archaeological Museum (Convento do Carmo)",
+        "caption": "Carmo Archaeological Museum (Convento do Carmo). Photo: Chris Adams, CC BY-SA 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/carmo-archaeological-museum-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "Carmo Archaeological Museum (Convento do Carmo)",
+        "caption": "Carmo Archaeological Museum (Convento do Carmo). Photo: Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

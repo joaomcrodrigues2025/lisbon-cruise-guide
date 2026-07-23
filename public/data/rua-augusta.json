@@ -144,14 +144,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/rua-augusta-hero.webp",
-      "alt": "Arco da Rua Augusta",
-      "caption": "The triumphal Rua Augusta Arch at Praça do Comércio"
+      "alt": "Rua Augusta",
+      "caption": "Rua Augusta. Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/rua-augusta-1.webp",
-        "alt": "Rua Augusta pedestrian street",
-        "caption": "The lively pedestrian shopping street leading to the arch"
+        "alt": "Rua Augusta",
+        "caption": "Rua Augusta. Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/rua-augusta-2.webp",
+        "alt": "Rua Augusta",
+        "caption": "Rua Augusta. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

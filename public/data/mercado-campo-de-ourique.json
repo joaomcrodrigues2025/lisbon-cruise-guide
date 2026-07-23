@@ -153,19 +153,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/mercado-campo-de-ourique-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Mercado de Campo de Ourique",
+      "caption": "Mercado de Campo de Ourique. Photo: GualdimG, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/mercado-campo-de-ourique-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "Mercado de Campo de Ourique",
+        "caption": "Mercado de Campo de Ourique. Photo: GualdimG, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/mercado-campo-de-ourique-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "Mercado de Campo de Ourique",
+        "caption": "Mercado de Campo de Ourique. Photo: JnpoJuwan, CC0, via Wikimedia Commons"
       }
     ]
   },

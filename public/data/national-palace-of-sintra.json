@@ -149,19 +149,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/national-palace-of-sintra-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "National Palace of Sintra",
+      "caption": "National Palace of Sintra. Photo: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/national-palace-of-sintra-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "National Palace of Sintra",
+        "caption": "National Palace of Sintra. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/national-palace-of-sintra-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "National Palace of Sintra",
+        "caption": "National Palace of Sintra. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

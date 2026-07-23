@@ -81,13 +81,13 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 15,
+      "adult": 17,
       "youth": 7.5,
       "child": 0,
       "senior": 7.5,
       "lisboaCardFree": true,
       "comboTicket": "No combo tickets available",
-      "notes": "Children under 10 free. Youth 10-17 and students with ID. Seniors 65+. Lisbon residents free on Sundays and public holidays until 14:00. Book online for guaranteed entry time."
+      "notes": "Adults €17 (2026). Youth 13-25 €8.50, seniors 65+ €14, children under 12 free. Free with Lisboa Card. Timed tickets available online to skip the line."
     },
     "averageVisitDuration": "1.5-2 hours",
     "bestTimeToVisit": "Early morning at opening (9am) for fewer crowds and best light for photos. Late afternoon (after 5pm) for sunset views. Avoid midday heat in summer.",
@@ -165,19 +165,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/castelo-de-sao-jorge-hero.webp",
-      "alt": "Castelo de Sao Jorge castle towers",
-      "caption": "The imposing towers of St. George's Castle overlooking Lisbon"
+      "alt": "Castelo de Sao Jorge (St. George's Castle)",
+      "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: fulviusbsas, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/castelo-de-sao-jorge-1.webp",
-        "alt": "View from castle battlements",
-        "caption": "Panoramic view over Lisbon's rooftops and the Tagus River"
+        "alt": "Castelo de Sao Jorge (St. George's Castle)",
+        "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/castelo-de-sao-jorge-2.webp",
-        "alt": "Medieval castle walls",
-        "caption": "Walking the ancient battlements and defensive walls"
+        "alt": "Castelo de Sao Jorge (St. George's Castle)",
+        "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

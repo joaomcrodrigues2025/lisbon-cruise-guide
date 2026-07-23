@@ -169,29 +169,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/santuario-de-fatima-hero.webp",
-      "alt": "Vast esplanade of Santuário de Fátima with Basilica of Our Lady of the Rosary tower",
-      "caption": "The massive sanctuary esplanade with the iconic Basilica tower dominating the skyline"
+      "alt": "Santuário de Fátima",
+      "caption": "Santuário de Fátima. Photo: Berthold Werner, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/santuario-de-fatima-1.webp",
-        "alt": "Capela das Aparições - Chapel of the Apparitions at night",
-        "caption": "The Chapel of Apparitions marking the exact spot where Mary appeared to the children"
+        "alt": "Santuário de Fátima",
+        "caption": "Santuário de Fátima. Photo: Terry Kearney from liverpool, merseyside, CC0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/santuario-de-fatima-2.webp",
-        "alt": "Candlelight procession at Fátima sanctuary at night",
-        "caption": "Evening candlelight procession - one of Fátima's most moving spiritual experiences"
-      },
-      {
-        "url": "/images/attractions/santuario-de-fatima-3.webp",
-        "alt": "Modern Basilica of the Holy Trinity interior",
-        "caption": "The stunning modern Basilica of the Holy Trinity, one of the world's largest churches"
-      },
-      {
-        "url": "/images/attractions/santuario-de-fatima-4.webp",
-        "alt": "Pilgrims gathered in esplanade during major pilgrimage",
-        "caption": "Hundreds of thousands of pilgrims gather for major anniversaries on May 13 and October 13"
+        "alt": "Santuário de Fátima",
+        "caption": "Santuário de Fátima. Photo: Alípio da Silva Vicente, Public domain, via Wikimedia Commons"
       }
     ]
   },

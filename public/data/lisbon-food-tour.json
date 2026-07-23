@@ -165,19 +165,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/lisbon-food-tour-hero.webp",
-      "alt": "Group toasting with Portuguese wine on Lisbon food tour",
-      "caption": "Discover authentic Portuguese cuisine and culture with local expert guides in hidden Lisbon neighborhoods"
+      "alt": "Lisbon Food Tour",
+      "caption": "Lisbon Food Tour. Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/lisbon-food-tour-1.webp",
-        "alt": "Traditional Portuguese petiscos spread at family restaurant",
-        "caption": "Sample authentic Portuguese petiscos at traditional family-owned restaurants off the tourist path"
+        "alt": "Lisbon Food Tour",
+        "caption": "Lisbon Food Tour. Photo: Photo Claude TRUONG-NGOC, CC BY-SA 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/lisbon-food-tour-2.webp",
-        "alt": "Fresh pastel de nata Portuguese custard tarts",
-        "caption": "Taste warm pastéis de nata fresh from traditional bakery ovens in historic neighborhoods"
+        "alt": "Lisbon Food Tour",
+        "caption": "Lisbon Food Tour. Photo: fw42 from Germany, CC BY 2.0, via Wikimedia Commons"
       }
     ]
   },

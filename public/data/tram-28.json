@@ -74,8 +74,8 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 3.2,
-      "notes": "€3.20 single ride (pay driver with cash or tap card). Lisboa Card includes unlimited free rides. 24-hour public transport pass: €7.00 (all trams, buses, metro). Board through front door and validate ticket."
+      "adult": 3.3,
+      "notes": "€3.30 single ride (pay driver with cash or tap card). Lisboa Card includes unlimited free rides. 24-hour public transport pass: €7.00 (all trams, buses, metro). Board through front door and validate ticket."
     },
     "averageVisitDuration": "48-60 minutes for complete route one-way. Many ride round-trip (2 hours total)",
     "bestTimeToVisit": "Early morning (6:00-9:00) or evening after 19:00 to avoid crowds. Weekday mornings are quietest. AVOID mid-morning to evening when it's packed with tourists.",
@@ -156,24 +156,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/tram-28-hero.webp",
-      "alt": "Iconic yellow Tram 28 on narrow Alfama street",
-      "caption": "Vintage Tram 28 navigating the steep, narrow streets of historic Alfama"
+      "alt": "Tram 28 (Eléctrico 28)",
+      "caption": "Tram 28 (Eléctrico 28). Photo: ŠJů (cs:ŠJů), CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/tram-28-1.webp",
-        "alt": "Inside vintage Tram 28",
-        "caption": "The authentic 1930s wooden interior with brass fittings and vintage seating"
+        "alt": "Tram 28 (Eléctrico 28)",
+        "caption": "Tram 28 (Eléctrico 28). Photo: Ввласенко, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/tram-28-2.webp",
-        "alt": "Tram 28 passing Lisbon Cathedral",
-        "caption": "Tram 28 stops right at the door of the Sé Cathedral in Alfama"
-      },
-      {
-        "url": "/images/attractions/tram-28-3.webp",
-        "alt": "Crowded Tram 28 in Chiado",
-        "caption": "The tram passing through elegant Chiado shopping district"
+        "alt": "Tram 28 (Eléctrico 28)",
+        "caption": "Tram 28 (Eléctrico 28). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

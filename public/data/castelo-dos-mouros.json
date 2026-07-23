@@ -160,29 +160,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/castelo-dos-mouros-hero.webp",
-      "alt": "Medieval battlements of Castelo dos Mouros snaking across Sintra mountain ridge",
-      "caption": "Ancient Moorish fortress walls following the dramatic mountain ridge"
+      "alt": "Castelo dos Mouros",
+      "caption": "Castelo dos Mouros. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/castelo-dos-mouros-1.webp",
-        "alt": "Panoramic view from castle battlements over Sintra landscape",
-        "caption": "Breathtaking views from the battlements extending to the Atlantic Ocean"
+        "alt": "Castelo dos Mouros",
+        "caption": "Castelo dos Mouros. Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/castelo-dos-mouros-2.webp",
-        "alt": "Ancient stone tower and crenellated walls",
-        "caption": "Well-preserved medieval towers along the fortress walls"
-      },
-      {
-        "url": "/images/attractions/castelo-dos-mouros-3.webp",
-        "alt": "View of Pena Palace from Moorish Castle battlements",
-        "caption": "Stunning view of colorful Pena Palace from the castle walls"
-      },
-      {
-        "url": "/images/attractions/castelo-dos-mouros-4.webp",
-        "alt": "Sunset over castle ruins and Sintra mountains",
-        "caption": "Romantic sunset illuminating the ancient fortress ruins"
+        "alt": "Castelo dos Mouros",
+        "caption": "Castelo dos Mouros. Photo: Ввласенко, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

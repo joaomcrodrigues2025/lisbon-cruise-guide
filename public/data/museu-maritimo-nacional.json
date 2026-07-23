@@ -169,19 +169,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/museu-maritimo-nacional-hero.webp",
-      "alt": "Ornate royal barge on display at the Maritime Museum Lisbon",
-      "caption": "Lavishly decorated royal barge used by Portuguese monarchs, one of the museum's crown jewels"
+      "alt": "Museu de Marinha (Maritime Museum)",
+      "caption": "Museu de Marinha (Maritime Museum). Photo: Felix König, CC BY 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/museu-maritimo-nacional-1.webp",
-        "alt": "Jerónimos Monastery exterior in Belém housing the Maritime Museum",
-        "caption": "The Maritime Museum is housed in the iconic Jerónimos Monastery in Belém"
+        "alt": "Museu de Marinha (Maritime Museum)",
+        "caption": "Museu de Marinha (Maritime Museum). Photo: Felix König, CC BY 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/museu-maritimo-nacional-2.webp",
-        "alt": "Collection of historic ship models at the Maritime Museum",
-        "caption": "Over 2,500 intricately detailed ship models chronicle Portuguese naval history"
+        "alt": "Museu de Marinha (Maritime Museum)",
+        "caption": "Museu de Marinha (Maritime Museum). Photo: tomislav medak, CC BY-SA 2.0, via Wikimedia Commons"
       }
     ]
   },

@@ -151,14 +151,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/time-out-market-lisboa-hero.webp",
-      "alt": "Time Out Market Lisboa interior",
-      "caption": "The bustling interior of Time Out Market with food stalls and communal seating"
+      "alt": "Time Out Market Lisboa",
+      "caption": "Time Out Market Lisboa. Photo: Paul Arps from The Netherlands, CC BY 2.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/time-out-market-lisboa-1.webp",
-        "alt": "Historic facade of Mercado da Ribeira",
-        "caption": "The historic 19th-century facade of the market building"
+        "alt": "Time Out Market Lisboa",
+        "caption": "Time Out Market Lisboa. Photo: Sonse, CC BY 2.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/time-out-market-lisboa-2.webp",
+        "alt": "Time Out Market Lisboa",
+        "caption": "Time Out Market Lisboa. Photo: Sonse, CC BY 2.0, via Wikimedia Commons"
       }
     ]
   },

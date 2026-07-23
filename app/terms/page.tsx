@@ -45,10 +45,9 @@ export default function TermsPage() {
           liability that cannot be excluded under applicable law.
         </p>
 
-        <h2 className="text-2xl font-bold text-[#003366]">4. Third-party links and ratings</h2>
+        <h2 className="text-2xl font-bold text-[#003366]">4. Third-party links</h2>
         <p>
-          The Site links to external websites, including official attraction sites and booking platforms, and may
-          display indicative visitor ratings sourced from public review platforms, credited where shown. We are not
+          The Site links to external websites, including official attraction sites and booking platforms. We are not
           responsible for the content, accuracy or practices of third-party websites or platforms.
         </p>
 

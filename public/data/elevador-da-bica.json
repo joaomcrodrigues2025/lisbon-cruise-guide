@@ -150,14 +150,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/elevador-da-bica-hero.webp",
-      "alt": "Elevador da Bica funicular",
-      "caption": "The iconic yellow Bica funicular climbing the steep street"
+      "alt": "Elevador da Bica (Bica Funicular)",
+      "caption": "Elevador da Bica (Bica Funicular). Photo: BKP, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/elevador-da-bica-1.webp",
-        "alt": "View down Rua da Bica",
-        "caption": "Steep Rua da Bica with colorful buildings"
+        "alt": "Elevador da Bica (Bica Funicular)",
+        "caption": "Elevador da Bica (Bica Funicular). Photo: BKP, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/elevador-da-bica-2.webp",
+        "alt": "Elevador da Bica (Bica Funicular)",
+        "caption": "Elevador da Bica (Bica Funicular). Photo: Thomas Claveirole from Paris, France, CC BY-SA 2.0, via Wikimedia Commons"
       }
     ]
   },

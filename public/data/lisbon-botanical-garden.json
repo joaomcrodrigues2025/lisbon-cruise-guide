@@ -162,19 +162,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/lisbon-botanical-garden-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Lisbon Botanical Garden (Jardim Botânico de Lisboa)",
+      "caption": "Lisbon Botanical Garden (Jardim Botânico de Lisboa). Photo: Roundtheworld, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/lisbon-botanical-garden-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
+        "alt": "Lisbon Botanical Garden (Jardim Botânico de Lisboa)",
+        "caption": "Lisbon Botanical Garden (Jardim Botânico de Lisboa). Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/lisbon-botanical-garden-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
+        "alt": "Lisbon Botanical Garden (Jardim Botânico de Lisboa)",
+        "caption": "Lisbon Botanical Garden (Jardim Botânico de Lisboa). Photo: Silvia Sequeira, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

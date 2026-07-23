@@ -164,14 +164,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/lx-factory-hero.webp",
-      "alt": "LX Factory creative space",
-      "caption": "The trendy LX Factory converted industrial complex"
+      "alt": "LX Factory",
+      "caption": "LX Factory. Photo: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/lx-factory-1.webp",
-        "alt": "Street art at LX Factory",
-        "caption": "Colorful street art and murals throughout LX Factory"
+        "alt": "LX Factory",
+        "caption": "LX Factory. Photo: TJ DeGroat from San Francisco, CA, Los estados unidos, CC BY 2.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/lx-factory-2.webp",
+        "alt": "LX Factory",
+        "caption": "LX Factory. Photo: TJ DeGroat from San Francisco, CA, Los estados unidos, CC BY 2.0, via Wikimedia Commons"
       }
     ]
   },

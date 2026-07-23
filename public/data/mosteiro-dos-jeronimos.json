@@ -57,16 +57,10 @@
       "currentStatus": "Open year-round except certain holidays",
       "seasonal": [
         {
-          "season": "October - April",
+          "season": "Year-round",
           "days": "Tuesday - Sunday",
-          "hours": "10:00 - 17:30",
+          "hours": "09:30 - 17:30",
           "lastAdmission": "17:00"
-        },
-        {
-          "season": "May - September",
-          "days": "Tuesday - Sunday",
-          "hours": "10:00 - 18:30",
-          "lastAdmission": "18:00"
         }
       ],
       "closedDates": [
@@ -80,13 +74,13 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 10,
+      "adult": 18,
       "youth": 5,
       "child": 0,
       "senior": 5,
       "lisboaCardFree": true,
       "comboTicket": "Joint ticket with Belem Tower: €12 adults",
-      "notes": "Children under 12 free. Youth pricing for ages 13-25. Seniors 65+. Free first Sunday of each month. Online booking strongly recommended to avoid long queues."
+      "notes": "Adults €18 (2026). Church entry free. Children under 12 free. Youth and senior discounts. Free first Sunday of each month for residents. Online booking strongly recommended — timed entry; ticket office closes 16:30."
     },
     "averageVisitDuration": "1.5-2 hours",
     "bestTimeToVisit": "Early morning at opening (10am) or late afternoon after 4pm to avoid peak crowds. Visit Tuesday-Thursday for fewer visitors than weekends.",
@@ -160,19 +154,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/mosteiro-dos-jeronimos-hero.webp",
-      "alt": "Mosteiro dos Jeronimos monastery facade",
-      "caption": "The magnificent Manueline facade of Jeronimos Monastery in Belem"
+      "alt": "Mosteiro dos Jeronimos (Jeronimos Monastery)",
+      "caption": "Mosteiro dos Jeronimos (Jeronimos Monastery). Photo: Heartshade, CC BY 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/mosteiro-dos-jeronimos-1.webp",
-        "alt": "Jeronimos Monastery cloister",
-        "caption": "The stunning two-story cloister with intricate stone carvings"
+        "alt": "Mosteiro dos Jeronimos (Jeronimos Monastery)",
+        "caption": "Mosteiro dos Jeronimos (Jeronimos Monastery). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/mosteiro-dos-jeronimos-2.webp",
-        "alt": "Church of Santa Maria interior",
-        "caption": "The soaring vaulted ceiling of the Church of Santa Maria"
+        "alt": "Mosteiro dos Jeronimos (Jeronimos Monastery)",
+        "caption": "Mosteiro dos Jeronimos (Jeronimos Monastery). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

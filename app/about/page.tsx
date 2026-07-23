@@ -30,6 +30,13 @@ export default function AboutPage() {
           opening patterns, accessibility notes, and practical tips specific to shore visits, such as when to go to beat
           tour-group crowds and how much buffer to leave before all-aboard.
         </p>
+        <p>
+          Alongside the listings, our <Link href="/guides" className="text-[#003366] underline hover:text-[#004080]">Shore
+          Guides</Link> section carries long-form, editorial articles — itineraries built around real port hours, transport
+          comparisons we have walked and timed ourselves, and honest verdicts on classic dilemmas like whether Sintra fits
+          a cruise stop. Photography on the site comes from Wikimedia Commons under free licences, credited on our{' '}
+          <Link href="/image-credits" className="text-[#003366] underline hover:text-[#004080]">image credits</Link> page.
+        </p>
 
         <h2 className="text-2xl font-bold text-[#003366] pt-4">How the information is compiled</h2>
         <p>
@@ -37,8 +44,8 @@ export default function AboutPage() {
           knowledge of Lisbon, then organised around cruise logistics. Prices, opening hours and transport details
           change frequently in a busy tourist city, so we review listings periodically; even so, always confirm
           critical details, especially opening days and last-admission times, with the official venue before building
-          your day around them. Visitor ratings shown on attraction pages are indicative figures drawn from major
-          public review platforms, credited where they appear; we do not collect our own reviews.
+          your day around them. We do not publish visitor ratings or review counts: we would rather you read the
+          listing and decide whether a place fits your day than trust a number.
         </p>
 
         <h2 className="text-2xl font-bold text-[#003366] pt-4">Who is behind the site</h2>

@@ -138,19 +138,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/bairro-alto-hero.webp",
-      "alt": "Colorful streets of Bairro Alto",
-      "caption": "The vibrant, narrow cobblestone streets of Bairro Alto"
+      "alt": "Bairro Alto",
+      "caption": "Bairro Alto. Photo: Daniel VILLAFRUELA., CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/bairro-alto-1.webp",
-        "alt": "Bairro Alto nightlife scene",
-        "caption": "Bairro Alto comes alive at night with bars and street parties"
+        "alt": "Bairro Alto",
+        "caption": "Bairro Alto. Photo: Dudva, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/bairro-alto-2.webp",
-        "alt": "Traditional buildings in Bairro Alto",
-        "caption": "Historic architecture and traditional buildings in the district"
+        "alt": "Bairro Alto",
+        "caption": "Bairro Alto. Photo: Dguendel, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

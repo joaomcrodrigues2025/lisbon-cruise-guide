@@ -165,19 +165,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/miradouro-das-portas-do-sol-hero.webp",
-      "alt": "Panoramic view of Alfama's red-tiled rooftops from Miradouro das Portas do Sol with Tagus River and National Pantheon",
-      "caption": "Breathtaking panorama of Alfama district and the Tagus River from Portas do Sol viewpoint"
+      "alt": "Miradouro das Portas do Sol",
+      "caption": "Miradouro das Portas do Sol. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/miradouro-das-portas-do-sol-1.webp",
-        "alt": "Decorative azulejo tile panels at Portas do Sol showing historic Lisbon scenes",
-        "caption": "Historic azulejo tiles depicting pre-1755 earthquake Lisbon and the 1147 reconquest"
+        "alt": "Miradouro das Portas do Sol",
+        "caption": "Miradouro das Portas do Sol. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/miradouro-das-portas-do-sol-2.webp",
-        "alt": "Visitors enjoying sunset at Portas do Sol terrace with palm trees",
-        "caption": "The romantic terrace with palm trees and café - perfect for sunset viewing"
+        "alt": "Miradouro das Portas do Sol",
+        "caption": "Miradouro das Portas do Sol. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

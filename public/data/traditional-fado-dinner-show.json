@@ -158,21 +158,10 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/traditional-fado-dinner-show-hero.webp",
-      "alt": "Fadista performing with Portuguese guitar",
-      "caption": "Soul-stirring fado performance in intimate Lisbon venue"
+      "alt": "Traditional Fado Dinner Show",
+      "caption": "Traditional Fado Dinner Show. Photo: Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, via Wikimedia Commons"
     },
-    "gallery": [
-      {
-        "url": "/images/attractions/traditional-fado-dinner-show-1.webp",
-        "alt": "Traditional Portuguese dinner spread",
-        "caption": "Authentic Portuguese cuisine served during fado dinner show"
-      },
-      {
-        "url": "/images/attractions/traditional-fado-dinner-show-2.webp",
-        "alt": "Historic fado house in Alfama",
-        "caption": "Atmospheric fado restaurant in historic Alfama neighborhood"
-      }
-    ]
+    "gallery": []
   },
   "nearbyAttractions": [
     {

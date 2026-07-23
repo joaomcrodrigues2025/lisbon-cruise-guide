@@ -187,19 +187,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/evora-hero.webp",
-      "alt": "Roman Temple of Diana with Corinthian columns in Évora historic center",
-      "caption": "The remarkably preserved 1st-century Roman Temple dominates Évora's UNESCO World Heritage historic center"
+      "alt": "Évora",
+      "caption": "Évora. Photo: François Philipp from Darmstadt, Germany, CC BY 2.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/evora-1.webp",
-        "alt": "Capela dos Ossos interior with walls covered in human bones and skulls",
-        "caption": "The macabre Capela dos Ossos - walls and columns decorated with 5,000 human skeletons"
+        "alt": "Évora",
+        "caption": "Évora. Photo: Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/evora-2.webp",
-        "alt": "Évora Cathedral (Sé) fortress-like Gothic exterior",
-        "caption": "The imposing Sé Cathedral, one of Portugal's most important Gothic buildings"
+        "alt": "Évora",
+        "caption": "Évora. Photo: Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

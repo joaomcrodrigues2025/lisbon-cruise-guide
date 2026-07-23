@@ -73,7 +73,7 @@
       "senior": 0,
       "lisboaCardFree": true,
       "comboTicket": null,
-      "notes": "Free to walk and explore. Individual attractions (Castle, Cathedral, museums) charge separate admission. Tram 28E: €3.10 per ride or included with Lisboa Card."
+      "notes": "Free to walk and explore. Individual attractions (Castle, Cathedral, museums) charge separate admission. Tram 28E: €3.30 per ride or included with Lisboa Card."
     },
     "averageVisitDuration": "2-4 hours minimum for walking tour",
     "bestTimeToVisit": "Early morning (8-10am) for fewer tourists and authentic neighborhood life. Late afternoon for golden light and sunset from viewpoints. Tuesday or Saturday morning for Feira da Ladra flea market. Avoid midday summer heat.",
@@ -156,19 +156,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/alfama-hero.webp",
-      "alt": "Alfama narrow streets and traditional houses",
-      "caption": "The charming cobblestone streets and colorful buildings of Alfama"
+      "alt": "Alfama",
+      "caption": "Alfama. Photo: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/alfama-1.webp",
-        "alt": "Tram 28 in Alfama",
-        "caption": "Iconic yellow Tram 28 navigating Alfama's narrow streets"
+        "alt": "Alfama",
+        "caption": "Alfama. Photo: Matti Blume, CC BY-SA, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/alfama-2.webp",
-        "alt": "Alfama viewpoint",
-        "caption": "Panoramic view over Alfama's rooftops from Portas do Sol"
+        "alt": "Alfama",
+        "caption": "Alfama. Photo: Matti Blume, CC BY-SA, via Wikimedia Commons"
       }
     ]
   },

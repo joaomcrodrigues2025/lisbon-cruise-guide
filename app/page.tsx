@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getFeaturedAttractions, getStats } from '@/lib/data';
+import { getAllGuides } from '@/lib/guides';
 import { CURATED_CATEGORIES } from '@/lib/taxonomy';
 import AttractionCard from '@/components/AttractionCard';
 
@@ -49,6 +50,7 @@ const FAQS = [
 export default async function HomePage() {
   const featuredAttractions = await getFeaturedAttractions(6);
   const stats = await getStats();
+  const guides = getAllGuides().slice(0, 4);
 
   const faqStructuredData = {
     '@context': 'https://schema.org',
@@ -180,10 +182,45 @@ export default async function HomePage() {
         </div>
       </div>
 
-      {/* Featured Attractions Section */}
+      {/* Shore Guides Section */}
       <div className="px-4 py-12 max-w-7xl mx-auto w-full">
+        <h2 className="text-3xl font-bold text-[#003366] mb-2">Shore Guides</h2>
+        <p className="text-slate-600 mb-8">
+          In-depth articles written for cruise passengers: itineraries by hours in port, transport compared, honest verdicts
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {guides.map((guide) => (
+            <Link
+              key={guide.slug}
+              href={`/guides/${guide.slug}`}
+              className="group flex flex-col rounded-xl border border-slate-200 bg-white p-6 shadow-sm hover:shadow-md transition-shadow"
+            >
+              <h3 className="text-xl font-bold text-[#003366] group-hover:text-[#004080] leading-tight">
+                {guide.title}
+              </h3>
+              <p className="text-slate-600 leading-relaxed mt-3 line-clamp-3">{guide.excerpt}</p>
+              <span className="text-sm text-slate-500 mt-4">{guide.readingTime}</span>
+            </Link>
+          ))}
+        </div>
+
+        <div className="text-center mt-8">
+          <Link
+            href="/guides"
+            className="inline-flex items-center justify-center px-6 py-3 rounded-lg bg-[#003366] text-white font-semibold hover:bg-[#004080] transition-colors"
+          >
+            All Shore Guides
+            <span className="material-symbols-outlined ml-2">arrow_forward</span>
+          </Link>
+        </div>
+      </div>
+
+      {/* Featured Attractions Section */}
+      <div className="bg-slate-50 px-4 py-12">
+        <div className="max-w-7xl mx-auto w-full">
         <h2 className="text-3xl font-bold text-[#003366] mb-2">Featured Attractions</h2>
-        <p className="text-slate-600 mb-8">Top-rated attractions perfect for cruise passengers</p>
+        <p className="text-slate-600 mb-8">Hand-picked attractions perfect for cruise passengers</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {featuredAttractions.map((attraction) => (
@@ -200,10 +237,11 @@ export default async function HomePage() {
             <span className="material-symbols-outlined ml-2">arrow_forward</span>
           </Link>
         </div>
+        </div>
       </div>
 
       {/* Categories Section */}
-      <div className="bg-slate-50 px-4 py-12">
+      <div className="px-4 py-12">
         <div className="max-w-7xl mx-auto w-full">
           <h2 className="text-3xl font-bold text-[#003366] mb-2">Explore by Category</h2>
           <p className="text-slate-600 mb-8">Find attractions by type</p>

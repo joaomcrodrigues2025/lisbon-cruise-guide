@@ -150,14 +150,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/igreja-de-sao-roque-hero.webp",
-      "alt": "Igreja de São Roque interior",
-      "caption": "The incredibly ornate Chapel of St. John the Baptist"
+      "alt": "Igreja de São Roque",
+      "caption": "Igreja de São Roque. Photo: Uhooep, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/igreja-de-sao-roque-1.webp",
-        "alt": "Gold chapel at São Roque",
-        "caption": "The lavish gold and lapis lazuli decorated chapel"
+        "alt": "Igreja de São Roque",
+        "caption": "Igreja de São Roque. Photo: Szilas, CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/igreja-de-sao-roque-2.webp",
+        "alt": "Igreja de São Roque",
+        "caption": "Igreja de São Roque. Photo: Szilas, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

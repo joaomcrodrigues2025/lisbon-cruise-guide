@@ -155,14 +155,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/cascais-coastal-town-hero.webp",
-      "alt": "Cascais bay and marina",
-      "caption": "The picturesque bay and marina of Cascais"
+      "alt": "Cascais",
+      "caption": "Cascais. Photo: Jorge Franganillo, CC BY 2.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/cascais-coastal-town-1.webp",
-        "alt": "Beach in Cascais",
-        "caption": "Beautiful sandy beaches along the Cascais coastline"
+        "alt": "Cascais",
+        "caption": "Cascais. Photo: bvi4092, CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/cascais-coastal-town-2.webp",
+        "alt": "Cascais",
+        "caption": "Cascais. Photo: Herbert wie, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

@@ -154,24 +154,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/miradouro-da-senhora-do-monte-hero.webp",
-      "alt": "Panoramic view of Lisbon from Miradouro da Senhora do Monte",
-      "caption": "Breathtaking 210-degree panorama from Lisbon's highest viewpoint"
+      "alt": "Miradouro da Senhora do Monte",
+      "caption": "Miradouro da Senhora do Monte. Photo: Filipe Rocha,user:sacavem (pt) http://pt.wikipedia.org/wiki/Usu%C3%A1rio:Sacavem, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/miradouro-da-senhora-do-monte-1.webp",
-        "alt": "Sunset at Miradouro da Senhora do Monte",
-        "caption": "Magical sunset views as Lisbon's lights begin to illuminate"
+        "alt": "Miradouro da Senhora do Monte",
+        "caption": "Miradouro da Senhora do Monte. Photo: Sonse, CC BY 2.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/miradouro-da-senhora-do-monte-2.webp",
-        "alt": "Capela de Nossa Senhora do Monte",
-        "caption": "The baroque chapel dating from 1796 that gives the viewpoint its name"
-      },
-      {
-        "url": "/images/attractions/miradouro-da-senhora-do-monte-3.webp",
-        "alt": "View of São Jorge Castle from Senhora do Monte",
-        "caption": "São Jorge Castle dominates the view with downtown Lisbon beyond"
+        "alt": "Miradouro da Senhora do Monte",
+        "caption": "Miradouro da Senhora do Monte. Photo: Filipe Rocha,user:sacavem (pt) http://pt.wikipedia.org/wiki/Usu%C3%A1rio:Sacavem, CC BY-SA 3.0, via Wikimedia Commons"
       }
     ]
   },

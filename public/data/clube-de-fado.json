@@ -144,21 +144,10 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/clube-de-fado-hero.webp",
-      "alt": "Lisbon cityscape",
-      "caption": "Beautiful view of Lisbon"
+      "alt": "Clube de Fado",
+      "caption": "Clube de Fado. Photo: José Malhoa, Public domain, via Wikimedia Commons"
     },
-    "gallery": [
-      {
-        "url": "/images/attractions/clube-de-fado-1.webp",
-        "alt": "Lisbon panorama",
-        "caption": "Panoramic view of Lisbon and the Tagus River"
-      },
-      {
-        "url": "/images/attractions/clube-de-fado-2.webp",
-        "alt": "Historic Tram 28 in Lisbon",
-        "caption": "The iconic yellow Tram 28 on Lisbon streets"
-      }
-    ]
+    "gallery": []
   },
   "nearbyAttractions": [
     {

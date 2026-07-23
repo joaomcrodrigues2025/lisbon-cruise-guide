@@ -80,13 +80,13 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 6,
+      "adult": 15,
       "youth": 3,
       "child": 0,
       "senior": 3,
       "lisboaCardFree": true,
       "comboTicket": "Joint ticket with Jeronimos Monastery: €12 adults",
-      "notes": "Children under 12 free. Youth 13-25 and students with ID. Seniors 65+. Free first Sunday of each month. Online booking highly recommended to avoid long queues (can be 1-2 hours in peak season)."
+      "notes": "Adults €15 (2026). Children under 12 free. Timed-entry slots with a daily visitor cap since the 2026 reopening — book online ahead. Exterior and surrounding gardens free to enjoy."
     },
     "averageVisitDuration": "45 minutes - 1 hour",
     "bestTimeToVisit": "Early morning at opening (10am) or late afternoon (after 4pm) to avoid peak crowds. Golden hour before sunset offers beautiful lighting for photos. Visit Tuesday-Thursday for fewer crowds than weekends.",
@@ -163,19 +163,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/torre-de-belem-hero.webp",
-      "alt": "Torre de Belem tower on Tagus River",
-      "caption": "The iconic Belem Tower rising from the Tagus River"
+      "alt": "Torre de Belem (Belem Tower)",
+      "caption": "Torre de Belem (Belem Tower). Photo: Lisbon Photoshoots, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/torre-de-belem-1.webp",
-        "alt": "Belem Tower architectural details",
-        "caption": "Ornate Manueline stone carvings and corner turrets"
+        "alt": "Torre de Belem (Belem Tower)",
+        "caption": "Torre de Belem (Belem Tower). Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/torre-de-belem-2.webp",
-        "alt": "View from Belem Tower terrace",
-        "caption": "Panoramic views over the Tagus River and Belem waterfront"
+        "alt": "Torre de Belem (Belem Tower)",
+        "caption": "Torre de Belem (Belem Tower). Photo: Berthold Werner, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

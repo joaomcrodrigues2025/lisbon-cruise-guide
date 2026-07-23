@@ -1,0 +1,1868 @@
+{
+  "alfama": [
+    {
+      "role": "hero",
+      "fname": "alfama-hero.webp",
+      "file": "File:Lisbon_alfalma.jpg",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_alfalma.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "alfama-1.webp",
+      "file": "File:Alfama, Lisbon (DSC03371).jpg",
+      "author": "Matti Blume",
+      "license": "CC BY-SA",
+      "licenseUrl": "//commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "alfama-2.webp",
+      "file": "File:Alfama, Lisbon (DSC03367).jpg",
+      "author": "Matti Blume",
+      "license": "CC BY-SA",
+      "licenseUrl": "//commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03367).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03367).jpg"
+    }
+  ],
+  "lisbon-food-tour": [
+    {
+      "role": "hero",
+      "fname": "lisbon-food-tour-hero.webp",
+      "file": "File:Funchal (Madeira, Portugal), Rua Dr. Fernão de Ornelas, Nata 7 - Fernão Ornelas -- 2025 -- 1205.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Rua_Dr._Fern%C3%A3o_de_Ornelas,_Nata_7_-_Fern%C3%A3o_Ornelas_--_2025_--_1205.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "lisbon-food-tour-1.webp",
+      "file": "File:Pastel de nata septembre 2015.jpg",
+      "author": "Photo Claude TRUONG-NGOC",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pastel_de_nata_septembre_2015.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "lisbon-food-tour-2.webp",
+      "file": "File:Pastel de nata (18616473070).jpg",
+      "author": "fw42 from Germany",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pastel_de_nata_(18616473070).jpg"
+    }
+  ],
+  "mosteiro-dos-jeronimos": [
+    {
+      "role": "hero",
+      "fname": "mosteiro-dos-jeronimos-hero.webp",
+      "file": "File:The_Jerónimos_Monastery_or_Hieronymites_Monastery.png",
+      "author": "Heartshade",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Jer%C3%B3nimos_Monastery_or_Hieronymites_Monastery.png"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "mosteiro-dos-jeronimos-1.webp",
+      "file": "File:Cloister of the Jerónimos Monastery in Belém, Lisbon, 20250604 1313 9204.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cloister_of_the_Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m,_Lisbon,_20250604_1313_9204.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "mosteiro-dos-jeronimos-2.webp",
+      "file": "File:Cloister of the Jerónimos Monastery in Belém, Lisbon, 20250604 1316 9216.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cloister_of_the_Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m,_Lisbon,_20250604_1316_9216.jpg"
+    }
+  ],
+  "arco-da-rua-augusta": [
+    {
+      "role": "hero",
+      "fname": "arco-da-rua-augusta-hero.webp",
+      "file": "File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "arco-da-rua-augusta-1.webp",
+      "file": "File:Arco Triunfal da Rua Augusta, Plaza del Comercio, Lisboa, Portugal, 2012-05-12, DD 02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "arco-da-rua-augusta-2.webp",
+      "file": "File:Rua Augusta Arch (Lisbon) 01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rua_Augusta_Arch_(Lisbon)_01.jpg"
+    }
+  ],
+  "azulejo-tile-painting-workshop": [
+    {
+      "role": "hero",
+      "fname": "azulejo-tile-painting-workshop-hero.webp",
+      "file": "File:Convento_da_Madre_de_Deus_-_Lisboa_-_Portugal_(46913633574).jpg",
+      "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convento_da_Madre_de_Deus_-_Lisboa_-_Portugal_(46913633574).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "azulejo-tile-painting-workshop-1.webp",
+      "file": "File:Azulejos of The Fall of Lisbon in Santa Luzia Church - Lisbon.JPG",
+      "author": "José Luiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azulejos_of_The_Fall_of_Lisbon_in_Santa_Luzia_Church_-_Lisbon.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "azulejo-tile-painting-workshop-2.webp",
+      "file": "File:Azulejos of The Fall of Lisbon in Santa Luzia Church - Lisbon (2).JPG",
+      "author": "José Luiz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azulejos_of_The_Fall_of_Lisbon_in_Santa_Luzia_Church_-_Lisbon_(2).JPG"
+    }
+  ],
+  "bacalhau-cooking-class": [
+    {
+      "role": "hero",
+      "fname": "bacalhau-cooking-class-hero.webp",
+      "file": "File:008 Bacalhau com natas serving in a restaurant in Coimbra, Portugal - Portuguese cuisine dish.jpg",
+      "author": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:008_Bacalhau_com_natas_serving_in_a_restaurant_in_Coimbra,_Portugal_-_Portuguese_cuisine_dish.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "bacalhau-cooking-class-1.webp",
+      "file": "File:Bacalhau a Bras.jpg",
+      "author": "Fpenteado at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bacalhau_a_Bras.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "bacalhau-cooking-class-2.webp",
+      "file": "File:Bacalhau com natas.jpg",
+      "author": "Fpenteado",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bacalhau_com_natas.jpg"
+    }
+  ],
+  "bairro-alto": [
+    {
+      "role": "hero",
+      "fname": "bairro-alto-hero.webp",
+      "file": "File:Lisboa-Entrada_no_Bairro_Alto-20140917.jpg",
+      "author": "Daniel VILLAFRUELA.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisboa-Entrada_no_Bairro_Alto-20140917.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "bairro-alto-1.webp",
+      "file": "File:Steep street in Bairro Alto, Lisbon, Portugal.jpg",
+      "author": "Dudva",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steep_street_in_Bairro_Alto,_Lisbon,_Portugal.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "bairro-alto-2.webp",
+      "file": "File:Lisbon, the Bairro Alto Hotel.JPG",
+      "author": "Dguendel",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon,_the_Bairro_Alto_Hotel.JPG"
+    }
+  ],
+  "basilica-da-estrela": [
+    {
+      "role": "hero",
+      "fname": "basilica-da-estrela-hero.webp",
+      "file": "File:Igreja-Estrela.jpg",
+      "author": "SchiDD",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja-Estrela.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "basilica-da-estrela-1.webp",
+      "file": "File:Estrela April 2014-10a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estrela_April_2014-10a.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "basilica-da-estrela-2.webp",
+      "file": "File:Basilica Estrela April 2010-2a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_Estrela_April_2010-2a.jpg"
+    }
+  ],
+  "by-the-wine": [
+    {
+      "role": "hero",
+      "fname": "by-the-wine-hero.webp",
+      "file": "File:Calem White & Dry Porto Wine Bottles (55242019592).jpg",
+      "author": "Michael Gaylard from Horsham, UK",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calem_White_%26_Dry_Porto_Wine_Bottles_(55242019592).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "by-the-wine-1.webp",
+      "file": "File:Portugal (Porto) Vintaged wines- you may get 100 years old bottle (35378506493).jpg",
+      "author": "Güldem Üstün from Istanbul, TURKEY",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portugal_(Porto)_Vintaged_wines-_you_may_get_100_years_old_bottle_(35378506493).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "by-the-wine-2.webp",
+      "file": "File:15-07-2017 Portuguese fine white port, James R Dow.JPG",
+      "author": "Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/4.0CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 truetrue",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:15-07-2017_Portuguese_fine_white_port,_James_R_Dow.JPG"
+    }
+  ],
+  "cabo-da-roca": [
+    {
+      "role": "hero",
+      "fname": "cabo-da-roca-hero.webp",
+      "file": "File:Cabo_da_Roca_on_sunset.jpg",
+      "author": "Olga1969",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabo_da_Roca_on_sunset.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "cabo-da-roca-1.webp",
+      "file": "File:Cliffs at Cabo da Roca, Portugal, 20250606 1528 0284.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliffs_at_Cabo_da_Roca,_Portugal,_20250606_1528_0284.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "cabo-da-roca-2.webp",
+      "file": "File:Cliffs at Cabo da Roca, Portugal, 20250606 1522 0263.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliffs_at_Cabo_da_Roca,_Portugal,_20250606_1522_0263.jpg"
+    }
+  ],
+  "carmo-archaeological-museum": [
+    {
+      "role": "hero",
+      "fname": "carmo-archaeological-museum-hero.webp",
+      "file": "File:Lisbon09.jpg",
+      "author": "Georges Jansoone",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon09.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "carmo-archaeological-museum-1.webp",
+      "file": "File:Convento do Carmo ruins in Lisbon.jpg",
+      "author": "Chris Adams",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convento_do_Carmo_ruins_in_Lisbon.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "carmo-archaeological-museum-2.webp",
+      "file": "File:Lissabon - Convento do Carmo from Castle.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Convento_do_Carmo_from_Castle.jpg"
+    }
+  ],
+  "cascais-coastal-town": [
+    {
+      "role": "hero",
+      "fname": "cascais-coastal-town-hero.webp",
+      "file": "File:Cascais_-_Santa_Marta_(53854018150).jpg",
+      "author": "Jorge Franganillo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cascais_-_Santa_Marta_(53854018150).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "cascais-coastal-town-1.webp",
+      "file": "File:Lounging on the beach in cascais bay - Cascais, Portugal (54621097814).jpg",
+      "author": "bvi4092",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lounging_on_the_beach_in_cascais_bay_-_Cascais,_Portugal_(54621097814).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "cascais-coastal-town-2.webp",
+      "file": "File:Baía De Cascais Palácio Seixas Cascais Portugal.JPG",
+      "author": "Herbert wie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba%C3%ADa_De_Cascais_Pal%C3%A1cio_Seixas_Cascais_Portugal.JPG"
+    }
+  ],
+  "castelo-de-sao-jorge": [
+    {
+      "role": "hero",
+      "fname": "castelo-de-sao-jorge-hero.webp",
+      "file": "File:LisbonCastle.jpg",
+      "author": "fulviusbsas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LisbonCastle.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "castelo-de-sao-jorge-1.webp",
+      "file": "File:Castelo de São Jorge, Lisbon, 20250604 1706 9397.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_S%C3%A3o_Jorge,_Lisbon,_20250604_1706_9397.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "castelo-de-sao-jorge-2.webp",
+      "file": "File:View of Castelo de São Jorge from São Pedro de Alcântara, Lisbon, 20250604 1614 9358.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Castelo_de_S%C3%A3o_Jorge_from_S%C3%A3o_Pedro_de_Alc%C3%A2ntara,_Lisbon,_20250604_1614_9358.jpg"
+    }
+  ],
+  "castelo-dos-mouros": [
+    {
+      "role": "hero",
+      "fname": "castelo-dos-mouros-hero.webp",
+      "file": "File:Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "castelo-dos-mouros-1.webp",
+      "file": "File:Castelo dos Mouros, Sintra, Portugal, 2019-05-25, DD 112-121 PAN.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "castelo-dos-mouros-2.webp",
+      "file": "File:Castelo dos Mouros. Sintra, Portugal.jpg",
+      "author": "Ввласенко",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros._Sintra,_Portugal.jpg"
+    }
+  ],
+  "chiado": [
+    {
+      "role": "hero",
+      "fname": "chiado-hero.webp",
+      "file": "File:Lisbon_10064_Lisboa_Praça_Luís_de_Camões_2006_Luca_Galuzzi_(cropped).jpg",
+      "author": "Luca Galuzzi (Lucag)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_(cropped).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "chiado-1.webp",
+      "file": "File:LisbonChiado2-CCBYSA.jpg",
+      "author": "Scalleja [2]",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LisbonChiado2-CCBYSA.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "chiado-2.webp",
+      "file": "File:Painting at Chiado (15631040544).jpg",
+      "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Painting_at_Chiado_(15631040544).jpg"
+    }
+  ],
+  "clube-de-fado": [
+    {
+      "role": "hero",
+      "fname": "clube-de-fado-hero.webp",
+      "file": "File:Jose_malhoa_fado.jpg",
+      "author": "José Malhoa",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jose_malhoa_fado.jpg"
+    }
+  ],
+  "convento-do-carmo": [
+    {
+      "role": "hero",
+      "fname": "convento-do-carmo-hero.webp",
+      "file": "File:Lisbon09.jpg",
+      "author": "Georges Jansoone",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon09.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "convento-do-carmo-1.webp",
+      "file": "File:Ruins of the Carmo Convent, now the Carmo Archaeological Museum, in Lisbon, 20250604 1542 9324.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Carmo_Convent,_now_the_Carmo_Archaeological_Museum,_in_Lisbon,_20250604_1542_9324.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "convento-do-carmo-2.webp",
+      "file": "File:Convento do Carmo de Lisboa 16.JPG",
+      "author": "Mogadir",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convento_do_Carmo_de_Lisboa_16.JPG"
+    }
+  ],
+  "cork-workshop": [
+    {
+      "role": "hero",
+      "fname": "cork-workshop-hero.webp",
+      "file": "File:Stacked cork oak (Quercus suber) bark, Ponte de Sor, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stacked_cork_oak_(Quercus_suber)_bark,_Ponte_de_Sor,_Portugal_julesvernex2.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "cork-workshop-1.webp",
+      "file": "File:Cork on a Cork Oak (14470891357).jpg",
+      "author": "Edna Winti",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_on_a_Cork_Oak_(14470891357).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "cork-workshop-2.webp",
+      "file": "File:Cork bark (3181616839).jpg",
+      "author": "michael clarke stuff",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_bark_(3181616839).jpg"
+    }
+  ],
+  "dolphin-watching-tour": [
+    {
+      "role": "hero",
+      "fname": "dolphin-watching-tour-hero.webp",
+      "file": "File:Tursiops_truncatus_01-cropped.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "dolphin-watching-tour-1.webp",
+      "file": "File:010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg",
+      "author": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "dolphin-watching-tour-2.webp",
+      "file": "File:Tursiops truncatus 01.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg"
+    }
+  ],
+  "elevador-da-bica": [
+    {
+      "role": "hero",
+      "fname": "elevador-da-bica-hero.webp",
+      "file": "File:Ascensor_da_Bica_01.JPG",
+      "author": "BKP",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ascensor_da_Bica_01.JPG"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "elevador-da-bica-1.webp",
+      "file": "File:Ascensor da Bica 01.JPG",
+      "author": "BKP",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ascensor_da_Bica_01.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "elevador-da-bica-2.webp",
+      "file": "File:Ascensor da Bica, Lisbon, April 2011 (Thomas Claveirole).jpg",
+      "author": "Thomas Claveirole from Paris, France",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ascensor_da_Bica,_Lisbon,_April_2011_(Thomas_Claveirole).jpg"
+    }
+  ],
+  "evora": [
+    {
+      "role": "hero",
+      "fname": "evora-hero.webp",
+      "file": "File:Praça_de_Giraldo,_Evora_(10250693386)_(cropped).jpg",
+      "author": "François Philipp from Darmstadt, Germany",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_de_Giraldo,_Evora_(10250693386)_(cropped).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "evora-1.webp",
+      "file": "File:Evora - Roman Temple - Wall.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evora_-_Roman_Temple_-_Wall.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "evora-2.webp",
+      "file": "File:Roman Temple Evora Portugal 01.jpg",
+      "author": "Norbert Nagel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Temple_Evora_Portugal_01.jpg"
+    }
+  ],
+  "hop-on-hop-off-bus-tour": [
+    {
+      "role": "hero",
+      "fname": "hop-on-hop-off-bus-tour-hero.webp",
+      "file": "File:Lisbon, sightseeing bus.jpg",
+      "author": "JP Bennett from Yamato, Japan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon,_sightseeing_bus.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "hop-on-hop-off-bus-tour-1.webp",
+      "file": "File:Sightseeing bus tour (3906269626).jpg",
+      "author": "Bernt Rostad from Oslo, Norway",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sightseeing_bus_tour_(3906269626).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "hop-on-hop-off-bus-tour-2.webp",
+      "file": "File:Lisbon-7397 (44670517152).jpg",
+      "author": "janneth. from Nyköping, Sweden",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon-7397_(44670517152).jpg"
+    }
+  ],
+  "igreja-de-sao-roque": [
+    {
+      "role": "hero",
+      "fname": "igreja-de-sao-roque-hero.webp",
+      "file": "File:Exterior_of_Igreja_de_São_Roque_(Lisbon).jpg",
+      "author": "Uhooep",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_Igreja_de_S%C3%A3o_Roque_(Lisbon).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "igreja-de-sao-roque-1.webp",
+      "file": "File:Interior of Igreja de São Roque (Lisbon) 04.jpg",
+      "author": "Szilas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Igreja_de_S%C3%A3o_Roque_(Lisbon)_04.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "igreja-de-sao-roque-2.webp",
+      "file": "File:Interior of Igreja de São Roque (Lisbon) 05.jpg",
+      "author": "Szilas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Igreja_de_S%C3%A3o_Roque_(Lisbon)_05.jpg"
+    }
+  ],
+  "jardim-zoologico": [
+    {
+      "role": "hero",
+      "fname": "jardim-zoologico-hero.webp",
+      "file": "File:Pot-bellied pigs in Lisbon Zoo 2008.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pot-bellied_pigs_in_Lisbon_Zoo_2008.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "jardim-zoologico-1.webp",
+      "file": "File:Jardim Zoológico de Lisboa - Portugal (52185898588).jpg",
+      "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_Zool%C3%B3gico_de_Lisboa_-_Portugal_(52185898588).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "jardim-zoologico-2.webp",
+      "file": "File:Jardim Zoológico de Lisboa - Portugal (176291405).jpg",
+      "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_Zool%C3%B3gico_de_Lisboa_-_Portugal_(176291405).jpg"
+    }
+  ],
+  "lisbon-botanical-garden": [
+    {
+      "role": "hero",
+      "fname": "lisbon-botanical-garden-hero.webp",
+      "file": "File:TropicalBotanicalGardenLisbon2.jpg",
+      "author": "Roundtheworld",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TropicalBotanicalGardenLisbon2.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "lisbon-botanical-garden-1.webp",
+      "file": "File:Robert's geranium red leaf (Geranium robertianum), Jardim Botânico de Lisboa, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert%27s_geranium_red_leaf_(Geranium_robertianum),_Jardim_Bot%C3%A2nico_de_Lisboa,_Lisbon,_Portugal_julesvernex2.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "lisbon-botanical-garden-2.webp",
+      "file": "File:Jardim Botânico da Universidade de Lisboa.jpg",
+      "author": "Silvia Sequeira",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_Bot%C3%A2nico_da_Universidade_de_Lisboa.jpg"
+    }
+  ],
+  "lisbon-tuk-tuk-tour": [
+    {
+      "role": "hero",
+      "fname": "lisbon-tuk-tuk-tour-hero.webp",
+      "file": "File:Lisbon Tuk tuk 01.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Tuk_tuk_01.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "lisbon-tuk-tuk-tour-1.webp",
+      "file": "File:Lisbon Tuk tuk 02.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Tuk_tuk_02.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "lisbon-tuk-tuk-tour-2.webp",
+      "file": "File:Lisbon tuk tuk (53755985966).jpg",
+      "author": "Elliott Bledsoe from Brisbane, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_tuk_tuk_(53755985966).jpg"
+    }
+  ],
+  "lx-factory": [
+    {
+      "role": "hero",
+      "fname": "lx-factory-hero.webp",
+      "file": "File:Lisboa_-_Portugal_(52597836992).jpg",
+      "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisboa_-_Portugal_(52597836992).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "lx-factory-1.webp",
+      "file": "File:LX Factory Lisbon (44543156954).jpg",
+      "author": "TJ DeGroat from San Francisco, CA, Los estados unidos",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LX_Factory_Lisbon_(44543156954).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "lx-factory-2.webp",
+      "file": "File:LX Factory Lisbon (44543155954).jpg",
+      "author": "TJ DeGroat from San Francisco, CA, Los estados unidos",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LX_Factory_Lisbon_(44543155954).jpg"
+    }
+  ],
+  "maat-museum": [
+    {
+      "role": "hero",
+      "fname": "maat-museum-hero.webp",
+      "file": "File:MAAT.jpg",
+      "author": "Stefan Bethke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MAAT.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "maat-museum-1.webp",
+      "file": "File:Building of the Museum of Art, Architecture and Technology in Lisbon, 20250604 2006 9600.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_the_Museum_of_Art,_Architecture_and_Technology_in_Lisbon,_20250604_2006_9600.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "maat-museum-2.webp",
+      "file": "File:Detail of the ceramic façade, MAAT, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Detail_of_the_ceramic_fa%C3%A7ade,_MAAT,_Lisbon,_Portugal_julesvernex2.jpg"
+    }
+  ],
+  "mercado-campo-de-ourique": [
+    {
+      "role": "hero",
+      "fname": "mercado-campo-de-ourique-hero.webp",
+      "file": "File:Mercado de Campo de Ourique 01.jpg",
+      "author": "GualdimG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_de_Campo_de_Ourique_01.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "mercado-campo-de-ourique-1.webp",
+      "file": "File:Mercado de Campo de Ourique Fachada norte.jpg",
+      "author": "GualdimG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_de_Campo_de_Ourique_Fachada_norte.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "mercado-campo-de-ourique-2.webp",
+      "file": "File:Mercado de Campo de Ourique - Fachada.jpg",
+      "author": "JnpoJuwan",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_de_Campo_de_Ourique_-_Fachada.jpg"
+    }
+  ],
+  "mercado-da-ribeira-food-hall": [
+    {
+      "role": "hero",
+      "fname": "mercado-da-ribeira-food-hall-hero.webp",
+      "file": "File:Drinks_at_Mercado_da_Ribeira_(Lissabon_2016)_(26003375942).jpg",
+      "author": "Paul Arps from The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drinks_at_Mercado_da_Ribeira_(Lissabon_2016)_(26003375942).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "mercado-da-ribeira-food-hall-1.webp",
+      "file": "File:Mercado da Ribeira, Lisbon 02.jpg",
+      "author": "Simon Burchell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_da_Ribeira,_Lisbon_02.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "mercado-da-ribeira-food-hall-2.webp",
+      "file": "File:Mercado da Ribeira, Lisbon 01.jpg",
+      "author": "Simon Burchell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_da_Ribeira,_Lisbon_01.jpg"
+    }
+  ],
+  "miradouro-da-graca": [
+    {
+      "role": "hero",
+      "fname": "miradouro-da-graca-hero.webp",
+      "file": "File:Lisbon_alfalma.jpg",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_alfalma.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "miradouro-da-graca-1.webp",
+      "file": "File:Vistas de Lisboa desde Miradouro da Graça, Portugal, 2012-05-12, DD 14.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vistas_de_Lisboa_desde_Miradouro_da_Gra%C3%A7a,_Portugal,_2012-05-12,_DD_14.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "miradouro-da-graca-2.webp",
+      "file": "File:Vistas de Lisboa desde Miradouro da Graça, Portugal, 2012-05-12, DD 02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vistas_de_Lisboa_desde_Miradouro_da_Gra%C3%A7a,_Portugal,_2012-05-12,_DD_02.JPG"
+    }
+  ],
+  "miradouro-da-senhora-do-monte": [
+    {
+      "role": "hero",
+      "fname": "miradouro-da-senhora-do-monte-hero.webp",
+      "file": "File:Miradouro Nossa Senhora do Monte II.jpg",
+      "author": "Filipe Rocha,user:sacavem (pt) http://pt.wikipedia.org/wiki/Usu%C3%A1rio:Sacavem",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_Nossa_Senhora_do_Monte_II.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "miradouro-da-senhora-do-monte-1.webp",
+      "file": "File:Capela de Nossa Senhora do Monte, Miradouro da Senhora do Monte (49649695837).jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capela_de_Nossa_Senhora_do_Monte,_Miradouro_da_Senhora_do_Monte_(49649695837).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "miradouro-da-senhora-do-monte-2.webp",
+      "file": "File:Miradouro Nossa Senhora do Monte I.jpg",
+      "author": "Filipe Rocha,user:sacavem (pt) http://pt.wikipedia.org/wiki/Usu%C3%A1rio:Sacavem",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_Nossa_Senhora_do_Monte_I.jpg"
+    }
+  ],
+  "miradouro-das-portas-do-sol": [
+    {
+      "role": "hero",
+      "fname": "miradouro-das-portas-do-sol-hero.webp",
+      "file": "File:Igreja de Santo Estêvão from Miradouro das Portas do Sol, Lisbon, 20250606 1958 0420.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_Santo_Est%C3%AAv%C3%A3o_from_Miradouro_das_Portas_do_Sol,_Lisbon,_20250606_1958_0420.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "miradouro-das-portas-do-sol-1.webp",
+      "file": "File:View from from Miradouro das Portas do Sol, Lisbon, 20250603 2018 9054.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_from_Miradouro_das_Portas_do_Sol,_Lisbon,_20250603_2018_9054.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "miradouro-das-portas-do-sol-2.webp",
+      "file": "File:View from from Miradouro das Portas do Sol, Lisbon, 20250603 2019 9057.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_from_Miradouro_das_Portas_do_Sol,_Lisbon,_20250603_2019_9057.jpg"
+    }
+  ],
+  "miradouro-de-santa-luzia": [
+    {
+      "role": "hero",
+      "fname": "miradouro-de-santa-luzia-hero.webp",
+      "file": "File:View from Miradouro de Santa Luzia, Lisbon, 20250603 2016 9045.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_de_Santa_Luzia,_Lisbon,_20250603_2016_9045.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "miradouro-de-santa-luzia-1.webp",
+      "file": "File:View from Miradouro de Santa Luzia, Lisbon, 20250603 2015 9043.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_de_Santa_Luzia,_Lisbon,_20250603_2015_9043.jpg"
+    }
+  ],
+  "miradouro-de-sao-pedro-de-alcantara": [
+    {
+      "role": "hero",
+      "fname": "miradouro-de-sao-pedro-de-alcantara-hero.webp",
+      "file": "File:View of Lisbon and azulejo panel, São Pedro de Alcântara viewpoint, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Lisbon_and_azulejo_panel,_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_viewpoint,_Lisbon,_Portugal_julesvernex2.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "miradouro-de-sao-pedro-de-alcantara-1.webp",
+      "file": "File:Lissabon - Sao Pedro de Alcantara.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Sao_Pedro_de_Alcantara.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "miradouro-de-sao-pedro-de-alcantara-2.webp",
+      "file": "File:Miradouro de São Pedro de Alcântara-Fountain.jpg",
+      "author": "Yair Haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara-Fountain.jpg"
+    }
+  ],
+  "mosteiro-da-batalha": [
+    {
+      "role": "hero",
+      "fname": "mosteiro-da-batalha-hero.webp",
+      "file": "File:Batalha_September_2021-2.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalha_September_2021-2.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "mosteiro-da-batalha-1.webp",
+      "file": "File:Batalha September 2021-53.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalha_September_2021-53.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "mosteiro-da-batalha-2.webp",
+      "file": "File:Batalha September 2021-4.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalha_September_2021-4.jpg"
+    }
+  ],
+  "museu-do-fado": [
+    {
+      "role": "hero",
+      "fname": "museu-do-fado-hero.webp",
+      "file": "File:Museo do Fado, Lisbon (49933186563).jpg",
+      "author": "Matt Kieffer from London, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_do_Fado,_Lisbon_(49933186563).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "museu-do-fado-1.webp",
+      "file": "File:Museo do Fado, Lisbon (49933186393).jpg",
+      "author": "Matt Kieffer from London, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_do_Fado,_Lisbon_(49933186393).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "museu-do-fado-2.webp",
+      "file": "File:Old Records at Museo do Fado, Lisbon (49933186323).jpg",
+      "author": "Matt Kieffer from London, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Records_at_Museo_do_Fado,_Lisbon_(49933186323).jpg"
+    }
+  ],
+  "museu-maritimo-nacional": [
+    {
+      "role": "hero",
+      "fname": "museu-maritimo-nacional-hero.webp",
+      "file": "File:Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg",
+      "author": "Felix König",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "museu-maritimo-nacional-1.webp",
+      "file": "File:Museu de Marinha Lissabon Eingang September 2014.jpg",
+      "author": "Felix König",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "museu-maritimo-nacional-2.webp",
+      "file": "File:Lisbon Museu de Marinha (53092694572).jpg",
+      "author": "tomislav medak",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Museu_de_Marinha_(53092694572).jpg"
+    }
+  ],
+  "national-palace-of-sintra": [
+    {
+      "role": "hero",
+      "fname": "national-palace-of-sintra-hero.webp",
+      "file": "File:Palacio_Sintra_February_2015-13a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Sintra_February_2015-13a.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "national-palace-of-sintra-1.webp",
+      "file": "File:Palacio Nacional, Sintra, Portugal, 2019-05-25, DD 89.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional,_Sintra,_Portugal,_2019-05-25,_DD_89.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "national-palace-of-sintra-2.webp",
+      "file": "File:Palacio Nacional, Sintra, Portugal, 2019-05-25, DD 15.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional,_Sintra,_Portugal,_2019-05-25,_DD_15.jpg"
+    }
+  ],
+  "nazare": [
+    {
+      "role": "hero",
+      "fname": "nazare-hero.webp",
+      "file": "File:La_grande_plage_de_Nazaré_-_panoramio_(20).jpg",
+      "author": "Mister No",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_grande_plage_de_Nazar%C3%A9_-_panoramio_(20).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "nazare-1.webp",
+      "file": "File:2025-12-21 Waves in Nazaré in December 5.jpg",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-12-21_Waves_in_Nazar%C3%A9_in_December_5.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "nazare-2.webp",
+      "file": "File:2025-12-21 Waves in Nazaré in December 3.jpg",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-12-21_Waves_in_Nazar%C3%A9_in_December_3.jpg"
+    }
+  ],
+  "obidos": [
+    {
+      "role": "hero",
+      "fname": "obidos-hero.webp",
+      "file": "File:Óbidos_view592.jpg",
+      "author": "Lacobrigo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%93bidos_view592.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "obidos-1.webp",
+      "file": "File:2025-09-21 Castle of Óbidos 1.jpg",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-09-21_Castle_of_%C3%93bidos_1.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "obidos-2.webp",
+      "file": "File:2025-09-21 Castle of Óbidos.jpg",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-09-21_Castle_of_%C3%93bidos.jpg"
+    }
+  ],
+  "oceanario-de-lisboa": [
+    {
+      "role": "hero",
+      "fname": "oceanario-de-lisboa-hero.webp",
+      "file": "File:Lisboa_June_2014-8a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisboa_June_2014-8a.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "oceanario-de-lisboa-1.webp",
+      "file": "File:Lisbon Oceanarium • Oceanário de Lisboa.jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Oceanarium_%E2%80%A2_Ocean%C3%A1rio_de_Lisboa.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "oceanario-de-lisboa-2.webp",
+      "file": "File:Jellyfish • Lisbon Oceanarium • Oceanário de Lisboa.jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jellyfish_%E2%80%A2_Lisbon_Oceanarium_%E2%80%A2_Ocean%C3%A1rio_de_Lisboa.jpg"
+    }
+  ],
+  "padrao-dos-descobrimentos": [
+    {
+      "role": "hero",
+      "fname": "padrao-dos-descobrimentos-hero.webp",
+      "file": "File:Padrão_Descobrimentos_April_2009-3c.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padr%C3%A3o_Descobrimentos_April_2009-3c.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "padrao-dos-descobrimentos-1.webp",
+      "file": "File:Belem - Padrao dos Descobrimentos.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belem_-_Padrao_dos_Descobrimentos.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "padrao-dos-descobrimentos-2.webp",
+      "file": "File:Padrão dos Descobrimentos in early morning, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padr%C3%A3o_dos_Descobrimentos_in_early_morning,_Lisbon,_Portugal_julesvernex2.jpg"
+    }
+  ],
+  "palacio-da-pena": [
+    {
+      "role": "hero",
+      "fname": "palacio-da-pena-hero.webp",
+      "file": "File:Sintra_Portugal_Palácio_da_Pena-01.jpg",
+      "author": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "palacio-da-pena-1.webp",
+      "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 132.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_132.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "palacio-da-pena-2.webp",
+      "file": "File:Palacio Nacional da Pena, Sintra, Portugal, 2019-05-25, DD 147.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_147.jpg"
+    }
+  ],
+  "palacio-de-monserrate": [
+    {
+      "role": "hero",
+      "fname": "palacio-de-monserrate-hero.webp",
+      "file": "File:Palácio_Monserrate_(1).jpg",
+      "author": "Jorge Lobo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Monserrate_(1).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "palacio-de-monserrate-1.webp",
+      "file": "File:Palácio de Monserrate.1.jpg",
+      "author": "LennyAragon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Monserrate.1.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "palacio-de-monserrate-2.webp",
+      "file": "File:Palácio Monserrate (1).jpg",
+      "author": "Jorge Lobo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Monserrate_(1).jpg"
+    }
+  ],
+  "palacio-nacional-de-queluz": [
+    {
+      "role": "hero",
+      "fname": "palacio-nacional-de-queluz-hero.webp",
+      "file": "File:1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_Königshauses._01.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_K%C3%B6nigshauses._01.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "palacio-nacional-de-queluz-1.webp",
+      "file": "File:Palácio Nacional de Queluz DSC04882 - QUELUZ (32518391394).jpg",
+      "author": "Heribert Bechen ***Thanks for more than 800.000 visits!*** from Bergisch Gladbach, Germany",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nacional_de_Queluz_DSC04882_-_QUELUZ_(32518391394).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "palacio-nacional-de-queluz-2.webp",
+      "file": "File:BAR000282 - Palácio Nacional de Queluz.jpg",
+      "author": "José Artur Leitão Bárcia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BAR000282_-_Pal%C3%A1cio_Nacional_de_Queluz.jpg"
+    }
+  ],
+  "panteao-nacional": [
+    {
+      "role": "hero",
+      "fname": "panteao-nacional-hero.webp",
+      "file": "File:Igreja_de_Santa_Engrácia_lisbon.jpg",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_Santa_Engr%C3%A1cia_lisbon.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "panteao-nacional-1.webp",
+      "file": "File:Panteão Nacional, Igreja de Santa Engrácia, Lisboa, Portugal.jpg",
+      "author": "Paulo.boto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pante%C3%A3o_Nacional,_Igreja_de_Santa_Engr%C3%A1cia,_Lisboa,_Portugal.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "panteao-nacional-2.webp",
+      "file": "File:Panteão Nacional, Lisboa.jpg",
+      "author": "Adrianommb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pante%C3%A3o_Nacional,_Lisboa.jpg"
+    }
+  ],
+  "park-rooftop-bar": [
+    {
+      "role": "hero",
+      "fname": "park-rooftop-bar-hero.webp",
+      "file": "File:Lissabon - Sao Pedro de Alcantara.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Sao_Pedro_de_Alcantara.jpg"
+    }
+  ],
+  "parque-das-nacoes": [
+    {
+      "role": "hero",
+      "fname": "parque-das-nacoes-hero.webp",
+      "file": "File:Estação_do_Oriente,_Lisboa,_Portugal_(19198862262).jpg",
+      "author": "Martin de Lusenet from Heemskerk, Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_do_Oriente,_Lisboa,_Portugal_(19198862262).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "parque-das-nacoes-1.webp",
+      "file": "File:Yellow leaves floating next to water volcano, Alameda dos Oceanos, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellow_leaves_floating_next_to_water_volcano,_Alameda_dos_Oceanos,_Parque_das_Na%C3%A7%C3%B5es,_Lisbon,_Portugal_julesvernex2.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "parque-das-nacoes-2.webp",
+      "file": "File:\"Horas de Chumbo\", by Rui Chafes, Parque das Nações, Lisbon, Portugal julesvernex2-2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Horas_de_Chumbo%22,_by_Rui_Chafes,_Parque_das_Na%C3%A7%C3%B5es,_Lisbon,_Portugal_julesvernex2-2.jpg"
+    }
+  ],
+  "parque-natural-da-arrabida": [
+    {
+      "role": "hero",
+      "fname": "parque-natural-da-arrabida-hero.webp",
+      "file": "File:Parque_Natural_da_Arrábia.jpg",
+      "author": "Senyrah",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_Natural_da_Arr%C3%A1bia.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "parque-natural-da-arrabida-1.webp",
+      "file": "File:Sepia común (Sepia officinalis), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 62.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sepia_com%C3%BAn_(Sepia_officinalis),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_62.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "parque-natural-da-arrabida-2.webp",
+      "file": "File:Sargo común (Diplodus sargus), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 56.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sargo_com%C3%BAn_(Diplodus_sargus),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_56.jpg"
+    }
+  ],
+  "pasteis-de-belem": [
+    {
+      "role": "hero",
+      "fname": "pasteis-de-belem-hero.webp",
+      "file": "File:Pasteis_de_Belem.jpg",
+      "author": "Mon Œil",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteis_de_Belem.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "pasteis-de-belem-1.webp",
+      "file": "File:Pastéis de Belém - Lisbon.jpg",
+      "author": "Ø11",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Past%C3%A9is_de_Bel%C3%A9m_-_Lisbon.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "pasteis-de-belem-2.webp",
+      "file": "File:Lisbon. Pastéis de Belém. (41223933104).jpg",
+      "author": "Vernaccia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon._Past%C3%A9is_de_Bel%C3%A9m._(41223933104).jpg"
+    }
+  ],
+  "pastel-de-nata-cooking-class": [
+    {
+      "role": "hero",
+      "fname": "pastel-de-nata-cooking-class-hero.webp",
+      "file": "File:Pasteis_de_Belem.jpg",
+      "author": "Mon Œil",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteis_de_Belem.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "pastel-de-nata-cooking-class-1.webp",
+      "file": "File:Funchal (Madeira, Portugal), Rua Dr. Fernão de Ornelas, Nata 7 - Fernão Ornelas -- 2025 -- 1205.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Rua_Dr._Fern%C3%A3o_de_Ornelas,_Nata_7_-_Fern%C3%A3o_Ornelas_--_2025_--_1205.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "pastel-de-nata-cooking-class-2.webp",
+      "file": "File:Pastel de nata (18616473070).jpg",
+      "author": "fw42 from Germany",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pastel_de_nata_(18616473070).jpg"
+    }
+  ],
+  "pilar-7-bridge-experience": [
+    {
+      "role": "hero",
+      "fname": "pilar-7-bridge-experience-hero.webp",
+      "file": "File:25_De_Abril_Bridge_(226290561).jpeg",
+      "author": "Mike",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:25_De_Abril_Bridge_(226290561).jpeg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "pilar-7-bridge-experience-1.webp",
+      "file": "File:Ponte25Abril1.jpg",
+      "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte25Abril1.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "pilar-7-bridge-experience-2.webp",
+      "file": "File:View of Ponte 25 de Abril from the Tagus River, 20250604 1928 9520.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Ponte_25_de_Abril_from_the_Tagus_River,_20250604_1928_9520.jpg"
+    }
+  ],
+  "pink-street": [
+    {
+      "role": "hero",
+      "fname": "pink-street-hero.webp",
+      "file": "File:Lisbon Pink Street Rua Cor de Rosa or Rua Nova de Carvalho, former red light disctrict (50654507622).jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Pink_Street_Rua_Cor_de_Rosa_or_Rua_Nova_de_Carvalho,_former_red_light_disctrict_(50654507622).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "pink-street-1.webp",
+      "file": "File:Lisbon Pink Street.jpg",
+      "author": "FuriousYogi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Pink_Street.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "pink-street-2.webp",
+      "file": "File:Lisbon Pink Street (10612352085).jpg",
+      "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Pink_Street_(10612352085).jpg"
+    }
+  ],
+  "port-wine-tasting-experience": [
+    {
+      "role": "hero",
+      "fname": "port-wine-tasting-experience-hero.webp",
+      "file": "File:Port_wine.jpg",
+      "author": "Jon Sullivan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_wine.jpg"
+    }
+  ],
+  "portuguese-wine-tasting-tour": [
+    {
+      "role": "hero",
+      "fname": "portuguese-wine-tasting-tour-hero.webp",
+      "file": "File:Port_wine.jpg",
+      "author": "Jon Sullivan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_wine.jpg"
+    }
+  ],
+  "praca-do-comercio": [
+    {
+      "role": "hero",
+      "fname": "praca-do-comercio-hero.webp",
+      "file": "File:Lisbon_(36211708233)_(cropped).jpg",
+      "author": "Deensel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_(36211708233)_(cropped).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "praca-do-comercio-1.webp",
+      "file": "File:Arco Triunfal da Rua Augusta, Plaza del Comercio, Lisboa, Portugal, 2012-05-12, DD 02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "praca-do-comercio-2.webp",
+      "file": "File:Lissabon - Praca do Comercio - Arcades.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Praca_do_Comercio_-_Arcades.jpg"
+    }
+  ],
+  "quinta-da-regaleira": [
+    {
+      "role": "hero",
+      "fname": "quinta-da-regaleira-hero.webp",
+      "file": "File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_56.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_56.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "quinta-da-regaleira-1.webp",
+      "file": "File:Quinta da Regaleira, Sintra, Portugal, 2022-07-25, DD 16.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2022-07-25,_DD_16.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "quinta-da-regaleira-2.webp",
+      "file": "File:Quinta da Regaleira, Sintra, Portugal, 2019-05-25, DD 56.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_56.jpg"
+    }
+  ],
+  "rua-augusta": [
+    {
+      "role": "hero",
+      "fname": "rua-augusta-hero.webp",
+      "file": "File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "rua-augusta-1.webp",
+      "file": "File:Arco Triunfal da Rua Augusta, Plaza del Comercio, Lisboa, Portugal, 2012-05-12, DD 02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "rua-augusta-2.webp",
+      "file": "File:Rua Augusta from the Arco Triunfal, Lisbon, 20250604 1428 9281.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rua_Augusta_from_the_Arco_Triunfal,_Lisbon,_20250604_1428_9281.jpg"
+    }
+  ],
+  "santuario-de-fatima": [
+    {
+      "role": "hero",
+      "fname": "santuario-de-fatima-hero.webp",
+      "file": "File:Fatima_BW_2018-10-07_10-36-14.jpg",
+      "author": "Berthold Werner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatima_BW_2018-10-07_10-36-14.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "santuario-de-fatima-1.webp",
+      "file": "File:Santuário de Fátima (13708963163).jpg",
+      "author": "Terry Kearney from liverpool, merseyside",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_de_F%C3%A1tima_(13708963163).jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "santuario-de-fatima-2.webp",
+      "file": "File:Procession in Fátima, Portugal – 1951.jpg",
+      "author": "Alípio da Silva Vicente",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Procession_in_F%C3%A1tima,_Portugal_%E2%80%93_1951.jpg"
+    }
+  ],
+  "se-de-lisboa": [
+    {
+      "role": "hero",
+      "fname": "se-de-lisboa-hero.webp",
+      "file": "File:Catedral,_Lisboa,_Portugal,_2022-07-24,_DD_24.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral,_Lisboa,_Portugal,_2022-07-24,_DD_24.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "se-de-lisboa-1.webp",
+      "file": "File:Rose window, center of west facade of Sé de Lisboa, 20250603 1954 9005.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rose_window,_center_of_west_facade_of_S%C3%A9_de_Lisboa,_20250603_1954_9005.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "se-de-lisboa-2.webp",
+      "file": "File:Lisboa May 2013-1.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisboa_May_2013-1.jpg"
+    }
+  ],
+  "sintra-unesco-town": [
+    {
+      "role": "hero",
+      "fname": "sintra-unesco-town-hero.webp",
+      "file": "File:Sintra_-_Palacio_da_Pena_(20332995770)_(cropped2).jpg",
+      "author": "Singa Hitam",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sintra_-_Palacio_da_Pena_(20332995770)_(cropped2).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "sintra-unesco-town-1.webp",
+      "file": "File:Palacio Nacional, Sintra, Portugal, 2019-05-25, DD 78.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional,_Sintra,_Portugal,_2019-05-25,_DD_78.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "sintra-unesco-town-2.webp",
+      "file": "File:Palacio Nacional, Sintra, Portugal, 2019-05-25, DD 89.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional,_Sintra,_Portugal,_2019-05-25,_DD_89.jpg"
+    }
+  ],
+  "tagus-river-sunset-cruise": [
+    {
+      "role": "hero",
+      "fname": "tagus-river-sunset-cruise-hero.webp",
+      "file": "File:Tagus Cruise (48783156956).jpg",
+      "author": "Andy Blackledge from Scottsdale, AZ, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagus_Cruise_(48783156956).jpg"
+    }
+  ],
+  "teleferico-de-lisboa": [
+    {
+      "role": "hero",
+      "fname": "teleferico-de-lisboa-hero.webp",
+      "file": "File:Cidade_Maravilhosa.jpg",
+      "author": "Rafael Rabello de Barros",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "teleferico-de-lisboa-1.webp",
+      "file": "File:Teleférico do Jardim Zoológico de Lisboa 07.jpg",
+      "author": "GualdimG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Telef%C3%A9rico_do_Jardim_Zool%C3%B3gico_de_Lisboa_07.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "teleferico-de-lisboa-2.webp",
+      "file": "File:Teleférico do Jardim Zoológico de Lisboa 06.jpg",
+      "author": "GualdimG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Telef%C3%A9rico_do_Jardim_Zool%C3%B3gico_de_Lisboa_06.jpg"
+    }
+  ],
+  "time-out-market-lisboa": [
+    {
+      "role": "hero",
+      "fname": "time-out-market-lisboa-hero.webp",
+      "file": "File:Drinks_at_Mercado_da_Ribeira_(Lissabon_2016)_(26003375942).jpg",
+      "author": "Paul Arps from The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drinks_at_Mercado_da_Ribeira_(Lissabon_2016)_(26003375942).jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "time-out-market-lisboa-1.webp",
+      "file": "File:Mercado da Ribeira, Time Out Market, Lisbon - 49677105008.jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_da_Ribeira,_Time_Out_Market,_Lisbon_-_49677105008.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "time-out-market-lisboa-2.webp",
+      "file": "File:Mercado da Ribeira, Time Out Market, Lisbon.jpg",
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_da_Ribeira,_Time_Out_Market,_Lisbon.jpg"
+    }
+  ],
+  "torre-de-belem": [
+    {
+      "role": "hero",
+      "fname": "torre-de-belem-hero.webp",
+      "file": "File:Belém_Tower_in_Lisbon,_Portugal.jpg",
+      "author": "Lisbon Photoshoots",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_Tower_in_Lisbon,_Portugal.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "torre-de-belem-1.webp",
+      "file": "File:Torre Belém April 2009-4a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "torre-de-belem-2.webp",
+      "file": "File:Lisbon Torre de Belém BW 2018-10-03 16-33-21.jpg",
+      "author": "Berthold Werner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-33-21.jpg"
+    }
+  ],
+  "traditional-fado-dinner-show": [
+    {
+      "role": "hero",
+      "fname": "traditional-fado-dinner-show-hero.webp",
+      "file": "File:Fado Museum (48386577722).jpg",
+      "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fado_Museum_(48386577722).jpg"
+    }
+  ],
+  "tram-28": [
+    {
+      "role": "hero",
+      "fname": "tram-28-hero.webp",
+      "file": "File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zepředu.jpg",
+      "author": "ŠJů (cs:ŠJů)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zep%C5%99edu.jpg"
+    },
+    {
+      "role": "gallery-1",
+      "fname": "tram-28-1.webp",
+      "file": "File:Tram 28 Lisbon Portuguese.jpg",
+      "author": "Ввласенко",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tram_28_Lisbon_Portuguese.jpg"
+    },
+    {
+      "role": "gallery-2",
+      "fname": "tram-28-2.webp",
+      "file": "File:Tram 28 at Largo de Santa Luzia in Lisbon, 20250606 1958 0419.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tram_28_at_Largo_de_Santa_Luzia_in_Lisbon,_20250606_1958_0419.jpg"
+    }
+  ],
+  "segway-tour": [
+    {
+      "role": "hero",
+      "fname": "segway-tour-hero.webp",
+      "file": "File:Segways in Heidelberg (Germany) over the Old Bridge 02.jpg",
+      "author": "Nemracc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Segways_in_Heidelberg_(Germany)_over_the_Old_Bridge_02.jpg"
+    }
+  ]
+}

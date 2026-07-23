@@ -148,14 +148,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/parque-das-nacoes-hero.webp",
-      "alt": "Parque das Nações waterfront",
-      "caption": "The modern waterfront promenade at Parque das Nações"
+      "alt": "Parque das Nações",
+      "caption": "Parque das Nações. Photo: Martin de Lusenet from Heemskerk, Netherlands, CC BY 2.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/parque-das-nacoes-1.webp",
-        "alt": "Vasco da Gama Tower",
-        "caption": "The distinctive Vasco da Gama Tower overlooking the Tagus"
+        "alt": "Parque das Nações",
+        "caption": "Parque das Nações. Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/parque-das-nacoes-2.webp",
+        "alt": "Parque das Nações",
+        "caption": "Parque das Nações. Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

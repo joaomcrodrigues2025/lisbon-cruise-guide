@@ -165,14 +165,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/maat-museum-hero.webp",
-      "alt": "MAAT Museum exterior",
-      "caption": "The striking contemporary architecture of MAAT"
+      "alt": "MAAT - Museum of Art, Architecture and Technology",
+      "caption": "MAAT - Museum of Art, Architecture and Technology. Photo: Stefan Bethke, CC BY-SA 4.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/maat-museum-1.webp",
-        "alt": "MAAT by the Tagus River",
-        "caption": "MAAT's white curved structure along the riverfront"
+        "alt": "MAAT - Museum of Art, Architecture and Technology",
+        "caption": "MAAT - Museum of Art, Architecture and Technology. Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/maat-museum-2.webp",
+        "alt": "MAAT - Museum of Art, Architecture and Technology",
+        "caption": "MAAT - Museum of Art, Architecture and Technology. Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons"
       }
     ]
   },

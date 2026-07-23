@@ -142,14 +142,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/chiado-hero.webp",
-      "alt": "Chiado district shopping street",
-      "caption": "The elegant shopping streets of Chiado"
+      "alt": "Chiado",
+      "caption": "Chiado. Photo: Luca Galuzzi (Lucag), CC BY-SA 2.5, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/chiado-1.webp",
-        "alt": "A Brasileira café in Chiado",
-        "caption": "The historic A Brasileira café, a Chiado landmark"
+        "alt": "Chiado",
+        "caption": "Chiado. Photo: Scalleja [2], CC BY-SA 2.0, via Wikimedia Commons"
+      },
+      {
+        "url": "/images/attractions/chiado-2.webp",
+        "alt": "Chiado",
+        "caption": "Chiado. Photo: Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, via Wikimedia Commons"
       }
     ]
   },

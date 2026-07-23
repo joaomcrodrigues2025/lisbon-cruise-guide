@@ -263,13 +263,6 @@ export default function MapPage() {
                       <p className="text-xs text-slate-600 mb-2">
                         {attraction.tagline}
                       </p>
-                      <div className="flex items-center gap-1 mb-2">
-                        <span className="text-[#FFC72C] text-xs">★</span>
-                        <span className="text-xs font-semibold">{attraction.rating}</span>
-                        <span className="text-xs text-slate-500">
-                          ({attraction.reviewCount.toLocaleString()})
-                        </span>
-                      </div>
                       <div className="text-xs text-slate-600 mb-2">
                         <strong>Category:</strong> {attraction.type}
                       </div>

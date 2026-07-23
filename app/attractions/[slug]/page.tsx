@@ -40,19 +40,6 @@ export default async function AttractionDetailPage({ params }: { params: Promise
 
   const nearbyAttractions = await getNearbyAttractions(attraction.id);
 
-  const renderStars = (rating: number) => {
-    const fullStars = Math.floor(rating);
-    const hasHalfStar = rating % 1 >= 0.5;
-    const stars = [];
-    for (let i = 0; i < fullStars; i++) {
-      stars.push(<span key={`full-${i}`} className="material-symbols-outlined fill text-[#FFC72C]">star</span>);
-    }
-    if (hasHalfStar) {
-      stars.push(<span key="half" className="material-symbols-outlined fill text-[#FFC72C]">star_half</span>);
-    }
-    return stars;
-  };
-
   return (
     <div className="relative flex min-h-screen w-full flex-col">
       <script
@@ -80,15 +67,9 @@ export default async function AttractionDetailPage({ params }: { params: Promise
         <div className="max-w-6xl mx-auto">
           <h1 className="text-3xl font-bold text-[#003366]">{attraction.name}</h1>
           <p className="text-lg text-slate-600 mt-2">{attraction.tagline}</p>
-          
-          {/* Rating */}
-          <div className="flex items-center gap-2 mt-4">
-            <div className="flex items-center">{renderStars(attraction.rating)}</div>
-            <span className="font-bold text-[#003366]">{attraction.rating}</span>
-            <span className="text-sm text-slate-600">
-              ({attraction.reviewCount.toLocaleString()} reviews{attraction.reviewSource ? ` on ${attraction.reviewSource}` : ''})
-            </span>
-          </div>
+          <p className="text-sm text-slate-500 mt-3">
+            Listing reviewed July 2026 · Confirm hours and prices with the official venue before visiting
+          </p>
         </div>
       </div>
 

@@ -74,10 +74,12 @@ export default function RootLayout({
                 Your comprehensive guide to Lisbon attractions for cruise ship passengers
               </p>
               <nav className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 mt-6 text-sm">
+                <Link href="/guides" className="hover:text-[#003366] transition-colors">Shore Guides</Link>
                 <Link href="/about" className="hover:text-[#003366] transition-colors">About</Link>
                 <Link href="/contact" className="hover:text-[#003366] transition-colors">Contact</Link>
                 <Link href="/privacy-policy" className="hover:text-[#003366] transition-colors">Privacy Policy</Link>
                 <Link href="/terms" className="hover:text-[#003366] transition-colors">Terms of Use</Link>
+                <Link href="/image-credits" className="hover:text-[#003366] transition-colors">Image Credits</Link>
               </nav>
               <p className="text-xs mt-6 text-slate-500">
                 © {new Date().getFullYear()} Lisbon Cruise Guide. Attraction details such as prices and opening hours can change; always confirm with the official venue before visiting.

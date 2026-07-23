@@ -55,6 +55,15 @@ export default function Header() {
               All Attractions
             </Link>
             <Link
+              href="/guides"
+              className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
+                isActive('/guides') ? 'bg-slate-100 font-semibold' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              Shore Guides
+            </Link>
+            <Link
               href="/map"
               className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
                 isActive('/map') ? 'bg-slate-100 font-semibold' : ''

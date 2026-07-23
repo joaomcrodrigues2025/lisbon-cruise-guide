@@ -176,21 +176,10 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/segway-tour-hero.webp",
-      "alt": "Group of tourists on Segways at Lisbon viewpoint",
-      "caption": "Exploring Lisbon's stunning viewpoints effortlessly on a guided Segway tour"
+      "alt": "Lisbon Segway Tour",
+      "caption": "Lisbon Segway Tour. Photo: Nemracc, CC BY-SA 4.0, via Wikimedia Commons"
     },
-    "gallery": [
-      {
-        "url": "/images/attractions/segway-tour-1.webp",
-        "alt": "Segway riders navigating Alfama's narrow streets",
-        "caption": "Gliding through the charming historic Alfama neighborhood"
-      },
-      {
-        "url": "/images/attractions/segway-tour-2.webp",
-        "alt": "Panoramic view from Miradouro da Graça with Segways",
-        "caption": "Breathtaking city vistas from one of Lisbon's famous miradouros"
-      }
-    ]
+    "gallery": []
   },
   "nearbyAttractions": [
     {
