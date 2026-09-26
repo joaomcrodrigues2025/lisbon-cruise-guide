@@ -112,18 +112,25 @@ export default async function HomePage() {
               </div>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4 mt-8 w-full max-w-md">
+            <div className="flex flex-col sm:flex-row sm:justify-center gap-4 mt-8 w-full max-w-3xl">
               <Link
                 href="/planner"
-                className="flex w-full min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#FFC72C] text-[#003366] text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#FFD54F] transition-colors"
+                className="flex w-full sm:w-auto min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#FFC72C] text-[#003366] text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#FFD54F] transition-colors"
               >
                 <span className="truncate">Plan Your Port Day</span>
               </Link>
               <Link
                 href="/attractions"
-                className="flex w-full min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#003366] text-white text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#004080] transition-colors"
+                className="flex w-full sm:w-auto min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#003366] text-white text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#004080] transition-colors"
               >
                 <span className="truncate">Explore Attractions</span>
+              </Link>
+              <Link
+                href="/map"
+                className="flex w-full sm:w-auto min-w-[84px] cursor-pointer items-center justify-center gap-2 overflow-hidden rounded-lg h-14 px-5 bg-white text-[#003366] text-lg font-bold leading-normal tracking-[0.015em] hover:bg-slate-100 transition-colors"
+              >
+                <span className="material-symbols-outlined">map</span>
+                <span className="truncate">Map</span>
               </Link>
             </div>
           </div>
