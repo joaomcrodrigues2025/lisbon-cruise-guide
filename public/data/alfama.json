@@ -1,7 +1,7 @@
 {
   "id": "alfama",
   "name": "Alfama",
-  "tagline": "Lisbon's oldest and most charming medieval neighborhood",
+  "tagline": "Lisbon's oldest quarter begins across the road from the cruise terminal",
   "type": "neighborhood",
   "categories": [
     "neighborhood",
@@ -12,9 +12,9 @@
   ],
   "description": {
     "short": "Lisbon's oldest district, Alfama is a captivating maze of narrow cobbled streets, colorful houses, and hidden courtyards that survived the 1755 earthquake. Home to traditional Fado music, vintage trams, and stunning viewpoints overlooking the Tagus River.",
-    "full": "Alfama is the ancient heart and soul of Lisbon, a labyrinthine medieval quarter that cascades down the steep hillside from Castelo de Sao Jorge to the Tagus River waterfront. As Lisbon's oldest neighborhood, Alfama largely escaped the devastating 1755 earthquake that destroyed much of the city, preserving its authentic Moorish-influenced layout of narrow winding alleys, steep staircases, and tiny squares. The district's name derives from the Arabic 'al-hamma' (fountains or baths), a reminder of its eight centuries under Moorish rule before the Christian reconquest of 1147. Walking through Alfama is like stepping back in time - laundry hangs from wrought-iron balconies, residents chat from their windows, the iconic yellow Tram 28 rattles through impossibly narrow streets, and the haunting sound of Fado music drifts from traditional restaurants. The neighborhood is dotted with historic landmarks including the imposing Lisbon Cathedral (Se), the National Pantheon, the Church of Santo Antonio (birthplace of Lisbon's patron saint), and numerous miradouros (viewpoints) offering breathtaking panoramas. Alfama is the birthplace of Fado, Portugal's melancholic musical tradition, and visitors can experience authentic performances in intimate restaurants and taverns. The district comes alive during the Festas de Santo Antonio in June, when streets are decorated with colorful paper decorations and residents celebrate with music, sardine grills, and wine. Despite increasing tourism, Alfama remains a living, working-class neighborhood where traditional life continues much as it has for centuries.",
-    "history": "Alfama's history spans over 3,000 years, beginning with Phoenician and Roman settlements on this strategic hilltop. Archaeological evidence shows the Romans built an amphitheater (Teatro Romano) here in the 1st century BC. The Moors arrived in the 8th century and developed Alfama into a fortified residential quarter with a medina-like layout designed for defense, with narrow winding streets making cavalry charges impossible. The district's name 'al-hamma' refers to the hot springs and baths the Moors built here. In 1147, Christian forces led by King Afonso Henriques conquered Lisbon after a four-month siege, and Alfama became a densely populated working-class district for fishermen, dockworkers, and sailors. The 1755 earthquake and tsunami devastated most of Lisbon but Alfama, built on solid bedrock and elevated above the tsunami's reach, survived largely intact, making it the only part of Lisbon that preserves its medieval character. In the 19th and early 20th centuries, Alfama was known as a poor, rough neighborhood where Fado music emerged in taverns and brothels. The late 20th century brought gentrification and tourism, transforming many traditional buildings into guesthouses and restaurants, though the neighborhood maintains its authentic character and local population.",
-    "significance": "Alfama represents Lisbon's living history and authentic soul. As the only neighborhood to survive the 1755 earthquake largely intact, it preserves Lisbon's original medieval and Moorish urban fabric, offering insight into the city's past that has been lost elsewhere. Alfama is the birthplace and spiritual home of Fado, Portugal's UNESCO-recognized musical heritage, making it essential for understanding Portuguese cultural identity. The neighborhood exemplifies the resilience of Lisbon's working-class communities and traditional urban life in the face of modernization and tourism. Its viewpoints, historic buildings, and atmospheric streets make it Lisbon's most photographed and romanticized neighborhood, appearing in countless films, books, and artworks as the quintessential image of Portuguese urban heritage."
+    "full": "Alfama is the one Lisbon sight you can reach without any transport: its lower lanes start across Avenida Infante Dom Henrique from the Jardim do Tabaco terminal, about 8 minutes on foot. The catch is the gradient. The district climbs from the river to the castle walls on stairs and steep cobbles, so decide which way you will walk before you set off.\n\nThe easiest plan for a port day is top-down. Take a taxi, a tuk-tuk or Tram 28E up to Largo das Portas do Sol, look at the view, then walk downhill through the lanes back towards the ship. Walking up and back down covers the same streets at roughly twice the effort.\n\nWith 90 minutes: the Portas do Sol and Santa Luzia viewpoints, which sit a minute or two apart, then a slow walk down to Largo do Chafariz de Dentro, where the Fado Museum stands a few minutes from the terminal. With three to four hours, add the Sé (Lisbon's cathedral, closed to visitors on Sundays) or Castelo de São Jorge higher up. On a Tuesday or Saturday, the Feira da Ladra flea market fills Campo de Santa Clara, on the eastern edge of the district.\n\nOn busy ship days, roughly 10:00 to 15:00 is when excursion groups crowd the viewpoints and Tram 28E arrives full. Early in your port day is calmer, and the side lanes away from the tram line stay quiet at almost any hour.\n\nWhat to skip if time is tight: queuing for Tram 28E only for the ride, restaurants with touts and picture menus on the main routes, and trying to see every church. The lanes themselves are the point.\n\nAlfama's irregular street plan predates the 1755 earthquake, which hit the flat Baixa far harder. People still live here, so keep voices down in the narrow residential alleys.",
+    "history": "The name comes from the Arabic al-hamma, usually linked to the springs and baths of the area. Under Moorish rule this was the residential quarter below the citadel, and its tangle of alleys still follows that pattern. After Afonso Henriques took Lisbon in 1147, Alfama became home to fishermen, sailors and dockworkers. The 1755 earthquake devastated much of the city, but Alfama's rocky hillside fared better than the low-lying Baixa, which is why its medieval layout survives instead of the grid rebuilt downtown. In the 19th century fado took shape in the taverns of Alfama and neighbouring Mouraria, which is why the Fado Museum stands at its foot. Each June the Santo António festivities fill its streets with grills and music.",
+    "significance": "Alfama is the largest surviving piece of pre-earthquake Lisbon: irregular streets, small squares and stairways that show how the city looked before its planned 18th-century rebuild. For a cruise passenger it is also practical. The terminal sits at its foot, and the cathedral, the castle and the two main viewpoints are inside or on the edge of the district, so one walk covers several of the city's main sights."
   },
   "location": {
     "address": {
@@ -30,14 +30,14 @@
       "longitude": -9.128333
     },
     "directions": {
-      "general": "Located on the hillside between Castelo de Sao Jorge and the Tagus River, east of downtown Baixa district",
-      "fromCruisePort": "2.5km from Santa Apolonia cruise port - the port is actually on Alfama's eastern edge. Walk west along waterfront (30 minutes) or take tram 28E from port area. Taxi/Uber 5-10 minutes to upper Alfama.",
-      "publicTransport": "Tram 28E traverses Alfama (iconic route). Metro to Santa Apolonia or Terreiro do Paco, then walk uphill. Buses 734, 737 serve upper Alfama near castle. From Baixa, steep 15-20 minute uphill walk.",
-      "parking": "Not recommended to drive - extremely narrow medieval streets. Limited parking at Santa Apolonia. Park elsewhere and walk/take tram."
+      "general": "Located on the hillside between Castelo de São Jorge and the Tagus River, east of downtown Baixa district",
+      "fromCruisePort": "Alfama starts across the road from the Jardim do Tabaco cruise terminal: about 450 m and 8 minutes on foot to the lower lanes. Everything above that is uphill on stairs and cobbles; if you want the views without the climb, take a taxi or tuk-tuk to Largo das Portas do Sol and walk down.",
+      "publicTransport": "Tram 28E traverses Alfama (iconic route). Metro to Santa Apolónia or Terreiro do Paço, then walk uphill. Buses 734, 737 serve upper Alfama near castle. From Baixa, steep 15-20 minute uphill walk.",
+      "parking": "Not recommended to drive - extremely narrow medieval streets. Limited parking at Santa Apolónia. Park elsewhere and walk/take tram."
     },
     "distanceFromCruisePort": {
-      "meters": 2500,
-      "walkingTime": "30 minutes (includes uphill sections)",
+      "meters": 452,
+      "walkingTime": "8 min walk",
       "drivingTime": "5-10 minutes"
     }
   },
@@ -73,24 +73,24 @@
       "senior": 0,
       "lisboaCardFree": true,
       "comboTicket": null,
-      "notes": "Free to walk and explore. Individual attractions (Castle, Cathedral, museums) charge separate admission. Tram 28E: €3.30 per ride or included with Lisboa Card."
+      "notes": "Free to walk around. Paid sights in or next to Alfama include Castelo de São Jorge (€17), the Sé (€7) and the Fado Museum (€5). Tram 28E on-board fare €3.30 (Carris, 2026)."
     },
-    "averageVisitDuration": "2-4 hours minimum for walking tour",
+    "averageVisitDuration": "1.5–3 hours on foot",
     "bestTimeToVisit": "Early morning (8-10am) for fewer tourists and authentic neighborhood life. Late afternoon for golden light and sunset from viewpoints. Tuesday or Saturday morning for Feira da Ladra flea market. Avoid midday summer heat.",
     "busyPeriods": [
       "Mid-morning to afternoon (10:00-16:00)",
       "Weekends (Tram 28E extremely crowded)",
-      "June 12-13 (Festas de Santo Antonio festival)",
+      "June 12-13 (Festas de Santo António festival)",
       "Summer months (July-August)"
     ],
     "adviceForVisitors": "Wear comfortable walking shoes - very steep, uneven cobblestones and many stairs. Getting lost is part of the charm - embrace it, but keep heading downhill to reach waterfront. Start at top (castle or Graça) and walk down rather than exhausting uphill climb. Watch for pickpockets on crowded Tram 28E. Visit Feira da Ladra flea market Tuesday/Saturday morning. Experience authentic Fado dinner at traditional restaurant (avoid tourist traps with touts). Respect residents - it's a real neighborhood, not a theme park. Bring water. Best explored on foot, not by car. Allow 3-4 hours minimum for meaningful exploration."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "3-4 hours minimum (very close to Santa Apolonia port - can walk)",
-    "accessibility": "Excellent - walking distance from Santa Apolonia cruise port. Neighborhood has steep hills and stairs (challenging for mobility issues).",
+    "timeNeededFromPort": "1.5–4 hours: 90 minutes covers the two viewpoints and a walk down; allow half a day to add the cathedral or the castle",
+    "accessibility": "The lower lanes are about 8 minutes' flat walk from the terminal; everything above is steep cobbles and stairs. Visitors with limited mobility can take a taxi to Largo das Portas do Sol, where the viewpoint is at street level.",
     "combinableWith": [
-      "Castelo de Sao Jorge",
+      "Castelo de São Jorge",
       "Lisbon Cathedral (Se)",
       "Fado Museum",
       "Tram 28E scenic ride",
@@ -99,36 +99,27 @@
       "Portas do Sol and Santa Luzia viewpoints"
     ],
     "tips": [
-      "Perfect for cruise passengers - walking distance from port!",
-      "Start at Castelo de Sao Jorge, explore downhill to waterfront",
-      "Take Tram 28E through Alfama - iconic Lisbon experience",
-      "Visit Feira da Ladra flea market if arriving Tuesday/Saturday",
-      "Stop at miradouros (viewpoints) for stunning photo opportunities",
-      "Have lunch at traditional tasca with grilled sardines",
-      "Book authentic Fado dinner for evening (if time permits)",
-      "Wear comfortable shoes - very steep cobblestone streets",
-      "Easy return to port - it's right on Alfama's waterfront edge",
-      "Allow 3-4 hours to properly explore and soak in atmosphere",
-      "Free to explore - excellent value activity",
-      "Best authentic Lisbon neighborhood experience"
+      "Go up by transport and walk down: a taxi, tuk-tuk or Tram 28E to Largo das Portas do Sol saves the steepest climb, and the way back to the terminal is downhill.",
+      "Tram 28E costs €3.30 per trip if you pay on board (Carris 2026 fare). A Carris/Metro single on a Navegante card costs €1.90 and can be bought at Santa Apolónia metro station.",
+      "The Fado Museum at Largo do Chafariz de Dentro is the closest paid sight to the ship: Tuesday to Sunday 10:00–18:00 (last entry 17:30), adult €5, closed on Mondays.",
+      "Feira da Ladra runs on Tuesdays and Saturdays, 09:00–18:00, at Campo de Santa Clara behind São Vicente de Fora.",
+      "The viewpoints and Tram 28E are at their fullest between about 10:00 and 15:00 on busy ship days; go early in your port day if you can.",
+      "Street names are on small tiled plaques at corners and many lanes end in stairs or dead ends; download an offline map before leaving the ship.",
+      "Pickpockets work Tram 28E and the viewpoint railings; keep bags closed and in front of you.",
+      "Allow 20–30 minutes to get back to the terminal from the top of Alfama: the walk is short on the map, but the lanes are slow and easy to get lost in."
     ]
   },
   "features": {
     "highlights": [
-      "Medieval Moorish street layout (labyrinthine alleys and stairs)",
-      "Iconic yellow Tram 28E rattling through narrow streets",
-      "Birthplace and home of traditional Fado music",
-      "Miradouro das Portas do Sol (stunning viewpoint)",
-      "Miradouro de Santa Luzia (charming tiled viewpoint)",
-      "Lisbon Cathedral (Se) - city's oldest church",
-      "National Pantheon (Baroque church)",
-      "Church of Santo Antonio (saint's birthplace)",
-      "Roman Theatre ruins (1st century BC)",
-      "Feira da Ladra flea market (Tuesday & Saturday)",
-      "Traditional azulejo-tiled buildings",
-      "Colorful laundry hanging from balconies",
-      "Hidden courtyards and tiny squares",
-      "Authentic neighborhood atmosphere"
+      "Miradouro das Portas do Sol and Miradouro de Santa Luzia, side by side",
+      "Tram 28E and 12E climbing through Largo das Portas do Sol",
+      "Fado Museum at Largo do Chafariz de Dentro, a few minutes from the terminal",
+      "Sé de Lisboa, the city's cathedral, on the western edge",
+      "Castelo de São Jorge on the hilltop above",
+      "Feira da Ladra flea market at Campo de Santa Clara (Tuesday and Saturday)",
+      "Pre-1755 street plan of alleys, stairways and small squares",
+      "Panteão Nacional and São Vicente de Fora on the eastern ridge",
+      "Santo António festivities in the streets every June"
     ],
     "facilities": [
       "Numerous traditional restaurants and tascas",
@@ -174,7 +165,7 @@
   },
   "nearbyAttractions": [
     {
-      "name": "Castelo de Sao Jorge",
+      "name": "Castelo de São Jorge",
       "distance": "500 meters",
       "type": "castle",
       "walkingTime": "10 minutes uphill"
@@ -198,7 +189,7 @@
       "walkingTime": "10 minutes"
     },
     {
-      "name": "Santa Apolonia Cruise Port",
+      "name": "Santa Apolónia Cruise Port",
       "distance": "1.5 km",
       "type": "port",
       "walkingTime": "20 minutes along waterfront"

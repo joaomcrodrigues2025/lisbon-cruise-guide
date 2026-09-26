@@ -33,13 +33,13 @@
     },
     "directions": {
       "general": "Located in Estrela neighborhood, directly opposite Estrela Garden (Jardim da Estrela), on a hill west of city center",
-      "fromCruisePort": "30-35 minute walk through Lapa district, or take Tram 28 (20 minutes) or taxi (12 minutes). Bus and tram routes available.",
+      "fromCruisePort": "About 3.4 km west, roughly 50 minutes on foot with hills, so not a practical walk on a port day. Tram 28 stops outside the basilica (board at Sé, a 13-minute walk from the terminal), or take a taxi (about 12-15 minutes).",
       "publicTransport": "Tram 28 stops directly in front (Estrela stop) - iconic tram route. Tram 25E also stops here. Bus routes 773, 774. No nearby metro station.",
       "parking": "Street parking around Praça da Estrela and nearby streets. Parking can be challenging to find."
     },
     "distanceFromCruisePort": {
-      "meters": 2800,
-      "walkingTime": "30-35 minutes",
+      "meters": 3434,
+      "walkingTime": "Not practical on foot (52 min walk)",
       "drivingTime": "12 minutes"
     }
   },

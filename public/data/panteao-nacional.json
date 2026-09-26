@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in the Alfama district near the São Vicente Monastery, the white dome is visible from many parts of Lisbon",
-      "fromCruisePort": "2km northeast from cruise terminals - 25-30 minute walk, or take Tram 28E to Cç. S. Vicente stop (5-minute walk from stop). Taxi takes 10 minutes.",
+      "fromCruisePort": "About 600 m and 10 minutes on foot from the terminal, uphill into the Santa Clara quarter (the Feira da Ladra flea market runs alongside on Tuesdays and Saturdays).",
       "publicTransport": "Tram 28E stops at Cç. S. Vicente (5-minute walk). Buses 734, 735, 718, 712. Metro: Blue line to Santa Apolónia, then bus or 15-minute walk uphill.",
       "parking": "Street parking available on Campo de Santa Clara. Tuesday and Saturday mornings: Feira da Ladra flea market operates here - parking very limited."
     },
     "distanceFromCruisePort": {
-      "meters": 2000,
-      "walkingTime": "25-30 minutes uphill",
+      "meters": 606,
+      "walkingTime": "10 min walk",
       "drivingTime": "10 minutes"
     }
   },

@@ -12,8 +12,8 @@
     "industrial-heritage"
   ],
   "description": {
-    "short": "LX Factory is a former textile industrial complex transformed into Lisbon's premier creative and cultural hub. This 23,000-square-meter space in Alcantara features over 50 shops, restaurants, bars, art galleries, co-working spaces, and the famous Ler Devagar bookstore, all set against spectacular street art.",
-    "full": "LX Factory is a stunning example of industrial adaptive reuse, transforming a 19th-century textile factory complex into one of Europe's most dynamic creative hubs. Located in the Alcantara district beneath the 25 de Abril Bridge, this sprawling 23,000-square-meter complex dates to 1846 when the Company of Wiring and Fabricos Lisbonense established one of Lisbon's most important industrial sites. After decades of decline and eventual abandonment, the complex was reimagined in the late 2000s as a space fostering creativity, innovation, and community. Today, the preserved industrial architecture - brick warehouses, iron structures, and soaring factory halls - houses an eclectic mix of independent boutiques, artisan workshops, design studios, trendy restaurants, cafes, bars, and co-working spaces. The complex has become a canvas for street art, with vibrant murals covering walls, creating an Instagram-worthy backdrop throughout. The crown jewel is Ler Devagar, one of the world's most beautiful bookstores, occupying a 600-square-meter former industrial space across four floors with 40,000 titles and a restaurant. LX Factory hosts regular markets (especially busy Sunday markets), art exhibitions, live music events, and cultural happenings. The atmosphere blends industrial grit with contemporary creativity, attracting a diverse crowd of locals, expats, digital nomads, and tourists. While some critics note it has become tourist-oriented with higher prices, it remains an essential Lisbon destination showcasing the city's creative evolution and successful heritage preservation.",
+    "short": "LX Factory is a former textile industrial complex transformed into Lisbon's premier creative and cultural hub. This 23,000-square-meter space in Alcântara features over 50 shops, restaurants, bars, art galleries, co-working spaces, and the famous Ler Devagar bookstore, all set against spectacular street art.",
+    "full": "LX Factory is a stunning example of industrial adaptive reuse, transforming a 19th-century textile factory complex into one of Europe's most dynamic creative hubs. Located in the Alcântara district beneath the 25 de Abril Bridge, this sprawling 23,000-square-meter complex dates to 1846 when the Company of Wiring and Fabricos Lisbonense established one of Lisbon's most important industrial sites. After decades of decline and eventual abandonment, the complex was reimagined in the late 2000s as a space fostering creativity, innovation, and community. Today, the preserved industrial architecture - brick warehouses, iron structures, and soaring factory halls - houses an eclectic mix of independent boutiques, artisan workshops, design studios, trendy restaurants, cafes, bars, and co-working spaces. The complex has become a canvas for street art, with vibrant murals covering walls, creating an Instagram-worthy backdrop throughout. The crown jewel is Ler Devagar, one of the world's most beautiful bookstores, occupying a 600-square-meter former industrial space across four floors with 40,000 titles and a restaurant. LX Factory hosts regular markets (especially busy Sunday markets), art exhibitions, live music events, and cultural happenings. The atmosphere blends industrial grit with contemporary creativity, attracting a diverse crowd of locals, expats, digital nomads, and tourists. While some critics note it has become tourist-oriented with higher prices, it remains an essential Lisbon destination showcasing the city's creative evolution and successful heritage preservation.",
     "history": "1846: Company of Wiring and Fabricos Lisbonense establishes the textile factory complex. Late 19th-early 20th century: Site occupied by Industrial Company of Portugal and Colonies, typography companies, and printing houses. Late 20th century: Industrial decline leads to abandonment. Late 2000s: Vision to create creative hub begins. 2008: LX Factory officially opens as cultural and creative space. 2010s-present: Continuous evolution with new tenants, events, and international recognition as innovative urban regeneration project.",
     "significance": "LX Factory represents successful adaptive reuse of industrial heritage, demonstrating how abandoned industrial sites can be transformed into vibrant cultural spaces. It has become a model for urban regeneration projects across Europe and a symbol of Lisbon's creative renaissance and contemporary culture."
   },
@@ -21,7 +21,7 @@
     "address": {
       "street": "Rua Rodrigues Faria 103",
       "postal_code": "1300-501",
-      "neighborhood": "Alcantara",
+      "neighborhood": "Alcântara",
       "city": "Lisbon",
       "region": "Lisbon Metropolitan Area",
       "country": "Portugal"
@@ -31,14 +31,14 @@
       "longitude": -9.17453
     },
     "directions": {
-      "general": "Located in Alcantara district beneath the 25 de Abril Bridge. Main entrance on Rua Rodrigues Faria 103.",
-      "fromCruisePort": "30-35 minute walk west along waterfront (2.8km), or take Tram 15E to Calvario stop (15 min ride + 5 min walk). Taxi/Uber 10 minutes.",
-      "publicTransport": "Tram 15E or 18E to Calvario stop (5 min walk). Bus routes 706, 714, 720, 732, 738, 760 stop nearby. Train: Alcantara-Terra station (10 min walk).",
+      "general": "Located in Alcântara district beneath the 25 de Abril Bridge. Main entrance on Rua Rodrigues Faria 103.",
+      "fromCruisePort": "About 4.6 km west, over an hour on foot. Take tram 15E from Praça do Comércio to the Calvário stop, or the train from Cais do Sodré to Alcântara-Mar; taxi about 15 minutes.",
+      "publicTransport": "Tram 15E or 18E to Calvario stop (5 min walk). Bus routes 706, 714, 720, 732, 738, 760 stop nearby. Train: Alcântara-Terra station (10 min walk).",
       "parking": "Free parking available on-site. Street parking in surrounding area."
     },
     "distanceFromCruisePort": {
-      "meters": 2800,
-      "walkingTime": "32-35 minutes",
+      "meters": 4559,
+      "walkingTime": "Not practical on foot (1h 03min walk)",
       "drivingTime": "10 minutes"
     }
   },
@@ -91,15 +91,15 @@
       "Evenings Thursday-Saturday",
       "When cruise ships in port"
     ],
-    "adviceForVisitors": "Wear comfortable shoes - large complex with multiple levels. Budget extra for shopping - unique artisan goods and design items. Don't miss Ler Devagar bookstore - it's spectacular. Many restaurants are trendy/upscale - prices higher than average Lisbon. Some note limited air conditioning in summer heat. Great for photography - street art everywhere. Sunday market worth visiting. Combine with Belem area (15 min walk west)."
+    "adviceForVisitors": "Wear comfortable shoes - large complex with multiple levels. Budget extra for shopping - unique artisan goods and design items. Don't miss Ler Devagar bookstore - it's spectacular. Many restaurants are trendy/upscale - prices higher than average Lisbon. Some note limited air conditioning in summer heat. Great for photography - street art everywhere. Sunday market worth visiting. Combine with Belém area (15 min walk west)."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "Half day (4-5 hours) including transport, exploration, and dining",
     "accessibility": "Moderate - 30-min walk or 15-min tram ride. Complex has stairs between levels but ground floor accessible. Some restaurants have outdoor seating.",
     "combinableWith": [
-      "Belem district (Monastery, Tower, Pasteis)",
-      "Alcantara waterfront",
+      "Belém district (Monastery, Tower, Pastéis)",
+      "Alcântara waterfront",
       "25 de Abril Bridge viewpoints",
       "Museum of Art, Architecture and Technology (MAAT)"
     ],
@@ -113,7 +113,7 @@
       "Prices higher than typical Lisbon - budget accordingly",
       "Many trendy restaurants - reserve for lunch/dinner",
       "Can get hot in summer - limited AC in complex",
-      "Combine with Belem (15 min walk) for full day",
+      "Combine with Belém (15 min walk) for full day",
       "Unique souvenirs - artisan shops and design stores",
       "Great for younger travelers and creative types"
     ]
@@ -182,7 +182,7 @@
   },
   "nearbyAttractions": [
     {
-      "name": "Belem District (Monastery, Tower, Pasteis)",
+      "name": "Belém District (Monastery, Tower, Pastéis)",
       "distance": "1.2 km west",
       "type": "historic-district",
       "walkingTime": "15 minutes along waterfront"

@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in Queluz, between Lisbon and Sintra, easily accessible by train from either city",
-      "fromCruisePort": "Take metro to Rossio or Santa Apolónia, then train to Queluz-Belas station (25-30 minutes total). Palace is 10-minute walk from station. Or taxi/Uber (30 minutes)",
+      "fromCruisePort": "About 14.5 km north-west, a day-trip rather than a walk. Taxi about 25-30 minutes; by train, take the Sintra line from Rossio to Queluz-Belas (about 20 minutes) and walk 10-15 minutes to the palace.",
       "publicTransport": "Train from Lisbon Rossio station to Queluz-Belas (20 minutes). Sintra train line. Buses 101, 106, 117 from Lisbon. Free shuttle from Sintra on weekends",
       "parking": "Free public parking available near palace entrance"
     },
     "distanceFromCruisePort": {
-      "meters": 18500,
-      "walkingTime": "Not recommended - use train",
+      "meters": 14493,
+      "walkingTime": "Not practical on foot (3h 31min walk)",
       "drivingTime": "30 minutes"
     }
   },

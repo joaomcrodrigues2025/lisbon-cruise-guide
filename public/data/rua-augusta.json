@@ -11,8 +11,8 @@
     "baixa-district"
   ],
   "description": {
-    "short": "Rua Augusta is Lisbon's most famous street - a grand pedestrian boulevard running through the heart of Baixa from Rossio to the Tagus River. Lined with elegant buildings, shops, cafes, and street performers, it culminates at the iconic Rua Augusta Arch overlooking Praca do Comercio.",
-    "full": "Rua Augusta is the beating heart of Lisbon's historic center, a magnificent pedestrian boulevard that epitomizes the city's post-earthquake reconstruction. Running 500 meters through the Baixa district from Rossio Square to Praca do Comercio on the waterfront, this grand avenue showcases the vision of Marquis of Pombal's 18th-century urban planning. After the devastating 1755 earthquake destroyed medieval Lisbon, Pombal ordered a complete redesign with wide, perpendicular streets, earthquake-resistant buildings, and elegant uniformity. Rua Augusta became the centerpiece - a perfectly straight commercial street lined with matching neoclassical facades, creating one of Europe's first examples of modern urban planning. Today, the completely pedestrianized avenue buzzes with life: international fashion brands and traditional Portuguese shops occupy the ground floors of beautifully maintained buildings, outdoor cafes spill onto the distinctive black-and-white calcada portuguesa paving, street performers entertain crowds, and living statues pose for photos. The street is crowned at its southern end by the spectacular Rua Augusta Arch, a 19th-century triumphal arch celebrating Portugal's reconstruction and independence. Visitors can climb the arch for panoramic views over the street, Baixa, and the Tagus. The entire street maintains a sophisticated yet accessible atmosphere, serving locals and tourists alike as Lisbon's premier shopping and strolling destination.",
+    "short": "Rua Augusta is Lisbon's most famous street - a grand pedestrian boulevard running through the heart of Baixa from Rossio to the Tagus River. Lined with elegant buildings, shops, cafes, and street performers, it culminates at the iconic Rua Augusta Arch overlooking Praça do Comércio.",
+    "full": "Rua Augusta is the beating heart of Lisbon's historic center, a magnificent pedestrian boulevard that epitomizes the city's post-earthquake reconstruction. Running 500 meters through the Baixa district from Rossio Square to Praça do Comércio on the waterfront, this grand avenue showcases the vision of Marquis of Pombal's 18th-century urban planning. After the devastating 1755 earthquake destroyed medieval Lisbon, Pombal ordered a complete redesign with wide, perpendicular streets, earthquake-resistant buildings, and elegant uniformity. Rua Augusta became the centerpiece - a perfectly straight commercial street lined with matching neoclassical facades, creating one of Europe's first examples of modern urban planning. Today, the completely pedestrianized avenue buzzes with life: international fashion brands and traditional Portuguese shops occupy the ground floors of beautifully maintained buildings, outdoor cafes spill onto the distinctive black-and-white calcada portuguesa paving, street performers entertain crowds, and living statues pose for photos. The street is crowned at its southern end by the spectacular Rua Augusta Arch, a 19th-century triumphal arch celebrating Portugal's reconstruction and independence. Visitors can climb the arch for panoramic views over the street, Baixa, and the Tagus. The entire street maintains a sophisticated yet accessible atmosphere, serving locals and tourists alike as Lisbon's premier shopping and strolling destination.",
     "history": "Medieval Lisbon was destroyed by the 1755 earthquake, tsunami, and fires. Marquis of Pombal redesigned the Baixa district with Rua Augusta as the main thoroughfare, using innovative anti-seismic wooden structures called 'gaiola pombalina'. Completed in the late 18th century, the street became Lisbon's commercial heart. The Rua Augusta Arch was designed in 1759 but not completed until 1873. The street was fully pedestrianized in the 1990s, transforming it into the vibrant boulevard it is today.",
     "significance": "Rua Augusta represents one of Europe's first examples of enlightened urban planning after disaster. The street demonstrates 18th-century ideals of order, rationality, and progress. Its Pombaline architecture is a unique earthquake-resistant building style found only in Lisbon. The street is both a working commercial avenue and a living museum of post-earthquake reconstruction."
   },
@@ -30,14 +30,14 @@
       "longitude": -9.13692
     },
     "directions": {
-      "general": "Runs north-south through central Baixa district, from Rossio Square in the north to Praca do Comercio (Terreiro do Paco) in the south",
-      "fromCruisePort": "5-8 minute walk from Jardim do Tabaco terminal through Praca do Comercio. The arch is the grand entrance from the waterfront.",
-      "publicTransport": "Metro: Terreiro do Paco (Blue line) at south end, Rossio or Baixa-Chiado (Green line) at north end. Multiple bus routes stop at both ends.",
-      "parking": "Underground parking at Praca da Figueira (north end) or Praca do Comercio (south end). Street is fully pedestrianized."
+      "general": "Runs north-south through central Baixa district, from Rossio Square in the north to Praça do Comércio (Terreiro do Paço) in the south",
+      "fromCruisePort": "About 1.2 km and 17 minutes on foot: walk west along the river to Praça do Comércio and pass through the triumphal arch, which opens straight onto Rua Augusta.",
+      "publicTransport": "Metro: Terreiro do Paço (Blue line) at south end, Rossio or Baixa-Chiado (Green line) at north end. Multiple bus routes stop at both ends.",
+      "parking": "Underground parking at Praça da Figueira (north end) or Praça do Comércio (south end). Street is fully pedestrianized."
     },
     "distanceFromCruisePort": {
-      "meters": 500,
-      "walkingTime": "5-8 minutes to Praca do Comercio end",
+      "meters": 1204,
+      "walkingTime": "17 min walk",
       "drivingTime": "3 minutes to nearby parking"
     }
   },
@@ -79,22 +79,22 @@
       "Weekends",
       "December (Christmas shopping)"
     ],
-    "adviceForVisitors": "Start at Praca do Comercio waterfront and walk north through the arch. Stop at outdoor cafes for people-watching. Climb the Rua Augusta Arch for best views (€3). Explore parallel streets (Rua da Prata, Rua do Ouro) for fewer crowds. Watch pickpockets in crowded areas. Great for evening stroll when street performers are most active."
+    "adviceForVisitors": "Start at Praça do Comércio waterfront and walk north through the arch. Stop at outdoor cafes for people-watching. Climb the Rua Augusta Arch for best views (€3). Explore parallel streets (Rua da Prata, Rua do Ouro) for fewer crowds. Watch pickpockets in crowded areas. Great for evening stroll when street performers are most active."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "2-3 hours for full experience including shopping and dining",
     "accessibility": "Excellent - completely flat pedestrian street, wheelchair accessible, smooth paving. Perfect for all mobility levels.",
     "combinableWith": [
-      "Praca do Comercio",
-      "Elevador de Santa Justa",
+      "Praça do Comércio",
+      "Convento do Carmo (uphill, or metro to Baixa-Chiado)",
       "Rossio Square",
       "Chiado district",
       "Figueira Square",
       "Lisbon Story Centre"
     ],
     "tips": [
-      "Literally steps from cruise port through Praca do Comercio",
+      "Literally steps from cruise port through Praça do Comércio",
       "Perfect first stop - introduces you to Lisbon's layout",
       "Completely flat and pedestrianized - easy walking",
       "Climb Rua Augusta Arch for orientation and photos (€3)",
@@ -121,9 +121,9 @@
     ],
     "facilities": [
       "Numerous cafes and restaurants",
-      "Public restrooms at Praca do Comercio",
+      "Public restrooms at Praça do Comércio",
       "ATMs throughout street",
-      "Tourist information at Praca do Comercio",
+      "Tourist information at Praça do Comércio",
       "Retail shops (clothing, souvenirs, cosmetics)",
       "Pastry shops and ice cream parlors",
       "Currency exchange offices",
@@ -168,7 +168,7 @@
       "walkingTime": "0 minutes - integrated into street"
     },
     {
-      "name": "Praca do Comercio",
+      "name": "Praça do Comércio",
       "distance": "Through the arch",
       "type": "plaza",
       "walkingTime": "1 minute"
@@ -180,7 +180,7 @@
       "walkingTime": "0 minutes"
     },
     {
-      "name": "Elevador de Santa Justa",
+      "name": "Elevador de Santa Justa (closed since September 2025)",
       "distance": "200 meters east",
       "type": "elevator",
       "walkingTime": "3 minutes"
@@ -192,7 +192,7 @@
       "walkingTime": "5 minutes"
     },
     {
-      "name": "Praca da Figueira",
+      "name": "Praça da Figueira",
       "distance": "Adjacent to north end",
       "type": "plaza",
       "walkingTime": "1 minute"

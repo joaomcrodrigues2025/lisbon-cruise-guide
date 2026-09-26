@@ -1,7 +1,7 @@
 {
   "id": "pasteis-de-belem",
   "name": "Pastéis de Belém",
-  "tagline": "Home of the original Pastéis de Belém since 1837 - Portugal's most iconic custard tarts",
+  "tagline": "The original Belém custard tarts since 1837, 230 m from the Jerónimos Monastery and open every day",
   "type": "pastry-shop",
   "categories": [
     "bakery",
@@ -13,9 +13,9 @@
   ],
   "description": {
     "short": "Since 1837, Pastéis de Belém has been crafting the original Portuguese custard tarts following a secret recipe from the nearby Jerónimos Monastery. This legendary bakery serves thousands of the warm, crispy pastéis daily to locals and tourists alike.",
-    "full": "Pastéis de Belém is a Portuguese institution and pilgrimage site for food lovers worldwide. Established in 1837, this historic confectionery began making custard tarts using an ancient secret recipe from the monks of the nearby Mosteiro dos Jerónimos. That same secret recipe - known only to a select few master bakers who work behind closed doors - is still used today to create the authentic Pastéis de Belém. The bakery produces over 20,000 tarts daily during peak season, all made by hand using traditional methods. The crispy, flaky puff pastry shells are filled with creamy egg custard and baked to perfection, creating a caramelized top that locals dust with cinnamon and powdered sugar. The sprawling building features multiple ornately-tiled dining rooms that can seat over 400 people, plus a take-away section and gift shop. Whether you queue for a table in the historic blue-and-white azulejo-tiled rooms or grab tarts to go, visiting Pastéis de Belém is an essential Lisbon experience. The atmosphere blends old-world charm with efficient service, as white-coated waiters navigate the busy rooms carrying trays of fresh pastéis alongside Portuguese coffee. Beyond the famous tarts, the bakery offers other traditional Portuguese sweets, savory snacks, and full meals. The location in Belém makes it perfect for combining with visits to nearby monuments like Jerónimos Monastery and Belém Tower.",
-    "history": "In 1837, following the liberal revolution of 1820 and the closure of Portugal's monasteries, someone connected to the Mosteiro dos Jerónimos began selling pastéis de nata from a nearby sugar refinery. The bakery opened at its current location in Belém and obtained the secret recipe from the monastery. For nearly 200 years, the Clarinha family and their descendants have jealously guarded this recipe, making Pastéis de Belém the only place in the world where you can taste the original monastery version. The bakery has remained in continuous operation at the same location since 1837.",
-    "significance": "Pastéis de Belém holds legendary status in Portuguese culture as the birthplace and sole guardian of the original monastery custard tart recipe. While pastéis de nata are sold throughout Portugal and the world, only here can they legally be called 'Pastéis de Belém.' The bakery is a living monument to Portuguese culinary tradition and has been recognized as one of the Seven Wonders of Portuguese Gastronomy. It attracts millions of visitors annually and represents Portuguese sweet-making heritage."
+    "full": "Pastéis de Belém is the bakery that has made the original Belém custard tart since 1837, from a recipe that came from the monks of the neighbouring Jerónimos Monastery. It sits on Rua de Belém about 230 m (3 minutes' walk) east of the monastery, so it slots in between sights rather than needing its own time block. It is open every day, including Mondays, from 08:00 to 21:00 (22:00 from July to September; 19:00 on 24, 25 and 31 December and 1 January).\n\nThere are two ways to buy. The take-away counter at the front is where the queue on the pavement forms. The alternative is to go inside to the large tiled rooms at the back, which have table service; when the street queue is long, a table can be the quicker option, and it lets you eat the tarts warm. Queues are at their longest from late morning to mid-afternoon and at weekends.\n\nA tart costs €1.60 and a box of six €9.60 on the 2026 menu. Cinnamon and icing sugar are provided to add yourself. A coffee is €1.20, and the menu also covers other pastries and savoury snacks such as croquetes and pastéis de bacalhau, so this can double as a cheap, quick lunch before heading back to the ship.\n\nFor a short call, the efficient order is Jerónimos first, tarts second, then either the Padrão dos Descobrimentos across the avenue (about 11 minutes' walk) or MAAT to the east (about 14 minutes). Belém railway station is about 9 minutes away on foot, and tram 15E runs along Rua de Belém. Boxes are easy to carry back on board, though the tarts are at their best eaten on the spot.",
+    "history": "In the early 19th century a sugar-cane refinery with a small shop stood next to the Jerónimos Monastery. After the 1820 liberal revolution, the convents and monasteries were shut down in 1834 and the clergy expelled; someone from the monastery began selling sweet pastries in the shop to survive. Belém was then considered far from Lisbon and was reached mainly by steamboat, and visitors to the monastery and the tower took to the pastries. From 1837 they were baked in buildings attached to the refinery, following the monastery's recipe, which the bakery says is known only to the master confectioners who work in its 'secret room'.",
+    "significance": "Pastel de nata is sold across Portugal and far beyond, but 'Pastéis de Belém' is this bakery's registered trade mark, and its tart remains the reference for the style. It is also the one Belém stop that needs no ticket and opens every day, which makes it a reliable anchor for a port-day plan, including on Mondays when the national monuments nearby are closed."
   },
   "location": {
     "address": {
@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located on Rua de Belém in the historic Belém neighborhood, between Jerónimos Monastery and the waterfront",
-      "fromCruisePort": "7km west from cruise terminals - take Tram 15E to Belém (35-40 minutes) or taxi (20 minutes). Walk 5 minutes from tram stop to bakery.",
+      "fromCruisePort": "About 7.3 km west, 200 m from the Jerónimos Monastery. Taxi 15-20 minutes, tram 15E from Praça do Comércio to the Mosteiro dos Jerónimos stop, or the train from Cais do Sodré to Belém and a 5-minute walk.",
       "publicTransport": "Tram 15E from downtown to Belém stop (400m walk). Buses 727, 28, 729, 714, 751. Train to Belém station (10-minute walk).",
       "parking": "Limited street parking nearby. Public parking at Praça do Império (5-minute walk)."
     },
     "distanceFromCruisePort": {
-      "meters": 7000,
-      "walkingTime": "Not recommended to walk (1.5 hours)",
+      "meters": 7264,
+      "walkingTime": "Not practical on foot (1h 39min walk)",
       "drivingTime": "15-20 minutes"
     }
   },
@@ -55,13 +55,19 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open every day year-round",
+      "currentStatus": "Open every day",
       "seasonal": [
         {
-          "season": "Year-round",
+          "season": "October - June",
           "days": "Daily",
-          "hours": "08:00 - 23:00",
-          "notes": "Open 365 days a year including holidays"
+          "hours": "08:00 - 21:00 daily (to 22:00 July-September)",
+          "notes": "Closes at 19:00 on 24, 25 and 31 December and 1 January"
+        },
+        {
+          "season": "July - September",
+          "days": "Daily",
+          "hours": "08:00 - 22:00",
+          "notes": "Closes at 19:00 on 24, 25 and 31 December and 1 January"
         }
       ],
       "closedDates": []
@@ -69,22 +75,21 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free entry. Pastéis de Belém cost €1.50 each or €9.00 for box of 6. Coffee from €1.10. Full menu available with sandwiches, snacks, and meals €2-8."
+      "notes": "Free entry. Pastel de Belém €1.60 each, box of six €9.60; coffee €1.20; other pastries from €1.70 (official 2026 menu)."
     },
-    "averageVisitDuration": "30-60 minutes (longer if dining in)",
-    "bestTimeToVisit": "Early morning (8:00-9:00) or late afternoon (after 17:00) to avoid longest queues. Weekday mornings are quietest.",
+    "averageVisitDuration": "10–20 minutes for take-away; 30–45 minutes sitting in",
+    "bestTimeToVisit": "Around opening (08:00) or in the evening. Weekday mornings are generally calmer than weekends.",
     "busyPeriods": [
-      "Mid-morning to mid-afternoon (10:00-16:00)",
-      "Weekends all day",
-      "Summer tourist season",
-      "After cruise ship arrivals"
+      "Late morning to mid-afternoon",
+      "Weekends",
+      "Summer season"
     ],
-    "adviceForVisitors": "Two queues: take-away (faster) and sit-down service (longer wait but better experience). Take-away entrance is a few doors down from main entrance. Gift shop also sells tarts with shorter queue. Eat tarts warm for best taste. Traditional way: sprinkle with cinnamon and powdered sugar provided at tables. Go early or late to avoid 1-2 hour waits. Combine with visit to nearby Jerónimos Monastery and Belém Tower."
+    "adviceForVisitors": "Two options: the take-away counter at the front, or table service in the rooms inside. Add cinnamon and icing sugar yourself. Combine with the Jerónimos Monastery (3 minutes' walk) and the Padrão dos Descobrimentos."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2-3 hours total (includes 40 min tram ride each way, queuing, and eating)",
-    "accessibility": "Moderate - requires tram journey to Belém. Once there, ground floor accessible but may have steps inside historic rooms.",
+    "timeNeededFromPort": "About 2–2.5 hours return from the ship if you come only for the tarts; better as a 20–45 minute stop within a Belém visit",
+    "accessibility": "The take-away counter is at street level; the seated rooms may involve steps, so ask staff if you use a wheelchair. Reach Belém by taxi, tram 15E or train.",
     "combinableWith": [
       "Jerónimos Monastery",
       "Belém Tower",
@@ -93,33 +98,24 @@
       "Belém waterfront"
     ],
     "tips": [
-      "Essential Lisbon food experience - don't miss it!",
-      "Take Tram 15E from downtown (scenic journey)",
-      "Use gift shop entrance for faster take-away service",
-      "Buy extra boxes to take back to ship (they keep 2-3 days)",
-      "Perfect start or end to Belém district sightseeing",
-      "Pair with coffee - try bica (Portuguese espresso)",
-      "Budget 1-2 hours including queue and eating time",
-      "Tarts taste best eaten warm and fresh",
-      "Try other Portuguese pastries too - queques, travesseiros",
-      "Combine with full Belém itinerary for half-day excursion",
-      "Dining rooms feature beautiful traditional azulejo tiles",
-      "Take-away boxes make great gifts"
+      "Open every day from 08:00 until 21:00 (22:00 July–September), so it works before or after the monuments, or as the Monday plan when Jerónimos and the tower are closed.",
+      "If the pavement queue is long, go inside and ask for a table in the seated rooms at the back rather than waiting at the take-away counter.",
+      "2026 menu prices: €1.60 per tart, €9.60 for a box of six, coffee (café) €1.20.",
+      "Cinnamon and icing sugar are provided; add them yourself while the tart is still warm.",
+      "Fit it between sights: the Jerónimos Monastery is 230 m west, the Padrão dos Descobrimentos about 11 minutes' walk.",
+      "Queues are longest from late morning to mid-afternoon and at weekends; opening time and the evening are generally calmer.",
+      "Savoury snacks from €1.70 (croquetes, pastéis de bacalhau €1.90) make it a quick lunch stop.",
+      "Belém railway station is about 9 minutes' walk, and tram 15E runs along Rua de Belém past the door."
     ]
   },
   "features": {
     "highlights": [
-      "Original Pastéis de Belém since 1837",
-      "Secret recipe from Jerónimos Monastery monks",
-      "Over 20,000 tarts made daily by hand",
-      "Historic bakery and confectionery",
-      "Beautiful azulejo-tiled dining rooms",
-      "Seats over 400 guests across multiple rooms",
-      "Traditional Portuguese pastries and sweets",
-      "Secret recipe room where only select bakers enter",
-      "Gift shop with souvenirs and packaged goods",
-      "One of Seven Wonders of Portuguese Gastronomy",
-      "Full menu beyond pastéis - meals, snacks, sweets"
+      "Original Pastéis de Belém® made to the 1837 recipe, €1.60 each",
+      "Tarts made by hand on site every day",
+      "Tiled seated rooms behind the take-away counter, with table service",
+      "Other pastries and savouries: travesseiros, queques, croquetes, pastéis de bacalhau",
+      "Boxes of six (€9.60) for taking back on board",
+      "Open every day, including Mondays"
     ],
     "facilities": [
       "Multiple dining rooms (400+ seats)",
@@ -132,7 +128,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": "Partial",
-      "mobilityNotes": "Ground floor accessible. Some historic dining rooms have steps. Take-away section more accessible. Staff can assist. Best to use take-away service for mobility limitations.",
+      "mobilityNotes": "Take-away counter at street level. Some of the historic seated rooms may involve steps; ask staff for assistance.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

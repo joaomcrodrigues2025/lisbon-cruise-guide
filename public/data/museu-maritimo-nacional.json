@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in the Belém district, adjacent to the Jerónimos Monastery, one of Lisbon's most iconic landmarks",
-      "fromCruisePort": "Take tram 15E from near the cruise terminal to Belém (25 minutes), or taxi/Uber (20 minutes). Very scenic waterfront route.",
+      "fromCruisePort": "About 7.5 km west, in the west wing of the Jerónimos Monastery. Taxi 15-20 minutes, tram 15E from Praça do Comércio to the Mosteiro dos Jerónimos stop, or the train from Cais do Sodré to Belém.",
       "publicTransport": "Tram 15E to Belém. Bus routes 727, 28, 729, 714, 751. Train to Belém station from Cais do Sodré. Metro to Cais do Sodré, then tram 15E.",
       "parking": "Limited street parking in Belém. Use Jerónimos Monastery parking or Belém Cultural Centre car park (5-minute walk)"
     },
     "distanceFromCruisePort": {
-      "meters": 9800,
-      "walkingTime": "Not recommended - use tram or taxi",
+      "meters": 7479,
+      "walkingTime": "Not practical on foot (1h 42min walk)",
       "drivingTime": "20 minutes"
     }
   },

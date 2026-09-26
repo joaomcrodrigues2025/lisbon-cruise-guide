@@ -31,14 +31,14 @@
       "longitude": -9.1396
     },
     "directions": {
-      "general": "Located in Chiado district, at the top of Santa Justa Elevator",
-      "fromCruisePort": "20-25 minute walk from cruise port through Baixa district, or take metro to Baixa-Chiado station then walk 5 minutes or take Santa Justa Elevator",
-      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines) - 5-minute walk. Tram 28 stops at Rua da Conceição. Bus 758. Santa Justa Elevator provides direct access from Baixa.",
+      "general": "Located in Largo do Carmo in Chiado, beside the upper walkway of the Santa Justa lift (the lift itself has been closed since September 2025)",
+      "fromCruisePort": "About 1.6 km and 24 minutes on foot. Walk west to the Baixa, then up Rua do Carmo and Calçada do Sacramento (steep but short, about 10 minutes). To skip most of the climb, take the metro Blue Line from Santa Apolónia to Baixa-Chiado and use the Chiado exit. The Elevador de Santa Justa has been closed since September 2025. Taxi about 8-10 minutes.",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines) - Chiado exit, then a 5-minute walk. Tram 28 stops at Rua da Conceição. Bus 758. The Santa Justa lift from the Baixa has been closed since September 2025.",
       "parking": "Limited street parking. Public parking at Restauradores or Martim Moniz nearby"
     },
     "distanceFromCruisePort": {
-      "meters": 1300,
-      "walkingTime": "20-25 minutes uphill",
+      "meters": 1635,
+      "walkingTime": "24 min walk",
       "drivingTime": "7 minutes"
     }
   },
@@ -105,21 +105,21 @@
       "Summer months (June-August)",
       "Saturdays"
     ],
-    "adviceForVisitors": "Wear comfortable walking shoes as access involves some stairs and uneven surfaces. Bring sun protection - the roofless church offers little shade. Photography is allowed without flash or tripods. The Santa Justa Elevator provides scenic access from Baixa district. Combine with exploring Chiado's cafés and shops."
+    "adviceForVisitors": "Wear comfortable walking shoes as access involves some stairs and uneven surfaces. Bring sun protection - the roofless church offers little shade. Photography is allowed without flash or tripods. The Santa Justa lift has been closed since September 2025: walk up from the Baixa or take the metro to Baixa-Chiado. Combine with exploring Chiado's cafés and shops."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "2-2.5 hours including travel and visit",
-    "accessibility": "Moderate - requires uphill walk or elevator. Inside the museum has some stairs. Wheelchair accessible entrances and facilities available. Not suitable for very limited mobility.",
+    "accessibility": "Moderate - requires an uphill walk (the Santa Justa lift is closed) or the metro to Baixa-Chiado. Inside the museum has some stairs. Wheelchair accessible entrances and facilities available. Not suitable for very limited mobility.",
     "combinableWith": [
-      "Santa Justa Elevator",
+      "Miradouro de São Pedro de Alcântara",
       "Chiado district",
       "Bairro Alto",
       "Rossio Square",
       "São Roque Church"
     ],
     "tips": [
-      "Take Santa Justa Elevator for scenic access from Baixa",
+      "The Santa Justa lift is closed: take the metro to Baixa-Chiado (Chiado exit) or walk up Calçada do Sacramento from the Baixa",
       "Perfect for history and archaeology enthusiasts",
       "The roofless Gothic church creates unique photo opportunities",
       "Visit early morning for best light in the ruins",
@@ -187,7 +187,7 @@
   },
   "nearbyAttractions": [
     {
-      "name": "Santa Justa Elevator",
+      "name": "Santa Justa Elevator (closed since September 2025)",
       "distance": "100 meters",
       "type": "monument",
       "walkingTime": "2 minutes"

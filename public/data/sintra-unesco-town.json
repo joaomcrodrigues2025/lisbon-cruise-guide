@@ -32,7 +32,7 @@
     },
     "directions": {
       "general": "Located in the Serra de Sintra mountains, 28km northwest of Lisbon",
-      "fromCruisePort": "Take Metro Green Line from Santa Apolonia (near cruise terminal) to Rossio or Oriente stations, then CP train to Sintra (45-50 minutes total). Direct train from Rossio station every 30 minutes.",
+      "fromCruisePort": "Take the metro Blue Line from Santa Apolónia (10 minutes' walk from the terminal) to Restauradores, walk 3 minutes to Rossio station, then the CP train to Sintra (about 40 minutes). Allow 75-90 minutes door to door each way.",
       "publicTransport": "CP commuter train from Lisbon Rossio station to Sintra (40 min, €2.30 single). Trains every 20-30 minutes, 5:50am-11pm. In Sintra, use hop-on-hop-off bus 434 connecting train station to Pena Palace, Moorish Castle, and town center (€6.90 day ticket).",
       "parking": "Limited parking in Sintra center. Pena Palace and major palaces have paid parking lots (often full). Park & Ride from train station recommended."
     },
@@ -210,7 +210,7 @@
       "walkingTime": "Not walkable - historic tram 12 or bus"
     },
     {
-      "name": "Palacio de Seteais",
+      "name": "Palácio de Seteais",
       "distance": "2 km from center",
       "type": "palace-hotel",
       "walkingTime": "25 minutes uphill (or bus/taxi)"

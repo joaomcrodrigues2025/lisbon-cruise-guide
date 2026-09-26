@@ -258,7 +258,7 @@ export default async function AttractionDetailPage({ params }: { params: Promise
           <h2 className="text-2xl font-bold text-[#003366] mb-4">Nearby Attractions</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {nearbyAttractions.map((nearby) => (
-              <AttractionCard key={nearby.id} attraction={nearby} />
+              <AttractionCard key={nearby.id} attraction={nearby} from={attraction} />
             ))}
           </div>
         </div>

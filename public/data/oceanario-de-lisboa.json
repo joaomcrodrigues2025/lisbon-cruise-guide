@@ -1,7 +1,7 @@
 {
   "id": "oceanario-de-lisboa",
   "name": "Oceanário de Lisboa",
-  "tagline": "One of the world's largest and most spectacular aquariums",
+  "tagline": "A big indoor aquarium in Parque das Nações, worth the trip on a rainy or family port day",
   "type": "aquarium",
   "categories": [
     "aquarium",
@@ -11,10 +11,10 @@
     "educational"
   ],
   "description": {
-    "short": "One of Europe's largest indoor aquariums and one of the world's most spectacular, featuring over 8,000 marine animals and plants from 500 different species in stunning exhibits designed by Peter Chermayeff.",
-    "full": "The Oceanário de Lisboa stands as one of the world's premier aquariums, built as the centerpiece of Expo '98 and designed by renowned architect Peter Chermayeff. The unique design places a massive 5-million-liter central tank at the heart of the building, surrounded by four habitat tanks representing the world's oceans - the North Atlantic, Antarctic, Temperate Pacific, and Tropical Indian Ocean. The central tank creates the illusion of a single massive ocean, separated only by invisible acrylic panels that allow sharks, rays, barracudas, and the famous ocean sunfish (one of the few in captivity worldwide) to appear to swim alongside smaller species. Over 8,000 marine animals representing 500 species call the Oceanarium home, including sea otters, penguins, rays, tropical fish, jellyfish, and corals. The facility also houses the world's largest nature aquarium, 'Forests Underwater' by Takashi Amano, a 160,000-liter freshwater exhibit. Educational programs focus on ocean conservation and marine biology. The Oceanarium was recognized as the first IUCN Center for Species Survival, emphasizing its role in marine conservation and research. With approximately 1 million visitors annually, it's Portugal's most visited cultural attraction.",
-    "history": "The Oceanário was designed by architect Peter Chermayeff and built for Expo '98, the World Fair celebrating the oceans. It opened to the public in 1998 and became an instant success. In 2011, a striking new annex designed by Portuguese architect Pedro Campos Costa was added, housing temporary exhibitions and additional facilities. The Oceanarium has since become a global model for aquarium design and marine conservation education.",
-    "significance": "Recognized as one of the world's best aquariums and Europe's largest indoor aquarium. In 2017, it was designated as the world's first Center for Species Survival by the IUCN Species Survival Commission, highlighting its crucial role in marine conservation and biodiversity research. The Oceanarium serves as both a major tourist attraction and an important educational and research institution."
+    "short": "Lisbon's large public aquarium, built for Expo '98, organised around a central ocean tank viewed from two levels. It is about 7 km from the cruise terminal in Parque das Nações; plan on about half a day including travel.",
+    "full": "The Oceanário is the best indoor option in Lisbon for families and for wet days, but it is not a quick add-on. It sits about 7 km north-east of the Jardim do Tabaco terminal in Parque das Nações, so budget roughly half a day: 30 to 40 minutes each way plus 90 minutes to two hours inside, which is the museum's own estimate for an average visit.\n\nTo get there, walk about 10 minutes to Santa Apolónia station and take a suburban train to Oriente, then walk about 15 minutes through Parque das Nações to the aquarium on the waterfront. A taxi or ride-hail from the terminal takes about 15 minutes in normal traffic and is often the simpler choice for a group of three or four.\n\nThe core of the visit is the central tank, which you see from windows on two floors, surrounded by four smaller habitats representing the North Atlantic, Antarctic, temperate Pacific and tropical Indian oceans. The sea otters and penguins are above water, so you see them at the surface as well as below it. Temporary exhibitions (currently Sea Monsters and Submerged Universe) are included in the standard ticket. Takashi Amano's Forests Underwater exhibition closes on 30 September 2026.\n\nPrices depend on your entry slot: adults pay 29.90 euros between 10:00 and 11:30, 27.70 euros from 12:00 to 15:30 and 25.50 euros from 16:00. Buying online gives a further 5 per cent discount. Late morning, on weekends and on rainy days are the busiest times; if your ship leaves late, a 16:00 slot is both cheaper and quieter.\n\nThere are cafés and a restaurant on site, and paid lockers on floor 0 for small bags.",
+    "history": "The Oceanário was built as the Oceans Pavilion of Expo '98, the world's fair that marked the 500th anniversary of Vasco da Gama's voyage to India and turned a former industrial and port area into today's Parque das Nações. The American architect Peter Chermayeff designed it to look like a ship moored in the dock, with the whole building organised around a single large tank to express the idea that the world's oceans form one connected system. That idea still runs through the current permanent exhibition, One Planet, One Ocean.",
+    "significance": "It is one of the largest public aquariums in Europe and a landmark of the Expo '98 regeneration of eastern Lisbon, but for a cruise passenger its value is practical: it is entirely indoors, step-free, easy for children and does not depend on the weather. Families who would struggle with Lisbon's hills and cobbles usually find it the least tiring half-day in the city."
   },
   "location": {
     "address": {
@@ -30,14 +30,14 @@
       "longitude": -9.0937
     },
     "directions": {
-      "general": "Located in Parque das Nações on a pier in an artificial lagoon, adjacent to the stunning Oriente Station",
-      "fromCruisePort": "Take metro Red Line from Santa Apolónia to Oriente Station (15 minutes), then 5-minute walk. Or taxi (20 minutes)",
-      "publicTransport": "Metro Red Line to Oriente station (5-minute walk to Oceanarium). Trains to Oriente station from multiple Lisbon stations. Buses 705, 725, 728, 744, 708, 750, 759, 782, 794",
+      "general": "On the waterfront at Doca dos Olivais in Parque das Nações, about 15 minutes' walk from Oriente station",
+      "fromCruisePort": "About 7 km north-east, not walkable. The quickest public route is the train from Santa Apolónia station (10 minutes' walk from the terminal) to Oriente, then a 15-minute walk through Parque das Nações. Taxi about 15 minutes.",
+      "publicTransport": "Metro Red Line or suburban train to Oriente, then about 15 minutes on foot through Parque das Nações. Buses 705, 725, 728, 744, 708, 750, 759, 782 and 794 also serve the area.",
       "parking": "Vasco da Gama Shopping Center car park (walking distance), or Parque das Nações public car parks"
     },
     "distanceFromCruisePort": {
-      "meters": 6500,
-      "walkingTime": "Not recommended - use metro",
+      "meters": 6981,
+      "walkingTime": "Not practical on foot (1h 34min walk)",
       "drivingTime": "20 minutes"
     }
   },
@@ -54,12 +54,24 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open every day of the year",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
           "hours": "10:00 - 20:00",
+          "lastAdmission": "19:00"
+        },
+        {
+          "season": "24 and 31 December",
+          "days": "Special hours",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:00"
+        },
+        {
+          "season": "25 December and 1 January",
+          "days": "Special hours",
+          "hours": "11:00 - 20:00",
           "lastAdmission": "19:00"
         }
       ],
@@ -67,28 +79,28 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 26,
-      "youth": 17,
-      "child": 11,
-      "senior": 17,
-      "family": 66,
+      "adult": 25.5,
+      "youth": 25.5,
+      "child": 15.5,
+      "senior": 17.7,
+      "family": null,
       "lisboaCardFree": false,
-      "notes": "Adult tickets €25-€31 depending on season/peak pricing (2026). Children 3-12 and seniors 65+ discounted; under 3 free. Book a timed slot online."
+      "notes": "Prices depend on entry time. Adults (13-64): 29.90 euros (10:00-11:30), 27.70 euros (12:00-15:30), 25.50 euros (16:00-18:30). Children 3-12: 17.70 / 16.60 / 15.50 euros. Seniors 65+: 19.90 / 18.80 / 17.70 euros. Under 3 free. Figures shown are the lowest (late-afternoon) fares. Flexiticket with no fixed date: 41 euros per adult."
     },
-    "averageVisitDuration": "2-3 hours",
-    "bestTimeToVisit": "Weekday mornings (10:00-12:00) for fewer crowds. Last entry at 19:00 allows quiet evening visit",
+    "averageVisitDuration": "1.5-2 hours",
+    "bestTimeToVisit": "First slot at 10:00 on a weekday, or from 16:00 for the lowest fare and thinner crowds.",
     "busyPeriods": [
-      "Weekends all day",
+      "Weekends",
       "School holidays",
       "Rainy days",
-      "Afternoons (14:00-17:00)"
+      "Late morning to mid-afternoon"
     ],
-    "adviceForVisitors": "Book tickets online in advance to avoid queues and save money. Allow 2-3 hours for full visit. Photography allowed (no flash). Combine with Parque das Nações cable car ride for views. Cafeteria available on site. Visit the temporary exhibition 'Submerged Universe' included with admission. The Oceanarium is fully indoors - perfect for rainy days"
+    "adviceForVisitors": "Book a timed ticket online (code ONLINE5 gives 5 per cent off). Allow 90 minutes to two hours inside. No flash photography or selfie sticks. Paid lockers on floor 0 for small bags."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day (4 hours including metro travel and visit)",
-    "accessibility": "Good - easy metro access on Red Line to Oriente station, then short walk",
+    "timeNeededFromPort": "About 3.5 to 4 hours including travel (30-40 minutes each way) and a 1.5-2 hour visit",
+    "accessibility": "Not walkable from the ship. Train from Santa Apolónia to Oriente then a 15-minute walk, or a 15-minute taxi. The aquarium itself is step-free with ramps and lifts.",
     "combinableWith": [
       "Parque das Nações",
       "Vasco da Gama Tower",
@@ -97,48 +109,40 @@
       "Oriente Station architecture"
     ],
     "tips": [
-      "Easy metro access on Red Line - 15 minutes from Santa Apolónia",
-      "Perfect for families with children of all ages",
-      "Excellent rainy day option - completely indoors",
-      "Book tickets online in advance for best prices",
-      "Allow minimum 2-3 hours for visit",
-      "Combine with Parque das Nações waterfront walk",
-      "Take cable car for aerial views of the area",
-      "Food available on-site or at nearby Vasco da Gama mall",
-      "Very wheelchair and stroller accessible",
-      "Educational and entertaining for all ages"
+      "Ticket prices fall through the day: adults 29.90 euros at 10:00-11:30, 27.70 euros at 12:00-15:30 and 25.50 euros from 16:00.",
+      "Use the code ONLINE5 on the official ticket site for 5 per cent off.",
+      "Last entry is 19:00, so a late slot suits ships that sail in the evening; allow at least 45 minutes to get back to the terminal.",
+      "Children up to 2 enter free; ages 3 to 12 pay the child rate, and 13-year-olds pay the adult price.",
+      "The Oceanário's own estimate for a visit is 90 minutes to two hours; budget half a day overall.",
+      "For groups of three or four, a taxi from the terminal (about 15 minutes) saves the station changes and the 15-minute walk from Oriente.",
+      "Flash photography and selfie sticks are not allowed inside.",
+      "Forests Underwater closes on 30 September 2026; from October the standard ticket covers the main aquarium and the current temporary exhibitions."
     ]
   },
   "features": {
     "highlights": [
-      "5-million-liter central ocean tank - one of the world's largest",
-      "Over 8,000 marine animals from 500 species",
-      "Rare ocean sunfish (mola mola) - one of few in captivity",
-      "Four ocean habitat tanks (Atlantic, Antarctic, Pacific, Indian)",
-      "World's largest nature aquarium 'Forests Underwater' by Takashi Amano",
-      "Sea otters, penguins, sharks, rays, and tropical fish",
-      "Stunning jellyfish displays",
-      "Interactive touch tanks",
-      "Temporary exhibition 'Submerged Universe'",
-      "First IUCN Center for Species Survival globally"
+      "Central ocean tank viewed from windows on two levels",
+      "Four surrounding habitats: North Atlantic, Antarctic, temperate Pacific and tropical Indian Ocean",
+      "Sea otters and penguins in the above-water sections",
+      "Permanent exhibition One Planet, One Ocean",
+      "Temporary exhibitions Sea Monsters and Submerged Universe, included in the standard ticket",
+      "Forests Underwater by Takashi Amano, open until 30 September 2026",
+      "Waterfront setting in Parque das Nações, next to the cable car"
     ],
     "facilities": [
-      "Restaurant and cafeteria",
-      "Gift shop with marine-themed products",
-      "Educational programs and workshops",
-      "Temporary exhibition spaces",
-      "Audio guides available",
-      "Lockers available",
-      "Restrooms throughout",
-      "Elevators and ramps",
-      "Stroller and wheelchair accessible",
-      "Photo areas without glass reflection"
+      "Restaurants and cafés (Submerso, #SeaTheFuture, Zafra Coffee & Bar)",
+      "Shop",
+      "39 paid lockers on floor 0 (larger suitcases cannot be stored)",
+      "Ramps and lifts along the whole visitor route",
+      "Restrooms with baby-changing tables",
+      "First-aid station",
+      "All exhibition content in Portuguese and English"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Fully accessible with elevators, ramps, and wide corridors throughout. Wheelchair rental available. Accessible restrooms on all floors. Stroller-friendly",
-      "visualAidServices": "Audio descriptions available",
-      "hearingAidServices": "Visual information displays throughout"
+      "mobilityNotes": "The visitor route has ramps and lifts and the museum states it complies with European accessibility standards. Priority service for visitors with reduced mobility, pregnant women and people carrying small children. Guide dogs: contact the Oceanário before your visit.",
+      "visualAidServices": false,
+      "hearingAidServices": "Exhibition videos have English subtitles"
     },
     "languages": [
       "Portuguese",

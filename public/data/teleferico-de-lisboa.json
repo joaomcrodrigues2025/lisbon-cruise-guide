@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in Parque das Nações waterfront area, with stations at both northern end (near Oceanário) and southern end (near Vasco da Gama Tower)",
-      "fromCruisePort": "From Santa Apolónia cruise terminal, take metro Red Line to Oriente Station (15 minutes), then 5-minute walk to either cable car station. Or taxi (20 minutes)",
+      "fromCruisePort": "About 7.4 km north-east in Parque das Nações. Take the train from Santa Apolónia station (10 minutes' walk from the terminal) to Oriente, then walk 10 minutes to the southern cable car station near the Oceanarium. Taxi about 15 minutes.",
       "publicTransport": "Metro Red Line to Oriente station, then short walk to cable car stations. Trains to Oriente station from multiple Lisbon stations. Buses 705, 725, 728, 744, 708, 750, 759, 782, 794",
       "parking": "Vasco da Gama Shopping Center underground parking, or Parque das Nações public car parks along waterfront"
     },
     "distanceFromCruisePort": {
-      "meters": 6800,
-      "walkingTime": "Not recommended - use metro",
+      "meters": 7369,
+      "walkingTime": "Not practical on foot (1h 40min walk)",
       "drivingTime": "20 minutes"
     }
   },
@@ -96,7 +96,7 @@
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "Half day (3-4 hours including metro travel, cable car, and Parque das Nações exploration)",
-    "accessibility": "Excellent - easy metro access on Red Line to Oriente, then flat walk to stations",
+    "accessibility": "Excellent - quick train from Santa Apolónia to Oriente, then flat walk to stations",
     "combinableWith": [
       "Oceanário de Lisboa",
       "Vasco da Gama Shopping Center",

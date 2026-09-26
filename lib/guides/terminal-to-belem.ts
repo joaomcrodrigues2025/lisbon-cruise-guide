@@ -31,7 +31,7 @@ export const terminalToBelem: Guide = {
       heading: 'Option 2 — Tram 15E (the classic, with caveats)',
       paragraphs: [
         'The modern articulated 15E runs from Praça da Figueira and Praça do Comércio through Cais do Sodré and Alcântara to Belém. From Praça do Comércio — a 20-minute riverside walk from the terminal — count 25–40 minutes to Belém depending on traffic, longer when a cruise crowd is boarding.',
-        'A single bought on board costs €3.30; with a rechargeable Viva Viagem/Navegante card the fare drops sharply, and the €7.25 Carris/Metro 24-hour pass covers the round trip plus everything else you ride that day — it pays for itself on this route alone if you also use the metro or a funicular.',
+        'A single bought on board costs €3.30; with a rechargeable Viva Viagem/Navegante card the fare drops sharply, and the €7.25 Carris/Metro 24-hour pass covers the round trip plus everything else you ride that day — it pays for itself on this route alone if you also use the metro.',
         'The caveats: the 15E at mid-morning is standing-room, it is a known pickpocket line (keep bags zipped and in front — more in our [safety guide](/guides/money-safety-lisbon-cruise)), and "get off at Belém" means the Mosteiro dos Jerónimos stop for the monastery, one stop further (Largo da Princesa/Pedrouços side) if the tower is your first target.',
       ],
     },
@@ -46,7 +46,7 @@ export const terminalToBelem: Guide = {
       heading: 'Option 4 — The river alternative and other creative routes',
       paragraphs: [
         'On a warm day with time to spare, consider mixing modes: outbound by taxi, return by train, with the middle of the day entirely on foot along Belém\'s riverfront — the monument district is pleasantly flat and walkable end to end (monastery to tower is about 1.2 km along the water).',
-        'A [sunset cruise on the Tagus](/attractions/tagus-river-sunset-cruise) or a [guided bike tour](/attractions/lisbon-bike-tour) along the riverside cycle path are the scenic alternatives — the dedicated bike path runs the entire way from the centre to Belém, dead flat, and rental e-bikes make it a genuinely practical 25-minute ride rather than a workout.',
+        'A [sunset cruise on the Tagus](/guides/lisbon-tours-for-cruise-passengers) or a [guided bike tour](/guides/lisbon-tours-for-cruise-passengers) along the riverside cycle path are the scenic alternatives — the dedicated bike path runs the entire way from the centre to Belém, dead flat, and rental e-bikes make it a genuinely practical 25-minute ride rather than a workout.',
       ],
     },
     {

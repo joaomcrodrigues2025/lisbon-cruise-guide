@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in the Graça neighborhood east of São Jorge Castle, next to Igreja da Graça (Church of Our Lady of Grace) at one of Lisbon's highest points",
-      "fromCruisePort": "From cruise terminal: 3.2km distance. Take Tram 28E which stops very close (Graça stop). Taxi/Uber: 12-15 minutes. Or Blue metro line to Martim Moniz, then Tram 28E or steep 15-minute walk uphill",
+      "fromCruisePort": "About 950 m from the terminal, but around 17 minutes of steep climbing through Alfama and Graça. Tram 28 stops at Largo da Graça; a taxi or tuk-tuk takes about 10 minutes.",
       "publicTransport": "Tram 28E stops at Graça (50 meters from viewpoint). Tram 12E also serves the area. Bus 734 stops nearby. From cruise port: Blue metro to Martim Moniz, then Tram 28E uphill to Graça stop. Or walk from São Jorge Castle (10 minutes downhill)",
       "parking": "Very limited street parking in residential Graça neighborhood. Not recommended to drive. Use public transport or taxi"
     },
     "distanceFromCruisePort": {
-      "meters": 3200,
-      "walkingTime": "35-40 minutes (steep uphill climb - not recommended)",
+      "meters": 948,
+      "walkingTime": "17 min walk",
       "drivingTime": "12-15 minutes by taxi/Uber"
     }
   },

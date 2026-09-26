@@ -36,7 +36,9 @@ export default async function ImageCreditsPage() {
   const credits = loadCredits();
   const attractions = await getAllAttractions();
   const nameById = new Map(attractions.map((a) => [a.id, a.name]));
-  const entries = Object.entries(credits).sort(([a], [b]) => a.localeCompare(b));
+  const entries = Object.entries(credits)
+    .filter(([id]) => id === '_site' || nameById.has(id))
+    .sort(([a], [b]) => a.localeCompare(b));
 
   return (
     <div className="relative flex flex-col w-full px-4 py-12 max-w-4xl mx-auto">
@@ -52,10 +54,6 @@ export default async function ImageCreditsPage() {
           to the photographers who make their work freely available. Each image below links to its source page,
           where the full licence terms can be consulted. Images have been resized and converted to web formats;
           no other modifications were made.
-        </p>
-        <p>
-          A small number of illustrative images on listings without suitable free photographs are AI-generated
-          and are identified as such in their captions.
         </p>
         <p>
           If you are a rights holder and believe an image is credited incorrectly, please{' '}

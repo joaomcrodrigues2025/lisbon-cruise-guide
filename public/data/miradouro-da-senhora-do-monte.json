@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located at the highest point of the Graça neighborhood, behind residential streets. The white chapel dome is visible from parts of the city.",
-      "fromCruisePort": "2.5km northeast from cruise terminals - not walkable (too steep). Take Tram 28E to Graça (Rua da Graça stop), then walk 400m uphill on Rua da Senhora do Monte (10 minutes). Taxi takes 12-15 minutes.",
+      "fromCruisePort": "About 1.4 km and 25 minutes on foot, much of it steeply uphill; this is the highest viewpoint in the old town. Most visitors take a taxi or tuk-tuk (about 10-12 minutes), or tram 28 to Graça and walk up 5 minutes.",
       "publicTransport": "Tram 28E to Graça stop on Rua da Graça (then 400m/10-min uphill walk). Bus 734 stops closer. Most visitors take tuk-tuks or taxis due to steep uphill location.",
       "parking": "Very limited street parking on Rua da Senhora do Monte. Best to use public transport or taxi."
     },
     "distanceFromCruisePort": {
-      "meters": 2500,
-      "walkingTime": "Not recommended - too steep (40+ minutes uphill)",
+      "meters": 1394,
+      "walkingTime": "25 min walk",
       "drivingTime": "12-15 minutes"
     }
   },

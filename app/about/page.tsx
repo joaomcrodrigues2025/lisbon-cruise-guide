@@ -25,8 +25,8 @@ export default function AboutPage() {
 
         <h2 className="text-2xl font-bold text-[#003366] pt-4">What we cover</h2>
         <p>
-          The guide documents 70 attractions in and around Lisbon. For each one we publish the walking distance and time
-          from the cruise terminal at Santa Apolónia / Jardim do Tabaco, realistic visit durations, admission prices,
+          The guide documents more than 50 attractions in and around Lisbon. For each one we publish the walking distance and time
+          from the Lisbon Cruise Terminal at Jardim do Tabaco, realistic visit durations, admission prices,
           opening patterns, accessibility notes, and practical tips specific to shore visits, such as when to go to beat
           tour-group crowds and how much buffer to leave before all-aboard.
         </p>
@@ -41,7 +41,9 @@ export default function AboutPage() {
         <h2 className="text-2xl font-bold text-[#003366] pt-4">How the information is compiled</h2>
         <p>
           Listings are researched from official attraction websites, Portuguese tourism sources and on-the-ground
-          knowledge of Lisbon, then organised around cruise logistics. Prices, opening hours and transport details
+          knowledge of Lisbon, then organised around cruise logistics. Walking distances and times from the terminal
+          are measured along real pedestrian routes (Google Maps walking directions from the Jardim do Tabaco terminal
+          gate), not straight lines, and the hills are called out in each listing. Prices, opening hours and transport details
           change frequently in a busy tourist city, so we review listings periodically; even so, always confirm
           critical details, especially opening days and last-admission times, with the official venue before building
           your day around them. We do not publish visitor ratings or review counts: we would rather you read the
@@ -55,8 +57,7 @@ export default function AboutPage() {
             www.better-skills.com
           </a>
           ), a Portuguese training and consulting company, and edited by <strong>João Rodrigues</strong>, a partner at
-          Better Skills based in Portugal. Being locally based matters for a guide like this: the walking times were
-          not estimated from a map.
+          Better Skills based in Portugal.
         </p>
 
         <h2 className="text-2xl font-bold text-[#003366] pt-4">Corrections</h2>

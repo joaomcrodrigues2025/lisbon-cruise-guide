@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located on a hillside west of Baixa district, between Chiado and Príncipe Real",
-      "fromCruisePort": "20-25 minute walk from cruise terminal, or take metro to Baixa-Chiado station then walk uphill (10 minutes), or use Elevador da Glória funicular from Restauradores",
-      "publicTransport": "Metro: Baixa-Chiado (Blue/Green lines). Elevador da Glória funicular from Praça dos Restauradores. Tram 28 passes through the area. Multiple bus routes including 758.",
+      "fromCruisePort": "About 2.5 km and 35-40 minutes on foot, the last part steeply uphill. Easier: metro Blue Line from Santa Apolónia (10 minutes' walk from the terminal) to Baixa-Chiado and take the Chiado exit, which removes most of the climb; Bairro Alto starts a few minutes' walk away. The Elevador da Glória funicular has been closed since the September 2025 accident. Taxi about 10 minutes.",
+      "publicTransport": "Metro: Baixa-Chiado (Blue/Green lines); the Chiado exit brings you out a few minutes from Bairro Alto. Tram 28 passes through the area. Multiple bus routes including 758. The Elevador da Glória funicular from Praça dos Restauradores has been closed since the September 2025 accident, with no reopening date.",
       "parking": "Very limited street parking. Public parking at Praça Luís de Camões and nearby garages. Best explored on foot."
     },
     "distanceFromCruisePort": {
-      "meters": 1800,
-      "walkingTime": "20-25 minutes",
+      "meters": 2453,
+      "walkingTime": "37 min walk",
       "drivingTime": "8-10 minutes"
     }
   },
@@ -83,7 +83,7 @@
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "Allow 3-4 hours minimum for evening experience",
-    "accessibility": "Challenging - steep hills, many staircases, narrow cobblestone streets. Funicular available but not wheelchair accessible inside district.",
+    "accessibility": "Challenging - steep hills, many staircases, narrow cobblestone streets. The Glória funicular is closed; the metro to Baixa-Chiado or a taxi saves most of the climb.",
     "combinableWith": [
       "Chiado shopping district",
       "Cais do Sodré nightlife",
@@ -98,7 +98,7 @@
       "Try local ginjinha (cherry liqueur) and Portuguese wine",
       "Experience authentic Fado music in traditional houses",
       "Combine with dinner in nearby Chiado before nightlife",
-      "Use Elevador da Glória funicular to save energy",
+      "Take the metro to Baixa-Chiado and use the Chiado exit to skip most of the climb (the Glória funicular is closed)",
       "Keep valuables secure in crowded streets"
     ]
   },
@@ -126,7 +126,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": false,
-      "mobilityNotes": "Not suitable for wheelchairs or limited mobility. Very steep hills, many staircases, narrow cobblestone streets with uneven surfaces. Elevador da Glória funicular has stairs. Best for able-bodied visitors.",
+      "mobilityNotes": "Not suitable for wheelchairs or limited mobility. Very steep hills, many staircases, narrow cobblestone streets with uneven surfaces. The Elevador da Glória funicular is closed; a taxi is the easiest way up. Best for able-bodied visitors.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

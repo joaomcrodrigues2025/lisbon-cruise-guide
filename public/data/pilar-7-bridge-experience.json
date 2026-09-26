@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in Alcântara district along Avenida da Índia waterfront, directly beneath the Ponte 25 de Abril suspension bridge",
-      "fromCruisePort": "6km west from cruise port. Take tram 15E along waterfront (30 min) or taxi (12-15 min). Can combine with Belém attractions.",
+      "fromCruisePort": "About 5.2 km west, at the foot of the 25 de Abril Bridge in Alcântara. Taxi about 12-15 minutes, or the train from Cais do Sodré to Alcântara-Mar and a short walk.",
       "publicTransport": "Tram 15E to Alcântara stop (walk 5 min). Buses 714, 727, 732, 751 to Alcântara. Train: Cascais line to Alcântara station (10-minute walk). Hop-on-hop-off buses include this stop.",
       "parking": "Parking available at Praça da Indústria (Industries Square) and Congress Center nearby"
     },
     "distanceFromCruisePort": {
-      "meters": 6000,
-      "walkingTime": "Not recommended to walk",
+      "meters": 5181,
+      "walkingTime": "Not practical on foot (1h 10min walk)",
       "drivingTime": "12-15 minutes"
     }
   },

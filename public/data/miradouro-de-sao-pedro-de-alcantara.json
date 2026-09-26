@@ -14,7 +14,7 @@
   ],
   "description": {
     "short": "A beautifully landscaped terraced garden viewpoint split across two levels, offering stunning easterly views toward São Jorge Castle, decorated with historic busts, tile panels, baroque fountains, and two charming kiosk cafés.",
-    "full": "The Miradouro de São Pedro de Alcântara stands as Lisbon's most romantic and elegantly landscaped hilltop viewpoint, gracefully positioned at the top of the historic Glória funicular in the Bairro Alto district. This exquisite viewing terrace faces eastward toward the iconic São Jorge Castle perched on the opposite hill, providing sweeping panoramas across the entire Baixa district, Mouraria neighborhood, and extending to the shimmering Tagus estuary beyond. The viewpoint is thoughtfully designed across two distinct levels, each offering its own unique character and charm. The upper level features beautiful cobblestone paving displaying Portugal's traditional calçada portuguesa geometric designs, centered around an elegant fountain transferred from the Palácio da Bemposta when it was converted to a Military Academy. A detailed tile panel added in 1952 helpfully illustrates all the monuments visible from this vantage point, while a monument from 1904 pays tribute to Bairro Alto's historic newspaper sellers - the neighborhood once served as Portugal's press center, and the statue depicts Eduardo Coelho, founder of the 'Diario de Noticias,' with a barefoot boy representing an early newspaper seller. Throughout the terrace, historic and mythological busts dot the landscape, adding cultural gravitas to the scenic beauty. The lower level transforms into a geometric French-inspired garden complete with manicured hedges, shaded benches beneath mature trees, and a hidden wall fountain that once received waters from the city's monumental aqueduct. Two welcoming kiosk cafés - the Miradouro bar and its companion - serve drinks and light meals, making this an ideal spot to linger over coffee or cocktails while absorbing the magnificent views. The viewpoint sits at a fascinating crossroads between three distinct Lisbon neighborhoods: to the east (down the hill) lies the historic Baixa district with its grand plazas, to the west extends the affluent Príncipe Real neighborhood with its elegant mansions and gardens, while to the south pulses the bohemian energy of Bairro Alto's nightlife scene. This unique positioning gives São Pedro de Alcântara a wonderfully diverse atmosphere - jovial and social yet maintaining a touch of class and historical significance. Behind the garden stands the frequently overlooked Convento de São Pedro de Alcântara, a 1670 building that opened to the public in 2014, revealing an outstanding marble chapel and baroque church. The yellow carriages of tram route 24 cheerfully rattle past along Rua de São Pedro de Alcântara, connecting to Príncipe Real and offering a quieter alternative to the famous tram 28.",
+    "full": "The Miradouro de São Pedro de Alcântara stands as Lisbon's most romantic and elegantly landscaped hilltop viewpoint, gracefully positioned at the top of the historic Glória funicular line in the Bairro Alto district. The funicular has been closed since the September 2025 accident, with no reopening date. This exquisite viewing terrace faces eastward toward the iconic São Jorge Castle perched on the opposite hill, providing sweeping panoramas across the entire Baixa district, Mouraria neighborhood, and extending to the shimmering Tagus estuary beyond. The viewpoint is thoughtfully designed across two distinct levels, each offering its own unique character and charm. The upper level features beautiful cobblestone paving displaying Portugal's traditional calçada portuguesa geometric designs, centered around an elegant fountain transferred from the Palácio da Bemposta when it was converted to a Military Academy. A detailed tile panel added in 1952 helpfully illustrates all the monuments visible from this vantage point, while a monument from 1904 pays tribute to Bairro Alto's historic newspaper sellers - the neighborhood once served as Portugal's press center, and the statue depicts Eduardo Coelho, founder of the 'Diario de Noticias,' with a barefoot boy representing an early newspaper seller. Throughout the terrace, historic and mythological busts dot the landscape, adding cultural gravitas to the scenic beauty. The lower level transforms into a geometric French-inspired garden complete with manicured hedges, shaded benches beneath mature trees, and a hidden wall fountain that once received waters from the city's monumental aqueduct. Two welcoming kiosk cafés - the Miradouro bar and its companion - serve drinks and light meals, making this an ideal spot to linger over coffee or cocktails while absorbing the magnificent views. The viewpoint sits at a fascinating crossroads between three distinct Lisbon neighborhoods: to the east (down the hill) lies the historic Baixa district with its grand plazas, to the west extends the affluent Príncipe Real neighborhood with its elegant mansions and gardens, while to the south pulses the bohemian energy of Bairro Alto's nightlife scene. This unique positioning gives São Pedro de Alcântara a wonderfully diverse atmosphere - jovial and social yet maintaining a touch of class and historical significance. Behind the garden stands the frequently overlooked Convento de São Pedro de Alcântara, a 1670 building that opened to the public in 2014, revealing an outstanding marble chapel and baroque church. The yellow carriages of tram route 24 cheerfully rattle past along Rua de São Pedro de Alcântara, connecting to Príncipe Real and offering a quieter alternative to the famous tram 28.",
     "history": "The viewpoint's unique two-level terrace design was not accidental but rather constructed in the 17th century as the initial preparatory stage for a grand aqueduct intended to cross the valley to the Graça district. The aqueduct project was abandoned after the devastating 1755 earthquake, but the substantial shear wall at the garden's base - built in preparation for the aqueduct - remains as a historical artifact. The baroque fountain at the garden's center originally graced the grounds of Palácio da Bemposta before being transferred here. The 1904 newspaper sellers monument commemorates Bairro Alto's rich publishing heritage.",
     "significance": "As one of Lisbon's premier miradouros, São Pedro de Alcântara represents the city's tradition of creating beautiful public spaces that serve both practical and aesthetic purposes. The viewpoint embodies the meeting point of three historic neighborhoods, making it a social and cultural crossroads. The preservation of its baroque fountain, historic monuments, and traditional Portuguese garden design showcases Lisbon's commitment to maintaining its heritage."
   },
@@ -32,14 +32,14 @@
       "longitude": -9.1442
     },
     "directions": {
-      "general": "Located at the top of Elevador da Glória funicular in upper Bairro Alto, at the junction with Príncipe Real",
-      "fromCruisePort": "2km from cruise port. Metro to Baixa-Chiado then walk up (15 min uphill) OR take Elevador da Glória funicular from Praça dos Restauradores (3 min ride)",
-      "publicTransport": "Elevador da Glória funicular from Praça dos Restauradores (lower Baixa) - included in 24-hour ticket. Tram 24 stops behind viewpoint. From Chiado/Bairro Alto: short uphill walk. Metro: Baixa-Chiado or Restauradores.",
-      "parking": "Very limited street parking in Bairro Alto. Public parking at Praça dos Restauradores (walk up or take funicular)"
+      "general": "Located at the top of the Elevador da Glória line (closed since September 2025) in upper Bairro Alto, at the junction with Príncipe Real",
+      "fromCruisePort": "About 2.3 km and 35 minutes on foot, the last part steep. Easier: metro Blue Line from Santa Apolónia to Baixa-Chiado, then about 10 minutes on foot from the Chiado exit, gently uphill through Bairro Alto. The Elevador da Glória funicular, which stopped at the viewpoint, has been closed since the September 2025 accident. Taxi about 10 minutes.",
+      "publicTransport": "Metro: Baixa-Chiado (Chiado exit, then about 10 minutes' walk) or Restauradores (then a steep 10-minute climb up Calçada da Glória). Tram 24 stops behind viewpoint. From Chiado/Bairro Alto: short uphill walk. The Elevador da Glória funicular has been closed since the September 2025 accident, with no reopening date.",
+      "parking": "Very limited street parking in Bairro Alto. Public parking at Praça dos Restauradores (steep 10-minute walk up Calçada da Glória)"
     },
     "distanceFromCruisePort": {
-      "meters": 2000,
-      "walkingTime": "25-30 minutes (steep uphill)",
+      "meters": 2338,
+      "walkingTime": "35 min walk",
       "drivingTime": "8-10 minutes"
     }
   },
@@ -77,17 +77,16 @@
     "busyPeriods": [
       "Mid-morning to afternoon (10:00-16:00)",
       "Sunset time",
-      "Weekends",
-      "After Elevador da Glória deposits tourists"
+      "Weekends"
     ],
-    "adviceForVisitors": "Take the charming Elevador da Glória funicular to save energy climbing the steep hill (included in 24-hour transport ticket or €3.80 return). The viewpoint offers shaded seating under trees - perfect for hot summer days. Enjoy drinks at the kiosk cafés while taking in the view. The tile panel shows what monuments you're seeing. Combine with visits to nearby Príncipe Real gardens (10-minute walk) or São Roque Church. Tram 24 from here connects to Príncipe Real and beyond. Evening visits offer romantic atmosphere with twinkling city lights."
+    "adviceForVisitors": "The Elevador da Glória funicular has been closed since the September 2025 accident: take the metro to Baixa-Chiado and walk about 10 minutes, or take a taxi to the viewpoint. The viewpoint offers shaded seating under trees - perfect for hot summer days. Enjoy drinks at the kiosk cafés while taking in the view. The tile panel shows what monuments you're seeing. Combine with visits to nearby Príncipe Real gardens (10-minute walk) or São Roque Church. Tram 24 from here connects to Príncipe Real and beyond. Evening visits offer romantic atmosphere with twinkling city lights."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "1.5-2 hours including travel and relaxing",
-    "accessibility": "Moderate - requires funicular ride OR steep uphill walk. Once at viewpoint, relatively flat terraces.",
+    "accessibility": "Moderate - requires a steep uphill walk (the Glória funicular is closed) or a taxi. Once at viewpoint, relatively flat terraces.",
     "combinableWith": [
-      "Elevador da Glória funicular ride",
+      "Convento do Carmo",
       "Bairro Alto exploration",
       "Príncipe Real neighborhood and gardens",
       "São Roque Church",
@@ -96,7 +95,7 @@
       "Tram 24 scenic ride"
     ],
     "tips": [
-      "Take Elevador da Glória funicular (€3.80 return or FREE with 24-hour ticket)",
+      "The Glória funicular is closed: take the metro to Baixa-Chiado and walk about 10 minutes, or take a taxi straight to the viewpoint",
       "Perfect stop after visiting Baixa district",
       "Two kiosk cafés - great for coffee or drinks with a view",
       "Less crowded than other major viewpoints",
@@ -134,12 +133,11 @@
       "Historic monuments and sculptures",
       "Terraced gardens",
       "Public restrooms nearby",
-      "Elevador da Glória funicular access",
       "Tram 24 stop"
     ],
     "accessibility": {
       "wheelchairAccessible": "Partial",
-      "mobilityNotes": "Upper and lower terraces relatively flat once reached. Main challenge is getting to viewpoint - requires steep uphill walk OR Elevador da Glória funicular (which is accessible). Lower level has some steps between sections.",
+      "mobilityNotes": "Upper and lower terraces relatively flat once reached. Main challenge is getting to viewpoint - requires a steep uphill walk or a taxi; the Elevador da Glória funicular has been closed since September 2025. Lower level has some steps between sections.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
@@ -169,7 +167,7 @@
   },
   "nearbyAttractions": [
     {
-      "name": "Elevador da Glória",
+      "name": "Elevador da Glória (closed since September 2025)",
       "distance": "At viewpoint entrance",
       "type": "funicular",
       "walkingTime": "0 minutes - connects to viewpoint"
@@ -208,7 +206,7 @@
       "name": "Praça dos Restauradores",
       "distance": "300 meters downhill",
       "type": "plaza",
-      "walkingTime": "10 minutes or 3-minute funicular"
+      "walkingTime": "10 minutes (steep)"
     }
   ],
   "tags": [

@@ -1,5 +1,6 @@
 import { Attraction } from './types';
 import { canonicalizeCategory } from './taxonomy';
+import { distanceBetween } from './distance';
 import fs from 'fs';
 import path from 'path';
 
@@ -117,28 +118,36 @@ export async function searchAttractions(query: string): Promise<Attraction[]> {
   );
 }
 
-// Get featured attractions (top rated, ideal for cruise passengers)
+// Hand-picked flagship sights shown on the homepage
+const FEATURED_IDS = [
+  'alfama',
+  'mosteiro-dos-jeronimos',
+  'castelo-de-sao-jorge',
+  'miradouro-de-santa-luzia',
+  'praca-do-comercio',
+  'pasteis-de-belem',
+];
+
 export async function getFeaturedAttractions(limit: number = 6): Promise<Attraction[]> {
   const attractions = await getAllAttractions();
-  return attractions
-    .filter(attraction => attraction.cruisePassengerInfo.idealForCruisePassengers)
-    .sort((a, b) => b.rating - a.rating)
+  return FEATURED_IDS.map((id) => attractions.find((a) => a.id === id))
+    .filter((a): a is Attraction => a !== undefined)
     .slice(0, limit);
 }
 
-// Get nearby attractions to a given attraction
+// Get the attractions geographically closest to a given attraction
 export async function getNearbyAttractions(attractionId: string, limit: number = 4): Promise<Attraction[]> {
   const attraction = await getAttractionBySlug(attractionId);
   if (!attraction) return [];
 
   const allAttractions = await getAllAttractions();
-  const nearbyIds = attraction.nearbyAttractions.map(n =>
-    n.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
-  );
-
   return allAttractions
-    .filter(a => nearbyIds.includes(a.id) && a.id !== attractionId)
-    .slice(0, limit);
+    .filter((a) => a.id !== attractionId)
+    .map((a) => ({ a, d: distanceBetween(attraction, a) }))
+    .filter(({ d }) => d <= 3000)
+    .sort((x, y) => x.d - y.d)
+    .slice(0, limit)
+    .map(({ a }) => a);
 }
 
 // Get statistics

@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in Príncipe Real district between Rato and Jardim do Príncipe Real, near São Pedro de Alcântara viewpoint",
-      "fromCruisePort": "25-30 minute walk through Chiado, or take metro to Rato station (6-minute walk from station). Taxi/Uber 10 minutes.",
+      "fromCruisePort": "About 3.4 km and 50 minutes on foot with steep hills, so take a taxi (about 12 minutes) to the Príncipe Real entrance, or the metro to Rato and walk 8 minutes downhill.",
       "publicTransport": "Metro: Rato station (Yellow line) - 6-minute walk. Tram 28 stops nearby. Tram 24 or Bus 758 stop at Praça do Príncipe Real entrance. Multiple bus routes serve the area.",
       "parking": "Limited street parking in Príncipe Real. Public parking at Rato metro station nearby."
     },
     "distanceFromCruisePort": {
-      "meters": 2200,
-      "walkingTime": "25-30 minutes uphill",
+      "meters": 3433,
+      "walkingTime": "Not practical on foot (51 min walk)",
       "drivingTime": "10 minutes"
     }
   },

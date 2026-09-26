@@ -1,7 +1,7 @@
 {
   "id": "palacio-da-pena",
   "name": "Palácio Nacional da Pena",
-  "tagline": "Portugal's most iconic Romanticist castle perched atop Sintra hills",
+  "tagline": "Sintra's hilltop palace: spectacular, but only realistic on a long port call",
   "type": "palace",
   "categories": [
     "palace",
@@ -12,10 +12,10 @@
     "sintra-attractions"
   ],
   "description": {
-    "short": "A stunning 19th-century Romanticist palace in Sintra, featuring vibrant yellow and red facades, ornate architecture, and panoramic views. UNESCO World Heritage Site and one of Portugal's Seven Wonders. Built by King Ferdinand II on the ruins of a 16th-century monastery.",
-    "full": "The Palácio Nacional da Pena stands as Portugal's most iconic castle and one of Europe's finest examples of 19th-century Romantic architecture. Perched dramatically atop the Sintra hills at 500 meters elevation, this fairytale palace blends Moorish, Gothic, Manueline, and Renaissance architectural styles into a stunning masterpiece. The palace was commissioned by King Ferdinand II in 1838 on the ruins of a 16th-century Hieronymite monastery destroyed by the 1755 earthquake. The vibrant red and yellow painted facades, ornate turrets, decorative battlements, and Neo-Manueline details create a visual spectacle that has captivated visitors for nearly two centuries. The interior features lavishly decorated rooms preserving the royal family's furnishings and possessions exactly as they were left when the Portuguese monarchy ended in 1910. The palace is surrounded by the spectacular 200-hectare Park of Pena, filled with exotic trees and plants from around the world, winding pathways, hidden grottos, and romantic follies. Recognized as a UNESCO World Heritage Site since 1995 and voted one of Portugal's Seven Wonders in 2007, the palace offers breathtaking 360-degree views extending from Sintra to Lisbon and the Atlantic Ocean on clear days. The site seamlessly combines natural beauty, architectural innovation, and royal history, making it an essential destination for understanding Portuguese Romanticism and 19th-century European cultural movements.",
-    "history": "The Palácio da Pena's history begins with a small chapel dedicated to Our Lady of Pena, erected in the Middle Ages on the site of a Marian apparition. In 1503, King Manuel I ordered the construction of a monastery for the Order of Saint Jerome, which stood until the devastating 1755 Lisbon earthquake left it in ruins. The monastery remained abandoned for decades until 1838, when King Ferdinand II (Ferdinand of Saxe-Coburg and Gotha), husband of Queen Maria II, purchased the ruins and surrounding lands. Inspired by German Romantic castles and influenced by his travels through Europe, Ferdinand embarked on creating a summer residence that would embody Romantic ideals. German architect Baron Wilhelm Ludwig von Eschwege designed the palace between 1842 and 1854, incorporating the monastery's remaining structures, particularly the chapel and cloister, into the new romantic castle. The king personally supervised the creation of the surrounding park, importing exotic species from around the world. After Ferdinand's death in 1885, the palace was acquired by the Portuguese state in 1889 and later became a museum. In 1910, with the fall of the monarchy, the palace was classified as a national monument. UNESCO designated it a World Heritage Site in 1995 as part of the Cultural Landscape of Sintra.",
-    "significance": "The Palácio Nacional da Pena represents one of Europe's most significant expressions of 19th-century Romantic architecture. It's considered the greatest example of Portuguese Romanticism and stands as a UNESCO World Heritage Site and one of Portugal's Seven Wonders. The palace influenced architectural movements across Portugal and remains an enduring symbol of Portuguese cultural identity. Its innovative blend of architectural styles and its dramatic hilltop setting make it one of the most photographed monuments in Portugal and a must-visit destination for cruise passengers."
+    "short": "The 19th-century Romanticist palace of King Ferdinand II above Sintra, set in an 85-hectare park. From the cruise terminal it is 75 to 90 minutes each way by public transport, and palace entry is by timed ticket.",
+    "full": "Pena is the most photographed building in Portugal, but it is also the hardest of the classic sights to fit into a port day. Door to door from the Jardim do Tabaco terminal takes 75 to 90 minutes each way: metro to Restauradores, train from Rossio to Sintra (about 40 minutes), then Scotturb bus 434 or a tuk-tuk up the hill. Add at least two and a half hours on site and a safety margin, and it only works on calls of eight to nine hours or more, or with a ship excursion that guarantees the return.\n\nPalace tickets are sold for a specific date and time. Book online before you sail, and choose a slot around 10:30 to 11:00 to leave time for the journey; the first palace entry is at 09:30.\n\nDecide what you actually want. The Essential Visit (20 euros) includes the state rooms of the New Palace, the terraces and the whole park. The Park ticket (12 euros) skips the interior but still gives access to the palace terraces, the kitchen and the chapel, which is where the famous views are. If you mainly want the exterior and the views, the park ticket saves money and the queue inside the palace's narrow corridors, which can be slow at busy times.\n\nFrom the main park entrance to the palace is a steep uphill walk on a paved road. A return transfer costs 4.50 euros and can be added when you buy the ticket; on a tight schedule it is worth it. Private cars cannot drive up to the palace.\n\nCrowds build from mid-morning, when coach groups arrive, and stay heavy until mid-afternoon. The hilltop is often cooler, windier and mistier than Lisbon, so a light layer helps even in summer.",
+    "history": "In the early 16th century King Manuel I founded a small Hieronymite monastery on this peak. After the monasteries were dissolved in 1834, the ruins were bought in 1838 by Ferdinand of Saxe-Coburg-Gotha, husband of Queen Maria II. With the German engineer Baron von Eschwege he turned them into a summer palace, mixing Manueline, Moorish and Gothic references, and planted the surrounding hills with trees from across the world. The monastery's cloister and chapel survive inside the palace. The royal family used it until the monarchy fell in 1910.",
+    "significance": "Pena is one of the earliest Romanticist palaces in Europe, built decades before Bavaria's Neuschwanstein, and the centrepiece of the Cultural Landscape of Sintra, listed by UNESCO in 1995. The park is Portugal's most important arboretum. For a visitor, it is the clearest single example of 19th-century Portuguese royal taste, preserved with its original furnishings."
   },
   "location": {
     "address": {
@@ -32,7 +32,7 @@
     },
     "directions": {
       "general": "Located atop the Sintra hills, accessible via winding mountain roads. Parking available but limited. Steep uphill walk from entrance to palace - shuttle buses available.",
-      "fromCruisePort": "From Lisbon cruise port: Take taxi or organized tour to Sintra (45 minutes). Or take train from Rossio Station to Sintra (40 minutes), then bus 434 to palace entrance. Total journey 90-120 minutes.",
+      "fromCruisePort": "Walk about 10 minutes to Santa Apolónia and take the metro Blue Line to Restauradores; Rossio station is a two-minute walk. Trains from Rossio reach Sintra in about 40 minutes. From Sintra station take Scotturb bus 434 (or a tuk-tuk or taxi) up to the Pena park entrance; private cars cannot go up to the palace. Allow 75 to 90 minutes door to door each way.",
       "publicTransport": "Train from Lisbon Rossio to Sintra station (40 min). Then local bus 434 'Circuito da Pena' direct to palace entrance (15 min). Bus departs from Sintra train station every 15-20 minutes.",
       "parking": "Limited parking near palace entrance (arrives early recommended). Additional parking in Sintra town with shuttle bus service."
     },
@@ -55,44 +55,51 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open daily except 24, 25 and 31 December and 1 January",
       "seasonal": [
         {
-          "season": "Year-round",
+          "season": "Palace",
           "days": "Daily",
-          "hours": "09:30 - 19:00 (last admission 18:00)",
+          "hours": "09:30 - 18:30",
+          "lastAdmission": "18:00 (last ticket 17:30)"
+        },
+        {
+          "season": "Park",
+          "days": "Daily",
+          "hours": "09:00 - 19:00",
           "lastAdmission": "18:00"
         }
       ],
       "closedDates": [
+        "December 24",
         "December 25",
+        "December 31",
         "January 1"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
       "adult": 20,
-      "youth": 12,
-      "child": 10,
-      "senior": 12,
-      "family": 45,
+      "youth": 18,
+      "child": 0,
+      "senior": 18,
+      "family": 65,
       "lisboaCardFree": false,
-      "notes": "Palace + Park adult ticket €20 (2026), timed entry — book days ahead in season. Park-only ticket cheaper and includes the terraces views. Children and senior discounts available."
+      "notes": "Essential Visit (New Palace state rooms, terraces and park): adults 18-64 20 euros, youths 6-17 and seniors 65+ 18 euros, children under 6 free, family (2 adults + 2 youths) 65 euros. Park only (includes terraces, kitchen and chapel): adults 12 euros, youths and seniors 10 euros, family 40 euros. Complete Visit including the private apartments: adults 45 euros. Palace transfer: 4.50 euros return. Palace entry only at the booked time."
     },
-    "averageVisitDuration": "2-3 hours (palace + park)",
-    "bestTimeToVisit": "Weekday mornings (9:30-11:00) or late afternoons after 16:00. Visit during spring (March-May) or fall (September-November) for pleasant weather and fewer crowds. Avoid weekends and Portuguese holidays.",
+    "averageVisitDuration": "2.5-3 hours (palace and part of the park)",
+    "bestTimeToVisit": "The earliest palace slots, or after 15:00 on longer calls. Weekdays outside July and August are quieter.",
     "busyPeriods": [
-      "Weekends year-round",
-      "Summer months (June-August)",
-      "Portuguese and European holidays",
-      "Midday hours (11:00-15:00)"
+      "Mid-morning to mid-afternoon",
+      "Summer months (June-September)",
+      "Weekends and Portuguese holidays"
     ],
-    "adviceForVisitors": "Book tickets online in advance - essential during peak season. Wear comfortable walking shoes - steep hills and uneven surfaces. Allow minimum 2-3 hours for palace and gardens. Take bus 434 to avoid exhausting uphill walk. Visit early morning for best light for photos. Bring water and sun protection. Explore the park - don't just visit the palace. Combine with Quinta da Regaleira or Moorish Castle for full Sintra experience. Consider guided tours for historical context."
+    "adviceForVisitors": "Buy timed palace tickets in advance on the official Parques de Sintra ticket site. Consider the park-only ticket if the interior is not a priority. Add the palace transfer if you are short of time. Bring a light layer: the hilltop is often cooler and windier than Lisbon."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Full day excursion (7-8 hours including Sintra town and other sites) or half-day minimum (5 hours for palace only)",
-    "accessibility": "Moderate - requires 40-minute train ride + bus + steep walking. Organized shore excursions recommended for time-conscious passengers.",
+    "timeNeededFromPort": "At least 6 hours door to door (75-90 minutes each way plus 2.5-3 hours on site); realistic only on calls of 8-9 hours or more",
+    "accessibility": "Difficult: metro, a 40-minute train and a bus up a winding hill road, then a steep climb from the park entrance to the palace (optional transfer available). The palace interior has many stairs.",
     "combinableWith": [
       "Quinta da Regaleira",
       "Castelo dos Mouros",
@@ -101,44 +108,33 @@
       "Cabo da Roca (westernmost point of Europe)"
     ],
     "tips": [
-      "Book shore excursion for hassle-free transport and timing",
-      "Or take train from Rossio Station (near Baixa) - easier than from cruise terminal",
-      "Must-see attraction - one of Portugal's most iconic sites",
-      "Start early - palace opens 9:30 AM, arrive by 10:00 AM",
-      "Buy combined ticket for multiple Sintra palaces online to save time and money",
-      "Bring layers - hilltop can be windy and cooler than Lisbon",
-      "Photography is allowed inside - stunning photo opportunities",
-      "Allocate at least 5-6 hours for Sintra visit from cruise port",
-      "Consider taxi/Uber from Sintra train station to palace if limited time",
-      "Download offline maps - mobile signal can be weak on hilltop"
+      "Palace entry is by timed ticket only; buy it on the official Parques de Sintra site before you sail and pick a slot around 10:30-11:00.",
+      "If you mainly want the views and exterior, the 12-euro Park ticket includes the palace terraces, kitchen and chapel but not the state rooms.",
+      "Add the 4.50-euro return transfer from the park entrance to the palace; the walk up is steep.",
+      "Take the metro to Restauradores rather than Rossio station by taxi: it avoids Baixa traffic and the station is two minutes away.",
+      "Bus 434 queues at Sintra station can be long in summer; a shared tuk-tuk is a quicker, costlier alternative.",
+      "Closed 24, 25 and 31 December and 1 January; also occasionally closed for high fire risk or extreme weather.",
+      "Plan to be back at Rossio at least 90 minutes before all-aboard.",
+      "Do not try to add Quinta da Regaleira on the same port day unless your call is 10 hours or longer."
     ]
   },
   "features": {
     "highlights": [
-      "Vibrant red and yellow Romanticist palace facade",
-      "Spectacular 360-degree panoramic views of Sintra, Lisbon, and Atlantic",
-      "Ornate interiors with original 19th-century royal furnishings",
-      "Neo-Manueline cloister from original 16th-century monastery",
-      "200-hectare romantic park with exotic plants from five continents",
-      "UNESCO World Heritage Site - Cultural Landscape of Sintra",
-      "One of Portugal's Seven Wonders",
-      "Blend of Moorish, Gothic, Manueline, and Renaissance architecture",
-      "Queen Amélia's Chalet - romantic Swiss-style cottage in park",
-      "The Triton Terrace with mythological sculpture",
-      "Arab Room with stunning decorative tiles",
-      "Noble Hall with magnificent trompe-l'oeil ceiling"
+      "Red and ochre palace exterior, visible from much of the Sintra hills",
+      "Palace terraces, including the Queen's Terrace and Triton's Terrace, with views to the Atlantic",
+      "State rooms of the New Palace, including the Great Hall and Stag Room (Essential Visit)",
+      "Surviving Manueline cloister and chapel of the 16th-century monastery",
+      "85-hectare park with botanical collections from several continents",
+      "Chalet of the Countess of Edla in the western part of the park",
+      "High Cross, one of the highest points of the Sintra hills"
     ],
     "facilities": [
-      "Gift shop with palace-themed souvenirs",
-      "Café and restaurant near entrance",
-      "Restrooms at multiple locations",
-      "Audio guides available (multiple languages)",
-      "Shuttle bus service from entrance to palace",
-      "Luggage storage at ticket office",
-      "Free Wi-Fi near entrance",
-      "Guided tours available (pre-booking required)",
-      "Park walking trails clearly marked",
-      "Photo areas throughout palace and park"
+      "Lockers and cloakroom at the main park entrance and at the start of the palace route",
+      "Optional palace transfer between the park entrance and the palace (4.50 euros return)",
+      "Optional hop-on hop-off circuit within the park",
+      "Cafeterias and shop",
+      "Free digital guides: Zoomguide audio guide and Pena Maps",
+      "Restrooms"
     ],
     "accessibility": {
       "wheelchairAccessible": false,

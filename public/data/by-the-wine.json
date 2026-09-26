@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located on Rua das Flores in the historic Chiado shopping district, near Praça Luís de Camões",
-      "fromCruisePort": "2km from cruise terminals - 10 minute taxi ride or 20 minute walk through Baixa to Chiado. Metro: Baixa-Chiado station.",
-      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines) 5-minute walk. Tram 28 stops nearby. Bus routes 758, 760 serve the area. Gloria funicular nearby.",
+      "fromCruisePort": "About 1.8 km and 27 minutes on foot: west along the river to Praça do Comércio, then up through the Baixa towards Chiado (the final streets climb). Taxi about 8-10 minutes.",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines) 5-minute walk. Tram 28 stops nearby. Bus routes 758, 760 serve the area.",
       "parking": "Limited street parking. Public parking at Praça Luís de Camões or Armazéns do Chiado parking garage (5-minute walk)."
     },
     "distanceFromCruisePort": {
-      "meters": 2000,
-      "walkingTime": "20-25 minutes uphill",
+      "meters": 1843,
+      "walkingTime": "27 min walk",
       "drivingTime": "8-10 minutes"
     }
   },
@@ -100,7 +100,7 @@
       "Chiado shopping",
       "Carmo Convent ruins",
       "Rossio Square",
-      "Santa Justa Lift",
+      "Miradouro de São Pedro de Alcântara",
       "Bairro Alto",
       "Príncipe Real"
     ],
@@ -194,7 +194,7 @@
       "walkingTime": "6-7 minutes downhill"
     },
     {
-      "name": "Santa Justa Lift",
+      "name": "Santa Justa Lift (closed since September 2025)",
       "distance": "400 meters",
       "type": "landmark",
       "walkingTime": "5 minutes"

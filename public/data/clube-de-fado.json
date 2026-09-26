@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in Alfama's winding streets, near Lisbon Cathedral (Sé) and São Jorge Castle",
-      "fromCruisePort": "1.5km from cruise terminals - 10 minute taxi or 20 minute walk through Alfama's steep streets. Tram 28 stops nearby.",
+      "fromCruisePort": "About 400 m and 6 minutes on foot from the Jardim do Tabaco terminal, just behind the cathedral in lower Alfama. A taxi back to the ship after the late show takes minutes.",
       "publicTransport": "Tram 28 to Sé Cathedral, then 5-minute walk. Bus 737 to Sé. Metro: Terreiro do Paço or Santa Apolónia (Blue line) then 10-15 minute uphill walk.",
       "parking": "Very limited street parking in Alfama. Best parking at Portas do Sol or Sé Cathedral area (5-10 minute walk)."
     },
     "distanceFromCruisePort": {
-      "meters": 1500,
-      "walkingTime": "15-20 minutes uphill",
+      "meters": 396,
+      "walkingTime": "6 min walk",
       "drivingTime": "8-10 minutes"
     }
   },
@@ -84,7 +84,7 @@
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "Full evening - 5-6 hours total (include time to/from ship, dinner, performances)",
-    "accessibility": "Moderate - short distance from port but evening commitment required. Venue has stairs and historic building limitations.",
+    "accessibility": "Moderate - a short walk from port but evening commitment required. Venue has stairs and historic building limitations.",
     "combinableWith": [
       "Alfama daytime exploration",
       "Lisbon Cathedral visit",
@@ -101,7 +101,7 @@
       "Budget €50-80 per person for full experience",
       "Smart casual dress - show respect for tradition",
       "No need to speak Portuguese - universal emotional experience",
-      "Short taxi ride from port - easy logistics",
+      "6-minute walk from the Jardim do Tabaco terminal - easy logistics",
       "Consider dining earlier in venue before main performances",
       "Photography between songs usually permitted"
     ]

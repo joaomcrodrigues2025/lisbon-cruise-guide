@@ -125,6 +125,30 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
                   ))}
                 </ul>
               )}
+              {section.table && (
+                <div className="my-6 overflow-x-auto rounded-xl border border-slate-200">
+                  <table className="w-full text-left text-base text-slate-700">
+                    <thead className="bg-[#003366] text-white">
+                      <tr>
+                        {section.table.headers.map((h, j) => (
+                          <th key={j} scope="col" className="px-4 py-3 font-semibold">{h}</th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {section.table.rows.map((row, j) => (
+                        <tr key={j} className="border-t border-slate-200 even:bg-slate-50">
+                          {row.map((cell, k) => (
+                            <td key={k} className="px-4 py-3 align-top">
+                              <RichText text={cell} />
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
               {section.note && (
                 <div className="mt-4 rounded-xl border-l-4 border-[#FFC72C] bg-[#FFC72C]/10 p-4">
                   <p className="text-base leading-relaxed text-slate-700">

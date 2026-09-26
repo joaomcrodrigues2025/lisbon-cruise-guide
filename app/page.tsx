@@ -3,12 +3,16 @@ import Link from 'next/link';
 import { getFeaturedAttractions, getStats } from '@/lib/data';
 import { getAllGuides } from '@/lib/guides';
 import { CURATED_CATEGORIES } from '@/lib/taxonomy';
+import { crowdLevel, getUpcomingCruiseDays } from '@/lib/cruise-schedule';
 import AttractionCard from '@/components/AttractionCard';
 
+// Re-render daily so past cruise days drop off
+export const revalidate = 86400;
+
 export const metadata: Metadata = {
-  title: 'Lisbon Cruise Guide | 70 Attractions for Cruise Passengers',
+  title: 'Lisbon Cruise Guide | Plan Your Port Day in Lisbon',
   description:
-    'Independent guide to Lisbon for cruise ship passengers: 70 attractions with prices, opening hours, walking times from the cruise terminal, and insider tips.',
+    'Independent guide to Lisbon for cruise ship passengers: a port day planner, measured walking times from the cruise terminal, shore itineraries, prices and opening hours.',
   alternates: {
     canonical: '/',
   },
@@ -49,6 +53,7 @@ const FAQS = [
 
 export default async function HomePage() {
   const featuredAttractions = await getFeaturedAttractions(6);
+  const upcomingDays = getUpcomingCruiseDays().slice(0, 6);
   const stats = await getStats();
   const guides = getAllGuides().slice(0, 4);
 
@@ -102,23 +107,23 @@ export default async function HomePage() {
                 <div className="text-sm text-white/80">Free Entry</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-[#FFC72C]">{stats.wheelchairAccessible}</div>
-                <div className="text-sm text-white/80">Accessible</div>
+                <div className="text-4xl font-bold text-[#FFC72C]">{getAllGuides().length}</div>
+                <div className="text-sm text-white/80">Shore Guides</div>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 mt-8 w-full max-w-md">
               <Link
+                href="/planner"
+                className="flex w-full min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#FFC72C] text-[#003366] text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#FFD54F] transition-colors"
+              >
+                <span className="truncate">Plan Your Port Day</span>
+              </Link>
+              <Link
                 href="/attractions"
                 className="flex w-full min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#003366] text-white text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#004080] transition-colors"
               >
-                <span className="truncate">Explore All Attractions</span>
-              </Link>
-              <Link
-                href="/map"
-                className="flex w-full min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-14 px-5 bg-[#FFC72C] text-[#003366] text-lg font-bold leading-normal tracking-[0.015em] hover:bg-[#FFD54F] transition-colors"
-              >
-                <span className="truncate">View Map</span>
+                <span className="truncate">Explore Attractions</span>
               </Link>
             </div>
           </div>
@@ -181,6 +186,33 @@ export default async function HomePage() {
           </div>
         </div>
       </div>
+
+      {/* Ships in port this week */}
+      {upcomingDays.length > 0 && (
+        <div className="px-4 py-8 max-w-7xl mx-auto w-full">
+          <h2 className="text-3xl font-bold text-[#003366] mb-2">Ships in Lisbon Next</h2>
+          <p className="text-slate-600 mb-6">
+            How busy the old town will be on the coming cruise days, from the terminal&apos;s published schedule
+          </p>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {upcomingDays.map((day) => (
+              <li key={day.date} className="rounded-xl bg-white px-4 py-3 shadow-[0_2px_8px_rgba(0,0,0,0.06)]">
+                <div className="flex items-center justify-between gap-2">
+                  <span className="font-semibold text-slate-800">
+                    {new Date(`${day.date}T12:00:00Z`).toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' })}
+                  </span>
+                  <span className="text-xs font-semibold text-slate-600">{crowdLevel(day).label}</span>
+                </div>
+                <span className="block text-sm text-slate-600 truncate">{day.calls.map((c) => c.ship).join(', ')}</span>
+              </li>
+            ))}
+          </ul>
+          <Link href="/cruise-calendar" className="inline-flex items-center gap-1 mt-4 text-[#003366] font-semibold hover:underline">
+            Full cruise ship calendar
+            <span className="material-symbols-outlined !text-xl">arrow_forward</span>
+          </Link>
+        </div>
+      )}
 
       {/* Shore Guides Section */}
       <div className="px-4 py-12 max-w-7xl mx-auto w-full">

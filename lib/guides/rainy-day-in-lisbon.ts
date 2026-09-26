@@ -29,7 +29,7 @@ export const rainyDayInLisbon: Guide = {
       heading: 'The tile museum: Lisbon\'s most underrated interior',
       paragraphs: [
         'The **Museu Nacional do Azulejo** occupies a former convent a short taxi hop from the terminal on the same eastern side of town — on a rainy day, proximity is strategy. Five centuries of Portugal\'s defining art form culminate in a gilded baroque church that stops conversations, and a 23-metre tiled panorama of Lisbon\'s waterfront as it looked in 1738 — seventeen years before the earthquake erased the scene. Ninety minutes, rarely crowded, and the convent café is a lovely lunch room.',
-        'Pair it thematically: if the tiles catch you, an [azulejo painting workshop](/attractions/azulejo-tile-painting-workshop) puts a brush in your hand for a couple of indoor hours, and your souvenir is fired and shipped home.',
+        'Pair it thematically: if the tiles catch you, an [azulejo painting workshop](/guides/lisbon-tours-for-cruise-passengers) puts a brush in your hand for a couple of indoor hours, and your souvenir is fired and shipped home.',
       ],
     },
     {
@@ -45,7 +45,7 @@ export const rainyDayInLisbon: Guide = {
       heading: 'Covered markets, covered lunch',
       paragraphs: [
         'Wet-day lunch is what Lisbon\'s market halls were made for. The [Time Out Market](/attractions/time-out-market-lisboa) at Cais do Sodré puts thirty of the city\'s vetted kitchens under one 19th-century iron roof — crowded precisely because it works, with every price displayed and no weather between the stalls. The gentler local alternative is the [Mercado de Campo de Ourique](/attractions/mercado-campo-de-ourique), the neighbourhood version with more Portuguese spoken and easier tables, a short taxi west.',
-        'And rain is the best excuse the city offers for its pastry counters. A **pastelaria crawl** — bica and pastel de nata standing at marble counters, from the Baixa\'s art-deco rooms to Belém\'s [original bakery](/attractions/pasteis-de-belem) if you venture west — is a legitimate cultural itinerary in Portugal, and entirely roofed. A [pastel de nata baking class](/attractions/pastel-de-nata-cooking-class) is the committed two-hour version, and the ship\'s pastry chef will not teach you the cinnamon trick.',
+        'And rain is the best excuse the city offers for its pastry counters. A **pastelaria crawl** — bica and pastel de nata standing at marble counters, from the Baixa\'s art-deco rooms to Belém\'s [original bakery](/attractions/pasteis-de-belem) if you venture west — is a legitimate cultural itinerary in Portugal, and entirely roofed. A [pastel de nata baking class](/guides/lisbon-tours-for-cruise-passengers) is the committed two-hour version, and the ship\'s pastry chef will not teach you the cinnamon trick.',
       ],
     },
     {

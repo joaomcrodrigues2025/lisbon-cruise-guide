@@ -214,8 +214,24 @@ export const CATEGORY_ALIASES: Record<string, string> = {
   'souvenir-making': 'shopping',
 };
 
-export function canonicalizeCategory(slug: string): string {
-  return CATEGORY_ALIASES[slug] ?? slug;
+// Former curated categories folded into a broader one (or retired, when null).
+export const MERGED_CATEGORIES: Record<string, string | null> = {
+  'monument': 'historic-site',
+  'architecture': 'historic-site',
+  'castle': 'historic-site',
+  'unesco-site': 'historic-site',
+  'palace': 'historic-site',
+  'beaches': 'day-trip',
+  'nightlife': 'food-and-drink',
+  'shopping': 'neighborhood',
+  'waterfront': 'neighborhood',
+  'cultural-attraction': null,
+  'tours-and-experiences': null,
+};
+
+export function canonicalizeCategory(slug: string): string | null {
+  const canonical = CATEGORY_ALIASES[slug] ?? slug;
+  return canonical in MERGED_CATEGORIES ? MERGED_CATEGORIES[canonical] : canonical;
 }
 
 export const CURATED_CATEGORIES: CategoryContent[] = [
@@ -231,20 +247,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
       'Lisbon wears its history in layers. The Phoenicians traded here, the Romans built here, the Moors fortified the hilltops, and the explorers of the Age of Discovery sailed from the riverbank at Belém to map half the world. A single day ashore is enough to touch several of these eras, because Lisbon’s historic core is compact and much of it sits within walking distance of the cruise terminal at Santa Apolónia.',
       'If your ship docks in the morning, the oldest quarter, Alfama, is literally across the road from the terminal: you can be lost in its medieval alleys within ten minutes of stepping off the gangway. The 1755 earthquake destroyed much of downtown Lisbon, which is why the Baixa district is a grid of elegant Pombaline streets rather than a medieval tangle, and why the sites that survived, like the castle hill and Belém, feel so precious.',
       'Our advice for cruise passengers: pick one era and do it properly. Combine the sites near the terminal on foot, or take tram 15E west to Belém and dedicate half a day to the monuments there. Each listing below includes walking times from the port, realistic visit durations, and tips for getting back to the ship with time to spare.',
-    ],
-  },
-  {
-    slug: 'monument',
-    displaySingular: 'monument',
-    displayPlural: 'monuments',
-    title: 'Monuments & Memorials in Lisbon | Cruise Guide',
-    metaDescription:
-      'Lisbon’s great monuments, from the Tower of Belém to the Monument to the Discoveries, ranked for cruise visitors with visit times and directions from the port.',
-    icon: 'account_balance',
-    intro: [
-      'Few European capitals put on a show of monuments quite like Lisbon. The city’s golden age, when Portuguese carracks returned from India and Brazil laden with spices and gold, paid for extravagant stonework you can still visit today. The signature style is Manueline: ropes, armillary spheres and sea creatures carved into limestone, celebrating an empire built on the ocean.',
-      'For cruise passengers, the monuments cluster in two zones. Belém, about 25 to 30 minutes west of the cruise terminal by tram 15E or taxi, holds the icons every visitor recognises. Central Lisbon has its own set, including grand squares and the national pantheon, which sits close enough to the terminal to visit on foot before the crowds arrive.',
-      'A practical note on timing: the most famous monuments draw long queues from mid-morning, especially in summer when several ships are in port at once. If a monument is high on your list, make it your first stop of the day rather than your last, and check whether an exterior view alone satisfies you; several of Lisbon’s monuments are more impressive outside than in, which can save you an hour of queuing on a tight ship schedule.',
     ],
   },
   {
@@ -276,20 +278,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
     ],
   },
   {
-    slug: 'cultural-attraction',
-    displaySingular: 'cultural attraction',
-    displayPlural: 'cultural attractions',
-    title: 'Cultural Attractions in Lisbon for Cruise Visitors',
-    metaDescription:
-      'Lisbon culture beyond the monuments: creative quarters, historic cafés, cultural centres and living traditions you can experience in a single day ashore.',
-    icon: 'theater_comedy',
-    intro: [
-      'There is a Lisbon of monuments, and then there is the Lisbon that Lisboetas actually live in: the historic cafés where writers argued over bica coffee, the converted factories now full of studios and bookshops, the theatres, the tile workshops, the crafts passed down through generations. This category collects the places where you experience Portuguese culture as a living thing rather than an exhibit.',
-      'Cruise passengers often skip cultural attractions on the assumption that they demand more time than a port day allows. In Lisbon the opposite is true. A creative quarter can be wandered in an hour, a historic café visited in twenty minutes, and each delivers a more personal memory than another queue at a famous ticket office.',
-      'These experiences also mix well with the rest of your day. Most of the venues below sit inside or beside the districts you will already be exploring, Chiado, Baixa, Alfama and the riverside, so treat this list as a set of detours to weave between bigger sights. Where a venue runs timed events or performances, we flag the schedule in the listing so you can check it against your all-aboard time.',
-    ],
-  },
-  {
     slug: 'day-trip',
     displaySingular: 'day trip',
     displayPlural: 'day trips',
@@ -315,20 +303,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
       'Sintra is the day trip every Lisbon cruise passenger agonises over, and with reason. A UNESCO-listed landscape of romantic palaces, Moorish ramparts and exotic gardens draped over green hills, it looks like the invention of a particularly imaginative set designer. Lord Byron called it a glorious Eden, and he had seen a few places.',
       'The catch is logistics. Sintra lies about 30 kilometres from the cruise terminal, and the sights are scattered across steep wooded hills served by winding roads that jam solid in high season. Trying to see everything is how cruise visitors end up sprinting for the gangway. The realistic plan is one palace done well, plus a stroll and lunch in the historic centre, in a round trip of six to seven hours.',
       'Each listing here covers one Sintra highlight with what it costs in time from the ship, not just at the gate. If your port call is shorter than nine hours, consider whether one of Lisbon’s own palaces might scratch the same itch with a fraction of the risk. If you do go, pre-book your palace ticket online and take the train or a pre-arranged driver rather than gambling on queues.',
-    ],
-  },
-  {
-    slug: 'palace',
-    displaySingular: 'palace',
-    displayPlural: 'palaces',
-    title: 'Palaces in and around Lisbon for Cruise Passengers',
-    metaDescription:
-      'From riverside royal residences to Sintra’s hilltop fantasies: the palaces cruise visitors can actually reach from the Lisbon terminal, with times and tips.',
-    icon: 'castle',
-    intro: [
-      'Portugal ran an empire from Lisbon for the better part of five centuries, and its royals and aristocrats built accordingly. The palaces that survive range from restrained riverside residences, where the last kings lived until the monarchy ended in 1910, to the flamboyant hilltop fantasies of Sintra that seem to defy both gravity and good taste in the most delightful way.',
-      'For a cruise visitor, the crucial distinction is geography. Some palaces sit within Greater Lisbon and can be reached in under half an hour from the cruise terminal, making them a comfortable half-day outing. The Sintra palaces are a full expedition, spectacular but demanding, and covered in detail in our Sintra and day-trip guides.',
-      'Palace interiors in Portugal are gloriously excessive: gilded thrones rooms, walls of blue-and-white azulejo tiles, ceilings painted with magpies and swans for reasons that come with excellent stories. Guided visits typically take 60 to 90 minutes. Most palaces close one day a week, commonly Monday or Wednesday, and the popular ones sell timed tickets, so check the listing details below and book ahead rather than losing shore time in a queue.',
     ],
   },
   {
@@ -360,20 +334,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
     ],
   },
   {
-    slug: 'nightlife',
-    displaySingular: 'bar or nightlife spot',
-    displayPlural: 'bars and nightlife spots',
-    title: 'Lisbon Bars & Nightlife for Cruise Passengers',
-    metaDescription:
-      'In port late or overnight in Lisbon? Rooftop bars, riverside terraces and the Bairro Alto: how cruise passengers can taste the city’s nightlife safely.',
-    icon: 'local_bar',
-    intro: [
-      'Most cruise passengers see Lisbon by daylight, but ships increasingly stay into the evening or overnight, and that changes everything. Lisbon at night is arguably the more authentic city: the day-trippers vanish, the light turns golden, and the town settles into the long, sociable evenings that Portuguese life is actually built around.',
-      'The classic evening progression is simple. Start with a sunset drink at a rooftop or riverside bar, many of which face the Tagus and the ships at anchor, your own vessel possibly among them. Then dinner, which locals begin at 20:00 at the earliest. Afterwards, the Bairro Alto neighbourhood turns into a street party of tiny bars where the crowd drinks outside on the cobbles, at its best from about 22:00.',
-      'Practical notes for ship passengers: the areas listed here are busy and generally safe, but keep an eye on belongings in crowds, agree taxi or app fares before boarding, and know your route back to the terminal, which is a short ride from the nightlife districts. Every listing includes the distance back to the port so you can enjoy the evening with your all-aboard time firmly in mind.',
-    ],
-  },
-  {
     slug: 'fado-music',
     displaySingular: 'fado or live music venue',
     displayPlural: 'fado and live music venues',
@@ -385,76 +345,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
       'Fado is Lisbon distilled into song: one voice, one or two Portuguese guitars, and an emotion the language calls saudade, a longing for something loved and lost that has no exact translation. UNESCO lists it as intangible cultural heritage. Lisboetas simply consider it theirs, born in the taverns of Alfama and Mouraria, the very neighbourhoods that rise behind the cruise terminal.',
       'The traditional fado house format is an evening dinner with performances between courses, which suits passengers whose ships stay late or overnight. But cruise visitors on a standard port day are not shut out: Lisbon offers museum performances, daytime shows and cultural experiences built around fado that fit comfortably inside an afternoon, and several are listed below.',
       'Wherever you hear it, one piece of etiquette matters above all: silence during the songs. The audience talks between numbers, never during them, and waiters pause their service. When the lights dim and someone whispers "silêncio, que se vai cantar o fado", put down your fork. Even without understanding a word of Portuguese, you will understand the song; that is rather the point of fado.',
-    ],
-  },
-  {
-    slug: 'waterfront',
-    displaySingular: 'waterfront attraction',
-    displayPlural: 'waterfront attractions',
-    title: 'Lisbon Waterfront & the Tagus | Cruise Passenger Guide',
-    metaDescription:
-      'The Tagus riverfront is Lisbon’s front door: waterside promenades, the Oceanarium and maritime sights, with walking access straight from the cruise terminal.',
-    icon: 'water',
-    intro: [
-      'Lisbon has always faced the water. The Tagus estuary here is so vast that first-time visitors regularly mistake it for the open sea, and everything that made the city rich and famous, the spice fleets, the explorers, the trade with four continents, came and went across it. Your cruise ship is simply the latest vessel in a five-hundred-year procession.',
-      'This gives cruise passengers a rare advantage: you are already on the waterfront the moment you disembark. The riverside promenade runs from the terminal through the grandest square in the city and, with time or a tram, all the way to Belém, where the caravels once departed. Walking even part of it delivers Lisbon’s essential views with no ticket required.',
-      'The waterfront also holds some of the city’s most modern attractions, including the Parque das Nações district built for Expo 98 and its world-class Oceanarium, reachable by a short taxi or metro ride east of the terminal. Between the historic riverside and the contemporary east end, this category suits passengers who want maximum Lisbon with minimal uphill walking; it is, unusually for this city, almost entirely flat.',
-    ],
-  },
-  {
-    slug: 'beaches',
-    displaySingular: 'beach or coastal escape',
-    displayPlural: 'beaches and coastal escapes',
-    title: 'Beaches & Coastal Towns near Lisbon Cruise Port',
-    metaDescription:
-      'Yes, you can reach a real Atlantic beach on a Lisbon cruise stop. Cascais, the Estoril coast and beyond, with train times and back-to-ship planning.',
-    icon: 'beach_access',
-    intro: [
-      'It surprises many cruise passengers to learn that Lisbon is a beach city. Within 40 minutes of the terminal, the Estoril coast unrolls a chain of golden Atlantic beaches ending at Cascais, a former fishing village turned elegant resort where Europe’s exiled royalty spent the twentieth century. The train ride there, hugging the shoreline for half its length, is one of the great cheap scenic journeys of Europe.',
-      'A beach excursion suits a particular kind of port day: your second visit to Lisbon, a scorching August call, or simply a preference for sea air over museum queues. Cascais itself offers more than sand, with a walkable old town, a dramatic clifftop blowhole, seafood lunches and a genteel promenade, so the trip works even for confirmed non-swimmers.',
-      'Practicalities: the Atlantic here is refreshing, which is a polite word for cold, and the surf beaches further out are for watching rather than casual swimming. Trains run frequently through the day. As with any excursion outside the city, give yourself a two-hour buffer before all-aboard, and remember that summer weekends bring Lisboetas to the same beaches in force; a weekday call is your friend.',
-    ],
-  },
-  {
-    slug: 'architecture',
-    displaySingular: 'architectural landmark',
-    displayPlural: 'architectural landmarks',
-    title: 'Lisbon Architecture: Manueline to Modern | Cruise Guide',
-    metaDescription:
-      'A cruise visitor’s guide to Lisbon’s architecture: Manueline stone ropes, Pombaline grids, azulejo façades and bold modern landmarks, with walking routes.',
-    icon: 'domain',
-    intro: [
-      'Lisbon is an open-air textbook of architecture with a plot twist at its centre. On the morning of 1 November 1755, one of history’s most powerful earthquakes, followed by a tsunami and days of fire, erased most of the medieval city. What Lisbon built afterwards, the Baixa’s rational grid of prefabricated, earthquake-resistant buildings, was Europe’s first modern planned city centre, decades ahead of its time.',
-      'That is why Lisbon’s architecture reads as before and after. Before: the Manueline masterpieces of Belém, where carved stone ropes and sea monsters celebrate the Age of Discovery, and the stubborn medieval survivor that is the cathedral. After: elegant Pombaline streets, tiled façades in every shade of blue and green, and eventually the daring modern statements along the river.',
-      'For cruise passengers, architecture is the sightseeing that requires no tickets and no queues; the city itself is the exhibit. The listings below pick out the individual landmarks most worth a detour, each with its distance from the terminal. Look up constantly, and look at the ground too: the black-and-white calçada mosaic pavements underfoot are hand-laid, centuries-old, and a Lisbon signature all their own.',
-    ],
-  },
-  {
-    slug: 'castle',
-    displaySingular: 'castle or fortress',
-    displayPlural: 'castles and fortresses',
-    title: 'Castles & Fortresses in Lisbon | Cruise Visitor Guide',
-    metaDescription:
-      'From São Jorge Castle above the port to Moorish walls and river forts: Lisbon’s castles ranked for cruise passengers, with climbs, views and timing advice.',
-    icon: 'fort',
-    intro: [
-      'A castle crowns Lisbon, visible from your ship’s deck the moment you sail up the Tagus. The hilltop above the cruise terminal has been fortified for well over two thousand years, by Iberians, Romans and Moors in turn, before Portugal’s first king took it in 1147 with the help of a passing crusader fleet. The battlements you climb today have watched every ship arrive since.',
-      'For cruise passengers, the castles in this category conveniently ascend in difficulty. The main castle is a steep but rewarding walk, or a short tuk-tuk ride, directly up from the terminal, and its ramparts deliver the definitive view over the city, the river and your own ship below. Further afield, Moorish walls snake along Sintra’s ridgetops and stout little forts guard the river approaches, each with its own listing and logistics.',
-      'Timing advice from experience: castles here are open-air sites with limited shade, so summer visitors should go early, wear real shoes for the polished-stone ramparts, and carry water. Early also beats the tour groups, which arrive from mid-morning. Allow ninety minutes to two hours for the main castle including the climb, peacock encounters included at no extra charge.',
-    ],
-  },
-  {
-    slug: 'unesco-site',
-    displaySingular: 'UNESCO site',
-    displayPlural: 'UNESCO sites',
-    title: 'UNESCO World Heritage Sites near Lisbon Cruise Port',
-    metaDescription:
-      'The UNESCO World Heritage sites within reach of a Lisbon cruise call, in Belém and Sintra: what earned the listing and how to visit them in a day.',
-    icon: 'workspace_premium',
-    intro: [
-      'A Lisbon port call puts two full UNESCO World Heritage inscriptions within reach, which is generous for a single day ashore. In Belém, the monastery and tower were listed together for their Manueline architecture, the exuberant maritime Gothic that Portugal invented to celebrate the voyages of Vasco da Gama. In Sintra, an entire cultural landscape of palaces, gardens and mist-wrapped hills carries the inscription.',
-      'The two make very different demands on your day. Belém is straightforward: 25 to 30 minutes from the cruise terminal by tram or taxi, flat, and walkable between its monuments, a comfortable half-day even with a custard-tart stop, which in Belém is practically mandatory. Sintra is an expedition of six hours minimum, covered honestly in our day-trip guides.',
-      'Beyond the formal inscriptions, Lisbon’s fado music holds UNESCO intangible heritage status, meaning you can round off a World Heritage day with a World Heritage song. Each listing below explains what earned the recognition and, more practically for a cruise passenger, how long the visit truly takes door to door from the ship, queues included.',
     ],
   },
   {
@@ -486,20 +376,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
     ],
   },
   {
-    slug: 'tours-and-experiences',
-    displaySingular: 'tour or experience',
-    displayPlural: 'tours and experiences',
-    title: 'Best Tours & Experiences in Lisbon for Cruise Passengers',
-    metaDescription:
-      'Tuk-tuks, historic trams, walking tours, boat trips and hands-on workshops: the Lisbon tours that fit a cruise schedule, and how to book them safely.',
-    icon: 'tour',
-    intro: [
-      'There is a strong case for taking a tour in Lisbon even if you never normally would. The city’s stories, of earthquakes and explorers, dictators and revolutions carried out with carnations in rifle barrels, are better told than read. And the hills that exhaust walkers are precisely what tuk-tuks, vintage trams and funiculars were made for.',
-      'The options range from the famous number 28 tram, a public bus route that happens to be one of Europe’s great sightseeing rides, to guided food walks, river cruises timed for sunset, tile-painting workshops and cooking classes where you earn your lunch. Most run two to three hours, which slots neatly into a port day with time left over for independent wandering.',
-      'For cruise passengers, the golden rule is to book with your ship’s schedule in mind: morning departures are safer than afternoon ones, and reputable operators will confirm return times in writing. Tuk-tuk drivers around the terminal negotiate; agree the price and duration before boarding. Each listing below states duration, starting point and distance from the port so you can build a day that ends calmly at the gangway rather than at a run.',
-    ],
-  },
-  {
     slug: 'neighborhood',
     displaySingular: 'neighbourhood',
     displayPlural: 'neighbourhoods',
@@ -511,20 +387,6 @@ export const CURATED_CATEGORIES: CategoryContent[] = [
       'Ask anyone who loves Lisbon for their favourite sight and they will more likely name a neighbourhood than a monument. This is a city best consumed by district: Alfama’s laundry-strung medieval maze, the Baixa’s grand earthquake-proof avenues, Chiado’s bookshops and café elegance, each a few minutes from the next yet distinct in character, sound and even smell.',
       'Cruise passengers hold the best cards here, because the terminal sits directly below Alfama, the oldest and most atmospheric quarter of all. You can walk off the ship and into the eleventh century in ten minutes, no transport required. From there, a natural route descends through the cathedral quarter to the riverfront square, up through the Baixa grid and into Chiado, covering four neighbourhoods in a single unhurried morning.',
       'The listings in this category treat each neighbourhood as an attraction in its own right, with suggested walking routes, the landmarks and viewpoints inside each one, and honest notes on hills and cobblestones. Getting slightly lost is part of the Alfama experience and entirely safe by day; downhill always leads back towards the river, and the river leads back to your ship.',
-    ],
-  },
-  {
-    slug: 'shopping',
-    displaySingular: 'shopping experience',
-    displayPlural: 'shopping experiences',
-    title: 'Shopping in Lisbon: What Cruise Passengers Should Buy',
-    metaDescription:
-      'Skip the fridge magnets: cork, azulejo tiles, canned fish in beautiful wrappers and the world’s oldest bookshop. A cruise passenger’s Lisbon shopping guide.',
-    icon: 'shopping_bag',
-    intro: [
-      'Lisbon shopping rewards those who skip the souvenir shops nearest the terminal and walk ten minutes further. Portugal makes beautiful things: cork turned into everything from handbags to shoes, hand-painted azulejo tiles, soap and stationery from pharmacies and printers that have not changed their packaging in a century, and canned sardines dressed in wrappers so lovely they double as gifts.',
-      'The shopping districts are conveniently the sightseeing districts. Chiado mixes historic shops, including the world’s oldest operating bookshop, with Portuguese fashion; the Baixa’s grid still hosts single-trade streets where glove shops and haberdashers survive from another era; and the food halls and delicatessens solve every edible-gift question in one stop.',
-      'Practical notes for cruise shoppers: most shops open around 10:00, so plan purchases for mid-morning onwards; smaller traditional shops may close for lunch. Tinned fish, wine and ceramics all travel well in checked luggage, and shops accustomed to visitors will wrap tiles properly for transit. Non-EU residents can reclaim VAT on larger purchases with a passport; ask for the tax-free form at the till and allow a few extra minutes at your final EU airport.',
     ],
   },
 ];

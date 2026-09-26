@@ -1,5 +1,11 @@
 import type { NextConfig } from "next";
-import { CATEGORY_ALIASES } from "./lib/taxonomy";
+import { CATEGORY_ALIASES, MERGED_CATEGORIES, canonicalizeCategory } from "./lib/taxonomy";
+import { MERGED_LISTINGS, RETIRED_LISTINGS } from "./lib/retired-listings";
+
+const categoryDestination = (slug: string) => {
+  const canonical = canonicalizeCategory(slug);
+  return canonical ? `/categories/${canonical}` : "/attractions";
+};
 
 const nextConfig: NextConfig = {
   async redirects() {
@@ -9,9 +15,19 @@ const nextConfig: NextConfig = {
         destination: "/attractions",
         permanent: true,
       },
-      ...Object.entries(CATEGORY_ALIASES).map(([alias, canonical]) => ({
-        source: `/categories/${alias}`,
-        destination: `/categories/${canonical}`,
+      ...[...Object.keys(CATEGORY_ALIASES), ...Object.keys(MERGED_CATEGORIES)].map((slug) => ({
+        source: `/categories/${slug}`,
+        destination: categoryDestination(slug),
+        permanent: true,
+      })),
+      ...RETIRED_LISTINGS.map((id) => ({
+        source: `/attractions/${id}`,
+        destination: "/guides/lisbon-tours-for-cruise-passengers",
+        permanent: true,
+      })),
+      ...Object.entries(MERGED_LISTINGS).map(([from, to]) => ({
+        source: `/attractions/${from}`,
+        destination: `/attractions/${to}`,
         permanent: true,
       })),
     ];

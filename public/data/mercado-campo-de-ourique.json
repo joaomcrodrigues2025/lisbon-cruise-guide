@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in Campo de Ourique residential neighborhood, west of central Lisbon between Estrela and Amoreiras",
-      "fromCruisePort": "5km from cruise port - 15 minute taxi ride or combination of metro and walking. Tram 28 passes nearby.",
+      "fromCruisePort": "About 4.2 km west, around an hour on foot. Tram 28 ends in Campo de Ourique (board at Sé, 13 minutes' walk from the terminal) or take a taxi (about 15 minutes).",
       "publicTransport": "Tram 28 to Campo de Ourique area. Tram 25E from Cais do Sodré. Metro: Rato station (Yellow line) then 10-minute walk. Bus routes 702, 706, 720, 738, 773, 774.",
       "parking": "Limited street parking in residential area. Some paid parking nearby."
     },
     "distanceFromCruisePort": {
-      "meters": 5000,
-      "walkingTime": "Not recommended (1+ hour)",
+      "meters": 4218,
+      "walkingTime": "Not practical on foot (1h 04min walk)",
       "drivingTime": "15 minutes"
     }
   },

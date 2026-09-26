@@ -41,7 +41,7 @@ export const moneySafetyTouristTraps: Guide = {
       list: [
         '**[Tram 28](/attractions/tram-28)** — the single most reliable pickpocket venue in Portugal. The packed vintage carriages, the lurching, the distracted photographers: purpose-built conditions. If you ride it, ride it like a local — bag zipped, worn in front, nothing in back pockets, wallet split from phone.',
         '**The 15E tram to Belém** at mid-morning, for the same reasons at slightly lower density.',
-        '**Boarding crushes** anywhere: the queue collapse when a tram or the Santa Justa lift opens its doors is the classic moment of contact.',
+        '**Boarding crushes** anywhere: the queue collapse when a tram or a bus opens its doors is the classic moment of contact.',
         '**Viewpoint terraces at golden hour** — [Portas do Sol](/attractions/miradouro-das-portas-do-sol) and neighbours — where everyone\'s hands hold phones at arm\'s length and daypacks hang unattended on shoulders.',
       ],
       note: 'The counter-measures are boringly effective: front pockets or a zipped crossbody worn forward, phone in hand or zipped away (not in a back pocket, not face-up on a café table), and nothing valuable in any backpack outer pocket. Passengers following these four rules essentially never report losses.',

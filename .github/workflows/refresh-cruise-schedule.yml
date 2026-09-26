@@ -1,0 +1,19 @@
+# Rebuilds the site every Monday so the cruise ship calendar picks up newly published calls.
+# Requires a repository secret VERCEL_DEPLOY_HOOK (Vercel > Project > Settings > Git > Deploy Hooks).
+name: Refresh cruise schedule
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel deploy
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "VERCEL_DEPLOY_HOOK secret not set"; exit 1; fi
+          curl -fsS -X POST "$HOOK"

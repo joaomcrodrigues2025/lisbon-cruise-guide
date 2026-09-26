@@ -1,7 +1,7 @@
 {
   "id": "chiado",
   "name": "Chiado",
-  "tagline": "Lisbon's elegant cultural and shopping heart with historic cafés and theatres",
+  "tagline": "Lisbon's café and bookshop quarter, 25 minutes' walk or two metro stops from the ship",
   "type": "neighborhood",
   "categories": [
     "shopping",
@@ -12,10 +12,10 @@
     "bookstores"
   ],
   "description": {
-    "short": "Chiado is Lisbon's most elegant neighborhood, a sophisticated district of 19th-century buildings, designer boutiques, historic cafés, and grand theaters that represents the intellectual and cultural heart of the city.",
-    "full": "Chiado sits right at the heart of Lisbon and is both a cultural and shopping hotspot. This district has been around since Roman times, but it really made its mark in the 18th and 19th centuries, and you'll easily sense the elegant charm from those times while exploring Chiado. During the 19th century, the district became popular with artisans and intellectuals, who would frequent the coffee shops and bars. Chiado's reputation as an artisan district was enhanced with the construction of Lisbon's grand opera house, the Teatro Nacional de São Carlos. On August 25, 1988, Chiado was ravaged by a terrible fire which destroyed a great swathe of the district along with many historic shops. The restoration took over 10 years but has faithfully retained much of the character of the district, and today it bustles with shoppers browsing the independent shops and family-run businesses. Rua Garrett is the main street, with the Armazéns do Chiado mall at one end and the landmark A Brasileira café at the other. In between is one of the city's most beautiful stores - a 1909 jewelry store that seems to belong to a Louis XV palace, and one of Europe's first and most beautiful elevators, installed in the Ramiro Leão department store and now protected like a museum piece. Chiado is where everyone meets for coffee, shopping, or before a night out in neighboring Bairro Alto, maintaining its position as Lisbon's most cosmopolitan and culturally vibrant neighborhood.",
-    "history": "The district is named after António Ribeiro, a Franciscan monk who left the order to become a satirical poet and actor in the 16th century. António's distinctive style was his shrill and high voice, which gave him the nickname Chiado (Screech in Portuguese). In 1988, a devastating fire destroyed much of the district on August 25th, but architect Álvaro Siza Vieira led a careful restoration that preserved the area's historic character while modernizing its infrastructure.",
-    "significance": "Chiado represents the refined, intellectual soul of Lisbon and has been the gathering place for writers, artists, and intellectuals for centuries. Famous Portuguese poet Fernando Pessoa was a regular at the historic cafés. The district is a living museum of Belle Époque architecture and culture, maintaining its role as Lisbon's premier shopping and cultural destination."
+    "short": "An upmarket district of cafés, bookshops, theatres and shops on the hill between Baixa and Bairro Alto. It is free to wander and an easy half-day from the cruise terminal.",
+    "full": "Chiado is the simplest half-day in Lisbon that does not involve a ticket. It is about 1.7 km from the Jardim do Tabaco terminal: roughly 26 minutes on foot west along the river to Praça do Comércio and then uphill through the Baixa, or two stops on the metro Blue Line from Santa Apolónia to Baixa-Chiado, whose exit brings you out in the middle of the district.\n\nA good way to use a short call is to take the metro up and walk back down, so the climb is done for you. From Largo do Chiado, Rua Garrett runs past A Brasileira café and Livraria Bertrand to Largo do Carmo and the roofless Carmo convent, then down through the Baixa to Praça do Comércio and along the river to the ship. Two hours covers that loop with a coffee stop; half a day lets you add the Bairro Alto viewpoints or a museum.\n\nWhat to prioritise: Bertrand for books in English and Portuguese, a coffee and pastel de nata, and the view over the Baixa from the Carmo area. The Santa Justa lift has been closed since the September 2025 Glória accident, with no reopening date. What to skip: sitting on the terrace of A Brasileira mainly for the Pessoa statue, which you can see from the street.\n\nThe streets are busiest from late morning and around lunch, and on Saturday afternoons. The pavements are traditional Portuguese stone, which is slippery when wet, and the slopes between Chiado and the Baixa are steep in places.\n\nShops generally open around 10:00, and many stay open on Sundays, but opening hours vary by shop.",
+    "history": "Chiado became Lisbon's fashionable quarter in the 19th century, with theatres, cafés and literary circles; the poet Fernando Pessoa was a regular at A Brasileira, which opened in 1905. On 25 August 1988 a fire destroyed much of the district, including the Grandella and Armazéns do Chiado department stores. The architect Álvaro Siza Vieira led the reconstruction, keeping the historic façades while rebuilding the interiors, which is why the streets look older than many of the buildings behind them.",
+    "significance": "Chiado is where Lisbon's literary and café culture is still visible in everyday use. Livraria Bertrand, open since 1732, is recognised by Guinness World Records as the oldest operating bookshop in the world. For a cruise passenger, it offers the feel of central Lisbon in two or three hours, with no tickets, no fixed schedule and a metro station in the middle."
   },
   "location": {
     "address": {
@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in central Lisbon between Bairro Alto and Baixa districts, near Praça Luís de Camões",
-      "fromCruisePort": "15-20 minute walk uphill from cruise terminal, or take metro to Baixa-Chiado station (direct access)",
-      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines). Tram 28 passes through. Buses 758, 202. Elevador da Santa Justa lift connects to Baixa.",
+      "fromCruisePort": "About 1.7 km and 26 minutes on foot: west along the river to Praça do Comércio, then uphill through the Baixa. Alternative: metro Blue Line from Santa Apolónia to Baixa-Chiado, whose exit lands you in the middle of Chiado.",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines); the Chiado exit brings you out in the district. Tram 28 passes through. Buses 758, 202. The Santa Justa lift down to the Baixa has been closed since September 2025.",
       "parking": "Limited street parking. Public parking at Armazéns do Chiado mall and nearby garages."
     },
     "distanceFromCruisePort": {
-      "meters": 1500,
-      "walkingTime": "15-20 minutes",
+      "meters": 1726,
+      "walkingTime": "26 min walk",
       "drivingTime": "7-10 minutes"
     }
   },
@@ -55,13 +55,13 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily - public area",
+      "currentStatus": "Public streets, open at all times",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
           "hours": "Streets accessible 24/7",
-          "notes": "Shops typically open 10:00-19:00/20:00. Cafés and restaurants have varied hours. Some close Sundays."
+          "notes": "Shops typically open around 10:00 and close in the evening; hours of individual shops, cafés and museums vary."
         }
       ],
       "closedDates": []
@@ -69,52 +69,48 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free to explore neighborhood. Individual shops, cafés, museums have their own pricing."
+      "notes": "Free to explore. Museums and the Carmo convent charge their own admission."
     },
-    "averageVisitDuration": "2-4 hours",
-    "bestTimeToVisit": "Morning for shopping and café culture (10:00-13:00). Late afternoon for relaxed browsing. Weekdays less crowded than weekends.",
+    "averageVisitDuration": "2-3 hours",
+    "bestTimeToVisit": "Morning, before late-morning crowds, or late afternoon on the way back to the ship.",
     "busyPeriods": [
-      "Weekday lunch hours (12:00-14:00)",
+      "Late morning and lunchtime",
       "Saturday afternoons",
-      "December holiday shopping season"
+      "December"
     ],
-    "adviceForVisitors": "Wear comfortable shoes for walking and hills. Visit Livraria Bertrand, the world's oldest bookstore. Stop at A Brasileira café for coffee. Explore side streets for hidden boutiques. Combine with visit to nearby Convento do Carmo ruins. Allow time for browsing unique shops."
+    "adviceForVisitors": "Take the metro up and walk back down. Wear shoes with grip for the stone pavements. Allow about 30 minutes to walk back to the terminal."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day recommended (3-4 hours)",
-    "accessibility": "Moderate - some hills but generally walkable. Metro station has elevator access. Main shopping street is relatively flat.",
+    "timeNeededFromPort": "2 to 3 hours for a walking loop including travel; half a day with a museum or long lunch",
+    "accessibility": "About 26 minutes on foot from the terminal with a steady climb at the end, or two metro stops from Santa Apolónia to Baixa-Chiado. Streets are stone-paved and sloping.",
     "combinableWith": [
       "Bairro Alto nightlife",
       "Convento do Carmo",
-      "Elevador de Santa Justa",
+      "Miradouro de São Pedro de Alcântara",
       "Baixa district",
       "Rossio Square"
     ],
     "tips": [
-      "Easy metro access from cruise port area",
-      "Perfect for morning/afternoon shore excursion",
-      "Visit Livraria Bertrand - world's oldest bookstore (since 1732)",
-      "Stop at A Brasileira café - see Fernando Pessoa statue",
-      "Shop at Armazéns do Chiado mall",
-      "Explore Rua Garrett for designer boutiques",
-      "Visit Convento do Carmo ruins nearby",
-      "Take Elevador de Santa Justa for city views",
-      "Many shops accept credit cards"
+      "Take the metro Blue Line up from Santa Apolónia to Baixa-Chiado (two stops) and walk back downhill to the ship.",
+      "Allow about 30 minutes for the walk back from Largo do Chiado to the terminal.",
+      "Portuguese stone pavements are slippery in rain, especially on the slopes down to the Baixa.",
+      "Livraria Bertrand is on Rua Garrett, a few doors from A Brasileira, so both fit in one short stop.",
+      "The Santa Justa lift has been closed since September 2025; from the Baixa, walk up Rua do Carmo and Calçada do Sacramento (steep, about 10 minutes) or use the metro.",
+      "Coffee usually costs less at the counter than at a table in Lisbon's traditional cafés.",
+      "Tram 28 passes Praça Luís de Camões but is often full; it is not needed to get around Chiado.",
+      "Chiado is free to explore; the only fixed costs are the metro and anything you choose to buy."
     ]
   },
   "features": {
     "highlights": [
-      "Rua Garrett - main shopping street",
-      "A Brasileira - historic 1905 café with Fernando Pessoa statue",
-      "Livraria Bertrand - world's oldest operating bookstore",
-      "Teatro Nacional de São Carlos - opera house",
-      "Armazéns do Chiado - elegant shopping center",
-      "Beautiful 19th-century architecture",
-      "Historic jewelry stores and boutiques",
-      "Convento do Carmo ruins nearby",
-      "Designer and Portuguese brand shops",
-      "Cultural venues and galleries"
+      "Rua Garrett, the main street of cafés and shops",
+      "Livraria Bertrand, operating since 1732",
+      "A Brasileira café (1905) and the Fernando Pessoa statue outside",
+      "Largo do Carmo and the ruined Carmo convent",
+      "Teatro Nacional de São Carlos, Lisbon's opera house",
+      "Praça Luís de Camões, where tram 28 passes",
+      "Façades rebuilt by Álvaro Siza Vieira after the 1988 fire"
     ],
     "facilities": [
       "Shopping mall with 50+ stores",
@@ -128,7 +124,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": "Partial",
-      "mobilityNotes": "Main streets like Rua Garrett are accessible. Some side streets have cobblestones and slight inclines. Metro station Baixa-Chiado has elevator. Armazéns do Chiado mall is fully accessible. Historic elevators may have limitations.",
+      "mobilityNotes": "Main streets like Rua Garrett are accessible. Some side streets have cobblestones and slight inclines. Metro station Baixa-Chiado has elevator. Armazéns do Chiado mall is fully accessible. The historic Santa Justa lift has been closed since September 2025.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
@@ -172,7 +168,7 @@
       "walkingTime": "3-5 minutes"
     },
     {
-      "name": "Elevador de Santa Justa",
+      "name": "Elevador de Santa Justa (closed since September 2025)",
       "distance": "300 meters",
       "type": "landmark",
       "walkingTime": "5 minutes"

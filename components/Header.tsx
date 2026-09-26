@@ -46,6 +46,24 @@ export default function Header() {
               Home
             </Link>
             <Link
+              href="/planner"
+              className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
+                isActive('/planner') ? 'bg-slate-100 font-semibold' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              Port Day Planner
+            </Link>
+            <Link
+              href="/cruise-calendar"
+              className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
+                isActive('/cruise-calendar') ? 'bg-slate-100 font-semibold' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              Cruise Ship Calendar
+            </Link>
+            <Link
               href="/attractions"
               className={`px-4 py-2 rounded-lg hover:bg-slate-100 transition-colors ${
                 isActive('/attractions') ? 'bg-slate-100 font-semibold' : ''

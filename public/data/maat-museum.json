@@ -1,7 +1,7 @@
 {
   "id": "maat-museum",
   "name": "MAAT - Museum of Art, Architecture and Technology",
-  "tagline": "Striking contemporary museum on the Tagus riverfront exploring art, architecture and technology",
+  "tagline": "Walk over the roof for free; the galleries (€16) suit a longer call. Open Mondays, closed Tuesdays",
   "type": "museum",
   "categories": [
     "museum",
@@ -12,10 +12,10 @@
     "modern-museum"
   ],
   "description": {
-    "short": "MAAT is Lisbon's innovative contemporary museum dedicated to art, architecture, and technology, housed in a stunning waterfront building designed by Amanda Levete. Opened in 2016 in Belém, it combines cutting-edge exhibitions with a historic power station and riverside public spaces.",
-    "full": "The Museum of Art, Architecture and Technology (MAAT) opened in October 2016 as an ambitious international cultural institution on Lisbon's Belém waterfront. Created by EDP Foundation as part of their long-standing cultural patronage, MAAT aims to spark critical discourse and creative practice about our historical present and responsible commitment to the future. The museum campus comprises three distinctive spaces: the striking contemporary MAAT Gallery building designed by British architect Amanda Levete's firm AL_A, the historic Central Tejo power station (built 1908-1940s, converted to MAAT Central), and MAAT Garden - a beautifully landscaped 225-meter riverside park by Lebanese architect Vladimir Djurovic connecting everything. The MAAT Gallery building is an architectural masterpiece that has become one of Lisbon's most recognizable modern landmarks. Its low-slung design features a distinctive undulating roof covered in 15,000 three-dimensional white tiles that catch and reflect the Tagus River's light. The building merges with the landscape - visitors can walk on, under, and through it, with the roof accessible as a riverside promenade offering stunning city and river views. Inside, 3,000 square meters of exhibition space flows organically through volumes of radically different scales, including the unusual elliptical Oval Gallery. MAAT Central, the converted Central Tejo power station, preserves Portugal's industrial heritage while housing permanent exhibitions about electricity's history (The Electricity Factory), plus rotating contemporary exhibitions. The historic brick-clad iron structure with its massive turbines and machinery creates a dramatic contrast to the sleek modern gallery. MAAT presents an ambitious program of temporary exhibitions featuring international contemporary artists, architects, and technologists, along with public programs, workshops, performances, and events. The museum's mission goes beyond traditional museum functions - it seeks to question and celebrate how we imagine (with art), inhabit (with architecture), and create (with technology) the world, fostering critical thinking about our relationship with the planetary ecosystem.",
-    "history": "The Central Tejo power station was constructed between 1908 and the 1940s, belonging to Companhias Reunidas de Gás e Eletricidade (CRGE). It supplied electricity to Lisbon from 1909 to 1954, with limited service until the 1970s. Listed as a building of public interest in 1986, it opened as the Museum of Electricity in 1990, underwent restoration, and reopened in 2006. In 2016, EDP Foundation transformed the site into MAAT, adding Amanda Levete's contemporary building to create an integrated art, architecture, and technology museum campus.",
-    "significance": "MAAT represents one of Europe's most innovative contemporary museum projects, combining industrial heritage preservation with cutting-edge contemporary architecture. Amanda Levete's building is internationally recognized for its architectural excellence and sensitive integration with the historic waterfront. The museum plays a vital role in Lisbon's cultural landscape, bringing world-class contemporary art, architecture, and technology exhibitions to Portugal while contributing to the revitalization of the Belém waterfront area."
+    "short": "MAAT is Lisbon's contemporary museum of art, architecture and technology, in a riverside gallery building by Amanda Levete's studio AL_A and the former Central Tejo power station. Opened in 2016 at the eastern end of Belém.",
+    "full": "MAAT (Museum of Art, Architecture and Technology) sits on the riverfront at the eastern end of Belém, closer to the city than the other Belém sights. Unlike the Jerónimos Monastery and the Torre de Belém it is open on Mondays, but it is closed on Tuesdays; hours are 10:00 to 19:00, Wednesday to Monday. Belém railway station is about 7 minutes' walk away, which makes the Cascais-line train from Cais do Sodré an easy way in.\n\nThe campus has two parts. The low, curved gallery building by Amanda Levete's studio AL_A, clad in white three-dimensional ceramic tiles, has a roof designed as a public walkway you can climb and cross, with views of the 25 de Abril Bridge and the river. Next door, the brick Central Tejo power station houses MAAT Central, where the old plant's machinery sits alongside the galleries. Exhibitions change: in autumn 2026 the programme includes a large Pedro Cabrita Reis show and 'Turn around', about 90 works from the EDP Foundation Art Collection at MAAT Central until January 2027.\n\nFor a cruise passenger, the question is whether to pay. The €16 ticket for non-residents suits contemporary art and architecture fans with at least an hour and a half to spare. On a short call, the roof and the riverside garden take 20–30 minutes and still show off the building. MAAT works as an afternoon add-on after Jerónimos, or as the Monday alternative when the national monuments are shut.\n\nDistances are longer than they look on a map: the Padrão dos Descobrimentos is about 16 minutes' walk west along the river, Pastéis de Belém about 14 minutes and the Torre de Belém about 26 minutes. MAAT Café & Kitchen in the gallery building serves food with river views. Admission is free on 4 and 5 October 2026 for the museum's 10th anniversary.",
+    "history": "The Central Tejo power station was built from 1908 by the Companhias Reunidas de Gás e Electricidade and supplied electricity to Lisbon for decades before being decommissioned. Listed as a building of public interest in 1986, it opened as the Electricity Museum in 1990. In October 2016 the EDP Foundation relaunched the site as MAAT, adding the new riverside gallery designed by AL_A and a landscaped garden by Vladimir Djurovic linking the two buildings. The contrast between the brick-and-iron power plant and the white, low-slung gallery is the point of the visit.",
+    "significance": "MAAT is one of Lisbon's main venues for contemporary art, architecture and technology, run by the EDP Foundation. It pairs one of the city's best-known pieces of 21st-century architecture with a surviving early-20th-century industrial building, so it shows a side of Belém that has nothing to do with the Discoveries. Its roof and garden also work as a public riverside space used by locals, not only museum visitors."
   },
   "location": {
     "address": {
@@ -27,18 +27,18 @@
       "country": "Portugal"
     },
     "coordinates": {
-      "latitude": 38.6957,
-      "longitude": -9.2042
+      "latitude": 38.6959,
+      "longitude": -9.1933
     },
     "directions": {
       "general": "Located on the Tagus River waterfront in Belém district, between Jerónimos Monastery and 25 de Abril Bridge",
-      "fromCruisePort": "7km west - take Tram 15E from Praça do Comércio (35 minutes) or taxi/Uber (15 minutes). Scenic riverside location.",
+      "fromCruisePort": "About 6.4 km west on the Belém riverfront, not walkable on a port day. Taxi about 15 minutes; or the Cascais-line train from Cais do Sodré to Belém and a 10-minute walk east along the river. The Jerónimos Monastery is about 1 km further west.",
       "publicTransport": "Tram 15E from Praça do Comércio to Altinho stop (5-minute walk from museum). Trains from Cais do Sodré to Belém station (10-minute walk). Buses 728, 714, 727, 729, 751. Free shuttle from Cais do Sodré weekends.",
       "parking": "Free public parking 500m from museum. Bicycle parking available at entrance."
     },
     "distanceFromCruisePort": {
-      "meters": 7000,
-      "walkingTime": "Not recommended - too far",
+      "meters": 6356,
+      "walkingTime": "Not practical on foot (1h 27min walk)",
       "drivingTime": "15 minutes"
     }
   },
@@ -55,13 +55,13 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open Wednesday to Monday",
+      "currentStatus": "Open Wednesday to Monday; closed on Tuesdays",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Wednesday to Monday",
-          "hours": "10:00 - 19:00",
-          "notes": "Closed Tuesdays"
+          "hours": "10:00 - 19:00, closed Tuesdays",
+          "notes": "Closes at 15:00 on 24 and 31 December"
         }
       ],
       "closedDates": [
@@ -74,26 +74,27 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 15,
-      "youth": 8,
-      "senior": 9,
+      "adult": 16,
+      "youth": 12,
+      "senior": 13.6,
       "child": 0,
       "lisboaCardFree": false,
-      "notes": "Portuguese residents: Adults €11, Students €8, Seniors 65+/Unemployed €9. Non-residents: Adults €15, Students €8. Children 0-12 free. Free first Sunday of month 10:00-13:00 (Portuguese residents only). MAAT Friends membership available. Students require valid ID."
+      "notes": "Non-residents of Portugal: adults €16, students under 30 with card €12 (25% off), seniors 65+ 15% off (€13.60). Residents in Portugal: adults €12, students €9, seniors 65+/unemployed €10.20. Children 0–12 free. Free first Sunday of each month 10:00–13:00 (residents in Portugal only). Free on 4 and 5 October 2026 (10th anniversary). Discounts cannot be combined; ID required."
     },
-    "averageVisitDuration": "2-3 hours for full museum and grounds",
+    "averageVisitDuration": "20–30 minutes for the roof and garden; 1.5–2 hours with the exhibitions",
     "bestTimeToVisit": "Weekday mornings less crowded. Late afternoon for beautiful light on the building and river views. Sunset from the rooftop walkway is spectacular.",
     "busyPeriods": [
       "Weekend afternoons",
-      "First Sunday of month (free admission)",
+      "First Sunday of the month (free for residents, 10:00-13:00)",
+      "4-5 October 2026 (free 10th-anniversary weekend)",
       "School holidays"
     ],
-    "adviceForVisitors": "Don't miss walking on the undulating rooftop for stunning Tagus River and Belém views. Visit both the modern MAAT Gallery and historic Central Tejo power station. Allow time to explore MAAT Garden along the riverfront. The riverside promenade extends to nearby attractions. Photography encouraged. Combine with other Belém attractions (Jerónimos, Belém Tower) for full-day itinerary. MAAT Café & Kitchen offers dining with river views."
+    "adviceForVisitors": "Walk over the gallery roof for river views. Visit both the gallery building and MAAT Central in the former power station. Large bags, umbrellas and pets are not allowed; lockers are available. The Padrão dos Descobrimentos is about 16 minutes' walk west along the river."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day minimum - 4-5 hours including travel and Belém exploration",
-    "accessibility": "Good - Tram 15E provides direct access. Museum fully wheelchair accessible with elevators and ramps. Moderate distance from port requires dedicated time.",
+    "timeNeededFromPort": "About 2 hours return from the ship for the roof and garden only; 3–3.5 hours with the exhibitions",
+    "accessibility": "Good: lifts and ramps to the upper floors, adapted toilets and wheelchairs on loan. Belém station is about 7 minutes' walk.",
     "combinableWith": [
       "Jerónimos Monastery",
       "Belém Tower",
@@ -103,35 +104,25 @@
       "Belém Cultural Center"
     ],
     "tips": [
-      "Perfect for contemporary art and architecture enthusiasts",
-      "Combine with Belém's UNESCO World Heritage sites",
-      "Take Tram 15E - scenic 35-minute riverside journey",
-      "Walk on the museum roof for incredible photo opportunities",
-      "Free rooftop access even without museum ticket",
-      "MAAT Central (power station) shows Portugal's industrial heritage",
-      "Beautiful riverside garden perfect for relaxing",
-      "MAAT Café offers lunch with stunning river views",
-      "Architecture itself is worth the visit - Amanda Levete design",
-      "Visit Pastéis de Belém bakery (15-minute walk) for famous custard tarts",
-      "Allow 4-5 hours for full Belém district experience",
-      "First Sunday of month free for Portuguese residents (10:00-13:00)",
-      "Excellent museum shop with Portuguese design products"
+      "Closed on Tuesdays but open on Mondays, when the Jerónimos Monastery and the Torre de Belém are closed.",
+      "Take the Cascais-line train from Cais do Sodré to Belém: the station is about 7 minutes' walk from the museum.",
+      "Short on time? The roof walkway and riverside garden take 20–30 minutes and are public spaces.",
+      "Non-resident tickets: €16 adult, €12 with a student card (under 30); seniors 65+ get 15% off; under-12s free. Discounts cannot be combined.",
+      "Free admission on 4 and 5 October 2026 for MAAT's 10th anniversary; expect it to be busier than usual.",
+      "Large bags, umbrellas and pets are not allowed inside; lockers are available.",
+      "Lifts and ramps reach the upper floors, and two wheelchairs can be borrowed at the ticket offices.",
+      "Allow for the walk: 16 minutes to the Padrão dos Descobrimentos and 26 minutes to the Torre de Belém."
     ]
   },
   "features": {
     "highlights": [
-      "Stunning contemporary building by Amanda Levete/AL_A",
-      "15,000 white ceramic tiles creating wave-like roof",
-      "Accessible rooftop walkway with panoramic Tagus River views",
-      "3,000 m² exhibition space with unique Oval Gallery",
-      "Historic Central Tejo power station (1908-1940s)",
-      "The Electricity Factory permanent exhibition",
-      "International contemporary art exhibitions",
-      "Architecture and technology exhibitions",
-      "MAAT Garden - 225m riverside landscaped park",
-      "Outdoor sculptures in gardens",
-      "Belém waterfront location",
-      "Industrial heritage preservation"
+      "Walkable roof of the AL_A gallery building, with views of the river and the 25 de Abril Bridge",
+      "Façade of white three-dimensional ceramic tiles",
+      "MAAT Central: galleries inside the brick Central Tejo power station, with its original machinery",
+      "'Turn around': about 90 works from the EDP Foundation Art Collection (until January 2027)",
+      "Pedro Cabrita Reis exhibition 'without sorrow of heart' (autumn 2026)",
+      "Riverside MAAT Garden linking the two buildings",
+      "MAAT Café & Kitchen and a shop focused on Portuguese design"
     ],
     "facilities": [
       "MAAT Gallery (contemporary building)",
@@ -150,7 +141,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Fully wheelchair accessible. Elevators and ramps throughout both buildings. Wheelchair accessible restrooms. Two wheelchairs available on request at ticket office. Adapted for visitors with reduced mobility.",
+      "mobilityNotes": "Lift and ramp access to the upper floors, adapted toilets, and two wheelchairs available on request at the ticket offices.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

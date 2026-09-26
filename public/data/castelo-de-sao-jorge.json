@@ -1,7 +1,7 @@
 {
   "id": "castelo-de-sao-jorge",
-  "name": "Castelo de Sao Jorge (St. George's Castle)",
-  "tagline": "Lisbon's historic hilltop fortress with panoramic city views",
+  "name": "Castelo de São Jorge (St. George's Castle)",
+  "tagline": "Hilltop castle above Alfama: walls, towers and a wide view of the river",
   "type": "castle",
   "categories": [
     "castle",
@@ -11,10 +11,10 @@
     "monument"
   ],
   "description": {
-    "short": "Perched on Lisbon's highest hill, this 11th-century Moorish castle offers spectacular 360-degree views over the city and Tagus River. Explore medieval battlements, archaeological ruins, and royal palace remains while peacocks roam the grounds.",
-    "full": "Castelo de Sao Jorge dominates Lisbon's skyline from atop the city's highest hill in the historic Alfama district. Originally built by the Moors in the mid-11th century, this imposing fortress became the residence of Portuguese kings after Christian conquest in 1147 and remained the royal palace until the 16th century. The castle complex encompasses 11 towers connected by massive walls, offering visitors the chance to walk the battlements and enjoy breathtaking panoramic views over Lisbon's terracotta rooftops, the Tagus River estuary, and the 25 de Abril Bridge. Within the fortified citadel, visitors can explore the Museum Centre showcasing artifacts from Phoenician, Roman, Moorish, and Medieval periods discovered during archaeological excavations. The Camera Obscura provides a unique 360-degree real-time view of the city below, while the archaeological site reveals layers of Lisbon's 2,500-year history. The castle gardens are home to a flock of peacocks and other birds, adding to the magical atmosphere. Though damaged by the 1755 earthquake and later used as barracks and prison, extensive 20th-century restoration returned the castle to its medieval glory. Today it stands as Lisbon's most visited monument and a powerful symbol of Portuguese resilience and history.",
-    "history": "The hilltop was first fortified by indigenous Iberians, then occupied by Romans, Visigoths, and finally the Moors who built the first substantial castle in the mid-11th century as part of Lisbon's Moorish defenses. In 1147, during the Second Crusade, King Afonso Henriques captured Lisbon from the Moors after a three-month siege, with crucial help from Northern European crusaders. The castle became the royal palace and seat of power for Portuguese kings. King Dinis I rebuilt parts of the castle in the early 14th century, and King Manuel I further expanded it in the 16th century before moving the royal residence to the new Ribeira Palace near the river. After the 1755 earthquake severely damaged the castle, it was converted into military barracks and later a prison. The castle fell into disrepair until major restoration began in the 1940s under Estado Novo regime. Extensive archaeological excavations from 1990s onward uncovered multiple layers of occupation spanning 2,500 years. Today it is managed by EGEAC and is Lisbon's most iconic landmark.",
-    "significance": "Castelo de Sao Jorge represents the historical and political heart of Lisbon, serving as the city's main defensive fortification for nearly a millennium. The 1147 Christian conquest of the castle marked a turning point in the Reconquista and the birth of Portugal as an independent kingdom. As the royal residence for three centuries, it witnessed crucial moments in Portuguese history, including royal ceremonies, political decisions, and the Age of Discoveries planning. The castle's survival through earthquakes, wars, and centuries of change symbolizes Lisbon's resilience. Its commanding position and iconic silhouette make it the most recognizable symbol of the city, appearing on countless postcards and photographs."
+    "short": "Castelo de São Jorge crowns the hill above Alfama. Its terraces, walls and towers give a wide view over central Lisbon and the Tagus, and the ticket includes guided tours of the castle and its Camera Obscura.",
+    "full": "Castelo de São Jorge sits at the top of the hill that rises behind the cruise terminal. It is about 1.2 km away, but the walk takes around 22 minutes and climbs steeply the whole way through Alfama, so many passengers take a taxi or tuk-tuk to the gate (about 10 minutes) and walk back down. The main entrance is on Rua de Santa Cruz do Castelo. Bus 737 from Praça da Figueira stops at Chão da Feira, two minutes from the gate; Tram 28E stops at Miradouro de Santa Luzia and Largo Portas do Sol, about five minutes' walk below.\n\nBuy your ticket online through BOL, the castle's only authorised online seller. Ticket holders skip the ticket-office queue and go straight to the entrance, which matters most between about 10:00 and 15:00, when ship excursions arrive. If your ship docks early, the 09:00 opening is the calmest time.\n\nWith an hour inside, go first to the main terrace for the view over the Baixa, the river and the 25 de Abril Bridge, then climb the walls and towers of the castle proper. The ticket includes the 'Discovering the Castle' guided tour, in English at 11:00 and 15:00 daily (plus 16:00 from March to October and 18:00 from May to August), and a 20-minute Camera Obscura session in Ulysses Tower. Both are first come, first served at the ticket office, and the archaeological site can only be seen on the guided tour.\n\nSkip the Camera Obscura on an overcast day: it depends on the weather and only runs from late morning to early afternoon. Do not plan around the museum either; the castle has announced that it is temporarily closed while its toilet facilities are upgraded.\n\nMuch of what you walk on is a 20th-century reconstruction on medieval foundations. The views, not the interiors, are the reason to come.",
+    "history": "The hill was settled from at least the 7th century BC, and the Moors built the fortified citadel here in the 11th century. Afonso Henriques took it in 1147 with the help of crusaders sailing to the Holy Land, and the castle became a royal residence. In the early 16th century Manuel I moved the court to the new Ribeira Palace by the river, and the castle declined. The 1755 earthquake left much of it in ruins. From 1938 the Estado Novo regime cleared later buildings and rebuilt the walls to a romanticised medieval look. Excavations since the 1990s have uncovered a Moorish neighbourhood and the ruins of the last palace on the site, destroyed in 1755.",
+    "significance": "This is where Lisbon grew up as a defended settlement and where Portugal's early kings lived, and it explains the layout of the old city: citadel on top, Alfama and Mouraria spilling down the slopes, the river below. For a visitor, the terraces give the clearest overview of central Lisbon, which makes the rest of a short port day easier to navigate."
   },
   "location": {
     "address": {
@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located on the highest hill in central Lisbon, in the historic Castelo neighborhood above Alfama district",
-      "fromCruisePort": "3.5km from Santa Apolonia cruise port - take bus 737 direct to castle entrance (20 minutes), or taxi/Uber (10-15 minutes). Tram 28E from port area possible but crowded. Walking uphill from port: 45 minutes steep climb.",
-      "publicTransport": "Bus 737 from Praca da Figueira to Castelo stop at entrance. Tram 28E stops nearby but requires uphill walk. Buses 734 and 35E also serve the area. From Baixa, steep 15-20 minute uphill walk.",
+      "fromCruisePort": "About 1.2 km from the terminal, but around 22 minutes of steep uphill walking through Alfama. Taxi or tuk-tuk to the gate takes about 10 minutes; bus 737 runs up to the castle from Praça da Figueira.",
+      "publicTransport": "Bus 737 from Praça da Figueira to Castelo stop at entrance. Tram 28E stops nearby but requires uphill walk. Buses 734 and 35E also serve the area. From Baixa, steep 15-20 minute uphill walk.",
       "parking": "Limited paid parking near castle entrance on Rua de Santa Cruz do Castelo. Not recommended to drive - narrow medieval streets."
     },
     "distanceFromCruisePort": {
-      "meters": 3500,
-      "walkingTime": "45 minutes (steep uphill climb)",
+      "meters": 1215,
+      "walkingTime": "22 min walk",
       "drivingTime": "10-15 minutes"
     }
   },
@@ -54,21 +54,21 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round except certain holidays",
+      "currentStatus": "Open daily except 1 January, 1 May and 24, 25 and 31 December. The museum is temporarily closed during toilet upgrades.",
       "seasonal": [
         {
-          "season": "November - February (Winter)",
+          "season": "November – February (winter)",
           "days": "Daily",
           "hours": "09:00 - 18:00",
           "lastAdmission": "17:30",
           "notes": "Wall-walks and towers close at 17:30 for safety"
         },
         {
-          "season": "March - October (Summer)",
+          "season": "March – October (summer)",
           "days": "Daily",
           "hours": "09:00 - 21:00",
           "lastAdmission": "20:30",
-          "notes": "Wall-walks and towers may close between 18:00-21:00 depending on daylight"
+          "notes": "Wall-walks and towers may close from 18:00 depending on daylight"
         }
       ],
       "closedDates": [
@@ -82,14 +82,14 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 17,
-      "youth": 7.5,
+      "youth": 8.5,
       "child": 0,
-      "senior": 7.5,
+      "senior": 14,
       "lisboaCardFree": true,
       "comboTicket": "No combo tickets available",
-      "notes": "Adults €17 (2026). Youth 13-25 €8.50, seniors 65+ €14, children under 12 free. Free with Lisboa Card. Timed tickets available online to skip the line."
+      "notes": "Adult €17. Youth 13–25 €8.50, seniors 65+ €14 (proof required). Children up to 12 free. Free with an adult Lisboa Card. Guided tours and Camera Obscura included. Buy online only through BOL, or at the ticket office and machines on Rua de Santa Cruz do Castelo; ticket holders skip the ticket queue."
     },
-    "averageVisitDuration": "1.5-2 hours",
+    "averageVisitDuration": "1–2 hours",
     "bestTimeToVisit": "Early morning at opening (9am) for fewer crowds and best light for photos. Late afternoon (after 5pm) for sunset views. Avoid midday heat in summer.",
     "busyPeriods": [
       "Mid-morning to early afternoon (10:00-15:00)",
@@ -101,8 +101,8 @@
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2.5-3 hours minimum (includes travel, visit, and exploration)",
-    "accessibility": "Good - direct bus 737 from city center, or short taxi ride from port. Castle has some steep stairs but main viewpoints accessible.",
+    "timeNeededFromPort": "2.5–3 hours including a taxi up and a walk back down through Alfama",
+    "accessibility": "About 22 minutes of steep uphill walking from the terminal; a taxi to the gate is the easiest approach. The main terraces are reachable, but the walls and towers involve steep, uneven stairs.",
     "combinableWith": [
       "Alfama neighborhood walking tour",
       "Lisbon Cathedral (Se)",
@@ -112,33 +112,28 @@
       "Tram 28E scenic ride"
     ],
     "tips": [
-      "Take bus 737 directly to castle entrance - saves steep uphill walk",
-      "Perfect for morning visit before exploring Alfama",
-      "Free with Lisboa Card - excellent value for cruise passengers",
-      "Best photo opportunities from towers and battlements",
-      "Visit Camera Obscura for unique real-time city views",
-      "Combine with Alfama walking tour and Fado lunch",
-      "Easy return to port via taxi or bus",
-      "Wear comfortable shoes and bring water",
-      "Allow 2.5-3 hours total including travel time",
-      "Sunset visits offer magical views over city and river"
+      "Buy tickets online from BOL, the only authorised online seller; ticket holders skip the ticket-office queue and go straight to the entrance on Rua de Santa Cruz do Castelo.",
+      "Take a taxi or tuk-tuk up (about 10 minutes from the terminal) and walk down through Alfama afterwards; the 22-minute walk up is steep all the way.",
+      "Bus 737 from Praça da Figueira stops at Chão da Feira, two minutes from the gate; Tram 28E stops at Santa Luzia and Portas do Sol, about five minutes' walk below.",
+      "Arrive at the 09:00 opening if you can: ship excursions fill the terraces from mid-morning to mid-afternoon.",
+      "The included English guided tour runs at 11:00 and 15:00 daily (also 16:00 March–October and 18:00 May–August); sign up at the ticket office, first come, first served.",
+      "The Camera Obscura is weather dependent and runs only from 11:00 until 13:00–16:00 depending on the month; skip it on a grey day.",
+      "Closed on 1 January, 1 May and 24, 25 and 31 December; on those days, see the walls from the Portas do Sol viewpoint instead.",
+      "The castle has announced toilet upgrades (with the museum closed meanwhile), so use the facilities on the ship or in a café before you go up."
     ]
   },
   "features": {
     "highlights": [
-      "11 defensive towers with panoramic city views",
-      "Medieval castle walls and battlements to explore",
-      "Camera Obscura with 360-degree real-time city views",
-      "Archaeological site with Phoenician, Roman, and Moorish ruins",
-      "Museum Centre with artifacts spanning 2,500 years",
-      "Former royal palace ruins and medieval citadel",
-      "Peacocks and exotic birds roaming the gardens",
-      "Spectacular views over Lisbon, Tagus River, and 25 de Abril Bridge",
-      "Medieval castle keep and residential square"
+      "Main terrace with views over the Baixa, the Tagus and the 25 de Abril Bridge",
+      "Walls and towers of the castle proper (towers may close earlier in the evening for safety)",
+      "'Discovering the Castle' guided tour included in the ticket (English at 11:00 and 15:00 daily)",
+      "Camera Obscura in Ulysses Tower: a 20-minute guided session with live 360° views of the city",
+      "Archaeological site with Iron Age and Moorish remains and the ruins of the last palace (guided tour only)",
+      "Peacocks and other birds in the shaded gardens"
     ],
     "facilities": [
       "Ticket office with online booking",
-      "Free guided tours daily (Portuguese, English, Spanish)",
+      "Guided tours included in the ticket (English and Portuguese)",
       "Camera Obscura demonstrations",
       "Museum and exhibition spaces",
       "Archaeological interpretation center",
@@ -165,19 +160,19 @@
   "images": {
     "heroImage": {
       "url": "/images/attractions/castelo-de-sao-jorge-hero.webp",
-      "alt": "Castelo de Sao Jorge (St. George's Castle)",
-      "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: fulviusbsas, CC BY-SA 3.0, via Wikimedia Commons"
+      "alt": "Castelo de São Jorge (St. George's Castle)",
+      "caption": "Castelo de São Jorge (St. George's Castle). Photo: fulviusbsas, CC BY-SA 3.0, via Wikimedia Commons"
     },
     "gallery": [
       {
         "url": "/images/attractions/castelo-de-sao-jorge-1.webp",
-        "alt": "Castelo de Sao Jorge (St. George's Castle)",
-        "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
+        "alt": "Castelo de São Jorge (St. George's Castle)",
+        "caption": "Castelo de São Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       },
       {
         "url": "/images/attractions/castelo-de-sao-jorge-2.webp",
-        "alt": "Castelo de Sao Jorge (St. George's Castle)",
-        "caption": "Castelo de Sao Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
+        "alt": "Castelo de São Jorge (St. George's Castle)",
+        "caption": "Castelo de São Jorge (St. George's Castle). Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons"
       }
     ]
   },

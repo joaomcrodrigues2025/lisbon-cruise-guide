@@ -1,7 +1,7 @@
 {
   "id": "convento-do-carmo",
   "name": "Convento do Carmo and Archaeological Museum",
-  "tagline": "Hauntingly beautiful roofless Gothic church ruins preserved as 1755 earthquake memorial",
+  "tagline": "The roofless Gothic church left standing after the 1755 earthquake, now a small archaeology museum in Chiado",
   "type": "ruins",
   "categories": [
     "archaeological-museum",
@@ -11,10 +11,10 @@
     "monument"
   ],
   "description": {
-    "short": "The Convento do Carmo is the most evocative reminder of the devastating 1755 Lisbon earthquake. The roofless Gothic church ruins, deliberately left unrestored, now house the Carmo Archaeological Museum with artifacts spanning from prehistory to the 19th century.",
-    "full": "Perched atop one of Lisbon's seven hills in the Chiado district, the Convento do Carmo stands as a powerful memorial to the catastrophic earthquake of November 1, 1755. Founded in 1389 by Constable D. Nuno Álvares Pereira, this was once one of Lisbon's largest and most magnificent churches, home to the Order of Carmelites. The earthquake struck during All Saints Day mass, bringing down the roof and vaults, killing countless worshippers inside. The subsequent tsunami and fires devastated what remained. Rather than rebuild, Lisbon's leaders chose to preserve the ruins as a poignant reminder of the disaster—creating one of Europe's most atmospheric historic sites. Today, visitors walk beneath soaring Gothic arches open to the sky, experiencing the church much as it appeared in the days following the catastrophe. The nave, with its pointed arches reaching heavenward without a roof to cap them, creates an almost surreal architectural experience where interior meets exterior. In 1864, the Association of Portuguese Archaeologists established the Carmo Archaeological Museum within the ruins, making it Portugal's first archaeological museum. The collection includes Roman remains, Visigothic pillars, medieval tombs, pre-Columbian artifacts, Egyptian mummies, and azulejo panels. The museum's eclectic collection reflects 19th-century archaeological curiosity, displaying everything from Portuguese historical artifacts to exotic pieces from distant lands. The site also holds historical significance from the 1974 Carnation Revolution, when it served as the last refuge of dictator Marcelo Caetano before he surrendered, marking the end of the Estado Novo regime.",
-    "history": "Founded in 1389 by Nuno Álvares Pereira as a Carmelite convent. The earthquake of November 1, 1755 destroyed the roof and killed many inside. The decision was made to preserve the ruins rather than rebuild. In 1836, the military used habitable parts as headquarters. The Carmo Archaeological Museum was established in 1864, Portugal's first. During the 1974 Carnation Revolution, dictator Marcelo Caetano took his final refuge here before surrendering.",
-    "significance": "The ruins serve as Lisbon's most powerful memorial to the 1755 earthquake, one of history's deadliest natural disasters. The preservation represents an early example of heritage conservation. The archaeological museum houses Portugal's first archaeological collection and played a role in the peaceful 1974 revolution."
+    "short": "The ruined church of the Convento do Carmo, open to the sky since the 1755 earthquake, houses the Museu Arqueológico do Carmo. It is on Largo do Carmo in Chiado, about 1.7 km (25 minutes) from the ship with a steep final climb. Closed on Sundays; €7 adult.",
+    "full": "The Carmo ruins are one of the most striking sights in central Lisbon and one of the easiest to fit into a half-day ashore, as long as you plan the climb and remember the museum is closed on Sundays.\n\nThe Gothic nave lost its roof in the 1755 earthquake and was never rebuilt, so today you walk between the arches under open sky. The old chancel and side chapels hold the Museu Arqueológico do Carmo, a small museum run by the Association of Portuguese Archaeologists.\n\nFrom the ship it is about 1.7 km. The first part is flat: walk west along the river to Praça do Comércio (14 minutes) and up Rua Augusta through the Baixa. The last part is a steep climb to Largo do Carmo. You have two ways up. Walk up Rua do Carmo and Calçada do Sacramento, about 10 minutes. Or take the metro Blue Line from Santa Apolónia to Baixa-Chiado, where escalators bring you up to Chiado, a few minutes' walk from Largo do Carmo. The Elevador de Santa Justa, whose top walkway leads almost to the door, has been closed since September 2025 with no reopening date.\n\nInside, allow 30 to 45 minutes. Walk the nave first, then the chancel rooms: Roman and medieval stone carving, the tomb of King Fernando I, azulejos and, the item most visitors remember, pre-Columbian mummies from Peru.\n\nCrowds are moderate compared with the castle or Belém, and the busiest hours are around midday. The nave is open to the weather, so expect sun or rain inside.\n\nFor a short port call, combine it with Chiado and walk back down through the Baixa to the river. It is closed on Sundays, 1 January, 1 May and 25 December, which catches out many cruise passengers.",
+    "history": "Nuno Álvares Pereira, the general who secured Portugal's independence from Castile, founded the Carmelite convent in 1389 and later lived here as a friar. On the morning of 1 November 1755, All Saints' Day, the earthquake brought down the church roof. Rebuilding began in the late 18th century but stopped in the 1830s when religious orders were abolished, leaving the nave open. In 1864 the Association of Portuguese Archaeologists set up its museum in the ruins. On 25 April 1974 the prime minister, Marcelo Caetano, took refuge in the GNR barracks next door on Largo do Carmo and surrendered there, ending the dictatorship.",
+    "significance": "Most of Lisbon was rebuilt after 1755; the Carmo nave is one of the few places where you can see the destruction itself. It is also a compact museum of Portuguese archaeology, and Largo do Carmo, outside the door, is where the 1974 Carnation Revolution came to its end. Three layers of Lisbon's history in one small square, 25 minutes from the ship."
   },
   "location": {
     "address": {
@@ -30,14 +30,14 @@
       "longitude": -9.1402
     },
     "directions": {
-      "general": "Located in Largo do Carmo square in Chiado, accessible via Elevador de Santa Justa or uphill from Rossio",
-      "fromCruisePort": "1.8km from cruise terminals - 25-minute uphill walk, or metro to Baixa-Chiado then Elevador de Santa Justa, or taxi 10 minutes",
-      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines), exit toward Santa Justa Lift, walk or take elevator up. Bus: 758. Tram: 28 passes nearby.",
+      "general": "Located in Largo do Carmo square in Chiado, reached on foot uphill from Rossio and the Baixa, or a few minutes' walk from Baixa-Chiado metro",
+      "fromCruisePort": "About 1.7 km and 25 minutes on foot. Walk west to the Baixa, then up Rua do Carmo and Calçada do Sacramento (steep, about 10 minutes). The Elevador de Santa Justa has been closed since September 2025. Taxi about 8-10 minutes.",
+      "publicTransport": "Metro: Baixa-Chiado station (Blue/Green lines), Chiado exit, then a few minutes' walk to Largo do Carmo. Bus: 758. Tram: 28 passes nearby.",
       "parking": "Extremely limited. Nearest parking at Restauradores or Portas do Sol. Not recommended to drive."
     },
     "distanceFromCruisePort": {
-      "meters": 1800,
-      "walkingTime": "25 minutes steep uphill",
+      "meters": 1705,
+      "walkingTime": "25 min walk",
       "drivingTime": "10 minutes"
     }
   },
@@ -54,7 +54,7 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open Monday to Saturday",
+      "currentStatus": "Open Monday to Saturday; closed Sundays",
       "seasonal": [
         {
           "season": "Summer (May - October)",
@@ -69,14 +69,14 @@
           "lastAdmission": "17:40"
         },
         {
-          "season": "Easter Week",
-          "days": "Daily",
+          "season": "Easter week",
+          "days": "Monday to Saturday",
           "hours": "10:00 - 19:00",
           "lastAdmission": "18:40"
         },
         {
-          "season": "December 26 - January 6",
-          "days": "Daily",
+          "season": "26 December - 6 January",
+          "days": "Monday to Saturday",
           "hours": "10:00 - 19:00",
           "lastAdmission": "18:40"
         }
@@ -94,73 +94,64 @@
       "youth": 5,
       "child": 0,
       "senior": 5,
-      "lisboaCardFree": true,
+      "lisboaCardFree": false,
       "comboTicket": null,
-      "notes": "Students with ID 5 EUR, Children 0-14 free with adult, Seniors 65+ with ID 5 EUR, Groups 30+ people 5 EUR per person, Portuguese residents with ID 5 EUR, Lisboa Card free entry, Reduced mobility free including 1 companion with 60%+ disability certificate"
+      "notes": "Adult €7. Full-time students with ID €5. Seniors 65+ with ID €5. Lisboa Card holders €5 (reduced, not free). Children 0–14 free with an adult. Groups over 30 people €5 each. Portuguese residents €5. Free for visitors with reduced mobility (60%+ disability certificate) plus one companion, and for ICOM card holders. Source: museuarqueologicodocarmo.pt."
     },
-    "averageVisitDuration": "30-60 minutes",
-    "bestTimeToVisit": "Early morning (10:00-11:00) or late afternoon for best light in the roofless nave. Weekday mornings least crowded. Sunset creates dramatic lighting through Gothic arches.",
+    "averageVisitDuration": "30–45 minutes",
+    "bestTimeToVisit": "At 10:00 opening or after 16:00 on weekdays. Midday is busiest.",
     "busyPeriods": [
-      "Mid-day 11:30-14:30",
-      "Cruise ship days",
-      "Summer months June-August",
-      "Weekends particularly Saturdays"
+      "Around midday (11:30–14:30)",
+      "Saturdays",
+      "Summer"
     ],
-    "adviceForVisitors": "Photography allowed without flash or tripod. Weather affects experience - rain falls into roofless nave but covered galleries provide shelter. Dress for weather as half the visit is effectively outdoors. Large suitcases must be left at reception (space limited). Combine with Elevador de Santa Justa for efficient routing. Allow time to absorb the atmosphere - the ruins are contemplative and moving."
+    "adviceForVisitors": "Closed on Sundays. Photography is allowed without flash or tripod. Half the visit is effectively outdoors, so dress for the weather. Large suitcases must be left at reception, subject to space. Combine with Chiado and walk back down through the Baixa to the river."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "1.5-2 hours including travel and visit",
-    "accessibility": "Challenging - steep uphill from port. Elevador de Santa Justa helps but still involves stairs. Interior largely accessible once there.",
+    "timeNeededFromPort": "About 2 hours: 25–30 minutes each way (the last stretch uphill) plus 30–45 minutes inside",
+    "accessibility": "The museum is wheelchair accessible inside, but the approach is a steep climb from the Baixa. Use a taxi, or the metro to Baixa-Chiado and its escalators, to avoid the hill.",
     "combinableWith": [
-      "Elevador de Santa Justa",
-      "Igreja de São Roque",
-      "Chiado shopping district",
       "Bairro Alto",
+      "Chiado and Rua Garrett",
+      "Igreja de São Roque",
       "Miradouro de São Pedro de Alcântara",
-      "Rossio Square"
+      "Rossio",
+      "Walk back down through the Baixa to Praça do Comércio"
     ],
     "tips": [
-      "Take Elevador de Santa Justa from Baixa to avoid steep uphill walk",
-      "Top viewing platform of Santa Justa connects directly to Carmo via walkway",
-      "Visit early morning to avoid crowds and enjoy atmospheric lighting",
-      "Combine with Chiado shopping and São Roque Church for full morning",
-      "Free with Lisboa Card which also covers metro and Santa Justa elevator",
-      "Rainy days add dramatic atmosphere but bring umbrella",
-      "The ruins are more impactful if you understand 1755 earthquake context",
-      "Small museum but fascinating eclectic collection",
-      "Don't rush - the atmospheric ruins deserve quiet contemplation",
-      "Nearby cafés in Largo do Carmo perfect for post-visit reflection"
+      "Closed on Sundays, 1 January, 1 May and 25 December: check your port day before planning around it.",
+      "Open Monday to Saturday 10:00–19:00 from May to October (last entry 18:40) and 10:00–18:00 from November to April (last entry 17:40).",
+      "Adult ticket €7; students and over-65s with ID €5; children up to 14 free with an adult.",
+      "The Lisboa Card gives a reduced €5 ticket here, not free entry.",
+      "The Santa Justa lift is closed: walk up Rua do Carmo and Calçada do Sacramento (about 10 minutes, steep) or take the Blue Line to Baixa-Chiado and its escalators.",
+      "Payment is by cash (euros only), debit or credit card, or MB Way.",
+      "No flash or tripods, and large wheeled suitcases must be left at reception if there is space.",
+      "The nave is open to the weather: bring a hat in summer and an umbrella in winter."
     ]
   },
   "features": {
     "highlights": [
-      "Roofless Gothic nave with arches open to sky",
-      "1755 earthquake memorial and ruins",
-      "Archaeological museum inside church ruins",
-      "Roman sarcophagi and ancient artifacts",
-      "Medieval tombs and funerary sculpture",
-      "Pre-Columbian ceramics and mummies",
-      "Visigothic pillars and stonework",
-      "Gothic architectural details",
-      "16th-century azulejo panels",
-      "Historic site of 1974 Revolution finale",
-      "Peaceful Largo do Carmo square",
-      "Views through ruined arches"
+      "Roofless Gothic nave, open to the sky since the 1755 earthquake",
+      "Museu Arqueológico do Carmo, founded in 1864",
+      "Roman and medieval stone carving, including the tomb of King Fernando I",
+      "Pre-Columbian mummies from Peru",
+      "Azulejo panels and Gothic architectural fragments",
+      "Largo do Carmo, where the 1974 Carnation Revolution ended",
+      "A few minutes' walk from Baixa-Chiado metro, which removes most of the climb",
+      "Closed on Sundays"
     ],
     "facilities": [
-      "Small museum shop",
-      "Restrooms",
-      "Information panels in Portuguese and English",
-      "Reception area",
-      "Limited luggage storage (space dependent)",
-      "Free WiFi",
-      "Benches for rest",
-      "Guided tours available (pre-book)"
+      "Museum shop",
+      "Wheelchair-accessible toilet and baby-changing facilities",
+      "Free Wi-Fi",
+      "Brochures in Portuguese, English, Spanish, French, Italian, German and Japanese",
+      "Guided tours (ask at the ticket desk for the next one)",
+      "Limited space at reception for large bags"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Main nave level accessible once you reach the site. Museum galleries accessible on ground floor. Reaching the site involves uphill journey - Elevador de Santa Justa helps but has steps. Once inside, mostly flat surfaces. Free entry for visitors with 60%+ disability plus one companion.",
+      "mobilityNotes": "The museum states that all public areas and entrances are wheelchair accessible, with an accessible toilet. The difficulty is getting there: Largo do Carmo is at the top of a steep hill. A taxi to Largo do Carmo is the simplest step-free option. Free entry for visitors with a disability certificate of 60% or more plus one companion.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
@@ -194,7 +185,7 @@
   },
   "nearbyAttractions": [
     {
-      "name": "Elevador de Santa Justa",
+      "name": "Elevador de Santa Justa (closed since September 2025)",
       "distance": "100 meters via connecting walkway",
       "type": "elevator/viewpoint",
       "walkingTime": "2-3 minutes"

@@ -1,12 +1,22 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Attraction } from '@/lib/types';
+import { distanceBetween } from '@/lib/distance';
 
 interface AttractionCardProps {
   attraction: Attraction;
+  // When set, show the walk from this attraction instead of from the cruise port
+  from?: Attraction;
 }
 
-export default function AttractionCard({ attraction }: AttractionCardProps) {
+// Walking time from straight-line distance, allowing ~30% for real street routes at ~4.5 km/h
+function walkFrom(from: Attraction, to: Attraction): string {
+  const metres = distanceBetween(from, to);
+  const minutes = Math.max(1, Math.round((metres * 1.3) / 75));
+  return minutes <= 40 ? `${minutes} min walk from here` : `${(metres / 1000).toFixed(1)} km from here`;
+}
+
+export default function AttractionCard({ attraction, from }: AttractionCardProps) {
   return (
     <div className="flex flex-col items-stretch justify-start rounded-xl shadow-[0_2px_8px_rgba(0,0,0,0.08)] bg-white overflow-hidden hover:shadow-[0_4px_12px_rgba(0,0,0,0.12)] transition-shadow">
       <div className="relative h-48 w-full">
@@ -41,7 +51,9 @@ export default function AttractionCard({ attraction }: AttractionCardProps) {
           </div>
           <div className="flex items-center gap-1.5">
             <span className="material-symbols-outlined !text-xl text-[#003366]">directions_walk</span>
-            <span>{attraction.location.distanceFromCruisePort.walkingTime}</span>
+            <span>
+              {from ? walkFrom(from, attraction) : `From port: ${attraction.location.distanceFromCruisePort.walkingTime}`}
+            </span>
           </div>
         </div>
 
@@ -52,7 +64,9 @@ export default function AttractionCard({ attraction }: AttractionCardProps) {
               ? 'Free'
               : `€${attraction.visitingInformation.admissionPrices.adult}`}
           </div>
-          <div className="text-sm text-slate-600">{attraction.priceRange}</div>
+          {attraction.visitingInformation.admissionPrices.adult !== 0 && (
+            <div className="text-sm text-slate-600">{attraction.priceRange}</div>
+          )}
         </div>
 
         <Link

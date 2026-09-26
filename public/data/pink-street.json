@@ -32,13 +32,13 @@
     },
     "directions": {
       "general": "Located in Cais do Sodré district, just off the waterfront between Time Out Market and Bairro Alto",
-      "fromCruisePort": "12 minute walk west along waterfront, or take tram 15E to Cais do Sodré (2 stops)",
+      "fromCruisePort": "About 1.9 km and 26 minutes on foot, flat along the river to Cais do Sodré; Rua Nova do Carvalho is one block behind the station. Taxi about 8-10 minutes.",
       "publicTransport": "Metro: Cais do Sodré (Green line - 2 min walk). Train: Cais do Sodré station. Tram: 15E, 18E, 25E. The street is pedestrian-only.",
       "parking": "No parking on street itself. Public parking at Praça Dom Luís I (500m) or nearby garages."
     },
     "distanceFromCruisePort": {
-      "meters": 900,
-      "walkingTime": "12 minutes",
+      "meters": 1880,
+      "walkingTime": "26 min walk",
       "drivingTime": "5 minutes to nearby parking"
     }
   },
@@ -83,7 +83,7 @@
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "Allow 2-3 hours for evening experience",
-    "accessibility": "Excellent - 12-minute walk from port, flat pedestrian street, accessible by metro",
+    "accessibility": "Excellent - 26-minute flat walk from port, flat pedestrian street, accessible by metro",
     "combinableWith": [
       "Time Out Market",
       "Cais do Sodré nightlife",

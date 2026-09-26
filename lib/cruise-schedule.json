@@ -1,0 +1,774 @@
+{
+  "source": "https://lisboncruiseport.pt/schedule",
+  "fetchedAt": "2026-09-26T08:46:43.276Z",
+  "calls": [
+    {
+      "ship": "Mein Schiff 2",
+      "line": "TUI Cruises",
+      "arrival": "2026-09-28T09:00",
+      "departure": "2026-09-28T23:00"
+    },
+    {
+      "ship": "Nautica",
+      "line": "Oceania Cruises",
+      "arrival": "2026-09-28T09:00",
+      "departure": "2026-09-28T21:00"
+    },
+    {
+      "ship": "VidantaWorld's Elegant",
+      "line": "Vidanta Cruises",
+      "arrival": "2026-09-30T08:00",
+      "departure": "2026-09-30T18:00"
+    },
+    {
+      "ship": "Silver Dawn",
+      "line": "Silversea Cruises",
+      "arrival": "2026-10-01T07:00",
+      "departure": "2026-10-01T23:00"
+    },
+    {
+      "ship": "Insignia",
+      "line": "Oceania Cruises",
+      "arrival": "2026-10-01T07:00",
+      "departure": "2026-10-01T15:00"
+    },
+    {
+      "ship": "Costa Diadema",
+      "line": "Costa Cruises",
+      "arrival": "2026-10-01T07:00",
+      "departure": "2026-10-02T14:00"
+    },
+    {
+      "ship": "Ambition",
+      "line": "Ambassador Cruise Line",
+      "arrival": "2026-10-03T09:00",
+      "departure": "2026-10-03T18:00"
+    },
+    {
+      "ship": "Celebrity Equinox",
+      "line": "Celebrity Cruises",
+      "arrival": "2026-10-03T12:00",
+      "departure": "2026-10-04T19:00"
+    },
+    {
+      "ship": "Celebrity Apex",
+      "line": "Celebrity Cruises",
+      "arrival": "2026-10-04T08:00",
+      "departure": "2026-10-04T17:00"
+    },
+    {
+      "ship": "Regatta",
+      "line": "Oceania Cruises",
+      "arrival": "2026-10-05T07:00",
+      "departure": "2026-10-05T17:00"
+    },
+    {
+      "ship": "Marina",
+      "line": "Oceania Cruises",
+      "arrival": "2026-10-05T07:00",
+      "departure": "2026-10-05T17:00"
+    },
+    {
+      "ship": "Artania",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-10-05T08:00",
+      "departure": "2026-10-05T18:00"
+    },
+    {
+      "ship": "MSC Opera",
+      "line": "MSC Cruises",
+      "arrival": "2026-10-05T09:00",
+      "departure": "2026-10-05T18:00"
+    },
+    {
+      "ship": "MSC Virtuosa",
+      "line": "MSC Cruises",
+      "arrival": "2026-10-06T07:00",
+      "departure": "2026-10-06T18:00"
+    },
+    {
+      "ship": "Viking Mira",
+      "line": "Viking Cruises",
+      "arrival": "2026-10-06T07:00",
+      "departure": "2026-10-07T23:59"
+    },
+    {
+      "ship": "Amadea",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-10-06T08:00",
+      "departure": "2026-10-06T18:00"
+    },
+    {
+      "ship": "National Geographic Resolution",
+      "line": "Lindblad Expeditions",
+      "arrival": "2026-10-07T06:00",
+      "departure": "2026-10-07T18:00"
+    },
+    {
+      "ship": "Norwegian Star",
+      "line": "Norwegian Cruise Lines",
+      "arrival": "2026-10-07T07:00",
+      "departure": "2026-10-07T18:00"
+    },
+    {
+      "ship": "Emerald Sakara",
+      "line": "Emerald Cruises",
+      "arrival": "2026-10-08T08:00",
+      "departure": "2026-10-08T18:00"
+    },
+    {
+      "ship": "Seven Seas Grandeur",
+      "line": "Regent Seven Seas Cruises",
+      "arrival": "2026-10-09T07:00",
+      "departure": "2026-10-09T17:00"
+    },
+    {
+      "ship": "Viking Saturn",
+      "line": "Viking Cruises",
+      "arrival": "2026-10-09T11:00",
+      "departure": "2026-10-11T13:00"
+    },
+    {
+      "ship": "Celebrity Apex",
+      "line": "Celebrity Cruises",
+      "arrival": "2026-10-10T08:00",
+      "departure": "2026-10-10T18:00"
+    },
+    {
+      "ship": "World Voyager",
+      "line": "Atlas Ocean Voyages",
+      "arrival": "2026-10-10T09:00",
+      "departure": "2026-10-11T19:00"
+    },
+    {
+      "ship": "Crystal Serenity",
+      "line": "Crystal Cruises",
+      "arrival": "2026-10-11T06:00",
+      "departure": "2026-10-11T18:00"
+    },
+    {
+      "ship": "Hamburg",
+      "line": "Plantours",
+      "arrival": "2026-10-11T08:00",
+      "departure": "2026-10-11T18:00"
+    },
+    {
+      "ship": "Le Laperouse",
+      "line": "Ponant",
+      "arrival": "2026-10-12T07:00",
+      "departure": "2026-10-12T18:00"
+    },
+    {
+      "ship": "Queen Victoria",
+      "line": "Cunard Line",
+      "arrival": "2026-10-12T07:00",
+      "departure": "2026-10-12T19:00"
+    },
+    {
+      "ship": "Iona",
+      "line": "P&O Cruises",
+      "arrival": "2026-10-12T07:00",
+      "departure": "2026-10-12T23:59"
+    },
+    {
+      "ship": "Corinthian",
+      "line": "Grand Circle Travel Inc",
+      "arrival": "2026-10-12T08:00",
+      "departure": "2026-10-12T18:00"
+    },
+    {
+      "ship": "Nieuw Statendam",
+      "line": "Holland America Line",
+      "arrival": "2026-10-13T07:00",
+      "departure": "2026-10-13T17:00"
+    },
+    {
+      "ship": "Borealis",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2026-10-13T07:30",
+      "departure": "2026-10-13T17:00"
+    },
+    {
+      "ship": "Douglas Mawson",
+      "line": "Aurora Expeditions",
+      "arrival": "2026-10-13T08:00",
+      "departure": "2026-10-13T10:00"
+    },
+    {
+      "ship": "Ventura",
+      "line": "P&O Cruises",
+      "arrival": "2026-10-14T07:00",
+      "departure": "2026-10-14T18:00"
+    },
+    {
+      "ship": "Scenic Eclipse 2",
+      "line": "Scenic Luxury Cruises",
+      "arrival": "2026-10-14T08:00",
+      "departure": "2026-10-14T18:00"
+    },
+    {
+      "ship": "Celebrity Xcel",
+      "line": "Celebrity Cruises",
+      "arrival": "2026-10-15T06:00",
+      "departure": "2026-10-15T19:00"
+    },
+    {
+      "ship": "Royal Clipper",
+      "line": "Star Clippers",
+      "arrival": "2026-10-16T06:00",
+      "departure": "2026-10-16T20:00"
+    },
+    {
+      "ship": "Crystal Serenity",
+      "line": "Crystal Cruises",
+      "arrival": "2026-10-17T05:00",
+      "departure": "2026-10-17T13:00"
+    },
+    {
+      "ship": "Volendam",
+      "line": "Holland America Line",
+      "arrival": "2026-10-17T07:00",
+      "departure": "2026-10-17T18:00"
+    },
+    {
+      "ship": "Mein Schiff 3",
+      "line": "TUI Cruises",
+      "arrival": "2026-10-17T09:00",
+      "departure": "2026-10-18T14:00"
+    },
+    {
+      "ship": "Europa 2",
+      "line": "Hapag-Lloyd Cruises",
+      "arrival": "2026-10-17T20:00",
+      "departure": "2026-10-18T17:00"
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "line": "Norwegian Cruise Lines",
+      "arrival": "2026-10-18T06:00",
+      "departure": "2026-10-18T16:00"
+    },
+    {
+      "ship": "Aidamar",
+      "line": "AIDA Cruises",
+      "arrival": "2026-10-19T07:00",
+      "departure": "2026-10-20T17:00"
+    },
+    {
+      "ship": "Bolette",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2026-10-19T08:00",
+      "departure": "2026-10-19T17:00"
+    },
+    {
+      "ship": "Liberty Of The Seas",
+      "line": "Royal Caribbean International",
+      "arrival": "2026-10-19T09:00",
+      "departure": "2026-10-19T20:00"
+    },
+    {
+      "ship": "Norwegian Star",
+      "line": "Norwegian Cruise Lines",
+      "arrival": "2026-10-20T07:00",
+      "departure": "2026-10-20T14:00"
+    },
+    {
+      "ship": "Silver Muse",
+      "line": "Silversea Cruises",
+      "arrival": "2026-10-21T07:00",
+      "departure": "2026-10-21T18:00"
+    },
+    {
+      "ship": "Celebrity Apex",
+      "line": "Celebrity Cruises",
+      "arrival": "2026-10-21T08:00",
+      "departure": "2026-10-21T17:00"
+    },
+    {
+      "ship": "Spirit Of Adventure",
+      "line": "Saga Cruises",
+      "arrival": "2026-10-22T07:00",
+      "departure": "2026-10-22T17:00"
+    },
+    {
+      "ship": "Costa Diadema",
+      "line": "Costa Cruises",
+      "arrival": "2026-10-22T07:00",
+      "departure": "2026-10-23T14:00"
+    },
+    {
+      "ship": "Renaissance",
+      "line": "Compagnie Française de Croisieres",
+      "arrival": "2026-10-23T07:00",
+      "departure": "2026-10-23T18:00"
+    },
+    {
+      "ship": "Le Boreal",
+      "line": "Ponant",
+      "arrival": "2026-10-24T06:00",
+      "departure": "2026-10-24T18:00"
+    },
+    {
+      "ship": "Seadream II",
+      "line": "SeaDream Yacht Club",
+      "arrival": "2026-10-24T08:00",
+      "departure": "2026-10-24T18:00"
+    },
+    {
+      "ship": "Explora I",
+      "line": "Explora Journey",
+      "arrival": "2026-10-24T09:00",
+      "departure": "2026-10-25T02:00"
+    },
+    {
+      "ship": "World Traveller",
+      "line": "Atlas Ocean Voyages",
+      "arrival": "2026-10-25T07:00",
+      "departure": "2026-10-25T18:00"
+    },
+    {
+      "ship": "Silver Dawn",
+      "line": "Silversea Cruises",
+      "arrival": "2026-10-25T07:00",
+      "departure": "2026-10-25T23:00"
+    },
+    {
+      "ship": "Ilma",
+      "line": "Ritz-Carlton",
+      "arrival": "2026-10-26T07:00",
+      "departure": "2026-10-26T18:00"
+    },
+    {
+      "ship": "Aidaprima",
+      "line": "AIDA Cruises",
+      "arrival": "2026-10-26T07:00",
+      "departure": "2026-10-26T19:00"
+    },
+    {
+      "ship": "Britannia",
+      "line": "P&O Cruises",
+      "arrival": "2026-10-27T07:00",
+      "departure": "2026-10-27T18:00"
+    },
+    {
+      "ship": "Ventura",
+      "line": "P&O Cruises",
+      "arrival": "2026-10-28T07:00",
+      "departure": "2026-10-28T18:00"
+    },
+    {
+      "ship": "Mein Schiff 3",
+      "line": "TUI Cruises",
+      "arrival": "2026-10-30T08:00",
+      "departure": "2026-10-30T22:00"
+    },
+    {
+      "ship": "Odyssey Of The Seas",
+      "line": "Royal Caribbean International",
+      "arrival": "2026-10-31T07:00",
+      "departure": "2026-10-31T17:00"
+    },
+    {
+      "ship": "Evrima",
+      "line": "Ritz-Carlton",
+      "arrival": "2026-10-31T08:00",
+      "departure": "2026-10-31T17:00"
+    },
+    {
+      "ship": "Amadea",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-10-31T12:00",
+      "departure": "2026-11-01T14:00"
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "line": "Norwegian Cruise Lines",
+      "arrival": "2026-11-01T06:00",
+      "departure": "2026-11-01T16:00"
+    },
+    {
+      "ship": "MSC Virtuosa",
+      "line": "MSC Cruises",
+      "arrival": "2026-11-03T07:00",
+      "departure": "2026-11-03T18:00"
+    },
+    {
+      "ship": "Regatta",
+      "line": "Oceania Cruises",
+      "arrival": "2026-11-03T07:00",
+      "departure": "2026-11-03T17:00"
+    },
+    {
+      "ship": "Spirit Of Discovery",
+      "line": "Saga Cruises",
+      "arrival": "2026-11-03T07:00",
+      "departure": "2026-11-03T17:00"
+    },
+    {
+      "ship": "Crystal Serenity",
+      "line": "Crystal Cruises",
+      "arrival": "2026-11-04T08:00",
+      "departure": "2026-11-04T19:00"
+    },
+    {
+      "ship": "Borealis",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2026-11-05T07:00",
+      "departure": "2026-11-05T17:00"
+    },
+    {
+      "ship": "Amera",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-11-06T09:00",
+      "departure": "2026-11-06T17:00"
+    },
+    {
+      "ship": "Emerald Azzurra",
+      "line": "Emerald Cruises",
+      "arrival": "2026-11-06T15:00",
+      "departure": "2026-11-07T18:00"
+    },
+    {
+      "ship": "Mein Schiff Relax",
+      "line": "TUI Cruises",
+      "arrival": "2026-11-06T18:00",
+      "departure": "2026-11-07T18:00"
+    },
+    {
+      "ship": "Wind Surf",
+      "line": "Windstar Cruises",
+      "arrival": "2026-11-07T07:00",
+      "departure": "2026-11-07T17:00"
+    },
+    {
+      "ship": "Crystal Serenity",
+      "line": "Crystal Cruises",
+      "arrival": "2026-11-07T21:00",
+      "departure": "2026-11-08T18:00"
+    },
+    {
+      "ship": "Vasco Da Gama",
+      "line": "Mystic Cruises",
+      "arrival": "2026-11-08T08:00",
+      "departure": "2026-11-08T19:00"
+    },
+    {
+      "ship": "Costa Diadema",
+      "line": "Costa Cruises",
+      "arrival": "2026-11-08T08:00",
+      "departure": "2026-11-08T18:00"
+    },
+    {
+      "ship": "Wind Spirit",
+      "line": "Windstar Cruises",
+      "arrival": "2026-11-09T07:00",
+      "departure": "2026-11-09T15:00"
+    },
+    {
+      "ship": "Insignia",
+      "line": "Oceania Cruises",
+      "arrival": "2026-11-09T07:00",
+      "departure": "2026-11-09T17:00"
+    },
+    {
+      "ship": "Norwegian Star",
+      "line": "Norwegian Cruise Lines",
+      "arrival": "2026-11-09T07:00",
+      "departure": "2026-11-09T16:00"
+    },
+    {
+      "ship": "Queen Anne",
+      "line": "Cunard Line",
+      "arrival": "2026-11-10T06:00",
+      "departure": "2026-11-10T16:00"
+    },
+    {
+      "ship": "Seabourn Quest",
+      "line": "Seabourn Cruise Line",
+      "arrival": "2026-11-10T07:00",
+      "departure": "2026-11-10T17:00"
+    },
+    {
+      "ship": "Wind Star",
+      "line": "Windstar Cruises",
+      "arrival": "2026-11-10T07:00",
+      "departure": "2026-11-10T15:00"
+    },
+    {
+      "ship": "Aidaperla",
+      "line": "AIDA Cruises",
+      "arrival": "2026-11-11T07:00",
+      "departure": "2026-11-11T17:00"
+    },
+    {
+      "ship": "Club Med 2",
+      "line": "Club Med Cruises",
+      "arrival": "2026-11-11T10:00",
+      "departure": "2026-11-12T10:20"
+    },
+    {
+      "ship": "Europa",
+      "line": "Hapag-Lloyd Cruises",
+      "arrival": "2026-11-11T16:00",
+      "departure": "2026-11-12T17:00"
+    },
+    {
+      "ship": "Seadream II",
+      "line": "SeaDream Yacht Club",
+      "arrival": "2026-11-14T12:00",
+      "departure": "2026-11-14T18:00"
+    },
+    {
+      "ship": "Costa Favolosa",
+      "line": "Costa Cruises",
+      "arrival": "2026-11-15T07:00",
+      "departure": "2026-11-15T18:00"
+    },
+    {
+      "ship": "Azamara Onward",
+      "line": "Azamara Club Cruises",
+      "arrival": "2026-11-16T08:00",
+      "departure": "2026-11-17T18:00"
+    },
+    {
+      "ship": "Marella Discovery 2",
+      "line": "Marella Cruises",
+      "arrival": "2026-11-16T09:00",
+      "departure": "2026-11-16T16:00"
+    },
+    {
+      "ship": "Costa Fascinosa",
+      "line": "Costa Cruises",
+      "arrival": "2026-11-19T07:00",
+      "departure": "2026-11-20T14:00"
+    },
+    {
+      "ship": "Silver Spirit",
+      "line": "Silversea Cruises",
+      "arrival": "2026-11-22T07:00",
+      "departure": "2026-11-22T19:00"
+    },
+    {
+      "ship": "Seven Seas Navigator",
+      "line": "Regent Seven Seas Cruises",
+      "arrival": "2026-11-22T07:00",
+      "departure": "2026-11-23T17:00"
+    },
+    {
+      "ship": "Spirit Of Adventure",
+      "line": "Saga Cruises",
+      "arrival": "2026-11-23T07:00",
+      "departure": "2026-11-23T23:00"
+    },
+    {
+      "ship": "Viking Neptune",
+      "line": "Viking Cruises",
+      "arrival": "2026-11-23T11:00",
+      "departure": "2026-11-25T13:00"
+    },
+    {
+      "ship": "Queen Victoria",
+      "line": "Cunard Line",
+      "arrival": "2026-11-24T07:00",
+      "departure": "2026-11-24T17:00"
+    },
+    {
+      "ship": "Nieuw Amsterdam",
+      "line": "Holland America Line",
+      "arrival": "2026-11-24T11:00",
+      "departure": "2026-11-25T16:00"
+    },
+    {
+      "ship": "Europa",
+      "line": "Hapag-Lloyd Cruises",
+      "arrival": "2026-11-25T04:30",
+      "departure": "2026-11-25T19:00"
+    },
+    {
+      "ship": "Ventura",
+      "line": "P&O Cruises",
+      "arrival": "2026-11-26T07:00",
+      "departure": "2026-11-26T18:00"
+    },
+    {
+      "ship": "Silver Ray",
+      "line": "Silversea Cruises",
+      "arrival": "2026-11-28T07:00",
+      "departure": "2026-11-28T23:00"
+    },
+    {
+      "ship": "Ambience",
+      "line": "Ambassador Cruise Line",
+      "arrival": "2026-11-29T08:00",
+      "departure": "2026-11-29T18:00"
+    },
+    {
+      "ship": "Costa Deliziosa",
+      "line": "Costa Cruises",
+      "arrival": "2026-11-29T12:00",
+      "departure": "2026-11-29T21:00"
+    },
+    {
+      "ship": "Iona",
+      "line": "P&O Cruises",
+      "arrival": "2026-11-30T07:00",
+      "departure": "2026-11-30T23:59"
+    },
+    {
+      "ship": "Queen Anne",
+      "line": "Cunard Line",
+      "arrival": "2026-12-02T07:00",
+      "departure": "2026-12-02T18:00"
+    },
+    {
+      "ship": "Spirit Of Discovery",
+      "line": "Saga Cruises",
+      "arrival": "2026-12-03T07:00",
+      "departure": "2026-12-03T17:00"
+    },
+    {
+      "ship": "Balmoral",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2026-12-06T07:00",
+      "departure": "2026-12-06T17:30"
+    },
+    {
+      "ship": "Aurora",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-07T07:00",
+      "departure": "2026-12-07T18:00"
+    },
+    {
+      "ship": "Silver Dawn",
+      "line": "Silversea Cruises",
+      "arrival": "2026-12-09T07:00",
+      "departure": "2026-12-09T19:00"
+    },
+    {
+      "ship": "Silver Nova",
+      "line": "Silversea Cruises",
+      "arrival": "2026-12-09T07:00",
+      "departure": "2026-12-09T23:00"
+    },
+    {
+      "ship": "Amadea",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-12-10T08:00",
+      "departure": "2026-12-10T17:00"
+    },
+    {
+      "ship": "Celestyal Discovery",
+      "line": "Celestyal Cruises",
+      "arrival": "2026-12-12T12:00",
+      "departure": "2026-12-13T18:00"
+    },
+    {
+      "ship": "Queen Victoria",
+      "line": "Cunard Line",
+      "arrival": "2026-12-13T07:00",
+      "departure": "2026-12-13T19:00"
+    },
+    {
+      "ship": "Borealis",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2026-12-14T09:00",
+      "departure": "2026-12-14T18:30"
+    },
+    {
+      "ship": "Seven Seas Voyager",
+      "line": "Regent Seven Seas Cruises",
+      "arrival": "2026-12-14T09:00",
+      "departure": "2026-12-14T21:00"
+    },
+    {
+      "ship": "Iona",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-15T07:00",
+      "departure": "2026-12-16T17:00"
+    },
+    {
+      "ship": "Spirit Of Discovery",
+      "line": "Saga Cruises",
+      "arrival": "2026-12-17T07:00",
+      "departure": "2026-12-17T17:00"
+    },
+    {
+      "ship": "Star Seeker",
+      "line": "Windstar Cruises",
+      "arrival": "2026-12-17T12:00",
+      "departure": "2026-12-18T18:00"
+    },
+    {
+      "ship": "Ventura",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-18T07:00",
+      "departure": "2026-12-18T18:00"
+    },
+    {
+      "ship": "Arcadia",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-18T07:00",
+      "departure": "2026-12-18T17:00"
+    },
+    {
+      "ship": "Queen Victoria",
+      "line": "Cunard Line",
+      "arrival": "2026-12-19T07:00",
+      "departure": "2026-12-19T18:00"
+    },
+    {
+      "ship": "Spirit Of Adventure",
+      "line": "Saga Cruises",
+      "arrival": "2026-12-19T07:00",
+      "departure": "2026-12-19T17:00"
+    },
+    {
+      "ship": "Sirena",
+      "line": "Oceania Cruises",
+      "arrival": "2026-12-21T07:00",
+      "departure": "2026-12-21T19:00"
+    },
+    {
+      "ship": "Explora III",
+      "line": "Explora Journey",
+      "arrival": "2026-12-21T08:00",
+      "departure": "2026-12-22T08:00"
+    },
+    {
+      "ship": "Spirit Of Discovery",
+      "line": "Saga Cruises",
+      "arrival": "2026-12-23T07:00",
+      "departure": "2026-12-23T20:00"
+    },
+    {
+      "ship": "Mein Schiff 7",
+      "line": "TUI Cruises",
+      "arrival": "2026-12-23T08:00",
+      "departure": "2026-12-23T22:00"
+    },
+    {
+      "ship": "Azura",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-24T07:00",
+      "departure": "2026-12-24T21:00"
+    },
+    {
+      "ship": "Ambience",
+      "line": "Ambassador Cruise Line",
+      "arrival": "2026-12-24T09:00",
+      "departure": "2026-12-24T18:00"
+    },
+    {
+      "ship": "Amera",
+      "line": "Phoenix Reisen",
+      "arrival": "2026-12-25T11:00",
+      "departure": "2026-12-25T18:00"
+    },
+    {
+      "ship": "Ambition",
+      "line": "Ambassador Cruise Line",
+      "arrival": "2026-12-26T11:00",
+      "departure": "2026-12-26T18:00"
+    }
+  ]
+}

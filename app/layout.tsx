@@ -13,18 +13,18 @@ const plusJakarta = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://lisbon-cruise-guide.com'),
-  title: "Lisbon Cruise Guide | 70 Attractions for Cruise Passengers",
-  description: "Discover 70 tourist attractions in Lisbon perfect for cruise ship passengers. Complete guide with hours, prices, directions from port, photos, and insider tips.",
+  title: "Lisbon Cruise Guide | Plan Your Port Day in Lisbon",
+  description: "Independent guide to Lisbon for cruise ship passengers: port day planner, measured walking times from the cruise terminal, shore itineraries, prices and opening hours.",
   keywords: "Lisbon attractions, cruise port Lisbon, Lisbon tourism, things to do Lisbon, Lisbon shore excursions, cruise passenger guide",
   openGraph: {
-    title: "Lisbon Cruise Guide - 70 Attractions for Cruise Passengers",
-    description: "Explore 70 attractions in Lisbon with photos, prices, and visitor information optimized for cruise passengers",
+    title: "Lisbon Cruise Guide - Plan Your Port Day in Lisbon",
+    description: "Port day planner, shore itineraries and attraction listings built around the Lisbon cruise terminal",
     type: "website",
     siteName: "Lisbon Cruise Guide",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Lisbon Cruise Guide - 70 Attractions for Cruise Passengers",
+    title: "Lisbon Cruise Guide - Plan Your Port Day in Lisbon",
     description: "Complete guide to Lisbon attractions for cruise passengers",
   },
   robots: {
@@ -71,9 +71,11 @@ export default function RootLayout({
                 <span className="text-lg font-bold text-[#003366]">Lisbon Cruise Guide</span>
               </div>
               <p className="text-sm">
-                Your comprehensive guide to Lisbon attractions for cruise ship passengers
+                An independent guide to Lisbon for cruise ship passengers
               </p>
               <nav className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 mt-6 text-sm">
+                <Link href="/planner" className="hover:text-[#003366] transition-colors">Port Day Planner</Link>
+                <Link href="/cruise-calendar" className="hover:text-[#003366] transition-colors">Cruise Ship Calendar</Link>
                 <Link href="/guides" className="hover:text-[#003366] transition-colors">Shore Guides</Link>
                 <Link href="/about" className="hover:text-[#003366] transition-colors">About</Link>
                 <Link href="/contact" className="hover:text-[#003366] transition-colors">Contact</Link>

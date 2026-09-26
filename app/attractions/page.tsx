@@ -6,7 +6,7 @@ import SearchBar from '@/components/SearchBar';
 
 export const metadata = {
   title: 'All Attractions in Lisbon | Complete Guide for Cruise Passengers',
-  description: 'Browse all 70 tourist attractions in Lisbon with photos, reviews, prices, and directions from the cruise port. Find the perfect places to visit during your shore excursion.',
+  description: 'Every Lisbon attraction in our guide with prices, opening hours and measured walking times from the cruise terminal, so you can plan a port day that gets you back on board.',
   alternates: {
     canonical: '/attractions',
   },

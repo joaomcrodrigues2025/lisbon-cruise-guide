@@ -29,6 +29,19 @@ import { alfamaWalkFromPort } from './guides/alfama-walk-from-port';
 import { accessibleLisbonFromPort } from './guides/accessible-lisbon-from-port';
 import { moneySafetyTouristTraps } from './guides/money-safety-tourist-traps';
 import { rainyDayInLisbon } from './guides/rainy-day-in-lisbon';
+import { lisbonToursForCruisePassengers } from './guides/lisbon-tours-for-cruise-passengers';
+import { belemInThreeHours } from './guides/belem-in-three-hours';
+import { cascaisOnAPortDay } from './guides/cascais-on-a-port-day';
+import { firstTimeLisbonCruiseMistakes } from './guides/first-time-lisbon-cruise-mistakes';
+import { lisboaCardForCruisePassengers } from './guides/lisboa-card-for-cruise-passengers';
+import { lisbonAirportToCruiseTerminal } from './guides/lisbon-airport-to-cruise-terminal';
+import { lisbonEveningOvernightCall } from './guides/lisbon-evening-overnight-call';
+import { lisbonFoodNearCruiseTerminal } from './guides/lisbon-food-near-cruise-terminal';
+import { lisbonOnAMonday } from './guides/lisbon-on-a-monday';
+import { lisbonViewpointsRoute } from './guides/lisbon-viewpoints-route';
+import { lisbonWeatherByMonthCruise } from './guides/lisbon-weather-by-month-cruise';
+import { lisbonWithKidsCruise } from './guides/lisbon-with-kids-cruise';
+import { prePostCruiseLisbon } from './guides/pre-post-cruise-lisbon';
 
 export const guides: Guide[] = [
   cruiseTerminalGuide,
@@ -39,6 +52,19 @@ export const guides: Guide[] = [
   accessibleLisbonFromPort,
   moneySafetyTouristTraps,
   rainyDayInLisbon,
+  lisbonToursForCruisePassengers,
+  belemInThreeHours,
+  cascaisOnAPortDay,
+  firstTimeLisbonCruiseMistakes,
+  lisboaCardForCruisePassengers,
+  lisbonAirportToCruiseTerminal,
+  lisbonEveningOvernightCall,
+  lisbonFoodNearCruiseTerminal,
+  lisbonOnAMonday,
+  lisbonViewpointsRoute,
+  lisbonWeatherByMonthCruise,
+  lisbonWithKidsCruise,
+  prePostCruiseLisbon,
 ];
 
 export function getAllGuides(): Guide[] {

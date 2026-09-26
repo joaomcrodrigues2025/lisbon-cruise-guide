@@ -54,3 +54,16 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Justified body copy; in the base layer so utilities like text-center still win */
+@layer base {
+  main :where(p, li, dd):not(:where([class*="line-clamp"], .text-center *, .text-center)) {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
+/* Leaflet popups and controls use the site font */
+.leaflet-container {
+  font-family: inherit;
+}

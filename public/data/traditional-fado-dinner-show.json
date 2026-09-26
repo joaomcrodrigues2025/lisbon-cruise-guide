@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Fado restaurants located throughout historic Lisbon, concentrated in Alfama (traditional), Bairro Alto (bohemian), and Lapa (upscale)",
-      "fromCruisePort": "15-20 minute taxi/Uber to most fado venues. Alfama venues closest (2km). Some premium venues offer cruise port pickup. Walking possible to Alfama (35-40 minutes)",
+      "fromCruisePort": "Many of Lisbon's fado houses are in Alfama, within 5-15 minutes on foot of the terminal; the listing's reference point is about 250 m away. After a late show, a taxi back to the ship takes a few minutes.",
       "publicTransport": "Metro to Santa Apolónia or Terreiro do Paço, then walk to Alfama. Tram 28 stops near several fado houses. Taxis recommended for evening shows",
       "parking": "Very limited in Alfama - not recommended. Taxi or rideshare strongly advised"
     },
     "distanceFromCruisePort": {
-      "meters": 2200,
-      "walkingTime": "25-30 minutes",
+      "meters": 255,
+      "walkingTime": "4 min walk",
       "drivingTime": "10-12 minutes"
     }
   },

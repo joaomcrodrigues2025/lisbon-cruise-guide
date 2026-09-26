@@ -3,7 +3,7 @@ import { getAllAttractions } from '@/lib/data';
 import { getAllGuides } from '@/lib/guides';
 import { CURATED_CATEGORIES, SITE_URL } from '@/lib/taxonomy';
 
-const LAST_MODIFIED = new Date('2026-07-23');
+const LAST_MODIFIED = new Date('2026-09-25');
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const attractions = await getAllAttractions();
@@ -32,6 +32,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticPages: MetadataRoute.Sitemap = [
     { url: SITE_URL, lastModified: LAST_MODIFIED, changeFrequency: 'weekly', priority: 1 },
     { url: `${SITE_URL}/attractions`, lastModified: LAST_MODIFIED, changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${SITE_URL}/planner`, lastModified: LAST_MODIFIED, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${SITE_URL}/cruise-calendar`, lastModified: LAST_MODIFIED, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${SITE_URL}/guides`, lastModified: LAST_MODIFIED, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${SITE_URL}/map`, lastModified: LAST_MODIFIED, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${SITE_URL}/image-credits`, lastModified: LAST_MODIFIED, changeFrequency: 'monthly', priority: 0.2 },

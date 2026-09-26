@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in Bairro Alto district, on Largo Trindade Coelho, next to São Roque Museum",
-      "fromCruisePort": "2km from cruise terminal - 30 minutes uphill walk, or take metro to Baixa-Chiado then Elevador da Glória funicular",
-      "publicTransport": "Metro to Baixa-Chiado (Blue/Green lines), then Elevador da Glória funicular. Bus routes 758, 790. Tram 28 stops nearby.",
+      "fromCruisePort": "About 2.2 km and 34 minutes on foot, the final stretch uphill. Easier: metro Blue Line from Santa Apolónia to Baixa-Chiado, then 5-7 minutes on foot from the Chiado exit, gently uphill along Rua da Misericórdia. The Elevador da Glória funicular has been closed since the September 2025 accident. Taxi about 10 minutes.",
+      "publicTransport": "Metro to Baixa-Chiado (Blue/Green lines), then a 5-7 minute walk from the Chiado exit. Bus routes 758, 790. Tram 28 stops nearby. The Elevador da Glória funicular has been closed since September 2025.",
       "parking": "Limited street parking. Nearest car park at Praça dos Restauradores"
     },
     "distanceFromCruisePort": {
-      "meters": 2000,
-      "walkingTime": "25-30 minutes uphill",
+      "meters": 2243,
+      "walkingTime": "34 min walk",
       "drivingTime": "10 minutes"
     }
   },
@@ -93,17 +93,17 @@
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
     "timeNeededFromPort": "1.5-2 hours including travel and visit",
-    "accessibility": "Moderate - requires uphill walk or funicular ride. Church interior is accessible, but museum has stairs.",
+    "accessibility": "Moderate - requires an uphill walk (the Glória funicular is closed); the metro to Baixa-Chiado or a taxi saves most of it. Church interior is accessible, but museum has stairs.",
     "combinableWith": [
       "Miradouro de São Pedro de Alcântara",
       "Bairro Alto neighborhood",
-      "Elevador da Glória",
+      "Príncipe Real",
       "Convento do Carmo",
       "Chiado district"
     ],
     "tips": [
       "Free church entry makes this perfect for cruise passengers on a budget",
-      "Take Elevador da Glória funicular from Restauradores to save energy",
+      "The Glória funicular is closed: take the metro to Baixa-Chiado and walk 5-7 minutes from the Chiado exit, or take a taxi to the door",
       "Combine with Bairro Alto neighborhood exploration",
       "Don't be deceived by the plain exterior - interior is spectacular",
       "Flash photography not permitted inside church",
@@ -174,7 +174,7 @@
       "walkingTime": "2-3 minutes"
     },
     {
-      "name": "Elevador da Glória",
+      "name": "Elevador da Glória (closed since September 2025)",
       "distance": "200 meters",
       "type": "funicular",
       "walkingTime": "3 minutes"

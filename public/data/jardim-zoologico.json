@@ -31,13 +31,13 @@
     },
     "directions": {
       "general": "Located in Sete Rios, northwest of central Lisbon, near Benfica neighborhood",
-      "fromCruisePort": "35-40 minutes by metro - Blue Line to Jardim Zoológico station with direct access to zoo entrance",
+      "fromCruisePort": "About 7.8 km from the terminal, not walkable. Metro Blue Line runs direct from Santa Apolónia (10 minutes' walk from the terminal) to Jardim Zoológico station, about 20 minutes, with the zoo entrance next to the exit. Taxi about 20 minutes.",
       "publicTransport": "Metro: Blue Line to Jardim Zoológico station (exit leads directly to zoo). Buses: 701, 716, 726, 746, 755, 758. Train: Sete Rios station (5-minute walk).",
       "parking": "Paid parking available at zoo entrance and nearby shopping centers"
     },
     "distanceFromCruisePort": {
-      "meters": 9500,
-      "walkingTime": "Not recommended - 2 hours",
+      "meters": 7835,
+      "walkingTime": "Not practical on foot (1h 56min walk)",
       "drivingTime": "20-25 minutes depending on traffic"
     }
   },
