@@ -14,6 +14,7 @@ export interface Guide {
   excerpt: string;
   author: string;
   publishedDate: string; // ISO date
+  updatedDate?: string; // ISO date of the last substantive revision
   readingTime: string;
   heroImage?: string;
   heroImageAlt?: string;

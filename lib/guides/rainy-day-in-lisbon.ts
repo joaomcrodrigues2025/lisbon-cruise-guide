@@ -10,6 +10,7 @@ export const rainyDayInLisbon: Guide = {
     'Lisbon in the rain loses its terraces and keeps almost everything else — and its slippery cobbles genuinely reorder what is worth doing. A wet-weather plan that is not a consolation prize.',
   author: 'João Rodrigues',
   publishedDate: '2026-07-23',
+  updatedDate: '2026-09-26',
   readingTime: '8 min read',
   sections: [
     {

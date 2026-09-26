@@ -56,6 +56,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
     headline: guide.title,
     description: guide.metaDescription,
     datePublished: guide.publishedDate,
+    dateModified: guide.updatedDate ?? guide.publishedDate,
     author: {
       '@type': 'Person',
       name: guide.author,
@@ -97,7 +98,10 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-slate-500 border-b border-slate-200 pb-6">
           <span className="font-medium text-slate-700">By {guide.author}</span>
           <span aria-hidden>·</span>
-          <span>Published {formatDate(guide.publishedDate)}</span>
+          <span>
+            Published {formatDate(guide.publishedDate)}
+            {guide.updatedDate && ` · Updated ${formatDate(guide.updatedDate)}`}
+          </span>
           <span aria-hidden>·</span>
           <span>{guide.readingTime}</span>
         </div>

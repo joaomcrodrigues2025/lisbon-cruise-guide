@@ -10,6 +10,7 @@ export const accessibleLisbonFromPort: Guide = {
     'Lisbon is a city of hills and cobbles — and yet its cruise terminal opens onto one of the most wheel-friendly historic waterfronts in Europe. What works, what does not, and how to build a good day around the difference.',
   author: 'João Rodrigues',
   publishedDate: '2026-07-23',
+  updatedDate: '2026-09-26',
   readingTime: '9 min read',
   sections: [
     {

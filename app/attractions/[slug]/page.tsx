@@ -68,7 +68,7 @@ export default async function AttractionDetailPage({ params }: { params: Promise
           <h1 className="text-3xl font-bold text-[#003366]">{attraction.name}</h1>
           <p className="text-lg text-slate-600 mt-2">{attraction.tagline}</p>
           <p className="text-sm text-slate-500 mt-3">
-            Listing reviewed July 2026 · Confirm hours and prices with the official venue before visiting
+            Listing reviewed September 2026 · Confirm hours and prices with the official venue before visiting
           </p>
         </div>
       </div>

@@ -10,6 +10,7 @@ export const moneySafetyTouristTraps: Guide = {
     'Lisbon is one of Western Europe\'s safest capitals — and still relieves careless visitors of a surprising amount of money, mostly legally. The rules of the game, learned locally.',
   author: 'João Rodrigues',
   publishedDate: '2026-07-23',
+  updatedDate: '2026-09-26',
   readingTime: '8 min read',
   sections: [
     {

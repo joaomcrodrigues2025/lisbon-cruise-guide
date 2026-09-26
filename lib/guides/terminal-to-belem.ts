@@ -10,6 +10,7 @@ export const terminalToBelem: Guide = {
     'Belém holds Lisbon\'s two heavyweight monuments — and sits 7 km from the main cruise quay. The transport you choose decides whether the trip costs you 50 minutes or two and a half hours of your day.',
   author: 'João Rodrigues',
   publishedDate: '2026-07-23',
+  updatedDate: '2026-09-26',
   readingTime: '8 min read',
   heroImage: '/images/attractions/mosteiro-dos-jeronimos-hero.webp',
   heroImageAlt: 'The Manueline façade of the Jerónimos Monastery in Belém',
