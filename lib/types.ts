@@ -1,6 +1,7 @@
 export interface Attraction {
   id: string;
   name: string;
+  seoTitle?: string; // hand-written page title, without the site suffix
   tagline: string;
   type: string;
   categories: string[];

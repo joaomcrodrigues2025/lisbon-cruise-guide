@@ -1,7 +1,8 @@
 {
   "id": "mercado-campo-de-ourique",
   "name": "Mercado de Campo de Ourique",
-  "tagline": "Lisbon's beloved neighborhood market blending traditional food stalls with modern food court",
+  "seoTitle": "Mercado de Campo de Ourique: A Local Lunch Off Tram 28",
+  "tagline": "A 1934 neighbourhood market with a food hall, worth the trip only if you want a local lunch at the end of tram 28",
   "type": "market",
   "categories": [
     "food-market",
@@ -12,10 +13,10 @@
     "neighborhood"
   ],
   "description": {
-    "short": "Mercado de Campo de Ourique is a charming blend of traditional Portuguese market and modern food court, offering fresh produce, artisanal products, and diverse cuisine in a relaxed neighborhood atmosphere beloved by locals.",
-    "full": "Mercado de Campo de Ourique represents a successful marriage of tradition and modernity in Lisbon's food scene. This neighborhood market combines classic market stalls selling fresh fish, meat, fruits, vegetables, and Portuguese specialties with a contemporary food court featuring diverse culinary options from traditional Portuguese to international cuisines. Unlike the touristy Time Out Market, Campo de Ourique maintains an authentic local vibe, attracting neighborhood residents for daily shopping and casual dining. The market's layout creates a beautiful symbiosis: food court vendors source ingredients directly from the market stalls, ensuring freshness while supporting traditional vendors. Communal seating fills the center of the market, surrounded by both food stalls and produce vendors, creating a lively social atmosphere. The food court section offers everything from traditional Portuguese petiscos and seafood to Asian cuisine, gourmet burgers, fresh juices, craft beer, and artisanal coffee. You might find bacalhau croquettes next to Vietnamese pho, Portuguese wine bars beside craft beer taps, and traditional pastries alongside modern fusion dishes. The market building itself features attractive architecture and good natural lighting, making it an pleasant space to linger. Morning visits reveal the traditional market in full swing, with locals selecting fresh ingredients, while lunch and evening transform it into a buzzing dining destination. Located in the residential Campo de Ourique neighborhood away from main tourist zones, the market offers an authentic glimpse into local Lisbon life while providing excellent food at reasonable prices.",
-    "history": "Mercado de Campo de Ourique, like many Lisbon neighborhood markets, was originally built in the early 20th century to serve the local community with fresh produce and goods. As shopping habits changed and supermarkets emerged, many traditional markets struggled or closed. Campo de Ourique's market underwent renovation and reinvention, adding the food court concept while preserving the traditional market section. This hybrid model proved successful, revitalizing the space and making it financially viable while maintaining its community role.",
-    "significance": "Mercado de Campo de Ourique demonstrates how traditional markets can evolve and survive by adapting to contemporary needs while preserving their essential character. It serves as a neighborhood anchor, providing both daily necessities and social gathering space. Unlike purely tourist-oriented food halls, it remains genuinely local while welcoming visitors, offering an authentic window into Lisbon's everyday life and food culture."
+    "short": "A municipal market in the residential Campo de Ourique district, opened in 1934 and remodelled in 2013 with food counters and shared tables in the central hall. Fresh-food stalls trade alongside. About 4.2 km from the cruise terminal.",
+    "full": "Most cruise passengers will not need to come here. It is a neighbourhood market about 4.2 km west of the ship, with no sights of its own, and the Time Out Market at Cais do Sodré is closer if all you want is a food hall. Campo de Ourique suits a different visitor: someone on a second or third trip to Lisbon, someone who wants lunch among residents rather than tour groups, or someone riding tram 28 to the end of the line who needs a reason to get off.\n\nTo get there, take a taxi (about 15 minutes), or ride tram 28 to its western terminus at Campo de Ourique (Prazeres) and walk a few minutes into the district. Tram 28 is slow and often full; from the terminal you can board it in Alfama, but expect to stand or wait for a second car in high season.\n\nThe market has two parts. The traditional stalls sell fish, meat, fruit and vegetables, bacalhau, bread, charcuterie, tinned fish, spices and flowers, and are busiest and best stocked in the morning. The central hall holds food and drink counters with shared tables; locals fill it at lunch from about 12:30 and again in the evening. The building is open from 07:00 every day, until 23:00 from Sunday to Wednesday and until 01:00 from Thursday to Saturday, though individual counters set their own hours.\n\nIf you come, arrive around 11:30 to see the stalls before the lunch crowd, eat, and then walk five minutes along Rua Coelho da Rocha to the Casa Fernando Pessoa, or about 15 minutes to the Basílica da Estrela and the Jardim da Estrela, where the 28 also stops. Allow two and a half to three hours from the ship for the round trip and lunch. Skip it on a short call, or if you have not yet seen the Baixa, Alfama or Belém.",
+    "history": "The market opened in 1934 to serve Campo de Ourique, a residential district laid out on a grid from the late 19th century on the western edge of the city. Like Lisbon's other municipal markets, it lost trade as supermarkets spread, and it was remodelled in 1991. A second remodelling in 2013 kept the traditional stalls around the edges and turned the central hall into food and drink counters with shared tables, one of the first Lisbon markets to combine the two. The market remains under Lisbon City Council, with the food hall run under a concession.",
+    "significance": "It shows how a working municipal market has been kept alive by adding a food hall without pushing out the fishmongers, butchers and greengrocers. For a visitor its value is the setting: a residential district with few tourists, where lunch costs less than in the Baixa and you eat beside people doing their shopping. It is not a sight in itself."
   },
   "location": {
     "address": {
@@ -43,9 +44,9 @@
     }
   },
   "contact": {
-    "phone": "+351 21 380 7920",
-    "email": "geral@mercadocampodeourique.pt",
-    "website": "https://www.mercadocampodeourique.com/",
+    "phone": "+351 218 172 063",
+    "email": null,
+    "website": "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/mercado-campo-de-ourique",
     "bookingUrl": null,
     "socialMedia": {
       "facebook": "https://www.facebook.com/MercadoCampoDeOurique",
@@ -55,99 +56,86 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily",
+      "currentStatus": "Open daily from 07:00",
       "seasonal": [
         {
           "season": "Year-round",
-          "days": "Monday to Saturday",
-          "hours": "08:00 - 21:00",
-          "notes": "Traditional market stalls: 08:00-14:00, Food court: 10:00-21:00"
+          "days": "Sunday to Wednesday",
+          "hours": "07:00 - 23:00",
+          "notes": "Traditional stalls trade mainly in the morning; food counters set their own hours"
         },
         {
           "season": "Year-round",
-          "days": "Sunday",
-          "hours": "10:00 - 21:00",
-          "notes": "Food court only - traditional market closed"
+          "days": "Thursday to Saturday",
+          "hours": "07:00 - 01:00",
+          "notes": "Traditional stalls trade mainly in the morning; food counters set their own hours"
         }
       ],
       "closedDates": [
-        "Major holidays may vary by vendor"
+        "Individual stalls and counters may close on public holidays"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free entry. Individual food and drink purchases €3-15. Market produce at standard prices. Budget €8-20 per person for food court meal."
+      "notes": "Free entry. You pay per dish or drink at each counter; prices vary by stall."
     },
-    "averageVisitDuration": "45 minutes to 2 hours",
-    "bestTimeToVisit": "Morning (09:00-11:00) to see traditional market in action. Lunch (12:00-14:00) for food court at its liveliest. Less crowded than Time Out Market.",
+    "averageVisitDuration": "45 minutes to 1.5 hours",
+    "bestTimeToVisit": "Late morning (about 11:30) to see the fresh-food stalls before the lunch rush.",
     "busyPeriods": [
-      "Lunch time (12:00-14:00)",
+      "Weekday lunch (12:30-14:30)",
       "Saturday mornings",
-      "Weekend afternoons"
+      "Thursday to Saturday evenings"
     ],
-    "adviceForVisitors": "Visit morning for traditional market shopping, return for lunch in food court. More local atmosphere than tourist markets. Mix and match dishes from different vendors. Try Portuguese specialties and fresh juice bars. Good for families - variety pleases everyone. Casual, relaxed vibe - no rush. Cash helpful for some traditional stalls though most accept cards."
+    "adviceForVisitors": "Come in the morning for the traditional stalls and stay for an early lunch. Order at several counters and share a table. Combine with the Casa Fernando Pessoa or the Jardim da Estrela."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2.5-3.5 hours total (includes travel time)",
-    "accessibility": "Moderate - requires transportation to neighborhood, but rewarding for those seeking local experience",
+    "timeNeededFromPort": "About 2.5-3 hours return, including lunch",
+    "accessibility": "4.2 km from the ship: taxi about 15 minutes, or tram 28 to the Campo de Ourique (Prazeres) terminus and a short walk. The market is on one level.",
     "combinableWith": [
-      "Estrela neighborhood",
-      "Estrela Basilica",
-      "Estrela Garden",
-      "Tram 28 ride",
-      "Amoreiras shopping"
+      "Tram 28",
+      "Casa Fernando Pessoa",
+      "Basílica da Estrela",
+      "Jardim da Estrela",
+      "Cemitério dos Prazeres"
     ],
     "tips": [
-      "Authentic local experience - few tourists",
-      "Combine with Tram 28 journey through neighborhood",
-      "Perfect lunch stop if exploring Campo de Ourique or Estrela",
-      "More affordable than central tourist markets",
-      "Great for foodies wanting to escape tourist areas",
-      "Try fresh juice stands - excellent value",
-      "Sample Portuguese petiscos from multiple vendors",
-      "Browse traditional market for local food products",
-      "Relaxed pace - good break from tourist crowds",
-      "Nearby Estrela Garden perfect for post-lunch stroll",
-      "English spoken at food court vendors, limited at traditional stalls",
-      "Kids friendly - diverse food options"
+      "Only worth the trip if you want a local lunch or are already riding tram 28; on a first, short visit, spend the time in the Baixa, Alfama or Belém instead.",
+      "Tram 28 ends at Campo de Ourique (Prazeres); it is slow and crowded in high season, so a taxi (about 15 minutes) is the quicker option.",
+      "The fresh-food stalls are best before midday; by mid-afternoon many have packed up.",
+      "The building opens at 07:00 every day and stays open until 23:00 Sunday to Wednesday and 01:00 Thursday to Saturday.",
+      "Order from several counters and share a table, as locals do.",
+      "The Casa Fernando Pessoa is on the same street, Rua Coelho da Rocha, a few minutes' walk away.",
+      "The Basílica and Jardim da Estrela are about 15 minutes' walk and on the tram 28 route back towards the centre.",
+      "Tinned fish and dried fruit from the stalls pack easily for the ship."
     ]
   },
   "features": {
     "highlights": [
-      "Blend of traditional market and modern food court",
-      "Fresh fish, meat, fruit, and vegetable stalls",
-      "20+ food court vendors with diverse cuisines",
-      "Local neighborhood atmosphere",
-      "Communal seating area",
-      "Portuguese specialties and international options",
-      "Fresh juice and smoothie bars",
-      "Craft beer and wine selections",
-      "Artisanal products and Portuguese delicacies",
-      "Gourmet food vendors and traditional options",
-      "Seafood, Asian cuisine, burgers, pastries, coffee",
-      "Vendors source ingredients from market stalls"
+      "Traditional stalls for fish, meat, fruit and vegetables, bacalhau and bread",
+      "Charcuterie, tinned fish, spices, dried fruit and sweets",
+      "Central food hall with shared tables",
+      "Flower and plant stalls",
+      "Residential setting near the tram 28 terminus",
+      "Casa Fernando Pessoa a few minutes' walk along the same street"
     ],
     "facilities": [
-      "Traditional market stalls (morning hours)",
-      "20+ food court vendors",
-      "Communal seating area",
-      "Restrooms",
-      "Free Wi-Fi",
-      "High tables and regular tables",
-      "Natural lighting and ventilation",
-      "Baby changing facilities"
+      "Toilets",
+      "ATM (Multibanco)",
+      "Shared seating in the central hall",
+      "Car park nearby on Rua Padre Francisco",
+      "Small services such as key cutting and shoe repair"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Ground level market, wheelchair accessible. Wide aisles, accessible restrooms. Some traditional market areas may be more crowded.",
+      "mobilityNotes": "Single-level market hall. Aisles and seating get crowded at lunch and in the evening. The surrounding district is relatively flat for Lisbon.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
     "languages": [
       "Portuguese",
-      "English limited at traditional stalls, better at food court"
+      "English at most food counters, less at the traditional stalls"
     ]
   },
   "images": {

@@ -1,7 +1,8 @@
 {
   "id": "teleferico-de-lisboa",
   "name": "Teleférico de Lisboa (Lisbon Cable Car)",
-  "tagline": "Soar above Parque das Nações with panoramic views of the Tagus River",
+  "seoTitle": "Lisbon Cable Car: Fares, Hours and When to Ride",
+  "tagline": "A 10-minute gondola ride along the river in Parque das Nações, worth adding to an Oceanário visit rather than crossing the city for",
   "type": "cable-car",
   "categories": [
     "cable-car",
@@ -11,10 +12,10 @@
     "modern-attraction"
   ],
   "description": {
-    "short": "The Lisbon Cable Car offers a breathtaking 1,230-meter aerial journey along the Tagus River waterfront in Parque das Nações, providing stunning panoramic views of modern Lisbon, the Vasco da Gama Bridge, and the river estuary from comfortable enclosed gondolas.",
-    "full": "The Teleférico de Lisboa (Lisbon Cable Car) is one of the city's most scenic attractions, built for Expo '98 and still delighting visitors with spectacular aerial views of Parque das Nações and the Tagus River. The cable car system stretches 1,230 meters along the waterfront, reaching a maximum height of 30 meters above ground, offering unparalleled photographic opportunities of Lisbon's modern architectural district. The journey takes approximately 8-10 minutes one way, with enclosed gondolas that accommodate up to 8 passengers each, providing comfort and safety while you glide silently above the beautifully landscaped riverside promenade. From your aerial vantage point, you'll see the iconic Oceanário de Lisboa (one of Europe's largest aquariums), the striking Vasco da Gama Tower, the modern Oriente Station designed by Santiago Calatrava, and on clear days, the magnificent 17-kilometer Vasco da Gama Bridge stretching across the Tagus. The cable car operates in both directions, so you can choose to make it a one-way journey combined with a riverside walk, or enjoy the round-trip experience. The stations are located at the northern end near the Oceanário and the southern end near the Vasco da Gama Tower, both offering easy access to restaurants, shopping, and cultural attractions. Perfect for all ages, the cable car provides a unique perspective on this vibrant waterfront district that transformed Lisbon's eastern shoreline. The system uses modern Swiss-manufactured technology, ensuring smooth, quiet operation with minimal environmental impact.",
-    "history": "The Teleférico de Lisboa was constructed as part of Expo '98, the World's Fair that commemorated the 500th anniversary of Vasco da Gama's voyage to India and transformed a former industrial wasteland into Parque das Nações. Designed by Swiss cable car manufacturer Garaventa AG, the system opened in May 1998 and has transported millions of visitors since. The cable car became an integral part of the Expo '98 experience and remains a beloved feature of the redeveloped waterfront district.",
-    "significance": "As part of the Expo '98 legacy, the cable car represents Lisbon's successful urban regeneration and transformation into a modern European capital. It provides accessible views of one of the city's most ambitious development projects and connects major attractions along the Parque das Nações waterfront. The cable car system is an engineering achievement and a symbol of Lisbon's forward-thinking urban planning."
+    "short": "A gondola lift built for Expo '98 that runs 1,230 m along the riverfront of Parque das Nações, between the Oceanário and the Vasco da Gama Tower, about 30 m above the water's edge. A one-way adult ticket costs €7.50.",
+    "full": "The cable car is a short ride, eight to twelve minutes each way, so on its own it does not justify the trip from the ship. It works as an add-on: if you are already going to the Oceanário or walking the Parque das Nações waterfront, it gives you a raised view of the district, the river and the Vasco da Gama Bridge for €7.50.\n\nFrom the terminal, walk about 10 minutes to Santa Apolónia and take a suburban train to Oriente, or take a taxi (about 15 minutes). The south station is on Passeio de Neptuno next to the Oceanário; the north station is on Passeio das Tágides beside the Vasco da Gama Tower, now a hotel.\n\nThe best use of time is one way only. Ride from the Oceanário end north, looking towards the bridge, then walk back along the river; the line follows the promenade, so the walk is easy and flat. A return ticket costs €9.50 and suits anyone who would rather not walk. Children aged 3 to 12 pay €5.50 one way and €6.50 return. There is no separate senior fare on the cable car itself, but the combined cable car and Oceanário ticket has one (€25.30 for over-65s, €33.90 for adults).\n\nOpening hours change through the year: 11:00 to 19:00 until 23 October 2026, then 11:00 to 18:00 until 12 March 2027, with longer summer hours (10:30 to 20:00) from late May to mid-September. It does not run before 10:30 in any season, so it cannot be your first stop on an early arrival. Queues build on weekend afternoons; weekday mornings after opening are quietest.\n\nTickets must be bought before boarding. They are non-refundable but do not expire, which helps if wind or a schedule change stops you riding.",
+    "history": "The gondola lift entered service in March 1998, two months before Expo '98 opened, and was one of the fair's most used attractions. It was built to carry visitors along the riverfront of the exhibition site, the former industrial land that became Parque das Nações. The equipment is by Doppelmayr: a detachable monocable system with 40 enclosed cabins for eight passengers, nine towers set in the riverbed and a 1,230 m line. It is run by the concession company Telecabine Lisboa, which carries out daily inspections and external audits every three years.",
+    "significance": "It is one of the few pieces of Expo '98 infrastructure still doing what it was built for, and the only place in Lisbon where you see the eastern riverfront from above. For a cruise passenger it is a short, seated, low-effort way to take in the scale of Parque das Nações, the Tagus estuary and the bridge without walking the whole promenade."
   },
   "location": {
     "address": {
@@ -54,49 +55,61 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open daily; hours vary by season and may change without notice",
       "seasonal": [
         {
-          "season": "Summer (April-September)",
+          "season": "14 March - 21 May 2026",
           "days": "Daily",
-          "hours": "10:00 - 20:00",
-          "lastAdmission": "19:50"
+          "hours": "11:00 - 19:00"
         },
         {
-          "season": "Winter (October-March)",
+          "season": "22 May - 13 September 2026",
           "days": "Daily",
-          "hours": "10:00 - 18:00",
-          "lastAdmission": "17:50"
+          "hours": "10:30 - 20:00"
+        },
+        {
+          "season": "14 September - 23 October 2026",
+          "days": "Daily",
+          "hours": "11:00 - 19:00"
+        },
+        {
+          "season": "24 October 2026 - 12 March 2027",
+          "days": "Daily",
+          "hours": "11:00 - 18:00"
+        },
+        {
+          "season": "24, 25, 31 December and 1 January",
+          "days": "Special hours",
+          "hours": "11:00 - 18:00"
         }
       ],
       "closedDates": [
-        "May close temporarily during strong winds for safety"
+        "Can close for several weeks of annual maintenance in late autumn (17 November to 5 December in 2025); check before visiting in November or December"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 6.5,
-      "youth": 3.5,
-      "child": 3.5,
-      "senior": 3.5,
-      "family": 18,
+      "adult": 7.5,
+      "youth": 7.5,
+      "child": 5.5,
+      "senior": 7.5,
+      "family": null,
       "lisboaCardFree": false,
-      "notes": "Adult one-way €6.50, round-trip €9.50. Children 4-12 years and seniors 65+ €3.50 one-way, €5.50 round-trip. Children under 4 free. Family ticket (2 adults + 2 children) €18 round-trip. Combined tickets with Oceanário available at discount. Lisboa Card holders receive 20% discount"
+      "notes": "One way: adults (13+) €7.50, children 3-12 €5.50. Return: adults €9.50, children €6.50. Under 3 free. No separate senior fare. Cable car return + Oceanário: adults (13-64) €33.90, seniors 65+ €25.30, children 3-12 €21.50. Tickets must be bought before boarding; no refunds, but tickets do not expire."
     },
-    "averageVisitDuration": "20-30 minutes (round trip), 8-10 minutes one-way",
-    "bestTimeToVisit": "Late afternoon for stunning sunset views over the Tagus River. Weekday mornings less crowded. Clear weather days offer best visibility for photography",
+    "averageVisitDuration": "8-12 minutes each way; 30-40 minutes including the walk back",
+    "bestTimeToVisit": "Weekday mornings soon after opening, or late afternoon for lower sun over the river. It never opens before 10:30.",
     "busyPeriods": [
-      "Weekends and holidays",
-      "Summer months June-September",
-      "Afternoons 14:00-17:00",
-      "Days when cruise ships are in port"
+      "Weekend afternoons",
+      "School holidays",
+      "Summer evenings"
     ],
-    "adviceForVisitors": "Purchase round-trip tickets for best value and to enjoy views in both directions. Sunset rides are spectacular but popular - arrive early. Gondolas are fully enclosed and air-conditioned, comfortable in all weather. Bring camera for amazing photo opportunities. Combined visit with Oceanário highly recommended. The cable car may close during high winds - check before visiting on very windy days. Wheelchairs and strollers welcome. Food and drinks not permitted in gondolas. Allow time to walk the beautiful riverside promenade. Vasco da Gama Shopping Center at southern station offers dining and shopping"
+    "adviceForVisitors": "Buy a one-way ticket and walk back along the promenade. Combine with the Oceanário using the joint ticket. Tickets do not expire, so a wind closure does not waste them."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day (3-4 hours including metro travel, cable car, and Parque das Nações exploration)",
-    "accessibility": "Excellent - quick train from Santa Apolónia to Oriente, then flat walk to stations",
+    "timeNeededFromPort": "About 2-2.5 hours return for the cable car and a walk along the river; half a day with the Oceanário",
+    "accessibility": "Train from Santa Apolónia to Oriente, then about 10-15 minutes on foot to the south station by the Oceanário, or a 15-minute taxi from the terminal.",
     "combinableWith": [
       "Oceanário de Lisboa",
       "Vasco da Gama Shopping Center",
@@ -107,56 +120,37 @@
       "Riverside dining"
     ],
     "tips": [
-      "Easy 15-minute metro ride from Santa Apolónia cruise terminal",
-      "Perfect combination with Oceanário visit",
-      "Spectacular views with minimal walking required",
-      "Suitable for all ages and mobility levels",
-      "Gondolas are enclosed - weather-protected experience",
-      "Great for photography enthusiasts",
-      "Modern, clean district with excellent facilities",
-      "Plenty of dining options at both ends",
-      "Round-trip recommended for scenic value",
-      "Consider sunset timing for magical lighting",
-      "Vasco da Gama Shopping Center perfect for last-minute souvenirs",
-      "Completely accessible for wheelchairs and strollers",
-      "Quick activity - ideal for short port stops",
-      "Combine with riverside walk for full waterfront experience"
+      "Buy a one-way ticket (€7.50) and walk back along the flat riverside promenade instead of paying €9.50 for a return.",
+      "Ride north from the Oceanário end to face the Vasco da Gama Bridge for most of the trip.",
+      "It never opens before 10:30 (11:00 for most of the year), so plan the Oceanário first if you arrive early.",
+      "Over-65s pay the full adult fare on the cable car; the combined ticket with the Oceanário has a senior rate (€25.30).",
+      "Children under 3 ride free; ages 3 to 12 pay €5.50 one way.",
+      "Tickets are non-refundable but never expire, so you can still use them if the line is stopped on your day.",
+      "Check the website before a November or December call: in 2025 the line closed from 17 November to 5 December for maintenance.",
+      "Online tickets are sold through the Oceanário's ticket site."
     ]
   },
   "features": {
     "highlights": [
-      "1,230-meter aerial journey along Tagus River waterfront",
-      "Panoramic views reaching 30 meters above ground",
-      "Stunning vistas of Vasco da Gama Bridge",
-      "Bird's-eye view of Oceanário de Lisboa",
-      "Modern Parque das Nações architecture from above",
-      "Tagus River estuary and waterfront views",
-      "Enclosed, climate-controlled gondolas",
-      "8-person capacity gondolas for comfort",
-      "Smooth, quiet Swiss engineering",
-      "Accessible for all ages and abilities",
-      "Spectacular sunset viewing opportunities",
-      "Views of Oriente Station and modern district"
+      "1,230 m line along the riverfront, about 30 m above the ground",
+      "Views of the Vasco da Gama Bridge and the Tagus estuary",
+      "Overhead view of the Oceanário, the Portugal Pavilion and the arena",
+      "Enclosed cabins for up to eight passengers",
+      "Stations next to the Oceanário (south) and the Vasco da Gama Tower (north)",
+      "Combined ticket with the Oceanário available"
     ],
     "facilities": [
-      "Two modern stations (north and south)",
-      "Ticket offices at both stations",
-      "Wheelchair-accessible boarding",
-      "Enclosed, air-conditioned gondolas",
-      "Safety systems and monitoring",
-      "Information displays",
-      "Multilingual staff",
-      "Restrooms at nearby venues",
-      "Shopping center access at southern station",
-      "Riverside promenade connection",
-      "Photo-friendly viewing",
-      "Covered waiting areas"
+      "Ticket offices at ground level in both stations",
+      "Boarding on the upper floor of each station",
+      "40 enclosed cabins with automatic doors",
+      "Online tickets through the Oceanário ticket site",
+      "Cafés and toilets nearby at the Oceanário and the shopping centre"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Fully wheelchair accessible at both stations with level boarding platforms. Gondolas accommodate wheelchairs and strollers with ease. Staff available to assist with boarding. Wide doors and spacious gondola interiors. No steps or barriers throughout experience",
-      "visualAidServices": "Audio announcements in gondolas describing route and landmarks",
-      "hearingAidServices": "Visual displays and signage throughout stations"
+      "mobilityNotes": "Ticket offices are at ground level and boarding takes place on the upper floor of each station. Cabins slow down in the stations for boarding. Wheelchair users should contact Telecabine Lisboa (+351 218 956 143) before visiting to confirm access.",
+      "visualAidServices": false,
+      "hearingAidServices": false
     },
     "languages": [
       "Portuguese",

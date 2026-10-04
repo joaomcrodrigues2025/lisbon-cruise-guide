@@ -1,7 +1,8 @@
 {
   "id": "rua-augusta",
   "name": "Rua Augusta",
-  "tagline": "Lisbon's grand pedestrian boulevard crowned by the magnificent triumphal arch",
+  "seoTitle": "Rua Augusta and Its Arch: A Flat Walk from the Ship",
+  "tagline": "The Baixa's main pedestrian street, entered through the arch on Praça do Comércio, under 20 minutes' walk from the ship.",
   "type": "street",
   "categories": [
     "pedestrian-street",
@@ -11,10 +12,10 @@
     "baixa-district"
   ],
   "description": {
-    "short": "Rua Augusta is Lisbon's most famous street - a grand pedestrian boulevard running through the heart of Baixa from Rossio to the Tagus River. Lined with elegant buildings, shops, cafes, and street performers, it culminates at the iconic Rua Augusta Arch overlooking Praça do Comércio.",
-    "full": "Rua Augusta is the beating heart of Lisbon's historic center, a magnificent pedestrian boulevard that epitomizes the city's post-earthquake reconstruction. Running 500 meters through the Baixa district from Rossio Square to Praça do Comércio on the waterfront, this grand avenue showcases the vision of Marquis of Pombal's 18th-century urban planning. After the devastating 1755 earthquake destroyed medieval Lisbon, Pombal ordered a complete redesign with wide, perpendicular streets, earthquake-resistant buildings, and elegant uniformity. Rua Augusta became the centerpiece - a perfectly straight commercial street lined with matching neoclassical facades, creating one of Europe's first examples of modern urban planning. Today, the completely pedestrianized avenue buzzes with life: international fashion brands and traditional Portuguese shops occupy the ground floors of beautifully maintained buildings, outdoor cafes spill onto the distinctive black-and-white calcada portuguesa paving, street performers entertain crowds, and living statues pose for photos. The street is crowned at its southern end by the spectacular Rua Augusta Arch, a 19th-century triumphal arch celebrating Portugal's reconstruction and independence. Visitors can climb the arch for panoramic views over the street, Baixa, and the Tagus. The entire street maintains a sophisticated yet accessible atmosphere, serving locals and tourists alike as Lisbon's premier shopping and strolling destination.",
-    "history": "Medieval Lisbon was destroyed by the 1755 earthquake, tsunami, and fires. Marquis of Pombal redesigned the Baixa district with Rua Augusta as the main thoroughfare, using innovative anti-seismic wooden structures called 'gaiola pombalina'. Completed in the late 18th century, the street became Lisbon's commercial heart. The Rua Augusta Arch was designed in 1759 but not completed until 1873. The street was fully pedestrianized in the 1990s, transforming it into the vibrant boulevard it is today.",
-    "significance": "Rua Augusta represents one of Europe's first examples of enlightened urban planning after disaster. The street demonstrates 18th-century ideals of order, rationality, and progress. Its Pombaline architecture is a unique earthquake-resistant building style found only in Lisbon. The street is both a working commercial avenue and a living museum of post-earthquake reconstruction."
+    "short": "Rua Augusta is the flat, pedestrianised main street of the Baixa, running about half a kilometre from the arch on Praça do Comércio to Rossio. The top of the arch, reached by lift and 74 steps, costs €5 and gives a 360° view over the square, the Baixa and the river.",
+    "full": "Rua Augusta is the easiest walk of a port day: flat, pedestrianised and on the direct route from the ship into central Lisbon. From the terminal, walk west along the river for about 14 minutes to Praça do Comércio, then go through the triumphal arch on the north side of the square, which opens straight onto the street. It runs north for about half a kilometre to Rossio.\n\nTreat it as a route rather than a destination. Walk up it, look along the cross streets such as Rua da Conceição and Rua de São Nicolau to see how regular the Pombaline grid is, and stop for coffee or lunch on a parallel street such as Rua dos Correeiros or Rua da Prata rather than at the tables in the middle of Rua Augusta. The shops on the street itself are mostly international chains and souvenir stores.\n\nThe one paid stop is the top of the Arco da Rua Augusta: €5, daily 10:00–19:00 (last entry 18:30), free with the Lisboa Card. A lift takes you to the second floor, then 74 steps lead to the roof, with a 360° view of Praça do Comércio, the Baixa, the Sé, the castle and the river. Allow 20 to 30 minutes. A small exhibition in the Clock Room covers the history of the arch.\n\nThe street is busiest from late morning to late afternoon, when tour groups overlap; early in the day you can see the architecture without the crowd. Pickpockets work the busy stretches, so keep phones and wallets zipped away, and walk past street sellers.\n\nFrom the northern end, Rossio and Praça da Figueira are a minute away. The Elevador de Santa Justa, a block west, is closed, so for Chiado walk uphill or take the metro to Baixa-Chiado.",
+    "history": "Rua Augusta was laid out after the earthquake, tsunami and fire of 1 November 1755 destroyed the lower town. Under the Marquis of Pombal, the engineers Manuel da Maia, Eugénio dos Santos and Carlos Mardel planned the Baixa as a grid of straight streets with uniform buildings built around a timber frame, the 'gaiola pombalina', designed to flex in an earthquake. Rua Augusta became the main axis between the riverside square, rebuilt as Praça do Comércio, and Rossio. Streets were assigned to trades, which survives in names such as Rua do Ouro (gold) and Rua da Prata (silver). The triumphal arch at the river end was completed only in 1875; its top opened to visitors in August 2013.",
+    "significance": "The Baixa is one of the earliest large-scale examples of a city rebuilt to a plan after a natural disaster, with building rules meant to resist the next earthquake. Rua Augusta is its spine. For a visitor it is the simplest way to understand the old city's layout: the flat Baixa in the valley, with the castle hill to the east and Chiado to the west."
   },
   "location": {
     "address": {
@@ -45,7 +46,7 @@
     "phone": null,
     "email": null,
     "website": "https://www.visitlisboa.com",
-    "bookingUrl": "https://www.visitlisboa.com/en/places/arco-da-rua-augusta",
+    "bookingUrl": "https://shop.visitlisboa.com/products/the-arch-in-rua-augusta",
     "socialMedia": {
       "facebook": "https://www.facebook.com/visitlisboa",
       "twitter": null,
@@ -54,13 +55,20 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Public street - open 24/7 year-round",
+      "currentStatus": "Public street, open at all hours. Arch viewpoint open daily 10:00–19:00.",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
-          "hours": "24 hours",
-          "notes": "Rua Augusta Arch open 09:00-19:00 (summer), 09:00-18:00 (winter) - €3 entrance"
+          "hours": "Street open 24 hours",
+          "notes": "Public pedestrian street."
+        },
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Arco da Rua Augusta viewpoint 10:00 - 19:00",
+          "lastAdmission": "18:30",
+          "notes": "Lift to the second floor, then 74 steps to the top. Hours may differ on public holidays."
         }
       ],
       "closedDates": []
@@ -68,23 +76,24 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Street is free to walk. Rua Augusta Arch viewpoint €3.00 adults, €2.50 seniors, €1.50 youth 12-25, free under 12."
+      "child": 0,
+      "lisboaCardFree": true,
+      "notes": "The street is free. Arco da Rua Augusta viewpoint: €5 (2026), children up to 5 free, free with the Lisboa Card (plus 10% off in the arch shop)."
     },
-    "averageVisitDuration": "30-60 minutes for leisurely walk and window shopping; 2+ hours with shopping and dining",
-    "bestTimeToVisit": "Early morning (8-10am) for quieter strolling and best light. Late afternoon/evening (5-8pm) for vibrant atmosphere with street performers. Sunday mornings quieter.",
+    "averageVisitDuration": "30–45 minutes to walk the street; add 20–30 minutes for the arch",
+    "bestTimeToVisit": "Early in the day, before the late-morning crowds. The arch viewpoint opens at 10:00.",
     "busyPeriods": [
-      "Mid-morning to late afternoon (11:00-17:00)",
-      "Summer months (June-September)",
-      "Cruise ship days",
+      "Late morning to late afternoon",
+      "Summer",
       "Weekends",
       "December (Christmas shopping)"
     ],
-    "adviceForVisitors": "Start at Praça do Comércio waterfront and walk north through the arch. Stop at outdoor cafes for people-watching. Climb the Rua Augusta Arch for best views (€3). Explore parallel streets (Rua da Prata, Rua do Ouro) for fewer crowds. Watch pickpockets in crowded areas. Great for evening stroll when street performers are most active."
+    "adviceForVisitors": "Enter from Praça do Comércio through the arch and walk north. Eat on a parallel street. Keep valuables zipped and walk past street sellers. The Elevador de Santa Justa is closed; use the metro to Baixa-Chiado or walk up to Chiado."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2-3 hours for full experience including shopping and dining",
-    "accessibility": "Excellent - completely flat pedestrian street, wheelchair accessible, smooth paving. Perfect for all mobility levels.",
+    "timeNeededFromPort": "1.5–2 hours: about 15 minutes' walk each way, 30–45 minutes on the street and 20–30 minutes for the arch",
+    "accessibility": "Flat and pedestrianised the whole way from the terminal. The paving is calçada (limestone and basalt cobbles), uneven in places and slippery when wet. The arch viewpoint needs 74 steps after the lift.",
     "combinableWith": [
       "Praça do Comércio",
       "Convento do Carmo (uphill, or metro to Baixa-Chiado)",
@@ -94,30 +103,23 @@
       "Lisbon Story Centre"
     ],
     "tips": [
-      "Literally steps from cruise port through Praça do Comércio",
-      "Perfect first stop - introduces you to Lisbon's layout",
-      "Completely flat and pedestrianized - easy walking",
-      "Climb Rua Augusta Arch for orientation and photos (€3)",
-      "Parallel streets (Rua da Prata, Rua dos Sapateiros) less crowded",
-      "Many cafes with outdoor seating - perfect for breaks",
-      "ATMs and currency exchange offices along street",
-      "Connects to all major downtown attractions",
-      "Evening is magical with street performers and golden light",
-      "Great for souvenir shopping - mix of chains and local shops"
+      "From the terminal, walk about 14 minutes west along the river to Praça do Comércio; the arch on its north side leads straight onto Rua Augusta.",
+      "Arch viewpoint: €5, daily 10:00–19:00 (last entry 18:30), children up to 5 free, free with the Lisboa Card.",
+      "The arch has a lift to the second floor, then 74 steps to the top: skip it if you cannot manage stairs.",
+      "Eat on a parallel street such as Rua dos Correeiros or Rua da Prata rather than at the tables on Rua Augusta itself.",
+      "Keep phones and wallets zipped: pickpockets work the crowds here and around the arch. Walk past street sellers.",
+      "The Elevador de Santa Justa nearby is closed; for Chiado take the metro Blue Line from Terreiro do Paço to Baixa-Chiado or walk up Rua do Carmo.",
+      "To get back, walk the same way, or take the Blue Line from Baixa-Chiado or Terreiro do Paço to Santa Apolónia, about 10 minutes' walk from the terminal."
     ]
   },
   "features": {
     "highlights": [
-      "500-meter grand pedestrian boulevard through Baixa",
-      "Pombaline architecture - 18th-century earthquake-resistant buildings",
-      "Rua Augusta Arch - monumental triumphal arch at waterfront end",
-      "Black-and-white Portuguese pavement (calcada portuguesa)",
-      "Perfectly straight street - example of enlightenment urban planning",
-      "Mix of international brands and traditional Portuguese shops",
-      "Outdoor cafes and restaurants throughout",
-      "Street performers and living statues",
-      "Connects Rossio to Tagus waterfront",
-      "Historic center of post-earthquake Lisbon reconstruction"
+      "Flat, pedestrianised street of about half a kilometre from Praça do Comércio to Rossio",
+      "Arco da Rua Augusta roof: 360° view over the square, the Baixa, the castle and the river (€5)",
+      "Uniform Pombaline façades built after the 1755 earthquake",
+      "Views along the cross streets of the regular Baixa grid",
+      "Black-and-white calçada portuguesa paving",
+      "Direct, flat walk from the cruise terminal via Praça do Comércio"
     ],
     "facilities": [
       "Numerous cafes and restaurants",
@@ -131,7 +133,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Completely flat pedestrian street with smooth paving. Excellent accessibility. All shops have ground-level access. Perfect for wheelchairs, strollers, and mobility aids.",
+      "mobilityNotes": "Flat and step-free along the street, but the calçada paving is uneven in places and slippery when wet. The arch viewpoint has a lift to the second floor followed by 74 steps.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

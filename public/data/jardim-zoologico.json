@@ -1,7 +1,8 @@
 {
   "id": "jardim-zoologico",
   "name": "Jardim Zoológico de Lisboa (Lisbon Zoo)",
-  "tagline": "Over 140 years of history with 2,000 animals from 300 species in the heart of Lisbon",
+  "seoTitle": "Lisbon Zoo on a Cruise Stop: Who It Suits and Timing",
+  "tagline": "A large city zoo one metro ride from the ship, worth a port day mainly for families with young children",
   "type": "zoo",
   "categories": [
     "zoo",
@@ -11,10 +12,10 @@
     "education"
   ],
   "description": {
-    "short": "Lisbon Zoo is one of the world's oldest zoos, established in 1884. Home to approximately 2,000 animals from 300 species, it combines conservation, education, and entertainment in a beautiful park setting in central Lisbon.",
-    "full": "Jardim Zoológico de Lisboa, established in 1884, is one of the oldest and most respected zoological parks in the world. Spanning 16 hectares in the heart of Lisbon, the zoo houses approximately 2,000 animals representing about 300 different species from around the globe. The zoo's mission extends far beyond entertainment - it plays a crucial role in conservation, scientific research, and environmental education. Visitors can explore diverse habitats including the Dolphin Bay with daily shows, the Enchanted Forest bird presentation, the Valley of Tigers featuring Sumatran tigers, the Temple of Primates with gorillas and chimpanzees, MEO Savannah with elephants and giraffes, the Reptile House, and the popular Lidl Children's Farm where kids can interact with domestic animals. The zoo offers included attractions such as the cable car providing aerial views, the miniature train tour around the park, and multiple daily animal presentations and feeding demonstrations. The park is beautifully landscaped with gardens, water features, and shaded walkways. As a member of EAZA, WAZA, and other international conservation organizations, Lisbon Zoo participates in numerous breeding programs for endangered species. The zoo emphasizes animal welfare, biodiversity conservation, and creating meaningful connections between visitors and wildlife. With its combination of education, conservation, and family entertainment, Lisbon Zoo provides a full day of discovery and fun for all ages.",
-    "history": "Inaugurated on May 28, 1884, Jardim Zoológico de Lisboa is one of the oldest zoos in the world and has been a Lisbon institution for over 140 years. The zoo was originally located in Palhavã but moved to its current location in Sete Rios in 1905. Throughout its history, it has evolved from a traditional Victorian-era menagerie to a modern conservation-focused zoological park. The zoo has weathered challenges including both World Wars and Portugal's political changes, adapting and modernizing to meet contemporary standards for animal welfare and conservation. Major renovations and expansions throughout the decades have created specialized habitats, improved visitor facilities, and enhanced educational programs. Today it stands as a testament to Lisbon's commitment to wildlife conservation and public education.",
-    "significance": "As a founding member of EAZA (European Association of Zoos and Aquaria), WAZA (World Association of Zoos and Aquariums), and participant in EEP (European Endangered Species Programmes), Lisbon Zoo plays a vital role in global conservation efforts. The zoo participates in breeding programs for endangered species, conducts important research, and educates over one million visitors annually about biodiversity and conservation. It serves as Portugal's premier zoological institution and a major family attraction in Lisbon."
+    "short": "Lisbon's zoo, founded in 1884 and on its current Sete Rios site since 1905, with about 2,000 animals of around 300 species. It is a direct Blue Line metro ride from Santa Apolónia; adult entry is €31.",
+    "full": "For most cruise passengers the zoo is a weak use of a day in Lisbon. It costs €31 per adult, needs three hours or more to be worthwhile, and shows little of the city. It does make sense for families with young children who have had enough of monuments and hills, for repeat visitors, or on a long call when the children's day matters more than sightseeing.\n\nGetting there is easy. Walk about 10 minutes from the terminal to Santa Apolónia and take the metro Blue Line direct to Jardim Zoológico, roughly 20 minutes with no change; the zoo entrance is beside the station. A taxi takes about 20 minutes.\n\nInside, the timed presentations shape the visit. From 21 September to 20 March the dolphin presentation runs at 11:00 (not on Tuesdays) and 14:30 and lasts 20 minutes; the bird presentation at the Bosque Encantado runs at 12:30 and 16:00 all year. Arriving at 10:00 and heading for the 11:00 dolphins, then the bird show at 12:30, covers the highlights by early afternoon. The zoo's own cable car, included in the ticket, gives a 20-minute ride over the park, but it does not run in rain or strong wind and cannot take wheelchairs or pushchairs. The small Zoo train is extra (€1 adults, €0.50 children) and runs Wednesday to Sunday only.\n\nThe ticket offices close at 17:15 in winter and 18:45 in summer. Weekends and school holidays are the busiest times; weekday mornings are quieter. Buying online saves 5 per cent. Children under 13 must be accompanied by an adult over 18, and guide dogs are not admitted.\n\nIf your group is mixed, the Oceanário is the more compact family alternative and is entirely indoors.",
+    "history": "The zoo opened in 1884 as the first park of its kind in the Iberian Peninsula, founded by Pedro Van der Laan, José Tomás de Sousa Martins and the Baron of Kessler with the support of King Fernando II and the zoologist José Vicente Barbosa du Bocage. It began in the Parque de São Sebastião da Pedreira, moved to Palhavã, and on 28 May 1905 opened on its permanent site at the Quinta das Laranjeiras in Sete Rios. After 1974 the loss of state support and of animal shipments from the former colonies hit it hard, and from 1990 a new management modernised the enclosures, opening a veterinary hospital in 2008.",
+    "significance": "It is one of the older zoos still operating in Europe, with about 2,000 animals of roughly 300 species, and a member of the European and world zoo associations, EAZA and WAZA. Its 2008 veterinary hospital was singled out by EAZA as the best in Europe. For visitors, its practical value is that it is the one big outdoor family attraction reachable by a single metro line from the ship."
   },
   "location": {
     "address": {
@@ -54,92 +55,86 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open every day of the year",
       "seasonal": [
         {
-          "season": "Winter (September 21 - March 20)",
+          "season": "Winter (21 September - 20 March)",
           "days": "Daily",
           "hours": "10:00 - 18:00",
-          "lastAdmission": "17:00"
+          "lastAdmission": "17:15"
         },
         {
-          "season": "Summer (March 21 - September 20)",
+          "season": "Summer (21 March - 20 September)",
           "days": "Daily",
           "hours": "10:00 - 20:00",
-          "lastAdmission": "19:00"
+          "lastAdmission": "18:45"
         }
       ],
       "closedDates": []
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 27.5,
-      "youth": 19,
+      "adult": 31,
+      "youth": 31,
       "child": 19,
-      "senior": 19,
+      "senior": 22,
       "lisboaCardFree": false,
-      "notes": "Children under 3 free. Youth/Child rate for ages 3-12. Senior rate for 65+. Online tickets save 2-3 euros. Family packages available. Lisboa Card provides 15% discount. Includes cable car, train ride, and all animal presentations."
+      "notes": "Prices from 1 January 2026: adults 13-64 €31; children 3-12 €19; seniors 65+ €22; children up to 2 free (ID required for reduced fares). 5% off when bought online (valid 120 days). Includes all presentations and the cable car; the Zoo train is extra (€1 adults, €0.50 children and seniors, Wednesday to Sunday). 30% off for visitors with a declared disability of 60% or more, at the ticket office only."
     },
-    "averageVisitDuration": "3-5 hours for full experience",
-    "bestTimeToVisit": "Weekday mornings for fewer crowds. Arrive at opening to see animals most active. Plan around dolphin show times (check schedule).",
+    "averageVisitDuration": "3-4 hours",
+    "bestTimeToVisit": "Weekday mornings at 10:00, timed for the 11:00 dolphin presentation (not on Tuesdays in winter).",
     "busyPeriods": [
       "Weekends",
       "School holidays",
-      "Summer months",
-      "Dolphin show times"
+      "Presentation times at the Baía dos Golfinhos"
     ],
-    "adviceForVisitors": "Wear comfortable walking shoes and sun protection. Bring water and snacks or use zoo restaurants. Check daily schedule for animal presentations and feeding times. Don't miss the dolphin show (2 shows daily). The cable car provides great aerial views. Allow 4-5 hours to see everything. Children's Farm is perfect for little ones. Map available at entrance - plan your route. Come early in summer as animals are more active in cooler hours."
+    "adviceForVisitors": "Check the presentation times on zoo.pt on the day, as they can change without notice. Bring sun protection in summer. Children under 13 need an adult over 18. Re-entry is allowed the same day until the ticket offices close."
   },
   "cruisePassengerInfo": {
-    "idealForCruisePassengers": true,
-    "timeNeededFromPort": "5-6 hours total including 35-minute metro ride each way and 4-hour zoo visit",
-    "accessibility": "Good - Blue Line metro goes directly to zoo entrance. Zoo has some hills but mostly accessible paths.",
+    "idealForCruisePassengers": false,
+    "timeNeededFromPort": "About 5 hours: 30 minutes each way from the ship plus 3-4 hours inside",
+    "accessibility": "Metro Blue Line direct from Santa Apolónia (10 minutes' walk from the ship) to Jardim Zoológico, about 20 minutes. Inside, paved paths with some slopes.",
     "combinableWith": [
-      "Benfica Stadium tour",
-      "Colombo Shopping Center",
-      "Sete Rios area"
+      "Palácio dos Marqueses de Fronteira (check guided-visit times)",
+      "Colombo shopping centre (metro)",
+      "Oceanário de Lisboa (as an alternative, not on the same day)"
     ],
     "tips": [
-      "Blue Line metro goes directly to zoo - very convenient",
-      "Buy tickets online to save money and skip queues",
-      "Check dolphin show schedule and plan around it",
-      "Cable car and train rides included in admission",
-      "Allow 4-5 hours minimum to see everything",
-      "Bring sunscreen and hats in summer",
-      "Zoo has restaurants but bringing snacks saves money",
-      "Children's Farm is must-visit for families with young kids",
-      "Get there at opening for most active animals"
+      "Take the metro Blue Line from Santa Apolónia straight to Jardim Zoológico, about 20 minutes with no change.",
+      "In winter the dolphin presentation is at 11:00 (not Tuesdays) and 14:30, and needs at least 30 spectators to go ahead.",
+      "The Bosque Encantado bird presentation runs at 12:30 and 16:00; it is cancelled in rain or strong wind.",
+      "Buy tickets online for 5 per cent off; tickets are valid for 120 days.",
+      "Adults pay €31, children 3-12 €19 and seniors 65+ €22; under-3s go free.",
+      "The included cable car runs 11:00-17:30 (last trip) in winter and 11:30-19:30 in summer, but not in rain or high wind.",
+      "The Zoo train costs extra (€1) and runs only Wednesday to Sunday.",
+      "Ticket offices close at 17:15 in winter and 18:45 in summer, so leave the ship by early afternoon at the latest."
     ]
   },
   "features": {
     "highlights": [
-      "Dolphin Bay with spectacular dolphin shows (twice daily)",
-      "Enchanted Forest bird presentation with free-flying birds",
-      "MEO Savannah with elephants, giraffes, and zebras",
-      "Valley of Tigers featuring Sumatran tigers",
-      "Temple of Primates with gorillas and chimpanzees",
-      "Iberian Lynx Grove showcasing endangered species",
-      "Reptile House with snakes, crocodiles, and lizards",
-      "Lidl Children's Farm with domestic animals",
-      "Cable car ride over the zoo (included)",
-      "Miniature train tour around the park (included)",
-      "Pelican feeding demonstrations"
+      "Baía dos Golfinhos dolphin presentation (20 minutes)",
+      "Bosque Encantado bird presentation at 12:30 and 16:00",
+      "Vale dos Tigres with Sumatran tigers",
+      "Savana MEO with elephants, giraffes and lions",
+      "Templo dos Primatas",
+      "Tapada do Lince-ibérico (Iberian lynx enclosure)",
+      "Reptile house and pelican feeding",
+      "Quintinha do Lidl farm area for young children",
+      "Cable car over the park, included in the ticket"
     ],
     "facilities": [
-      "Multiple restaurants and cafés",
-      "Gift shops",
-      "Stroller rentals",
-      "Lockers",
-      "Restrooms throughout park",
-      "Baby changing facilities",
-      "First aid station",
-      "Shaded picnic areas",
-      "Free WiFi in some areas",
-      "ATM machines"
+      "Restaurants and cafés in the free-access area at the entrance, plus two snack bars inside",
+      "Picnic area in the Bosque Encantado",
+      "Zoo shop",
+      "Two ATMs in the free-access area",
+      "Baby-care room (Espaço Bebé)",
+      "Pushchair rental for children aged 3-10 (€7, €20 cash deposit)",
+      "Wheelchairs on request at the entrance, subject to availability",
+      "Same-day re-entry"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Most paths are paved and accessible. Some areas have slopes. Wheelchairs available for rent. Cable car and train are accessible. Some viewing areas may be challenging.",
+      "mobilityNotes": "Paths are paved but the park has slopes. Wheelchairs can be requested from security at the entrance (no reservations). The cable car and the Zoo train are not recommended for people with reduced mobility, and the cable car does not take wheelchairs or pushchairs. Guide dogs are not admitted.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

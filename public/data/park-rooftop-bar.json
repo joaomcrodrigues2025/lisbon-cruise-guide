@@ -1,7 +1,8 @@
 {
   "id": "park-rooftop-bar",
   "name": "PARK Rooftop Bar",
-  "tagline": "Urban rooftop oasis with 360-degree Lisbon views and spectacular sunsets",
+  "seoTitle": "PARK Lisboa: Car-Park Rooftop Drinks West of Chiado",
+  "tagline": "A bar on the roof of a car park on Calçada do Combro, looking west over Bica to the river and the 25 de Abril Bridge",
   "type": "viewpoint",
   "categories": [
     "rooftop-bar",
@@ -12,10 +13,10 @@
     "photo-spot"
   ],
   "description": {
-    "short": "Perched on the 6th floor of a parking garage in Bairro Alto, PARK is Lisbon's most unique rooftop bar, offering stunning 360-degree panoramic views, lush garden atmosphere, and breathtaking sunsets over the Tagus River.",
-    "full": "PARK Rooftop Bar is a trendy and urban oasis located on the unlikely 6th floor of a parking garage in Lisbon's vibrant Bairro Alto neighborhood. Not the easiest place to find - you have to walk into the parking garage and locate the elevator to the top floor - but the reward is absolutely worth it. As you emerge onto the rooftop, you'll discover one of Lisbon's best-kept secrets: a lush, green terrace where wooden furniture mingles with potted plants, creating an unexpectedly chilled-out atmosphere high above the city streets. The rooftop terrace has a very open and airy feel, with urban seating arrangements including both chairs and more casual bench-like pyramid structures. There's also a cozy lodge-like indoor area for cooler evenings. PARK offers a large selection of classic cocktails at reasonable prices, served from both indoor and outdoor bars, along with beers, wines, sangria, and bar bites like burgers. On Sundays, the bar serves an all-day brunch. The views are simply spectacular: 360-degree panoramas spanning from the Tagus River to the castle, with sunsets that are absolutely breathtaking. As evening falls, PARK transforms into a party destination with 'PARKBEAT' sessions featuring different DJs spinning tunes late into the night. The atmosphere strikes a perfect balance between daytime chill-out vibes and nighttime energy, making it ideal for sunset drinks before dinner or a full evening of music and dancing under the stars. This is an extremely popular spot that doesn't take reservations, so arrive early to secure the best seats, especially around sunset time.",
-    "history": "PARK Rooftop Bar opened in 2013, transforming the top floor of a mundane parking garage into one of Lisbon's most sought-after rooftop destinations. The concept was revolutionary at the time: taking an industrial space and creating an urban garden paradise with unbeatable views. The bar quickly became a favorite among locals and tourists alike, pioneering the rooftop bar scene in Lisbon and inspiring similar venues across the city.",
-    "significance": "PARK represents Lisbon's creative spirit and ability to transform unexpected spaces into unique experiences. It has become an iconic destination for experiencing Lisbon's famous sunsets and is consistently ranked among the best rooftop bars in Europe. The venue showcases the city's young, vibrant energy and has helped establish Bairro Alto as a nightlife destination."
+    "short": "PARK is a bar on the top floor of a multi-storey car park at Calçada do Combro 58, between Bairro Alto and Bica. The terrace looks west over the rooftops to the Tagus and the 25 de Abril Bridge. It opens at 15:00 from Monday to Saturday and at noon on Sundays, and takes no reservations.",
+    "full": "PARK is an afternoon and evening place, and its opening hours decide whether it works on a port day. According to its official Instagram profile it opens from 15:00 to 02:00 Monday to Saturday and from 12:00 to 20:00 on Sundays, when it runs a 'Picnic' brunch session. Many day calls set all-aboard in the late afternoon, so on a weekday you may only get 45 minutes to an hour on the terrace before a 10-minute taxi back to the terminal. Sunday is the easiest day for a day-call visit.\n\nThe sunset drink it is known for only fits if your ship sails late or stays overnight, or in winter, when the sun sets around 17:15 to 18:30. The terrace faces west, so evening light falls straight across it. It does not take reservations, and on summer evenings the best seats along the edge go well before sunset.\n\nFrom the ship it is about 2.2 km and 34 minutes on foot, finishing uphill. The simpler route is to walk 10 minutes to Santa Apolónia, take the metro Blue Line to Baixa-Chiado, leave by the Chiado exit, cross Largo do Camões and walk a few minutes west along Calçada do Combro. A taxi takes about 10 minutes.\n\nThe entrance is the car-park entrance itself, with no obvious sign at street level; go in and take the lift to the top. Upstairs there is an open terrace with plants and wooden seating, an indoor bar for cooler weather and a short food menu. DJs play from the evening, and the crowd gets younger and louder after dark.\n\nSkip it if you have less than an hour to spare: the view is good but not unique, and São Pedro de Alcântara, ten minutes away, is free.",
+    "history": "PARK opened in the early 2010s (2013 is the date usually given) on the roof of a working multi-storey car park on Calçada do Combro, a street that runs from Chiado towards São Bento along the edge of Bairro Alto and Bica. The idea of putting a bar on an unused car-park roof was new in Lisbon at the time, and it was among the first of the rooftop bars that have since opened across the city. The car park below still operates, which is why the entrance is easy to miss. Its 'PARKBEAT' DJ evenings and Sunday sessions have become regular fixtures.",
+    "significance": "PARK is a good example of how Lisbon has reused awkward urban spaces: an ordinary concrete car park that gives one of the clearest west-facing views in the centre. For a cruise passenger, it is mainly useful as the closest relaxed rooftop to Chiado for a late-afternoon drink, provided the opening times fit the ship's schedule."
   },
   "location": {
     "address": {
@@ -55,19 +56,19 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round",
+      "currentStatus": "Open daily; afternoons and evenings Monday to Saturday, daytime only on Sundays",
       "seasonal": [
         {
           "season": "Year-round",
-          "days": "Monday-Saturday",
+          "days": "Monday to Saturday",
           "hours": "15:00 - 02:00",
-          "notes": "Sunday brunch service 13:00-21:00"
+          "notes": "Hours from PARK's official Instagram profile (@parklisboa). DJs in the evening."
         },
         {
           "season": "Year-round",
           "days": "Sunday",
-          "hours": "13:00 - 21:00",
-          "notes": "All-day brunch service"
+          "hours": "12:00 - 20:00",
+          "notes": "Sunday 'Picnic' brunch session with DJs."
         }
       ],
       "closedDates": []
@@ -75,22 +76,22 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free entry. Drinks €5-12. No reservations accepted - first come, first served."
+      "notes": "Free entry, no reservations. Drinks roughly €5–12 (no current official menu is published online, so treat this as a guide)."
     },
-    "averageVisitDuration": "1.5-3 hours (longer for sunset and evening)",
-    "bestTimeToVisit": "Arrive 1-2 hours before sunset (around 17:00-18:00 in summer, 16:00-17:00 in winter) to secure good seats. Early evening for best views and atmosphere. Late night for DJ sessions and dancing.",
+    "averageVisitDuration": "45 minutes to 1.5 hours",
+    "bestTimeToVisit": "From the 15:00 opening on a weekday, or Sunday from noon, if you are on a day call. For sunset on an overnight or late-departure call, arrive about an hour before sunset to get a seat.",
     "busyPeriods": [
-      "Sunset time (peak hours)",
+      "The hour before sunset",
       "Friday and Saturday evenings",
-      "Summer months (June-September)",
-      "Weekends"
+      "Summer evenings",
+      "Sunday afternoons"
     ],
-    "adviceForVisitors": "Arrive EARLY for sunset - this place fills up fast! Enter through the parking garage entrance (yes, really!) and take elevator/stairs to 6th floor. No reservations accepted. Dress code is casual but smart-casual recommended for evenings. Bring a light jacket as it can get breezy. Cash and cards accepted. Amazing photo opportunities but be respectful of other guests' views."
+    "adviceForVisitors": "Go in through the car-park entrance at Calçada do Combro 58 and take the lift to the top. There are no reservations. Bring a layer for the evening, when the terrace can be windy."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2-3 hours including travel and drinks",
-    "accessibility": "Challenging - steep uphill walk from the river, or take the metro to Baixa-Chiado or a taxi. Once at parking garage, elevator available to 6th floor.",
+    "timeNeededFromPort": "About 2 hours: 25–34 minutes each way plus 45 minutes to an hour on the terrace",
+    "accessibility": "The metro to Baixa-Chiado and a short, fairly level walk along Calçada do Combro avoid most of the climb from the river. A lift goes up through the car park; phone ahead if steps on the terrace are a concern.",
     "combinableWith": [
       "Bairro Alto district exploration",
       "Chiado shopping district",
@@ -99,28 +100,23 @@
       "Príncipe Real neighborhood"
     ],
     "tips": [
-      "Perfect for sunset drinks with a view",
-      "No reservations - arrive 1-2 hours before sunset",
-      "Look for the parking garage entrance - it's hidden!",
-      "Great cocktails at reasonable prices for a rooftop bar",
-      "Combine with Bairro Alto evening exploration",
-      "Cash and cards accepted",
-      "Can get chilly in evening - bring a jacket",
-      "Don't leave valuables unattended",
-      "Sunday brunch is less crowded"
+      "Check the day: it opens at 15:00 Monday to Saturday and at 12:00 on Sundays, so Sunday is the easiest day to fit in on a day call.",
+      "Work back from all-aboard time: allow about 10 minutes by taxi, or 34 minutes on foot, to the terminal.",
+      "Look for the car-park entrance at Calçada do Combro 58; there is no bar frontage at street level.",
+      "There are no reservations, so for sunset on a late-departure or overnight call arrive about an hour early.",
+      "The terrace faces west towards the river and the 25 de Abril Bridge; light is best late in the day.",
+      "From Baixa-Chiado metro (Chiado exit), cross Largo do Camões and walk a few minutes west along Calçada do Combro.",
+      "Bring a jacket for the evening; the roof is exposed to the wind off the river."
     ]
   },
   "features": {
     "highlights": [
-      "360-degree panoramic views of Lisbon and Tagus River",
-      "Spectacular sunset views - rated among Europe's best",
-      "Lush rooftop garden with urban-chic atmosphere",
-      "Indoor and outdoor bars",
-      "Live DJ sessions 'PARKBEAT' on weekends",
-      "Sunday all-day brunch",
-      "Hidden location in parking garage (unique experience)",
-      "Views of São Jorge Castle, Tagus River, Cristo Rei statue",
-      "Relaxed daytime atmosphere, party vibes at night"
+      "West-facing terrace over Bica and Santa Catarina to the Tagus",
+      "View of the 25 de Abril Bridge and the south bank",
+      "Planted rooftop on top of a working car park",
+      "Indoor bar for cooler weather",
+      "DJs in the evenings and on Sunday afternoons",
+      "No reservations: first come, first served"
     ],
     "facilities": [
       "Outdoor rooftop terrace",

@@ -120,7 +120,7 @@ export const lisbonOnAMonday: Guide = {
   relatedAttractions: [
     'castelo-de-sao-jorge',
     'oceanario-de-lisboa',
-    'carmo-archaeological-museum',
+    'convento-do-carmo',
     'se-de-lisboa',
   ],
 };

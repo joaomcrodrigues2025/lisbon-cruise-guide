@@ -3,7 +3,7 @@ import { getAllAttractions } from '@/lib/data';
 import { getAllGuides } from '@/lib/guides';
 import { CURATED_CATEGORIES, SITE_URL } from '@/lib/taxonomy';
 
-const LAST_MODIFIED = new Date('2026-09-25');
+const LAST_MODIFIED = new Date('2026-10-04');
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const attractions = await getAllAttractions();

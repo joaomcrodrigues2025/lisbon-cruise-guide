@@ -1,7 +1,8 @@
 {
   "id": "national-palace-of-sintra",
   "name": "National Palace of Sintra",
-  "tagline": "Portugal's oldest palace with over 1000 years of history",
+  "seoTitle": "Sintra National Palace: No Bus, No Timed Slot Needed",
+  "tagline": "The palace in Sintra's town centre: walkable from the station, mostly indoors and the simplest Sintra visit to fit into a port day.",
   "type": "palace",
   "categories": [
     "palace",
@@ -11,10 +12,10 @@
     "cultural-attraction"
   ],
   "description": {
-    "short": "Located in the heart of Sintra village and spanning over 1000 years of Portuguese history, the National Palace of Sintra is one of the oldest palaces in Portugal, instantly recognizable by its two iconic conical chimneys.",
-    "full": "The National Palace of Sintra emerges from many centuries of royal construction and adaptation, making it a unique architectural ensemble that spans the entire history of Portugal. The palace's origins likely date back to the 10th or 11th century during Moorish rule. At the end of the Middle Ages, it became one of the preferred destinations for Portuguese monarchs, who were drawn by abundant hunting, the cool summer climate, and the need for refuge during plague outbreaks in Lisbon. The palace features remarkable rooms including the Swan Room, Magpie Room, and the spectacular Coats of Arms Room with its domed ceiling displaying the heraldic shields of 72 noble Portuguese families. The iconic twin conical chimneys, rising 33 meters above the royal kitchen, have become the symbol of Sintra. The palace showcases various architectural styles from different periods, including Moorish, Gothic, and Manueline elements, with stunning azulejo tilework throughout. Today, it houses an exceptional collection of furniture, decorative arts, and historical artifacts that bring centuries of Portuguese royal life to vivid reality.",
-    "history": "The current palace emerges from many royal buildings constructed, added, and adapted over centuries. The first building was likely constructed around the 10th or 11th century when Sintra was under Moorish rule. King João I ordered major renovations in the late 14th and early 15th centuries, adding the distinctive chimneys and many of the rooms visitors see today. King Manuel I continued expansions in the early 16th century. The palace served as a summer residence for Portuguese royalty until the 19th century and survived the devastating 1755 earthquake that destroyed much of Lisbon.",
-    "significance": "As the only palace spanning the entire history of Portugal, it serves as a guardian of memories and witness to defining episodes in Portuguese history. The palace is part of the Cultural Landscape of Sintra, designated as a UNESCO World Heritage Site, and represents an exceptional testimony to royal life across nearly a millennium."
+    "short": "The royal palace in the centre of Sintra, recognisable by its two conical kitchen chimneys. It is a 10 to 15-minute walk from Sintra station, needs no timed slot and takes about 90 minutes to visit.",
+    "full": "The National Palace is the Sintra sight with the fewest moving parts. It stands in the town centre, a 10 to 15-minute walk from Sintra station, so there is no bus queue and no hill road. Tickets are for a date, not a time slot, and most of the visit is indoors, which makes it the sensible choice on a wet or misty day, when the views from Pena and the Moorish Castle disappear.\n\nThe journey from the Jardim do Tabaco terminal still takes 75 to 90 minutes each way: metro to Restauradores, train from Rossio, then the walk. With about 90 minutes inside, it needs a call of seven to eight hours at the very least.\n\nChoose it over Pena if you care more about interiors than views, if steep hills are a problem, or if your call is at the short end. Choose Pena or Regaleira if you want the image most people associate with Sintra: this palace is plainer outside, and its interest is in the rooms.\n\nThe Essential Visit (13 euros) covers the main route. Look for the Swan Room, the largest in the palace; the Magpie Room, with 136 magpies painted on the ceiling; the Room of the Coats of Arms under its heraldic dome; and the kitchen beneath the two chimneys. Hispano-Moresque tiles from the time of Manuel I cover many of the walls. The Full Visit (35 euros) adds Queen Maria Pia's private apartments, seen in a small group at a set time; on a port day it is only worth it if that slot fits your train.\n\nThe gardens are free. Quinta da Regaleira is five to ten minutes' walk away, so the two make the most practical pair in Sintra on a long call. The ticket office closes from 12:00 to 13:00, so buy online or use the machines. The Swan Room is occasionally restricted for events; the Parques de Sintra notices page lists these.",
+    "history": "The palace probably began as the residence of Sintra's Moorish governors; the 10th-century geographer Al-Bakri already mentions Sintra and its castle. After 1147 the site passed to the Portuguese crown, and the first document recording a palace here dates from 1281, under King Dinis. João I (reigned 1385-1433) rebuilt it around a central patio, adding the Swan Room and the kitchen with its two chimneys. Manuel I added the Room of the Coats of Arms and much of the tilework in the early 16th century. Afonso VI was held prisoner here from 1674 until his death nine years later. Queen Maria Pia was the last royal resident, leaving for exile in 1910.",
+    "significance": "Parques de Sintra describes it as the only palace that spans the whole history of Portugal: almost every monarch lived here at some point, from the Middle Ages to 1910. The Room of the Coats of Arms, displaying the arms of 72 noble families, is one of the most important heraldic rooms in Europe. For a visitor, it shows royal life before the Romantic era that produced Pena and Monserrate."
   },
   "location": {
     "address": {
@@ -31,9 +32,9 @@
     },
     "directions": {
       "general": "Located in the historic center of Sintra village, the palace is easily identifiable by its two massive conical chimneys",
-      "fromCruisePort": "From Lisbon cruise port, take train from Rossio or Oriente station to Sintra (40 minutes), then walk 10 minutes uphill or take bus 434/435",
-      "publicTransport": "Train from Lisbon (Rossio, Oriente, or Entrecampos stations) to Sintra station (30-40 minutes). From Sintra station, walk 10-15 minutes uphill or take Scotturb buses 434 or 435 directly to the palace",
-      "parking": "Limited parking in historic center. Use designated car parks and walk or take public transport to the palace"
+      "fromCruisePort": "Walk about 10 minutes to Santa Apolónia and take the metro Blue Line to Restauradores; Rossio station is a two-minute walk. Trains from Rossio reach Sintra in about 40 minutes. From Sintra station walk 10 to 15 minutes to the palace in Largo Rainha D. Amélia, or take Scotturb bus 434 or 435. Allow 75 to 90 minutes door to door each way.",
+      "publicTransport": "CP train from Lisbon (Rossio, Oriente or Entrecampos) to Sintra on the Sintra line. From Sintra station, walk 10 to 15 minutes or take Scotturb bus 434 or 435.",
+      "parking": "Private cars are restricted to residents in the historic centre. Use the car parks outside it and walk or take the bus."
     },
     "distanceFromCruisePort": {
       "meters": 28000,
@@ -54,19 +55,28 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round",
+      "currentStatus": "Open daily except 24, 25 and 31 December and 1 January",
       "seasonal": [
         {
-          "season": "Year-round",
+          "season": "Palace",
+          "days": "Daily",
+          "hours": "09:30 - 18:30",
+          "lastAdmission": "17:30 (last ticket 17:30)",
+          "notes": "Ticket office closed 12:00-13:00; ticket machines available"
+        },
+        {
+          "season": "Gardens",
           "days": "Daily",
           "hours": "09:30 - 18:30",
           "lastAdmission": "18:00",
-          "notes": "Ticket office closed from 12:00 to 13:00. Automatic ticket vending machines available"
+          "notes": "Free entry"
         }
       ],
       "closedDates": [
-        "January 1",
-        "December 25"
+        "December 24",
+        "December 25",
+        "December 31",
+        "January 1"
       ]
     },
     "admissionPrices": {
@@ -77,60 +87,56 @@
       "senior": 10,
       "family": 35,
       "lisboaCardFree": false,
-      "notes": "15% discount when purchasing online. Children 0-5 free. Youth 6-17 years. Seniors 65+. Family ticket covers 2 adults + 2 youth. Gardens are free to enter"
+      "notes": "Essential Visit (palace route and gardens): adults 18-64 13 euros, youths 6-17 and seniors 65+ 10 euros, children under 6 free, family (2 adults + 2 youths) 35 euros. Full Visit, adding Queen Maria Pia's apartments in a small group at a set time: adults 35 euros, youths 20 euros, seniors 25 euros, family 95 euros. Guided visit: adults 45 euros. Gardens free. Tickets are for a specific date; online tickets can be rescheduled until 18:00 the day before."
     },
-    "averageVisitDuration": "90-120 minutes",
-    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon to avoid peak crowds. Weekdays are quieter than weekends",
+    "averageVisitDuration": "About 90 minutes (Essential Visit)",
+    "bestTimeToVisit": "Opening time or after 15:00. Weekdays are quieter than weekends. A good choice on rainy or misty days.",
     "busyPeriods": [
       "Mid-morning to early afternoon (11:00-15:00)",
       "Summer months (June-September)",
       "Weekends and public holidays"
     ],
-    "adviceForVisitors": "Purchase tickets online for 15% discount and to skip queues. Sintra can be visited year-round but mornings tend to be fresher. Wear comfortable shoes for walking through multiple rooms and levels. Consider a combined ticket to visit multiple Sintra palaces. Allow a full day to explore Sintra's multiple attractions"
+    "adviceForVisitors": "Buy a date ticket online before you sail. The ticket office closes from 12:00 to 13:00. Last entry 17:30. The gardens are free. Pair with Quinta da Regaleira, five to ten minutes' walk away, on a long call."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day minimum (4-5 hours including train travel from Lisbon)",
-    "accessibility": "Moderate - requires train journey from Lisbon (40 minutes) plus short walk or bus from Sintra station",
+    "timeNeededFromPort": "About 4.5 hours door to door (75-90 minutes each way plus about 90 minutes inside); needs a call of 7-8 hours or more",
+    "accessibility": "Metro, a 40-minute train and a 10-15 minute uphill walk on cobbles (or bus 434/435). Inside, the route has stairs between levels and some uneven floors.",
     "combinableWith": [
-      "Pena Palace",
-      "Quinta da Regaleira",
-      "Moorish Castle",
-      "Sintra village",
-      "Monserrate Palace"
+      "Quinta da Regaleira (5-10 minutes' walk)",
+      "Sintra historic centre",
+      "Castelo dos Mouros (bus 434)",
+      "Palácio da Pena (bus 434)"
     ],
     "tips": [
-      "Start very early to visit multiple Sintra attractions in one day",
-      "Buy train tickets from Lisbon in advance during peak season",
-      "Consider purchasing Parks of Sintra combo ticket for multiple palaces",
-      "Sintra is cooler than Lisbon - bring a light jacket",
-      "Combine with lunch in Sintra's charming historic center",
-      "Try the famous travesseiros pastries at Piriquita bakery",
-      "Take bus 434 tourist route to visit multiple sites efficiently",
-      "This is a full half-day excursion - not suitable for short port calls"
+      "Tickets are for a date, not a time slot: buy the Essential Visit (13 euros) online before you sail and arrive whenever your train does.",
+      "Walk from Sintra station (10 to 15 minutes) rather than queueing for bus 434 or 435 in summer.",
+      "The ticket office closes from 12:00 to 13:00; the ticket machines keep working.",
+      "Last entry to the palace is 17:30; the gardens stay open until 18:30 and are free.",
+      "The Full Visit (35 euros) adds Queen Maria Pia's apartments with a small group at a set time; skip it unless the slot fits your return train.",
+      "On a wet or misty day this is the Sintra sight that loses least, because Pena and the Moorish Castle are mostly about views.",
+      "Pair it with Quinta da Regaleira, five to ten minutes' walk away, only on calls of about ten hours or more.",
+      "Closed 24, 25 and 31 December and 1 January; the Swan Room is sometimes restricted for events, so check the official notices."
     ]
   },
   "features": {
     "highlights": [
-      "Two iconic 33-meter conical chimneys crowning the kitchen",
-      "Swan Room with 27 swans painted on the ceiling",
-      "Magpie Room featuring 136 magpies holding scrolls",
-      "Coats of Arms Room with spectacular domed ceiling",
-      "Extensive collection of 15th-16th century azulejo tiles",
-      "Moorish-influenced architecture and decorative elements",
-      "Golden Chamber with intricate coffered ceiling",
-      "Chapel with beautiful tile panels",
-      "Palace gardens with peacocks and historic trees",
-      "Panoramic views over Sintra village"
+      "Two conical kitchen chimneys, the landmark of Sintra's skyline",
+      "Swan Room, the largest room, with swans painted on the ceiling",
+      "Magpie Room, with 136 magpies holding João I's motto 'por bem'",
+      "Room of the Coats of Arms, with the arms of Manuel I, his children and 72 noble families on its dome",
+      "Hispano-Moresque tilework from the reign of Manuel I",
+      "Central Patio, the core of João I's palace",
+      "Queen Maria Pia's apartments (Full Visit only)",
+      "Preta Garden, restored and free to visit"
     ],
     "facilities": [
-      "Museum exhibits and historical displays",
-      "Gift shop with local crafts and souvenirs",
-      "Restrooms",
-      "Gardens with seating areas",
-      "Information center",
-      "Audio guides available",
-      "Free garden access"
+      "Free Zoomguide digital audio guide (Portuguese, English, Spanish, French)",
+      "Ticket machines (ticket office closed 12:00-13:00)",
+      "Cafeteria in the Lion's Patio",
+      "Shop",
+      "Free gardens",
+      "Restrooms"
     ],
     "accessibility": {
       "wheelchairAccessible": "Partial",

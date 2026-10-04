@@ -1,7 +1,8 @@
 {
   "id": "lisbon-botanical-garden",
   "name": "Lisbon Botanical Garden (Jardim Botânico de Lisboa)",
-  "tagline": "A peaceful 19th-century scientific garden with 18,000+ plant species in the heart of Lisbon",
+  "seoTitle": "Lisbon Botanical Garden: A Shady Hour in Príncipe Real",
+  "tagline": "A 19th-century university garden on a steep hillside in Príncipe Real; the upper terrace is free, the lower arboretum costs €5",
   "type": "park",
   "categories": [
     "botanical-garden",
@@ -12,10 +13,10 @@
     "green-space"
   ],
   "description": {
-    "short": "The Lisbon Botanical Garden is a tranquil four-hectare scientific garden established in 1878, featuring over 18,000 plant species from around the world. This National Monument offers a peaceful escape in the Príncipe Real district, with exotic palms, subtropical plants, butterfly gardens, and historic greenhouses.",
-    "full": "The Jardim Botânico de Lisboa is a hidden gem nestled in the heart of Lisbon's Príncipe Real neighborhood. Established in 1878 as part of the Polytechnic School (now University of Lisbon), this four-hectare scientific garden was designed to support botanical teaching and research. The site has a rich history dating back over 400 years, when a Jesuit college occupied Monte Olivete hill (1609-1759). The garden's creation in the mid-19th century was spearheaded by professors Conde de Ficalho and Andrade Corvo, with the first plantings beginning in 1873. German gardener Edmund Goeze designed the upper 'Classe' section, while French gardener Jules Daveau created the lower 'Arboreto.' These pioneering gardeners collected an extraordinary diversity of plants from Portuguese territories around the world, showcasing Portugal's colonial reach. The garden's design brilliantly adapts to Lisbon's climate and topography, featuring winding pathways, terraced beds, cascading water features, ponds, and bridges connecting different garden sections. Today, the garden houses over 18,000 plant species representing flora from six continents, with particular emphasis on tropical and subtropical species from Australia, New Zealand, China, Japan, and South America. Notable collections include more than 30 species of palms, rare cycads (living fossils), carnivorous plants, medicinal herbs, aromatic plants, and a unique butterfly house - the only one open to the public in Europe. Declared a National Monument in 2010, the garden continues its scientific mission of plant conservation, biodiversity research, and environmental education while providing visitors with a serene escape from urban Lisbon's bustle.",
-    "history": "The site has botanical traditions dating to 1609 when a Jesuit college established gardens here. The scientific botanical garden was formally planned in 1843, with planting beginning in 1873 under professors Conde de Ficalho and Andrade Corvo. First head gardener Edmund Goeze designed the upper systematic 'Classe' section, while Jules Daveau created the lower 'Arboreto' with diverse tree species. The first seed catalogue was published in 1878. Major renovations occurred in the 1930s-40s under director Ruy Telles Palhinha. The Lisbon City Council restored the garden in 2016 through participatory budgeting.",
-    "significance": "Classified as a National Monument in 2010, the garden represents one of Portugal's most important scientific plant collections and botanical research centers. It serves vital roles in plant conservation, particularly for endangered species, biodiversity research, and environmental education. The garden preserves plants from former Portuguese territories worldwide and demonstrates Lisbon's favorable microclimate for cultivating diverse global flora."
+    "short": "The University of Lisbon's botanical garden, planted from 1873 on the slopes below Príncipe Real and classified as a National Monument in 2010. The upper 'Classe' is free; the lower 'Arboreto' needs a ticket (€5 adults).",
+    "full": "The Jardim Botânico is a good choice for a quieter hour on a hot day, or for anyone interested in plants, but it is not a priority on a first, short call. It sits about 3.4 km from the terminal on the hill of Príncipe Real, so take a taxi (about 10 to 12 minutes) to the entrance at Rua da Escola Politécnica 58, next to the Museu Nacional de História Natural e da Ciência. Tram 24 and buses 758 and 773 also stop outside.\n\nThe garden has two levels. The upper terrace, the Classe, is free during opening hours and has benches, palms and views over the trees below; if you only have 20 minutes, see this. The lower Arboreto, reached by steep paths and steps, needs a ticket and is where the large trees, palms, cycads and ponds are. Allow an hour for both. The former butterfly house has been replaced by a sensory garden, the Jardim dos Sentidos.\n\nFrom October to March the garden opens 10:00 to 17:00; from April to September, 09:00 to 20:00, with last entry 30 minutes before closing. It closes only on 25 December and 1 January. Entry is free for everyone on Sundays from 10:00 to 13:00, which is also when local families come.\n\nThe garden is left deliberately natural: fallen leaves and dry undergrowth are kept as habitat, and in summer only the essentials are watered, so it can look parched from July to September. Spring is when it looks its best.\n\nIt pairs well with a downhill walk back towards the ship: through the Jardim do Príncipe Real, past the São Pedro de Alcântara viewpoint, down through Bairro Alto and Chiado to the Baixa, then east along the river. The Glória funicular next to the viewpoint is closed, so walk down Calçada da Glória or the side streets. From the garden to the terminal on foot is about 50 minutes, mostly downhill.",
+    "history": "The site on the Monte Olivete hill had been used for teaching botany since the Jesuit college of Cotovia stood here from 1609 to 1759. A plan for a scientific garden attached to the Escola Politécnica was drawn up in 1843, but planting only began in 1873, led by the professors Conde de Ficalho and Andrade Corvo. The German gardener Edmund Goeze laid out the upper Classe and the Frenchman Jules Daveau the lower Arboreto, with plants gathered from Portuguese territories worldwide. The first seed catalogue appeared in 1878. In the late 1930s and early 1940s, director Ruy Telles Palhinha regrouped the upper beds by ecology, and the city restored the garden in 2016.",
+    "significance": "It is one of Portugal's main historic scientific gardens and was classified as a National Monument in 2010. Its collections of palms and cycads, and of species from New Zealand, Australia, China, Japan and South America, show how mild Lisbon's climate is. For a visitor it offers shade and quiet in the centre of the city, and the top terrace costs nothing."
   },
   "location": {
     "address": {
@@ -55,108 +56,93 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open daily except 25 December and 1 January",
       "seasonal": [
         {
           "season": "Summer (1 April - 30 September)",
           "days": "Daily",
-          "hours": "10:00 - 20:00",
-          "notes": "Upper 'Classe' section free entry. Lower 'Arboreto' requires ticket."
+          "hours": "09:00 - 20:00",
+          "lastAdmission": "19:30"
         },
         {
           "season": "Winter (1 October - 31 March)",
           "days": "Daily",
           "hours": "10:00 - 17:00",
-          "notes": "Upper 'Classe' section free entry. Lower 'Arboreto' requires ticket."
+          "lastAdmission": "16:30"
         }
       ],
       "closedDates": [
         "December 25",
-        "January 1",
-        "Easter Sunday",
-        "May 1"
+        "January 1"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
       "adult": 5,
-      "youth": 2.5,
+      "youth": 5,
       "child": 0,
-      "senior": 2.5,
-      "family": 8,
+      "senior": 4,
+      "family": 12.5,
       "lisboaCardFree": false,
-      "notes": "Upper 'Classe' section FREE entry. Ticket required only for lower 'Arboreto' section. Children under 10 free. Family ticket (2 adults + 2 children under 17) €8. Free on Sundays. Combination ticket with Natural History Museum €8. Guided tours available weekends."
+      "notes": "2026 prices for the garden (lower Arboreto): adults €5; seniors 65+ €4; students €2.50; family (2 adults + children up to 17) €12.50; children 2-10 free. Museum + garden €8 adults. The upper Classe is free at all times, and the whole garden is free on Sundays 10:00-13:00. Lisboa Card: 10% off."
     },
-    "averageVisitDuration": "1-2 hours for full garden exploration",
-    "bestTimeToVisit": "Spring (March-May) and early summer for flowers in bloom. Early morning for peaceful atmosphere and best light. Weekdays less crowded than weekends. Upper free section accessible anytime during opening hours.",
+    "averageVisitDuration": "20 minutes for the free upper terrace; about 1 hour for the whole garden",
+    "bestTimeToVisit": "Weekday mornings, and spring for the garden at its greenest. Sunday mornings are free but busier.",
     "busyPeriods": [
+      "Sunday mornings (free entry until 13:00)",
       "Weekend afternoons",
-      "Spring months (April-May)",
-      "Sundays (free admission days)"
+      "April and May"
     ],
-    "adviceForVisitors": "Wear comfortable walking shoes for uneven paths and slopes. Bring water, especially in summer. The garden deliberately maintains a natural appearance with fallen leaves and branches to support biodiversity - this is intentional, not neglect. Summer watering is limited to preserve water resources. The upper free section offers excellent views and partial garden access. Combine with nearby Príncipe Real park and São Pedro de Alcântara viewpoint."
+    "adviceForVisitors": "Wear shoes with grip for the steep lower paths. Bring water in summer. Fallen leaves and dry patches are deliberate, not neglect. Combine with Príncipe Real and the São Pedro de Alcântara viewpoint."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2-3 hours including travel and leisurely garden visit",
-    "accessibility": "Moderate - requires metro or uphill walk. Garden has steep slopes, uneven paths, stairs. Partially wheelchair accessible (upper section easier than lower).",
+    "timeNeededFromPort": "About 2-2.5 hours: taxi up, an hour in the garden, then about 50 minutes' walk downhill back to the ship",
+    "accessibility": "Taxi about 10-12 minutes to Rua da Escola Politécnica 58; tram 24 and buses 758 and 773 stop outside. The lower garden is steep.",
     "combinableWith": [
       "Jardim do Príncipe Real",
-      "São Pedro de Alcântara viewpoint",
-      "São Roque Church",
-      "Chiado district",
-      "Bairro Alto"
+      "Miradouro de São Pedro de Alcântara",
+      "Museu Nacional de História Natural e da Ciência",
+      "Bairro Alto",
+      "Chiado"
     ],
     "tips": [
-      "Upper 'Classe' section has FREE entry - great for budget travelers",
-      "Perfect escape from Lisbon's heat and crowds",
-      "Bring sun protection - limited shade in some areas",
-      "The only public butterfly house in Europe!",
-      "Excellent for plant and nature enthusiasts",
-      "Photography permitted - beautiful settings for photos",
-      "Combine with Príncipe Real neighborhood exploration",
-      "Visit São Pedro de Alcântara viewpoint (5 min walk)",
-      "Peaceful atmosphere ideal for relaxation",
-      "Educational labels identify plant species",
-      "Spring flowers and autumn colors are spectacular",
-      "Wear layers - temperature varies in different garden zones"
+      "Take a taxi up and walk back down: the garden is on a hill, and the return to the ship is mostly downhill.",
+      "The upper 'Classe' terrace is free during opening hours; pay €5 only if you want the steep lower 'Arboreto'.",
+      "Everyone gets in free on Sundays from 10:00 to 13:00.",
+      "Children aged 2 to 10 are free, and seniors 65+ pay €4.",
+      "The butterfly house mentioned in older guides has gone; it is now a sensory garden.",
+      "In summer the garden is only watered where necessary, so expect dry patches from July to September.",
+      "The Glória funicular by the São Pedro de Alcântara viewpoint is closed; walk down to the Baixa instead.",
+      "Winter closing is 17:00 with last entry at 16:30, so do not leave it to the end of the day from October to March."
     ]
   },
   "features": {
     "highlights": [
-      "Over 18,000 plant species from six continents",
-      "Collection of 30+ palm tree species creating tropical ambiance",
-      "Rare cycads (living fossils from ancient eras)",
-      "Europe's only public butterfly house with breeding program",
-      "Carnivorous plant collection",
-      "Medicinal and aromatic plant gardens",
-      "19th-century greenhouses and conservatories",
-      "Astronomical observatory (historic building)",
-      "Terraced landscapes with ponds and cascades",
-      "Tropical and subtropical species from Australia, Asia, Americas",
-      "National Monument status (2010)",
-      "Four hectares of serene green space in city center"
+      "Upper 'Classe' terrace, free during opening hours",
+      "Lower 'Arboreto' with large trees, ponds and cascades (ticketed)",
+      "Palms from every continent",
+      "Cycad collection, one of the garden's best-known features",
+      "Species from New Zealand, Australia, China, Japan and South America",
+      "Jardim dos Sentidos, a sensory garden that replaced the butterfly house",
+      "National Monument since 2010"
     ],
     "facilities": [
-      "Butterfly house",
-      "Historic greenhouses",
-      "Herbarium collection",
-      "Information panels with plant labels",
-      "Benches and seating areas throughout",
-      "Restrooms",
-      "Drinking fountains",
-      "Shaded walkways and paths",
-      "Museum connection (Natural History Museum adjacent)"
+      "Ticket office shared with the Museu Nacional de História Natural e da Ciência",
+      "Two wheelchairs and portable ramps on request at the ticket office",
+      "Benches throughout",
+      "Audio trails (itinerários sonoros) on the museum website",
+      "Museum next door (separate or combined ticket)"
     ],
     "accessibility": {
       "wheelchairAccessible": "Partial",
-      "mobilityNotes": "Upper 'Classe' section more accessible with paved paths. Lower 'Arboreto' has steep slopes, stairs, uneven terrain - challenging for wheelchairs and limited mobility. Garden's hilly topography limits full accessibility. Best for visitors able to navigate slopes and stairs.",
+      "mobilityNotes": "The upper Classe is the easier part. The lower Arboreto is on a steep slope with stairs and uneven paths that are hard for wheelchairs and anyone unsteady on their feet. Two wheelchairs are available on request at the ticket office.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
     "languages": [
       "Portuguese",
-      "English labels and signage throughout"
+      "Some English signage"
     ]
   },
   "images": {

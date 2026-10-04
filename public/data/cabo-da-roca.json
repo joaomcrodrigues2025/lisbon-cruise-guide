@@ -1,7 +1,8 @@
 {
   "id": "cabo-da-roca",
   "name": "Cabo da Roca",
-  "tagline": "Europe's westernmost point - where land meets the Atlantic in dramatic fashion",
+  "seoTitle": "Cabo da Roca from a Cruise Ship: Bus 1624 or Taxi?",
+  "tagline": "Europe's westernmost point: reasonable by car, risky by bus on a port day.",
   "type": "scenic-viewpoint",
   "categories": [
     "scenic-viewpoint",
@@ -12,10 +13,10 @@
     "photography"
   ],
   "description": {
-    "short": "Cabo da Roca is the westernmost point of continental Europe, a dramatic windswept cape where 140-meter-high cliffs plunge into the crashing Atlantic Ocean. Located 40km west of Lisbon and 18km from Sintra, this spectacular headland offers breathtaking views, wild natural beauty, and the symbolic experience of standing at Europe's western edge. A stone monument marks the geographic significance, and visitors can obtain a certificate proving they've reached this historic landmark.",
-    "full": "Cabo da Roca (Cape Roca) represents one of nature's most dramatic stage sets - a place where the European continent literally ends and the vast Atlantic Ocean begins. Standing atop the windswept promontory 140 meters above the churning sea, with nothing but 5,000 kilometers of ocean between you and North America, creates a powerful sense of standing at the edge of the world. The cape has captivated travelers for centuries; Portuguese poet Luís de Camões famously described it as 'where the land ends and the sea begins' (Onde a terra se acaba e o mar comeca). A stone monument bearing these words stands at the headland, along with a lighthouse that has guided ships since 1772. The landscape is starkly beautiful - barren cliffs covered in low scrub vegetation, shaped by relentless Atlantic winds and salt spray. On clear days, views extend north along the rugged coastline toward Guincho Beach and south past the Sintra-Cascais Natural Park. The cape sits within the Sintra-Cascais Natural Park, a protected landscape recognized for its geological and ecological importance. While the monument area is developed with a visitor center, gift shop, and viewing platforms, the surrounding cliffs retain their wild, elemental character. The experience of visiting Cabo da Roca goes beyond mere sightseeing - it's about experiencing the raw power of nature and the historical significance of a place that once marked the known world's boundary. For cruise passengers, Cabo da Roca makes an excellent addition to a Sintra or Cascais day trip, offering a completely different perspective on Portugal's Atlantic coastline.",
-    "history": "Cabo da Roca has been known as the western edge of Europe since ancient times. Romans called it Promontorium Magnum (Great Promontory). The lighthouse was established in 1772, making it one of Portugal's oldest. During the Age of Discoveries, Portuguese navigators departing from nearby Lisbon would pass this point as their last sight of European land before heading into unknown Atlantic waters. The cape's coordinates - 9°30' West longitude - mark Europe's westernmost point, though this wasn't officially confirmed until modern survey techniques emerged.",
-    "significance": "Cabo da Roca's significance is both geographic and symbolic. As continental Europe's westernmost point, it represents a literal 'edge of Europe.' For centuries, it symbolized the boundary between the known world and the unknown. Today it's a popular tourist landmark where visitors can obtain an official certificate proving they've stood at Europe's western extremity. The site is protected within Sintra-Cascais Natural Park for its geological formations and coastal ecosystem."
+    "short": "The westernmost point of mainland Europe, a headland about 140 metres above the Atlantic with a lighthouse and a monument quoting Camões. There is no direct public transport from the cruise terminal; most passengers go via Cascais by train and bus, or by taxi.",
+    "full": "Cabo da Roca is the westernmost point of mainland Europe: a windswept headland about 140 metres above the Atlantic, with a lighthouse, a stone monument quoting Camões and very little else. The visit itself takes 30 to 60 minutes. Getting there is the problem on a port day.\n\nThere is no direct public transport from the cruise terminal. The usual route is via Cascais: walk or take a taxi to Cais do Sodré, take the train to Cascais (33 to 40 minutes), then Carris Metropolitana bus 1624 from the Cascais bus terminal. In the October 2026 timetable it runs about every 30 minutes in the daytime and takes 30 to 35 minutes to the cape. From Sintra station, bus 1253 also serves the cape. Either way, each leg depends on the one before, and you have to catch a specific bus back from an exposed headland.\n\nBy public transport, Cabo da Roca adds 2 to 2.5 hours to a Cascais trip. On a call under 9 hours, we would not attempt it by bus. With a taxi or private driver it becomes reasonable on an 8-hour call, usually combined with Cascais and the coast road past Guincho; agree the price and the return time before you set off.\n\nOnce there, the free viewpoint by the monument and the cliff-top paths are the point of the trip. Since July 2026 the lighthouse has been open to visitors: the Essential Visit (5 euros) covers a new interpretation centre and the courtyard, and the Panoramic Visit (10 euros for adults) adds an accompanied climb to the lighthouse balcony. On a tight schedule, the free viewpoint is enough. The 11-euro certificate sold at the tourism office is a souvenir, not a reason to go.\n\nCheck the forecast before committing: wind is constant and fog is common, and in fog there is nothing to see. Do not combine Cabo da Roca with Pena and Sintra on the same port day.",
+    "history": "Roman geographers knew the headland as Promontorium Magnum. In The Lusiads (1572), Luís de Camões described Portugal as the place \"where the land ends and the sea begins\", and the line is quoted on the monument beside the cross at the cape. The lighthouse was one of six ordered by the Marquis of Pombal's charter of 1 February 1758 and came into service in 1772; it is the second-oldest lighthouse still operating on the Portuguese coast. The headland lies within the Sintra-Cascais Natural Park. In July 2026 Parques de Sintra opened the lighthouse to the public, with an interpretation centre on lighthouses and navigation.",
+    "significance": "At about 38°47'N, 9°30'W, the cape is the westernmost point of the European mainland, which is why nearly every coastal tour from Lisbon stops here. Its lighthouse has guided shipping off this coast for more than 250 years. The surrounding cliffs and coastal scrub are protected within the Sintra-Cascais Natural Park, a stretch of undeveloped Atlantic coast within an hour of the capital."
   },
   "location": {
     "address": {
@@ -32,8 +33,8 @@
     },
     "directions": {
       "general": "Located on the Atlantic coast 40km west of Lisbon, 18km west of Sintra, 14km northwest of Cascais",
-      "fromCruisePort": "Not directly accessible by public transport from port. Best options: (1) Rent car/take taxi (45 min), (2) Join organized tour from Lisbon, (3) Visit as part of Sintra or Cascais day trip. From Sintra: Bus 403 to Cabo da Roca (40 min). From Cascais: Bus 403 (45 min).",
-      "publicTransport": "Scotturb bus 403 from Sintra (€4.25 single, 40 min) or Cascais (€4.25, 45 min). Runs 5-6 times daily. Check schedules carefully - infrequent service. No direct bus from Lisbon. Many visitors combine with Sintra day trip using bus 403.",
+      "fromCruisePort": "No direct public transport. Walk 26 to 28 minutes (or taxi about 10 minutes) to Cais do Sodré, take the Cascais-line train (33-40 minutes), then Carris Metropolitana bus 1624 from the Cascais bus terminal (30-35 minutes, about every 30 minutes in the daytime). Allow about 2 hours each way by public transport. By taxi or private car, about 45 minutes.",
+      "publicTransport": "Carris Metropolitana bus 1624 from Cascais (Terminal) towards Portela de Sintra, and bus 1253 from Sintra station. Bus 1624 is a 'long line' fare: 2.70 euros bought on board, or 1.55 euros with pre-paid credit on a Navegante card. The earliest and latest 1624 journeys of the day do not call at the cape stop; check the timetable on carrismetropolitana.pt.",
       "parking": "Large free parking lot at visitor center. Can be very full in peak season. Accessible by car via N247 coastal road from either Sintra or Cascais."
     },
     "distanceFromCruisePort": {
@@ -43,10 +44,10 @@
     }
   },
   "contact": {
-    "phone": "+351 219 280 081",
-    "email": "info@parquesnaturais.pt",
-    "website": "https://www.cascaisloures.pt/equipamento/cabo-da-roca",
-    "bookingUrl": null,
+    "phone": "+351 219 238 543",
+    "email": "dtge.roca@cm-sintra.pt",
+    "website": "https://www.parquesdesintra.pt/en/parks-monuments/cabo-da-roca-lighthouse/",
+    "bookingUrl": "https://bilheteira.parquesdesintra.pt/",
     "socialMedia": {
       "facebook": null,
       "twitter": null,
@@ -55,78 +56,83 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round - outdoor natural site",
+      "currentStatus": "Headland open at all times; lighthouse open daily except 24, 25 and 31 December and 1 January",
       "seasonal": [
         {
-          "season": "Year-round",
+          "season": "Headland and viewpoint",
           "days": "Daily",
-          "hours": "24/7 - cape accessible anytime. Visitor center/shop typically 9:00-19:00 (summer) or 9:00-18:00 (winter)",
-          "notes": "Best visited during daylight hours for views and safety"
+          "hours": "Always open",
+          "notes": "Best visited in daylight"
+        },
+        {
+          "season": "Lighthouse courtyard and interpretation centre",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season": "Tourism office (certificates), October to April",
+          "days": "Daily",
+          "hours": "09:00 - 18:30"
+        },
+        {
+          "season": "Tourism office (certificates), May to September",
+          "days": "Daily",
+          "hours": "09:00 - 19:30"
         }
       ],
-      "closedDates": []
+      "closedDates": [
+        "Lighthouse: December 24, 25 and 31, January 1",
+        "Tourism office: December 25 and January 1"
+      ]
     },
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free to visit cape and viewpoints. Official certificate of visiting Europe's westernmost point available at visitor center for €11. Parking free."
+      "youth": 0,
+      "child": 0,
+      "senior": 0,
+      "notes": "The headland and viewpoint are free. Lighthouse Essential Visit (interpretation centre and courtyard): 5 euros for adults, youths 6-17 and seniors 65+, family (2 adults + 2 youths) 15 euros, young children free. Panoramic Visit (adds an accompanied climb to the balcony): adults 10 euros, seniors 7.50 euros, youths 5 euros, family 20 euros. Certificate of visit from the Cabo da Roca tourism office: 11 euros (Braille version 4.50 euros)."
     },
-    "averageVisitDuration": "30-60 minutes",
-    "bestTimeToVisit": "Sunset offers spectacular views and dramatic lighting. Late afternoon less crowded than midday. Spring and fall provide clearer weather than summer (often foggy). Early morning very quiet. Avoid visiting during strong winds (common) or fog which obscures views. Weekdays less crowded than weekends.",
+    "averageVisitDuration": "30-60 minutes (add about 45 minutes for the lighthouse)",
+    "bestTimeToVisit": "A clear day; fog often hides the view. Check the forecast before committing a port day to it.",
     "busyPeriods": [
       "Midday to early afternoon (11:00-15:00)",
       "Summer months (June-August)",
       "Weekends",
       "Tour bus arrivals (usually late morning)"
     ],
-    "adviceForVisitors": "Extremely windy - bring jacket even in summer. Stay well back from cliff edges - no barriers in many areas. Paths can be slippery. Appropriate footwear essential. Combine visit with Sintra or Cascais for efficient day trip. Bus 403 infrequent - check return times carefully. Popular photo spot at monument - be patient for clear shot. Certificate purchase is optional tourist gimmick but unique souvenir. Limited facilities - just visitor center, café, restrooms. No shade - bring sun protection. Weather changes quickly - dress in layers."
+    "adviceForVisitors": "Go by taxi or private driver if your call is under 9 hours. By bus, note the time of the bus back before you leave the stop. Bring a windproof layer even in summer and keep behind the fences at the cliff edge."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "3-4 hours if combined with Sintra or Cascais (plus their visit time)",
-    "accessibility": "Challenging - requires organized tour, car rental, or combining with Sintra/Cascais trip using infrequent bus 403. Not easily accessible independently from cruise port. Once there, main viewing areas accessible but uneven ground and strong winds make it challenging for limited mobility.",
+    "timeNeededFromPort": "At least 9 hours ashore by public transport via Cascais; about 8 hours with a taxi or private driver",
+    "accessibility": "Difficult by public transport: a walk or taxi, a train and a bus on winding roads, with fixed return times. On site, paved paths lead from the bus stop and car park to the monument, but strong wind and uneven ground make the cliff-top paths hard going for anyone with limited mobility.",
     "combinableWith": [
-      "Sintra (18km east)",
-      "Cascais (14km south)",
-      "Guincho Beach (7km south)",
-      "Colares village",
-      "Azenhas do Mar (6km north)"
+      "Cascais (by train and bus 1624, or by car)",
+      "Guincho Beach (by car on the coast road)",
+      "Sintra (bus 1253 or 1624, on long calls only)"
     ],
     "tips": [
-      "Best combined with Sintra or Cascais day trip",
-      "From Sintra: take bus 403 to Cabo da Roca (40 min)",
-      "From Cascais: bus 403 or taxi/Uber (30 min)",
-      "Organized tours from Lisbon often include Cabo da Roca with Sintra/Cascais",
-      "Bus 403 runs only 5-6 times daily - check schedule carefully",
-      "Allow 30-60 minutes at the cape",
-      "Extremely windy - bring warm layers",
-      "Stay back from cliff edges - dangerous drops",
-      "Sunset visits spectacular but bus service ends early",
-      "Certificate of visiting available for €11 - unique souvenir",
-      "Take N247 scenic coastal road if driving",
-      "Limited food options - just small café at visitor center",
-      "Photo at monument marker requires patience - popular spot",
-      "Combine with visit to nearby Guincho Beach",
-      "Check weather forecast - fog common, especially summer mornings"
+      "Take Carris Metropolitana bus 1624 from the Cascais bus terminal, a short walk from the train station; it takes 30 to 35 minutes to the cape.",
+      "Bus 1624 costs 2.70 euros bought on board or 1.55 euros with pre-paid credit on a Navegante card.",
+      "In the October 2026 timetable, daytime buses via the cape leave Cascais from about 09:10 on weekdays and 09:40 at weekends; the first and last journeys of the day skip the cape stop.",
+      "Check the time of the bus back before you leave the cape stop; the last daytime departures towards Cascais are around 19:10-19:20.",
+      "The lighthouse courtyard and interpretation centre open 09:30-17:30 (last entry 17:00); Panoramic Visit balcony climbs are accompanied, so book online on the Parques de Sintra ticket site.",
+      "The 11-euro certificate is sold at the Cabo da Roca tourism office, open daily 09:00-18:30 (October to April) or 09:00-19:30 (May to September).",
+      "With a taxi from Cascais (about 20 minutes each way), agree a waiting time: you cannot count on finding a free taxi at the cape.",
+      "Bring a windproof layer even in summer, keep behind the fences, and skip the trip altogether if the forecast is foggy."
     ]
   },
   "features": {
     "highlights": [
-      "Westernmost point of continental Europe (9°30'W)",
-      "Spectacular 140-meter-high cliffs above Atlantic Ocean",
-      "Historic lighthouse dating to 1772",
-      "Stone monument with Luís de Camões poem inscription",
-      "Official certificate of visiting Europe's westernmost point",
-      "Breathtaking panoramic ocean and coastal views",
-      "Raw, windswept natural beauty",
-      "Part of Sintra-Cascais Natural Park",
-      "Dramatic sunset viewing location",
-      "Wild Atlantic coastline scenery",
-      "Low scrubland and maritime vegetation",
-      "Photography opportunities",
-      "Symbolic 'edge of Europe' experience",
-      "Historic maritime significance",
-      "Unique geological formations"
+      "Westernmost point of mainland Europe, about 38°47'N, 9°30'W",
+      "Cliffs about 140 metres above the Atlantic",
+      "Monument and cross with Camões's line \"where the land ends and the sea begins\"",
+      "Lighthouse in service since 1772, open to visitors since July 2026",
+      "Lighthouse interpretation centre and accompanied climb to the balcony (Panoramic Visit)",
+      "Views north towards Praia da Ursa and south along the coast towards Guincho",
+      "Part of the Sintra-Cascais Natural Park"
     ],
     "facilities": [
       "Visitor center with information",
@@ -176,13 +182,13 @@
       "name": "Sintra",
       "distance": "18 km east",
       "type": "historic-town",
-      "walkingTime": "Not walkable - 40 min by bus 403 or 25 min drive"
+      "walkingTime": "Not walkable - Carris Metropolitana bus 1253 or 1624, or about 25 min by car"
     },
     {
       "name": "Cascais",
       "distance": "14 km southeast",
       "type": "beach-town",
-      "walkingTime": "Not walkable - 45 min by bus 403 or 20 min drive"
+      "walkingTime": "Not walkable - 30-35 min by Carris Metropolitana bus 1624 or about 20 min by car"
     },
     {
       "name": "Guincho Beach",
@@ -228,7 +234,7 @@
   "weatherDependent": true,
   "indoorActivities": false,
   "outdoorActivities": true,
-  "priceRange": "Free (optional €11 certificate)",
+  "priceRange": "Free (lighthouse 5-10 euros, optional 11-euro certificate)",
   "rating": 4.6,
   "reviewCount": 22800,
   "reviewSource": "TripAdvisor/Google"

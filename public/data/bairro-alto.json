@@ -1,7 +1,8 @@
 {
   "id": "bairro-alto",
   "name": "Bairro Alto",
-  "tagline": "Lisbon's vibrant nightlife hub with historic charm and endless bars",
+  "seoTitle": "Bairro Alto: Daytime Walk or Overnight-Call Bar Crawl",
+  "tagline": "A grid of steep, narrow streets above Chiado: quiet and walkable by day, packed with small bars at night",
   "type": "neighborhood",
   "categories": [
     "nightlife",
@@ -12,10 +13,10 @@
     "cultural-experience"
   ],
   "description": {
-    "short": "Bairro Alto is Lisbon's legendary nightlife district, a maze of narrow cobblestone streets that transforms from quiet residential area by day into one of Europe's most concentrated party hubs by night.",
-    "full": "Bairro Alto, meaning 'upper district', extends over the hill to the west of central Lisbon and the Baixa district. At the heart of Bairro Alto are narrow cobbled streets densely packed with apartments, restaurants and bars. This historic neighborhood has always been associated with liberals and progressives, and after the collapse of the authoritarian dictatorship of the Estado Novo in 1974, the area became a haven for those simply wanting to enjoy life. Found within a relatively compact area are over two hundred family-run restaurants and small bars, catering for every genre and taste. Many of these bars are tiny, only providing seating for a handful of patrons, so as the night progresses the socializing spills out onto the streets, and the entire district becomes one huge party. The unique grid layout of central Bairro Alto is unusual for a medieval-era city district, as it originally followed ancient farming plots which were rectangular in size. Bairro Alto has matured since the heady days of the 1980s, but it is still the location for vibrant nightlife and late-night socializing, attracting both locals and tourists who come to experience authentic Lisbon nightlife.",
-    "history": "Bairro Alto was developed in the 16th century as a planned neighborhood, unusual for its time with its grid-pattern streets. Throughout its history, it has been home to intellectuals, artists, and bohemians. The area survived the devastating 1755 earthquake relatively intact. In 1988, the neighboring Chiado was ravaged by a terrible fire, but Bairro Alto escaped damage. After Portugal's 1974 revolution ending the Estado Novo dictatorship, Bairro Alto flourished as a center of freedom and expression.",
-    "significance": "Bairro Alto represents the bohemian soul of Lisbon and is one of the city's most important cultural and nightlife districts. It's a living example of how historic neighborhoods can maintain their character while serving modern purposes. The district is famous for its authentic atmosphere where locals and visitors mix freely, creating a unique social experience."
+    "short": "Bairro Alto is a 16th-century district of narrow, gridded streets on the hill above Chiado. By day it is residential and quiet, with tascas, small shops and street art; at night its small bars fill and drinkers spill into the streets.",
+    "full": "How useful Bairro Alto is depends on when your ship sails. On a typical day call the nightlife it is known for does not start until after most ships have left, so treat it as a daytime walk that links Chiado, São Roque church and the São Pedro de Alcântara viewpoint. If your ship stays overnight or sails late, it is the obvious place for an evening out.\n\nFrom the terminal the walk is about 2.5 km and 37 minutes, with a steep last stretch. The easier way is to walk about 10 minutes to Santa Apolónia, take the metro Blue Line to Baixa-Chiado and leave by the Chiado exit, which brings you out at Largo do Chiado; Bairro Alto starts a couple of minutes uphill, across Rua da Misericórdia. A taxi takes about 10 minutes.\n\nBy day, an hour is enough. Walk up Rua da Misericórdia to São Roque and the viewpoint, then come back down through the grid on Rua da Rosa, Rua do Norte or Rua da Atalaia. Many bars are shuttered until evening, and the walls are heavily tagged; some find that charming, others do not. Lunch at one of the small tascas is the best reason to linger.\n\nAt night, the streets are most crowded from about 22:00 to 02:00, especially Thursday to Saturday. Since February 2026 Lisbon has banned selling drinks for consumption in the street from 23:00 (Sunday to Thursday) and from midnight (Friday, Saturday and the eve of public holidays), so the 'buy a drink at the window and stand outside' culture is now limited to earlier hours or to licensed terraces.\n\nPickpocketing is common in the late-evening crowds, and the cobbles are slippery when wet. If you are returning to the ship at night, take a taxi or ride-hailing car to the terminal rather than walking down.",
+    "history": "Bairro Alto was laid out from 1513 as a planned extension of the city, first called Vila Nova de Andrade after Bartolomeu de Andrade, who owned the land. Its regular grid of straight streets was unusual for Lisbon at the time. The Jesuits' arrival at São Roque in 1553 drew aristocratic families to the area. Built on firmer ground than the Baixa, it largely survived the 1755 earthquake. In the 19th and 20th centuries it became Lisbon's newspaper district, with printing works and the offices of the Diário de Notícias. As the presses moved out in the late 20th century, cheap rents brought bars, fado houses and designers, and the district's reputation for nightlife dates from the 1980s.",
+    "significance": "Bairro Alto is one of the clearest surviving examples of planned 16th-century urban design in Lisbon, and its grid still shapes how the area is used: tiny ground-floor bars and tascas below residential flats. That mix is also its main tension, between residents and nightlife, and it explains the city's 2026 limits on street drinking."
   },
   "location": {
     "address": {
@@ -55,13 +56,25 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open 24/7 - public streets",
+      "currentStatus": "Public streets, open at all times",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
-          "hours": "24 hours access to streets",
-          "notes": "Bars typically open from 19:00-20:00 and close at 02:00. Most establishments closed Monday-Wednesday evenings."
+          "hours": "Public streets",
+          "notes": "Most bars open in the evening and close around 02:00; tascas and restaurants open for lunch and dinner. Hours vary by venue."
+        },
+        {
+          "season": "Year-round",
+          "days": "Sunday to Thursday",
+          "hours": "Street-drinking sales end 23:00",
+          "notes": "Lisbon city rule in force since February 2026: no sales of drinks for consumption in the street from 23:00 to 08:00. Drinking inside or on licensed terrace seats is still allowed during opening hours."
+        },
+        {
+          "season": "Year-round",
+          "days": "Friday, Saturday and eves of public holidays",
+          "hours": "Street-drinking sales end 00:00",
+          "notes": "No sales of drinks for consumption in the street from midnight to 08:00. The rule does not apply during the June Lisbon festivities."
         }
       ],
       "closedDates": []
@@ -69,21 +82,21 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free to explore neighborhood. Individual bars and restaurants have their own pricing. Expect to pay 3-8 EUR for drinks."
+      "notes": "Free to walk around. Prices in bars and restaurants vary by venue."
     },
-    "averageVisitDuration": "3-5 hours for full nightlife experience",
-    "bestTimeToVisit": "Evening from 21:00 onwards for nightlife. Thursday-Saturday are busiest. Early morning for photography and quiet exploration.",
+    "averageVisitDuration": "About 1 hour on foot by day; 2–4 hours for an evening out",
+    "bestTimeToVisit": "By day for a walk combined with São Roque and the viewpoint; from about 21:00 for nightlife, if your ship is still in port.",
     "busyPeriods": [
-      "Thursday-Saturday nights (22:00-02:00)",
-      "Summer months (June-September)",
-      "June - Santo António festival"
+      "Thursday to Saturday nights (about 22:00-02:00)",
+      "Summer evenings",
+      "June, during the Santo António festivities"
     ],
-    "adviceForVisitors": "Wear comfortable shoes for cobblestones and hills. Pace yourself - the night starts late in Lisbon. Be aware of pickpockets in crowded areas. Cash is useful as some small bars don't accept cards. The area looks shabby during the day but comes alive at night. Don't judge it until you experience the evening atmosphere."
+    "adviceForVisitors": "Wear shoes with grip for steep, polished cobbles. Keep phones and wallets secure in the evening crowds. Respect residents: the flats above the bars are lived in, and noise complaints are why the city has tightened its rules."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Allow 3-4 hours minimum for evening experience",
-    "accessibility": "Challenging - steep hills, many staircases, narrow cobblestone streets. The Glória funicular is closed; the metro to Baixa-Chiado or a taxi saves most of the climb.",
+    "timeNeededFromPort": "About 2 hours for a daytime walk including the metro both ways; 3–4 hours for an evening out on an overnight or late-departure call",
+    "accessibility": "Steep, narrow cobbled streets with uneven pavements. The metro to Baixa-Chiado (Chiado exit) removes most of the climb from the river; a taxi to Largo do Camões or São Pedro de Alcântara removes the rest.",
     "combinableWith": [
       "Chiado shopping district",
       "Cais do Sodré nightlife",
@@ -92,28 +105,24 @@
       "Príncipe Real"
     ],
     "tips": [
-      "Perfect for evening shore leave if ship stays overnight",
-      "Start at São Pedro de Alcântara viewpoint at sunset",
-      "Do your own bar crawl - explore multiple venues",
-      "Try local ginjinha (cherry liqueur) and Portuguese wine",
-      "Experience authentic Fado music in traditional houses",
-      "Combine with dinner in nearby Chiado before nightlife",
-      "Take the metro to Baixa-Chiado and use the Chiado exit to skip most of the climb (the Glória funicular is closed)",
-      "Keep valuables secure in crowded streets"
+      "On a day call, walk Bairro Alto by daylight as a link between Chiado, São Roque church and the São Pedro de Alcântara viewpoint; the bars mostly open after typical sail-away times.",
+      "Take the metro Blue Line from Santa Apolónia to Baixa-Chiado and use the Chiado exit to skip most of the climb.",
+      "Start at the top, at the São Pedro de Alcântara viewpoint, and walk downhill through the grid to Largo do Camões.",
+      "On an overnight call, the streets are liveliest from about 22:00, Thursday to Saturday.",
+      "Since February 2026, bars cannot sell drinks to take into the street after 23:00 (midnight on Fridays, Saturdays and holiday eves); after that, drink inside or on a licensed terrace.",
+      "Keep valuables zipped away in the late-evening crowds, where pickpockets operate.",
+      "Take a taxi or ride-hailing car back to the terminal at night instead of walking down to the river.",
+      "Allow about 37 minutes to walk back to the ship, or around 25 minutes via Baixa-Chiado metro and Santa Apolónia."
     ]
   },
   "features": {
     "highlights": [
-      "Over 200 bars and restaurants in compact area",
-      "Authentic Fado music venues",
-      "Street party atmosphere on weekends",
-      "Historic 16th century grid-pattern streets",
-      "Colorful graffiti and street art",
-      "Igreja de São Roque church with ornate interior",
-      "Miradouro de São Pedro de Alcântara viewpoint",
-      "Mix of traditional and modern bars",
-      "LGBTQ+ friendly atmosphere",
-      "Live music venues"
+      "16th-century street grid, one of Lisbon's earliest planned districts",
+      "Small ground-floor bars and tascas",
+      "Igreja de São Roque on Largo Trindade Coelho",
+      "Miradouro de São Pedro de Alcântara at the northern edge",
+      "Fado houses with evening dinner shows",
+      "Street-level nightlife on overnight calls"
     ],
     "facilities": [
       "200+ bars and restaurants",

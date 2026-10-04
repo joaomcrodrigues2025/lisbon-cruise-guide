@@ -1,7 +1,8 @@
 {
   "id": "parque-das-nacoes",
   "name": "Parque das Nações",
-  "tagline": "Lisbon's modern waterfront district with family attractions, parks, and stunning contemporary architecture",
+  "seoTitle": "Parque das Nações by Train from the Cruise Terminal",
+  "tagline": "Flat riverside district built for Expo '98, easiest by train to Oriente, best for families and anyone who wants Lisbon without hills",
   "type": "neighborhood",
   "categories": [
     "district",
@@ -11,10 +12,10 @@
     "parks"
   ],
   "description": {
-    "short": "Parque das Nações is Lisbon's ultra-modern waterfront district, born from Expo 98. This family-friendly area features wide pedestrian promenades, contemporary architecture, waterfront gardens, the Oceanarium, science museum, cable car, and excellent dining options.",
-    "full": "Parque das Nações represents Lisbon's vision of the future - a striking waterfront district that rose from abandoned industrial land to become one of Europe's most successful urban renewal projects. Built to host Expo 98 (celebrating the 500th anniversary of Vasco da Gama's voyage to India), this contemporary neighborhood has evolved into a thriving, family-oriented community. The district stretches along the Tejo estuary with wide, traffic-free promenades, innovative water gardens, and bold modern architecture. Unlike historic Lisbon with its narrow cobblestone streets and hills, Parque das Nações offers flat, spacious walkways perfect for strollers and wheelchairs. The area is anchored by major attractions including the Oceanário de Lisboa (Europe's largest aquarium), Pavilhão do Conhecimento (interactive science museum), and the Telecabine cable car offering panoramic views. Families appreciate the free water features like Jardins da Água with fountains and waterfalls, exploding water volcano towers, and the Jardim da Música with interactive play areas. The district showcases Vasco da Gama-themed architecture including the Torre Vasco da Gama (Lisbon's tallest building), apartment towers designed like sailing ships, and the Vasco da Gama Bridge. The Centro Vasco da Gama shopping center provides dining, cinema, and retail. The area features over 120 restaurants ranging from traditional Portuguese to international cuisine, plus trendy bars and the Casino de Lisboa. The waterfront marina offers a peaceful setting for evening strolls. With its combination of attractions, green spaces, dining, and modern infrastructure, Parque das Nações provides a complete family day out and showcases Lisbon's contemporary identity.",
-    "history": "Parque das Nações was created for Expo 98, the World's Fair celebrating the 'Oceans: A Heritage for the Future' theme. The site was previously Lisbon's industrial zone and petroleum storage area - a desolate wasteland along the Tejo River. The Portuguese government invested heavily in transforming this 5-kilometer stretch into a modern exhibition space. After Expo 98 ended successfully with millions of visitors, planners wisely converted the area into a permanent residential and commercial district rather than letting it decay. The thoughtful post-Expo development created a sustainable neighborhood combining residential towers, office spaces, cultural venues, parks, and infrastructure. Today it stands as a model of successful urban regeneration.",
-    "significance": "Parque das Nações represents Lisbon's modern face and successful urban renewal. The district demonstrates how industrial wasteland can be transformed into vibrant, sustainable communities. It serves as a major residential area for 25,000 people, an important business center, and Lisbon's premier family entertainment zone. The area symbolizes Portugal's forward-looking identity while honoring its maritime heritage. It's become a case study in post-event urban planning worldwide."
+    "short": "The former Expo '98 site on Lisbon's eastern riverfront, now a residential and business district with a long flat promenade. It holds the Oceanário, the Pavilhão do Conhecimento science centre and the riverside cable car, about 7.4 km from the cruise terminal.",
+    "full": "Parque das Nações is the opposite of the Lisbon most cruise passengers come for: no hills, no cobbles and almost nothing older than 1998. It makes sense on a port day if you are travelling with children or someone who struggles on slopes, if it is raining and you want the Oceanário, or if you have been to Lisbon before and want to see a different side of it.\n\nFrom the ship, walk about 10 minutes to Santa Apolónia and take a suburban train to Oriente; the ride is around seven minutes and trains run several times an hour. A taxi from the terminal takes about 15 minutes. Oriente station, designed by Santiago Calatrava, is the gateway: walk through the Vasco da Gama shopping centre to reach the river.\n\nWith two hours, see the station roof, walk down to the waterfront and along to the Oceanário, then take the cable car north over the river's edge and walk back towards Oriente. With half a day, add the Oceanário itself (allow 90 minutes to two hours) or the Pavilhão do Conhecimento, a hands-on science centre that suits children of primary-school age. From 7 September 2026 the Pavilhão is closed on Mondays.\n\nThe public spaces are free. The Oceanário charges adults €25.50 to €29.90 depending on the entry slot, the Pavilhão €15 and the cable car €7.50 one way or €9.50 return. Weekends and school holidays are the busiest times at the attractions; on weekdays the promenade is quiet. There is little shade along the river, so bring water and sun protection in summer.\n\nSkip the shopping centre unless you need something specific, and do not expect to fit Parque das Nações and Belém into one short call: they sit at opposite ends of the city.",
+    "history": "Until the 1990s this stretch of the eastern riverfront was an industrial zone of oil depots, warehouses and port installations. It was cleared and rebuilt for Expo '98, the world's fair held from 22 May to 30 September 1998 to mark 500 years since Vasco da Gama reached India, under the theme 'The Oceans, a Heritage for the Future'. Several of today's landmarks were Expo buildings: the Oceans Pavilion became the Oceanário, Álvaro Siza's Portugal Pavilion kept its suspended concrete canopy, and the cable car and Oriente station opened that year. After the fair the site was turned into a permanent district of housing, offices and parks.",
+    "significance": "It is Lisbon's largest example of urban regeneration and the only part of the city laid out on the flat, with wide promenades and step-free routes. For cruise passengers that matters more than the architecture: it is the most accessible area in Lisbon for wheelchairs and pushchairs, and it groups the Oceanário, a science centre and the cable car within a 15-minute walk of each other."
   },
   "location": {
     "address": {
@@ -54,13 +55,13 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Public area open 24/7",
+      "currentStatus": "Public spaces open at all times; attractions keep their own hours",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
-          "hours": "24 hours (public spaces)",
-          "notes": "Individual attractions have their own hours"
+          "hours": "Public promenade and gardens open 24 hours",
+          "notes": "Oceanário 10:00-20:00 daily; Pavilhão do Conhecimento Tue-Fri 10:00-18:00, weekends and holidays 10:00-19:00 (closed Mondays from 7 September 2026); cable car 11:00-19:00 until 23 October 2026, then 11:00-18:00"
         }
       ],
       "closedDates": []
@@ -68,22 +69,22 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Free to explore public areas. Individual attractions charge admission (Oceanarium €26, Science Museum €14, Cable Car €9.50 return)"
+      "notes": "The district itself is free. Attraction prices for adults: Oceanário €25.50-€29.90 depending on entry time; Pavilhão do Conhecimento €15 (youth 3-17 €10, seniors €11); cable car €7.50 one way, €9.50 return."
     },
-    "averageVisitDuration": "Half day to full day depending on attractions visited",
-    "bestTimeToVisit": "Weekday mornings for quieter experience at attractions. Evenings for waterfront dining and sunset views. Spring and autumn offer pleasant weather.",
+    "averageVisitDuration": "2 hours for the promenade and cable car; half a day with the Oceanário",
+    "bestTimeToVisit": "Weekday mornings for the attractions; late afternoon for the river light. Avoid weekends and school holidays at the Oceanário if you can.",
     "busyPeriods": [
       "Weekends",
-      "Summer months",
       "School holidays",
-      "Event days at venues"
+      "Rainy days (Oceanário and Pavilhão)",
+      "Concert and trade-fair days at the arena and FIL"
     ],
-    "adviceForVisitors": "Completely flat and stroller-friendly unlike most of Lisbon. Start at Oriente station and walk along the waterfront. Free attractions include gardens, water features, and public art. Combine Oceanarium and Science Museum for full family day. Centro Vasco da Gama has food court with good value options. Cable car provides great overview. Wear comfortable shoes despite flat terrain. Bring sunscreen in summer - limited shade along waterfront. Best area in Lisbon for families with young children."
+    "adviceForVisitors": "Arrive by suburban train from Santa Apolónia to Oriente. Walk through the shopping centre to the river. Bring water and sun protection in summer, as the promenade has little shade."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half to full day - easy 30-minute metro access makes it very cruise-passenger friendly",
-    "accessibility": "Excellent - completely flat, wide promenades, wheelchair and stroller accessible throughout. Easy train access from Santa Apolónia to Oriente.",
+    "timeNeededFromPort": "About 2.5-3 hours return for the promenade and cable car; 4-4.5 hours if you add the Oceanário",
+    "accessibility": "Train from Santa Apolónia (10 minutes' walk from the ship) to Oriente, or a 15-minute taxi. Once there, the district is flat and step-free.",
     "combinableWith": [
       "Oceanário de Lisboa",
       "Pavilhão do Conhecimento",
@@ -91,50 +92,37 @@
       "Centro Vasco da Gama dining"
     ],
     "tips": [
-      "Take the train from Santa Apolónia to Oriente - very easy and fast",
-      "Perfect for families with kids and strollers - all flat",
-      "Free to walk around - only attractions cost money",
-      "Water gardens and fountains are free and fun for kids",
-      "Excellent dining options for all budgets",
-      "Complete contrast to historic Lisbon - modern architecture",
-      "Can easily spend full day with Oceanarium + Science Museum",
-      "Safe, clean, and very family-oriented atmosphere",
-      "One of best areas in Lisbon for cruise passengers with children"
+      "Take a suburban train from Santa Apolónia to Oriente (about 7 minutes, several an hour); long-distance Alfa Pendular and Intercidades trains need a separate reserved ticket.",
+      "From Oriente station, walk through the Vasco da Gama shopping centre to reach the riverfront.",
+      "The Oceanário is cheapest from 16:00 (€25.50 adults) and dearest between 10:00 and 11:30 (€29.90).",
+      "The Pavilhão do Conhecimento science centre is closed on Mondays from 7 September 2026.",
+      "Ride the cable car one way (€7.50) and walk back along the river rather than paying €9.50 for a return.",
+      "There is little shade on the promenade; bring water and a hat between May and September.",
+      "Parque das Nações and Belém are at opposite ends of Lisbon; on a short call, pick one.",
+      "For a group of three or four, or anyone with limited mobility, a taxi from the terminal (about 15 minutes) saves the walk to Santa Apolónia and through the shopping centre."
     ]
   },
   "features": {
     "highlights": [
-      "Oceanário de Lisboa - Europe's largest aquarium",
-      "Pavilhão do Conhecimento - interactive science museum",
-      "Telecabine cable car with waterfront views",
-      "Jardins da Água - water gardens with fountains and waterfalls",
-      "Garcia d'Orta Gardens representing five countries",
-      "Water volcano towers (free entertainment)",
-      "Torre Vasco da Gama - Lisbon's tallest building",
-      "Vasco da Gama Bridge views",
-      "Oriente Station - stunning modern architecture",
-      "Marina and waterfront promenade",
-      "Centro Vasco da Gama shopping center",
-      "Casino de Lisboa",
-      "Over 120 restaurants and bars",
-      "Modern public art installations",
-      "Bike-friendly paths and rental stations"
+      "Oriente station, designed by Santiago Calatrava for Expo '98",
+      "Oceanário de Lisboa on the Doca dos Olivais",
+      "Pavilhão do Conhecimento, a hands-on science centre",
+      "Telecabine Lisboa, the riverside cable car (1,230 m)",
+      "Álvaro Siza's Portugal Pavilion with its suspended concrete canopy",
+      "Riverside promenade with views of the Vasco da Gama Bridge",
+      "Jardins Garcia de Orta and the Jardins da Água, free public gardens"
     ],
     "facilities": [
-      "Oriente metro/bus/train station",
-      "Multiple shopping centers",
-      "Restaurants ranging from budget to high-end",
-      "Cafés and ice cream shops",
-      "Public restrooms at major attractions",
-      "ATMs throughout district",
-      "Free WiFi in some areas",
-      "Bike rentals and paths",
-      "Ample parking facilities",
-      "Playgrounds and green spaces"
+      "Oriente station: suburban and long-distance trains, metro Red Line and buses",
+      "Vasco da Gama shopping centre beside the station, with a food court",
+      "Restaurants and cafés along the waterfront",
+      "Toilets inside the main attractions and the shopping centre",
+      "ATMs in the shopping centre and station",
+      "Playgrounds and public gardens"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Completely wheelchair and stroller accessible. Flat terrain throughout. Wide promenades. Elevators at Oriente station and shopping centers. One of most accessible areas in Lisbon.",
+      "mobilityNotes": "Flat, wide promenades with step-free routes between the main attractions. Lifts at Oriente station and in the shopping centre. Distances add up, so allow for 15-20 minutes on foot between the station and the Oceanário.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

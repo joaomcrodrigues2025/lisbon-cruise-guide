@@ -1,7 +1,8 @@
 {
   "id": "sintra-unesco-town",
   "name": "Sintra",
-  "tagline": "UNESCO World Heritage fairytale town with romantic palaces and mystical forests",
+  "seoTitle": "Sintra on a Cruise Call: Which Sites to Pick and How",
+  "tagline": "Sintra rewards a long port call if you pick one or two sites, book ahead and keep a firm train home.",
   "type": "historic-town",
   "categories": [
     "unesco-site",
@@ -12,10 +13,10 @@
     "cultural-attraction"
   ],
   "description": {
-    "short": "Sintra is a magical UNESCO World Heritage town nestled in forested mountains 28km northwest of Lisbon. Famous for its colorful Pena Palace, mystical Quinta da Regaleira, and romantic 19th-century estates, Sintra has captivated poets, artists, and royalty for centuries. Its cool microclimate, lush gardens, and fairy tale architecture make it Portugal's most enchanting day trip.",
-    "full": "Sintra is a place where reality blurs into fairy tale - a mystical mountain town that has inspired poets from Lord Byron to Hans Christian Andersen. Classified as a UNESCO World Heritage Cultural Landscape in 1995, Sintra represents the pinnacle of European Romantic architecture and garden design. The town rises from the plains into the Serra de Sintra, a mountain range with its own microclimate that creates almost perpetual mist, lending an otherworldly atmosphere to the forests and palaces. The crown jewel is Pena Palace, a flamboyant Romanticist castle painted in brilliant reds and yellows, perched atop a rocky peak with 360-degree views. But Sintra offers much more: the enigmatic Quinta da Regaleira with its mysterious Initiation Wells, the exotic Monserrate Palace with Moorish influences, the medieval Moorish Castle ruins, the ornate National Palace with its distinctive twin chimneys, and numerous quinta estates with spectacular gardens. The historic village center charms with narrow cobbled streets, traditional shops selling travesseiros pastries and queijadas cheese tarts, and restaurants in converted palaces. For cruise passengers, Sintra represents the ultimate day trip - a complete escape into romantic fantasy just 50 minutes from Lisbon by train, offering some of Europe's most breathtaking palaces and landscapes.",
-    "history": "Sintra's history stretches back to prehistoric times, with Neolithic presence in the mountains. The Moors occupied Sintra in the 8th century, building a castle that still stands today. After Christian conquest in 1147, Portuguese kings built summer palaces to escape Lisbon's heat. Sintra's golden age came in the 19th century when Portuguese royalty and European aristocrats created magnificent Romantic estates. King Ferdinand II's Pena Palace (1842-1854) epitomizes this era. Lord Byron visited in 1809, calling Sintra a 'glorious Eden,' inspiring the Romantic movement's fascination with the town.",
-    "significance": "Sintra is a UNESCO World Heritage Site recognized for representing the first center of European Romantic architecture. It showcases the 19th-century trend of creating idealized landscapes combining natural and man-made elements. For cruise passengers, it's Portugal's most spectacular day trip - easily accessible yet offering an otherworldly experience unlike anywhere else in Europe."
+    "short": "The hill town 30 km west of Lisbon that holds Pena, Regaleira, the Moorish Castle, the National Palace and Monserrate. From the cruise terminal it is 75 to 90 minutes each way, so the real decision is which one or two sites to see.",
+    "full": "Sintra's hills hold five major sights, and a cruise passenger can see one or two of them properly. This page is about choosing, not about seeing everything.\n\nGetting there takes 75 to 90 minutes each way from the Jardim do Tabaco terminal: a 10-minute walk to Santa Apolónia, the metro Blue Line to Restauradores, a two-minute walk to Rossio station, then the CP train to Sintra (about 40 minutes). With about three hours of travel and a safety margin, Sintra makes sense only on calls of eight to nine hours or more, with tickets bought before you sail.\n\nThe sights fall into three groups, and the groups decide your day. In the lower town, on foot from the station, are the National Palace of Sintra (10 to 15 minutes' walk) and Quinta da Regaleira (20 to 25 minutes). No bus is needed, which removes the biggest source of delay. On the hilltop, reached by Scotturb bus 434, are Pena and the Moorish Castle; their entrances are a short walk apart on the same road, but the bus queue at the station can add 30 to 60 minutes in summer. West of town, on bus 435 or Carris Metropolitana 1253, is Monserrate, a quieter garden estate on the road to Colares.\n\nOn a call of about nine hours, pick one site and add a walk through the town centre. On ten hours or more, pick one pair that shares a route: Pena with the Moorish Castle, the National Palace with Regaleira, or Regaleira with Monserrate, which are both on bus 435. Avoid mixing the hilltop with Monserrate: there is no direct bus between them, so you have to come back down to town and change.\n\nScotturb's 24-hour ticket covers lines 434 and 435 (10.96 euros online). The Lisboa Card is not valid on these buses, and the combined CP Train&Bus ticket is currently suspended. Whatever you choose, aim to be back at Rossio at least 90 minutes before all-aboard.",
+    "history": "People have lived on the Sintra hills since the Neolithic. Under Islamic rule the Moorish Castle guarded the land and sea approaches to Lisbon, and in 1147 Sintra passed to Afonso Henriques, the first king of Portugal. For the next seven centuries the palace in the town centre was a royal residence, used for hunting, summer retreats and refuge from plague in Lisbon. The 19th century brought the Romantic estates: Ferdinand II bought the ruined monastery of Pena in 1838 and restored the castle walls, and the British collector Francis Cook remade Monserrate from 1863. Between about 1904 and 1910 Carvalho Monteiro and Luigi Manini added Quinta da Regaleira. In 1995 UNESCO listed the whole area as the Cultural Landscape of Sintra.",
+    "significance": "UNESCO listed Sintra in 1995 as a cultural landscape, describing it as the first centre of European Romantic architecture, where 19th-century owners shaped forest, gardens and buildings into one designed whole. In practical terms, the sights are only a few kilometres apart but on very different levels, from the town centre at the foot of the hills to Pena near the summit. That geography, more than distance, limits how much a cruise passenger can see."
   },
   "location": {
     "address": {
@@ -32,8 +33,8 @@
     },
     "directions": {
       "general": "Located in the Serra de Sintra mountains, 28km northwest of Lisbon",
-      "fromCruisePort": "Take the metro Blue Line from Santa Apolónia (10 minutes' walk from the terminal) to Restauradores, walk 3 minutes to Rossio station, then the CP train to Sintra (about 40 minutes). Allow 75-90 minutes door to door each way.",
-      "publicTransport": "CP commuter train from Lisbon Rossio station to Sintra (40 min, €2.30 single). Trains every 20-30 minutes, 5:50am-11pm. In Sintra, use hop-on-hop-off bus 434 connecting train station to Pena Palace, Moorish Castle, and town center (€6.90 day ticket).",
+      "fromCruisePort": "Walk about 10 minutes to Santa Apolónia and take the metro Blue Line to Restauradores; Rossio station is a two-minute walk. Trains from Rossio reach Sintra in about 40 minutes. The National Palace and Quinta da Regaleira are walkable from Sintra station; Pena and the Moorish Castle are on Scotturb bus 434, and Monserrate on bus 435 or Carris Metropolitana 1253. Allow 75 to 90 minutes door to door each way.",
+      "publicTransport": "CP train from Lisbon Rossio to Sintra (about 40 minutes), paid with a Navegante ocasional card (0.50 euros, reusable). In Sintra, Scotturb bus 434 serves the Moorish Castle and Pena, bus 435 serves Quinta da Regaleira and Monserrate; a 24-hour ticket for both lines costs 10.96 euros online. The Lisboa Card is not valid on 434 or 435.",
       "parking": "Limited parking in Sintra center. Pena Palace and major palaces have paid parking lots (often full). Park & Ride from train station recommended."
     },
     "distanceFromCruisePort": {
@@ -55,87 +56,91 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Town open year-round; palaces have seasonal hours",
+      "currentStatus": "Town always open. Parques de Sintra monuments and Quinta da Regaleira open daily except 24, 25 and 31 December and 1 January",
       "seasonal": [
         {
-          "season": "Peak season (April-October)",
+          "season": "Palácio da Pena",
           "days": "Daily",
-          "hours": "Palaces typically 9:30-19:00 (last entry 18:00)",
-          "notes": "Pena Palace extended hours in summer"
+          "hours": "Palace 09:30 - 18:30; park 09:00 - 19:00",
+          "lastAdmission": "Palace 17:30-18:00 (timed tickets); park 18:00"
         },
         {
-          "season": "Low season (November-March)",
+          "season": "Quinta da Regaleira",
           "days": "Daily",
-          "hours": "Palaces typically 10:00-17:30 (last entry 17:00)",
-          "notes": "Some palaces closed Mondays in winter"
+          "hours": "October-March 10:00 - 18:30; April-September 09:00 - 19:30",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "National Palace of Sintra",
+          "days": "Daily",
+          "hours": "09:30 - 18:30",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "Moorish Castle",
+          "days": "Daily",
+          "hours": "09:30 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season": "Palácio de Monserrate",
+          "days": "Daily",
+          "hours": "Park 09:00 - 19:00; palace 09:30 - 18:00",
+          "lastAdmission": "Park 18:00; palace 17:30"
         }
       ],
       "closedDates": [
-        "January 1",
+        "December 24",
         "December 25",
-        "Individual palaces may close on specific holidays"
+        "December 31",
+        "January 1"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "Town is free. Palace tickets separate: Pena Palace €14 (palace + park €20), Quinta da Regaleira €12, Moorish Castle €10, National Palace €10, Monserrate Palace €10. Combined tickets available. Book online in advance highly recommended to avoid queues. Bus 434 day ticket €6.90."
+      "notes": "The town itself is free. 2026 adult prices (18-64): Pena Essential Visit 20 euros or Park only 12 euros; Quinta da Regaleira 20 euros; National Palace of Sintra 13 euros; Moorish Castle 12 euros; Monserrate 12 euros. Youths and seniors pay less at every site. Scotturb 24-hour ticket for buses 434 and 435: 10.96 euros online. The CP Train&Bus combined ticket is currently suspended."
     },
-    "averageVisitDuration": "6-10 hours (full day recommended)",
-    "bestTimeToVisit": "Spring (April-May) and fall (September-October) offer pleasant weather and smaller crowds. Arrive early (before 9:30am) to beat tour groups. Weekdays less crowded than weekends. Mornings often clearer for views; afternoon mist adds mystical atmosphere.",
+    "averageVisitDuration": "About 2 hours per site, plus about 3 hours of travel from the port",
+    "bestTimeToVisit": "Arrive by about 10:00, before the day-trip coaches. Weekdays outside July and August are quieter. Clear days matter for Pena and the Moorish Castle.",
     "busyPeriods": [
       "Summer (June-August) - very crowded",
       "Weekends year-round",
       "Mid-morning to mid-afternoon (10:30-15:00)",
       "Portuguese holidays"
     ],
-    "adviceForVisitors": "Book palace tickets online in advance - essential in peak season. Start with Pena Palace (highest point) early morning. Allow 2-3 hours for Pena Palace including gardens. Wear comfortable walking shoes - steep hills and uneven surfaces. Dress in layers - mountain weather changes quickly. Try traditional travesseiros and queijadas pastries. Budget 8-10 hours for proper visit. Bus 434 connects monuments but walking between some is possible. Quinta da Regaleira's Initiation Wells are must-see. Lines form quickly at palaces - arrive at opening time."
+    "adviceForVisitors": "Choose one or two sites that share a route and buy tickets online before you sail. Pena needs a timed slot; the other Parques de Sintra monuments sell date tickets. Wear shoes with grip and carry a light layer: the hills are often cooler and mistier than Lisbon."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Full day (8-10 hours including 2 hours round-trip travel)",
-    "accessibility": "Moderate - requires train then local bus/taxi. Palaces have steep hills, stairs, uneven surfaces. Pena Palace partially accessible but challenging. Not ideal for limited mobility. Town center walkable but hilly.",
+    "timeNeededFromPort": "About 5 hours door to door for one site and 6.5-7 hours for two; realistic only on calls of 8-9 hours or more",
+    "accessibility": "Metro, a 40-minute train and then steep cobbled streets or a winding bus ride. The National Palace is the most manageable sight; Pena, the Moorish Castle and Regaleira involve steep paths and many steps.",
     "combinableWith": [
-      "Cabo da Roca (9km west)",
-      "Cascais (30 min by bus)",
-      "Monserrate Palace",
-      "Convento dos Capuchos"
+      "Palácio da Pena + Castelo dos Mouros (bus 434)",
+      "National Palace of Sintra + Quinta da Regaleira (on foot)",
+      "Quinta da Regaleira + Palácio de Monserrate (bus 435)",
+      "Sintra historic centre"
     ],
     "tips": [
-      "Essential to book palace tickets online days in advance",
-      "Start early - leave Lisbon by 8:30am to arrive at Pena Palace by 9:30am opening",
-      "Purchase combined ticket for Pena Palace + Park (€20) - worth it",
-      "Visit 2-3 main sites maximum - don't try to do everything",
-      "Recommended route: Pena Palace → Moorish Castle → Quinta da Regaleira → Historic Center",
-      "Take Bus 434 from train station to palaces (€6.90 day pass)",
-      "Lisboa Card includes train to Sintra but NOT palace admissions",
-      "Allow 2-2.5 hours at Pena Palace including park walk",
-      "Quinta da Regaleira's Initiation Wells are Instagram-famous",
-      "Lunch in historic center - many palace-restaurant options",
-      "Weather often cool and misty - bring light jacket",
-      "Try Piriquita bakery for authentic travesseiros pastries",
-      "Last train to Lisbon around 11pm - check schedule",
-      "Tour groups flood mid-morning - arrive at opening or late afternoon",
-      "Comfortable shoes essential - lots of uphill walking"
+      "Pick your site before you sail and buy the ticket online: Pena needs a timed slot, the other Parques de Sintra monuments sell date tickets that can be rescheduled online until 18:00 the day before.",
+      "The National Palace and Quinta da Regaleira are walkable from Sintra station, so a lower-town day avoids the bus 434 queue entirely.",
+      "Bus 434 loops from the station through the town centre up to the Moorish Castle and Pena, then back; bus 435 runs to Regaleira, Seteais and Monserrate. There is no direct bus between Pena and Monserrate.",
+      "Scotturb's 24-hour ticket for 434 and 435 costs 10.96 euros online and can also be bought on board; the Lisboa Card is not valid on these lines.",
+      "The CP Train&Bus combined ticket is currently suspended: buy the train fare at Rossio on a Navegante ocasional card (0.50 euros) and the bus ticket separately.",
+      "Parques de Sintra sites close on 24, 25 and 31 December and 1 January, and can close at short notice for very high fire risk or storms; check the official notices page on the morning of your visit.",
+      "For a quick lunch, eat in the town centre rather than at the hilltop cafés; Piriquita is known for travesseiros.",
+      "Be back at Rossio at least 90 minutes before all-aboard; the Sintra line can be delayed and the return has a deadline."
     ]
   },
   "features": {
     "highlights": [
-      "Pena Palace - colorful Romanticist castle with panoramic views",
-      "Quinta da Regaleira - mystical estate with famous Initiation Wells",
-      "Moorish Castle - 8th-century ruins with spectacular mountain views",
-      "National Palace of Sintra - medieval royal palace in town center",
-      "Monserrate Palace - exotic palace with Moorish and Gothic architecture",
-      "Pena Park - 200-hectare forest park with exotic plants",
-      "Historic town center with cobbled streets",
-      "Traditional pastry shops - travesseiros and queijadas",
-      "Convento dos Capuchos - 16th-century Franciscan monastery",
-      "Serra de Sintra mountains and forests",
-      "UNESCO World Heritage Cultural Landscape",
-      "Stunning mountain vistas and coastal views",
-      "Romantic gardens and quintas",
-      "Art galleries and museums",
-      "Traditional handicraft shops"
+      "National Palace of Sintra, in the town centre, 10-15 minutes' walk from the station",
+      "Quinta da Regaleira, with the Initiation Well and tunnels, at the edge of the historic centre",
+      "Palácio da Pena and its park near the summit, on bus 434",
+      "Moorish Castle walls, a short walk from the Pena entrance on the same bus route",
+      "Monserrate, a quieter botanical park west of town on bus 435",
+      "Historic centre lanes and pastry shops selling travesseiros and queijadas",
+      "Santa Maria trail, a marked footpath from the centre up to the Moorish Castle"
     ],
     "facilities": [
       "Train station with connections to Lisbon",
@@ -189,13 +194,13 @@
       "name": "Cabo da Roca",
       "distance": "9 km west",
       "type": "scenic-viewpoint",
-      "walkingTime": "Not walkable - 20 min drive or bus 403"
+      "walkingTime": "Not walkable - car, or Carris Metropolitana bus 1253 or 1624"
     },
     {
       "name": "Cascais",
       "distance": "16 km south",
       "type": "beach-town",
-      "walkingTime": "Not walkable - 30 min by bus 417"
+      "walkingTime": "Not walkable - car or bus"
     },
     {
       "name": "Convento dos Capuchos",

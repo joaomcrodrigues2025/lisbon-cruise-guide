@@ -2,7 +2,8 @@ import { Attraction } from './types';
 import { SITE_URL } from './taxonomy';
 
 export function generateAttractionTitle(attraction: Attraction): string {
-  return `${attraction.name} - Everything You Need to Know | Lisbon Cruise Guide`;
+  if (attraction.seoTitle) return `${attraction.seoTitle} | Lisbon Cruise Guide`;
+  return `${attraction.name} from the Cruise Port | Lisbon Cruise Guide`;
 }
 
 export function generateAttractionDescription(attraction: Attraction): string {

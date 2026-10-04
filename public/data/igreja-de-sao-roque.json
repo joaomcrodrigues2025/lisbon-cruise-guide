@@ -1,7 +1,8 @@
 {
   "id": "igreja-de-sao-roque",
   "name": "Igreja de São Roque",
-  "tagline": "Modest baroque façade hiding Portugal's richest church interior with lavish chapels",
+  "seoTitle": "São Roque Church: Rome's Gilded Chapel in 45 Minutes",
+  "tagline": "A plain-fronted Jesuit church in Bairro Alto with a gilded interior, free to enter, and a paid museum next door",
   "type": "church",
   "categories": [
     "religious-site",
@@ -11,10 +12,10 @@
     "cultural-attraction"
   ],
   "description": {
-    "short": "Igreja de São Roque is a 16th-century Jesuit church in Lisbon's Bairro Alto district, famous for its ornate baroque interior despite having one of the city's simplest facades. The church houses the Chapel of St. John the Baptist, one of the world's most expensive chapels ever built.",
-    "full": "The Church of São Roque stands as a testament to the deceptive nature of architectural appearances. While its facade is among Lisbon's plainest following the 1755 earthquake, the interior represents Portuguese Baroque artistry at its zenith. Built in 1565 by the Society of Jesus, it was Portugal's first Jesuit church and served as the order's headquarters until their expulsion in 1759. The church's pièce de résistance is the Chapel of St. John the Baptist, commissioned by King João V in 1742 and constructed in Rome using the finest materials available—lapis lazuli, agate, alabaster, porphyry, Carrara marble, and gold. The chapel was blessed by Pope Benedict XIV at Sant'Andrea delle Fratte in Rome before being disassembled, shipped to Lisbon in three ships, and meticulously reconstructed. Eight additional chapels line the nave, each dedicated to different saints and displaying various artistic styles from Mannerist to Baroque. The church's painted wooden ceiling creates the illusion of vaulted stone through trompe-l'oeil techniques. Adjacent to the church, the São Roque Museum houses sacred art, vestments, and treasures from the Jesuit period, including pieces from the chapel's original Roman construction. The church miraculously survived the 1755 earthquake largely intact, preserving its artistic treasures for future generations.",
-    "history": "Founded in 1565 by the Jesuits, Igreja de São Roque was designed by architect Afonso Álvares and Filippo Terzi. The church was built on the site of a plague cemetery and chapel dedicated to São Roque, patron saint of plague victims. Following the expulsion of the Jesuits from Portugal in 1759, the church was donated to Santa Casa da Misericórdia de Lisboa, a charitable institution that maintains it today. The church underwent restoration in the 20th century to preserve its artistic heritage.",
-    "significance": "The chapel of St. John the Baptist is considered one of the most expensive chapels ever constructed and represents the pinnacle of 18th-century decorative arts. The church demonstrates Portugal's wealth and power during the Age of Discovery and houses one of Europe's finest collections of sacred art. It remains an active place of worship while serving as an important cultural monument."
+    "short": "Igreja de São Roque is a 16th-century Jesuit church on Largo Trindade Coelho, at the edge of Bairro Alto. Behind a plain stone front are gilded side chapels, a painted wooden ceiling and the Chapel of St John the Baptist, built in Rome for King João V. The church is free; the adjoining Museu de São Roque charges €8.",
+    "full": "São Roque is one of the few major sights in the upper town that fits into a short port day without queues or timed tickets. Entry to the church is free, and a focused look at the interior takes 30 to 45 minutes.\n\nFrom the ship, the walk is about 2.2 km and 34 minutes, with the last part uphill. The easier approach is to walk about 10 minutes to Santa Apolónia, take the metro Blue Line to Baixa-Chiado, leave by the Chiado exit and walk 5 to 7 minutes up Rua da Misericórdia to Largo Trindade Coelho. A taxi takes about 10 minutes.\n\nCheck the day before you go. The church opens at 10:00 from Tuesday to Sunday but only at 13:00 on Mondays, and the museum is closed all day on Monday. Mass is said at 12:30 from Tuesday to Sunday, and visits are restricted during services, so aim to arrive before about 12:15 or after 13:15.\n\nWith limited time, go straight to the Chapel of St John the Baptist, the last chapel on the left before the main altar. Built in Rome from marble, alabaster, lapis lazuli and gilt bronze, it was shipped to Lisbon in pieces. Then look up at the painted wooden ceiling and walk the line of side chapels. Large tour groups tend to come through in the late morning; the first hour after opening is usually calmer.\n\nThe museum (€8) is worth adding only if you have an extra 45 minutes. It holds the chapel's original silver, vestments and liturgical objects, plus Jesuit art from Asia. If time is short, skip it: the chapel itself is in the church.\n\nThe Miradouro de São Pedro de Alcântara is two minutes' walk north, and Chiado is five minutes downhill, so São Roque combines easily with both before you head back to the river.",
+    "history": "A small chapel to São Roque, protector against plague, stood here from 1506. The Jesuits took over the site in 1553 and built their main Lisbon church, designed with input from Afonso Álvares and later Filippo Terzi, as one of the first Jesuit churches in Portugal. In 1742 King João V commissioned the Chapel of St John the Baptist in Rome from Luigi Vanvitelli and Nicola Salvi; it was consecrated there by Pope Benedict XIV in 1744 and shipped to Lisbon in 1747. The church came through the 1755 earthquake with relatively little damage, though its façade was rebuilt afterwards. After the Jesuits were expelled, a royal letter of 1768 gave the church and their residence to the Santa Casa da Misericórdia, which still runs them.",
+    "significance": "São Roque set the model for Jesuit churches in Portugal: a single wide nave with interconnected side chapels and a flat wooden ceiling. The Chapel of St John the Baptist is a rare complete piece of 18th-century Roman decorative art outside Italy, and its treasury has been classified as a Portuguese National Treasure. For a visitor, it shows how much Brazilian gold flowed into Lisbon under João V."
   },
   "location": {
     "address": {
@@ -43,8 +44,8 @@
   },
   "contact": {
     "phone": "+351 213 235 065",
-    "email": "info@scml.pt",
-    "website": "https://www.scml.pt/",
+    "email": "museusaoroque@scml.pt",
+    "website": "https://museusaoroque.scml.pt/",
     "bookingUrl": null,
     "socialMedia": {
       "facebook": null,
@@ -54,46 +55,59 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round",
+      "currentStatus": "Church open daily (afternoons only on Mondays); museum open Tuesday to Sunday",
       "seasonal": [
         {
+          "season": "October – March",
+          "days": "Church: Tuesday to Sunday",
+          "hours": "10:00 - 18:00",
+          "notes": "Monday 13:00 - 18:00. Mass Tuesday to Sunday at 12:30; visits are restricted during services."
+        },
+        {
+          "season": "April – September",
+          "days": "Church: Tuesday to Sunday",
+          "hours": "10:00 - 19:00",
+          "notes": "Monday 13:00 - 19:00. Mass Tuesday to Sunday at 12:30; visits are restricted during services."
+        },
+        {
           "season": "Year-round",
-          "days": "Monday to Sunday",
-          "hours": "09:30 - 18:00 (Church) / 10:00 - 18:00 (Museum)",
+          "days": "Museum: Tuesday to Sunday",
+          "hours": "10:00 - 18:00",
           "lastAdmission": "17:30",
-          "notes": "Church may close during mass times"
+          "notes": "Museum closed on Mondays. Last access to the exhibitions 30 minutes before closing."
         }
       ],
       "closedDates": [
-        "December 25",
-        "January 1",
-        "Easter Sunday",
-        "Services during major religious festivals"
+        "Museum: January 1",
+        "Museum: Easter Sunday",
+        "Museum: May 1",
+        "Museum: December 25",
+        "Museum: every Monday"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0,
-      "youth": 0,
+      "adult": 8,
+      "youth": 4,
       "child": 0,
-      "senior": 0,
-      "lisboaCardFree": true,
-      "comboTicket": "Museum admission: €5 adults, €2.50 students/seniors",
-      "notes": "Church entry free. Museum requires ticket. Photography without flash permitted in church."
+      "senior": 4,
+      "lisboaCardFree": false,
+      "comboTicket": "Museu de São Roque + Casa Ásia – Coleção Francisco Capelo: €12",
+      "notes": "Church entry free. Museum €8; 50% off (€4) for visitors 65+, students under 25 and Lisboa Card holders. Children up to 12 free. Free on Sundays and public holidays until 14:00 for residents of Portugal only. Tickets sold on site only. Guided visits for individuals €12."
     },
-    "averageVisitDuration": "45-60 minutes for church, add 30 minutes for museum",
-    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon (16:00-18:00) to avoid tour groups. Weekday mornings are quietest.",
+    "averageVisitDuration": "30–45 minutes for the church; add about 45 minutes for the museum",
+    "bestTimeToVisit": "Tuesday to Sunday from 10:00, before tour groups arrive in the late morning. Avoid 12:30 (Mass) and Monday mornings, when the church is closed until 13:00.",
     "busyPeriods": [
-      "Mid-morning to early afternoon (11:00-15:00)",
-      "Sunday mornings during mass",
-      "Cruise ship days in summer"
+      "Late morning (about 11:00-12:30)",
+      "Mass at 12:30, Tuesday to Sunday",
+      "Days with several cruise ships in port"
     ],
-    "adviceForVisitors": "Take time to explore each chapel individually. The Chapel of St. John the Baptist is on the left side near the altar. Visit the adjacent museum for context on the church's treasures. Dress modestly as it's an active place of worship. Free entry makes this an excellent budget-friendly cultural stop."
+    "adviceForVisitors": "It is an active church: dress modestly, keep your voice down and do not walk around during Mass. The Chapel of St John the Baptist is the last chapel on the left before the main altar. Buy museum tickets at the desk; there is no online sale."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "1.5-2 hours including travel and visit",
-    "accessibility": "Moderate - requires an uphill walk (the Glória funicular is closed); the metro to Baixa-Chiado or a taxi saves most of it. Church interior is accessible, but museum has stairs.",
+    "timeNeededFromPort": "About 1.5–2 hours: 25–35 minutes each way by metro or on foot, plus 30–45 minutes in the church (add 45 minutes for the museum)",
+    "accessibility": "Uphill approach from the river; the metro to Baixa-Chiado leaves a gentle 5–7 minute walk. The church is at street level. The museum has lifts and ramps to all areas and an adapted toilet on the ground floor.",
     "combinableWith": [
       "Miradouro de São Pedro de Alcântara",
       "Bairro Alto neighborhood",
@@ -102,27 +116,24 @@
       "Chiado district"
     ],
     "tips": [
-      "Free church entry makes this perfect for cruise passengers on a budget",
-      "The Glória funicular is closed: take the metro to Baixa-Chiado and walk 5-7 minutes from the Chiado exit, or take a taxi to the door",
-      "Combine with Bairro Alto neighborhood exploration",
-      "Don't be deceived by the plain exterior - interior is spectacular",
-      "Flash photography not permitted inside church",
-      "Museum ticket worthwhile for art and history enthusiasts",
-      "Active place of worship - be respectful during services",
-      "Allow 45-60 minutes minimum to appreciate the chapels"
+      "Do not visit on a Monday morning: the church opens only at 13:00 and the museum is closed all day.",
+      "Mass is at 12:30 from Tuesday to Sunday; arrive before about 12:15 or after 13:15 to see the chapels freely.",
+      "Take the metro Blue Line from Santa Apolónia to Baixa-Chiado and use the Chiado exit; Largo Trindade Coelho is 5–7 minutes' walk up Rua da Misericórdia.",
+      "Go first to the Chapel of St John the Baptist, the last chapel on the left before the main altar.",
+      "The church is free; the museum costs €8 (€4 for over-65s and students under 25) and is closed on Mondays.",
+      "The Lisboa Card gives 50% off the museum, not free entry.",
+      "Museum tickets are sold only at the desk, and you must keep the receipt until the end of your visit.",
+      "Walk two minutes north to the Miradouro de São Pedro de Alcântara afterwards for a view of the castle across the valley."
     ]
   },
   "features": {
     "highlights": [
-      "Chapel of St. John the Baptist - one of world's most expensive chapels",
-      "Eight ornate baroque chapels lining the nave",
-      "Painted wooden ceiling with trompe-l'oeil effects",
-      "Sacred art museum with Jesuit treasures",
-      "Lapis lazuli, agate, alabaster, and gold decorations",
-      "16th-century azulejo tile panels",
-      "Relics and religious artifacts from Rome",
-      "Magnificent altar pieces and paintings",
-      "Carrara marble and precious stone inlays"
+      "Chapel of St John the Baptist, made in Rome in the 1740s from marble, alabaster, lapis lazuli and gilt bronze",
+      "Painted wooden ceiling over a single wide nave",
+      "Side chapels with gilded woodwork, azulejos and marble",
+      "Museum with the chapel's original silver, vestments and liturgical objects",
+      "Jesuit reliquaries and religious art from Asia in the museum",
+      "Free entry to the church"
     ],
     "facilities": [
       "Museum shop",
@@ -135,7 +146,7 @@
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Church level is wheelchair accessible via main entrance. Museum has stairs but ground floor accessible. Some narrow passages between pews.",
+      "mobilityNotes": "Church at street level from Largo Trindade Coelho. The museum has lifts and ramps to all areas, an adapted toilet with baby-changing on the ground floor, and wheelchairs to borrow when available.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

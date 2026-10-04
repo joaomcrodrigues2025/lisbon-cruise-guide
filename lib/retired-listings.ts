@@ -21,4 +21,17 @@ export const MERGED_LISTINGS: Record<string, string> = {
   'miradouro-da-graca': 'miradouro-da-senhora-do-monte',
   // Closed since the Glória funicular accident (Sept 2025), no reopening date
   'elevador-da-bica': 'chiado',
+  // Same site as the Convento do Carmo listing
+  'carmo-archaeological-museum': 'convento-do-carmo',
 };
+
+// Destinations too far for a cruise call, covered instead by one editorial guide
+export const DAY_TRIP_GUIDE = '/guides/lisbon-day-trips-cruise-call';
+export const DAY_TRIP_LISTINGS = [
+  'evora',
+  'mosteiro-da-batalha',
+  'santuario-de-fatima',
+  'nazare',
+  'obidos',
+  'parque-natural-da-arrabida',
+];

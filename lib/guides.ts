@@ -31,6 +31,7 @@ import { accessibleLisbonFromPort } from './guides/accessible-lisbon-from-port';
 import { moneySafetyTouristTraps } from './guides/money-safety-tourist-traps';
 import { rainyDayInLisbon } from './guides/rainy-day-in-lisbon';
 import { lisbonToursForCruisePassengers } from './guides/lisbon-tours-for-cruise-passengers';
+import { lisbonDayTripsCruiseCall } from './guides/lisbon-day-trips-cruise-call';
 import { belemInThreeHours } from './guides/belem-in-three-hours';
 import { cascaisOnAPortDay } from './guides/cascais-on-a-port-day';
 import { firstTimeLisbonCruiseMistakes } from './guides/first-time-lisbon-cruise-mistakes';
@@ -54,6 +55,7 @@ export const guides: Guide[] = [
   moneySafetyTouristTraps,
   rainyDayInLisbon,
   lisbonToursForCruisePassengers,
+  lisbonDayTripsCruiseCall,
   belemInThreeHours,
   cascaisOnAPortDay,
   firstTimeLisbonCruiseMistakes,

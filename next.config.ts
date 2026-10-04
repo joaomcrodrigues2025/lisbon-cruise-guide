@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 import { CATEGORY_ALIASES, MERGED_CATEGORIES, canonicalizeCategory } from "./lib/taxonomy";
-import { MERGED_LISTINGS, RETIRED_LISTINGS } from "./lib/retired-listings";
+import { DAY_TRIP_GUIDE, DAY_TRIP_LISTINGS, MERGED_LISTINGS, RETIRED_LISTINGS } from "./lib/retired-listings";
 
 const categoryDestination = (slug: string) => {
   const canonical = canonicalizeCategory(slug);
@@ -23,6 +23,11 @@ const nextConfig: NextConfig = {
       ...RETIRED_LISTINGS.map((id) => ({
         source: `/attractions/${id}`,
         destination: "/guides/lisbon-tours-for-cruise-passengers",
+        permanent: true,
+      })),
+      ...DAY_TRIP_LISTINGS.map((id) => ({
+        source: `/attractions/${id}`,
+        destination: DAY_TRIP_GUIDE,
         permanent: true,
       })),
       ...Object.entries(MERGED_LISTINGS).map(([from, to]) => ({

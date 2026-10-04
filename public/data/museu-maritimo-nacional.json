@@ -1,7 +1,8 @@
 {
   "id": "museu-maritimo-nacional",
   "name": "Museu de Marinha (Maritime Museum)",
-  "tagline": "Portugal's premier naval and maritime heritage museum",
+  "seoTitle": "Museu de Marinha, Belém: Royal Barges on a Port Day",
+  "tagline": "The Navy's museum in the west wing of Jerónimos, best for ship models, royal barges and the 1922 Santa Cruz seaplane",
   "type": "museum",
   "categories": [
     "museum",
@@ -11,10 +12,10 @@
     "educational"
   ],
   "description": {
-    "short": "The Maritime Museum showcases Portugal's glorious maritime history through an impressive collection of over 23,000 pieces, including ship models, navigation instruments, royal barges, and relics from the Age of Discovery, reflecting the nation's pioneering role in global navigation.",
-    "full": "Founded in 1863 by King Luís, the Museu de Marinha (Maritime Museum) stands as one of Portugal's most important cultural institutions, celebrating the nation's deep connection with the sea. Located in the iconic Jerónimos Monastery in Belém, the museum houses one of the world's most comprehensive collections of maritime artifacts. Over 2,500 pieces are displayed in permanent exhibitions chronicling Portuguese naval history from the Age of Discovery to the modern era. Visitors can marvel at intricately crafted ship models representing everything from caravels that explored unknown waters to modern warships. The museum's collection includes Vasco da Gama's portable altar that accompanied him on his historic voyage to India, the wooden statue of Archangel Raphael from the same expedition, ceremonial royal barges adorned with lavish gold decorations, astrolabes and navigation instruments used by pioneering explorers, maps showing Portugal's maritime routes, and Santa Cruz, one of the world's first seaplanes. The exhibitions are organized thematically, covering Portuguese Discoveries, the evolution of commercial and war navies, traditional Portuguese vessels, and contemporary naval operations. The museum provides exceptional insight into how Portuguese navigators discovered 70% of the world previously unknown to Europeans and established maritime routes that changed global history. It's not just about ships and sailors; it's about Portugal's cultural identity as a seafaring nation that bridged continents and cultures.",
-    "history": "The museum was established in 1863 by King Luís I, himself a naval enthusiast and oceanographer. Initially housed within the Jerónimos Monastery, the museum has remained at this symbolic location for over 160 years. The monastery itself is intimately connected to Portugal's maritime heritage, built to commemorate Vasco da Gama's successful voyage to India. Over the decades, the museum's collection has grown substantially through naval acquisitions, donations, and archaeological finds. In the 20th century, dedicated pavilions were added to house larger exhibits including full-scale boats and aircraft. The museum underwent significant modernization in the 2000s to improve visitor facilities while preserving its historical character.",
-    "significance": "The Museu de Marinha is recognized globally as one of the most important maritime museums in the world. It serves as a cultural body of the Portuguese Navy and preserves the memory of Portugal's Golden Age of Discoveries when Portuguese explorers like Vasco da Gama, Bartolomeu Dias, and Ferdinand Magellan changed world history. The museum is essential for understanding Portugal's role in establishing the first global maritime empire and pioneering navigation techniques that made transoceanic travel possible."
+    "short": "The Portuguese Navy's museum, in the west wing of the Jerónimos Monastery in Belém. About 2,500 objects are on display, from Discoveries-era ship models and navigation instruments to royal barges and early seaplanes. Adult entry is €8.",
+    "full": "The Museu de Marinha is the natural second stop in Belém once you have seen the Jerónimos Monastery, because it occupies the monastery's west wing, with its own entrance at the western end of the building. It is about 7.5 km from the Jardim do Tabaco terminal: a taxi takes 15 to 20 minutes, tram 15E runs from Praça do Comércio to the Mosteiro dos Jerónimos stop, and the Cascais-line train from Cais do Sodré stops at Belém station.\n\nPlan on 60 to 90 minutes inside. If you are short of time, go straight to the Discoveries rooms near the entrance (ship models, astrolabes and the carved figure of the Archangel Raphael said to have sailed with Vasco da Gama), then cross to the Barge Pavilion. That hall holds six royal barges, five of them 18th-century, the largest built in 1780, plus traditional working boats and three naval seaplanes, including the Santa Cruz that made the first aerial crossing of the South Atlantic in 1922. The later rooms on the merchant fleet and the modern Navy are the ones to skip if you are pressed.\n\nOpening times catch people out. From 1 October to 31 May the museum is closed on Monday mornings and opens at 13:00, and the monastery next door is closed all day on Mondays, so a Monday call in winter or spring leaves Belém thin in the morning. Otherwise it opens at 10:00 daily, closing at 17:00 (last entry 16:30) from October to April and at 18:00 (last entry 17:30) from May to September.\n\nAt €8 for adults it costs less than half the Jerónimos cloister, and it is far quieter: mid-morning, when tour groups fill the monastery, is a good time to come here instead. Entry is free on the first Sunday of each month until 14:00, which brings more local families. Tripods and artificial lighting are not allowed.",
+    "history": "The museum was created by decree on 22 July 1863 on the initiative of King Luís I, who had trained as a naval officer. It was first housed beside the Naval School, and a large fire at the old Navy Arsenal in 1916 destroyed much of the early collection. In 1948 the collector Henrique Maufroy de Seixas donated more than 300 pieces on condition that they be shown in a suitable building, so in April 1949 the museum reopened provisionally in the Farrobo palace at Laranjeiras. On 15 August 1962 it opened in the north and west wings of the Jerónimos Monastery, alongside a new pavilion built for the royal barges.",
+    "significance": "It is the Portuguese Navy's own museum and holds more than 18,000 objects, of which around 2,500 are on display. For a visitor in Belém it fills a gap the monuments leave: the monastery and tower show what the sea route to India paid for, while this collection shows the ships, instruments and boats that made it possible, through to the 20th-century Navy and naval aviation."
   },
   "location": {
     "address": {
@@ -54,22 +55,28 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round (check for occasional maintenance closures)",
+      "currentStatus": "Open daily; closed on Monday mornings from 1 October to 31 May",
       "seasonal": [
         {
-          "season": "Summer (May 1 - September 30)",
+          "season": "Summer (1 May - 30 September)",
           "days": "Daily",
           "hours": "10:00 - 18:00",
           "lastAdmission": "17:30"
         },
         {
-          "season": "Winter (October 1 - April 30)",
+          "season": "Winter (1 October - 30 April)",
           "days": "Daily",
           "hours": "10:00 - 17:00",
           "lastAdmission": "16:30"
+        },
+        {
+          "season": "1 October - 31 May",
+          "days": "Monday",
+          "hours": "13:00 - closing time (closed in the morning)"
         }
       ],
       "closedDates": [
+        "Monday mornings (1 October - 31 May)",
         "January 1",
         "Easter Sunday",
         "May 1",
@@ -79,84 +86,68 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 8,
-      "youth": 4,
+      "youth": 8,
       "child": 4,
       "senior": 4,
       "family": 21,
       "lisboaCardFree": false,
-      "notes": "Children under 3 free. Youth/children 4-12 years: 4 EUR. Seniors 65+: 4 EUR. Family ticket: 21 EUR (2 adults + 2 children). Free entry: 1st Sunday of each month until 14:00, Navy Day (May 20), Children's Day (June 1 for ages 3-12), International Museum Day (May 18), Day of Monuments and Sites (April 18). Lisboa Card gives 20% discount."
+      "notes": "2026 Navy price list (Despacho 1/2026): adults 13-64 €8; children 4-12 €4; seniors 65+ €4; children 0-3 free; family (2 adults + 2 children) €21, extra child €3. Museum + Navy Planetarium €12 adult. Free on the first Sunday of each month until 14:00, on 18 May (International Museum Day), 20 May (Navy Day), 22 July (Museum Day) and, for children 4-12, on 1 June."
     },
-    "averageVisitDuration": "1.5-2.5 hours",
-    "bestTimeToVisit": "Weekday mornings (10:00-12:00) for fewer crowds. Combine with Jerónimos Monastery visit. First Sunday of month for free admission (but expect crowds).",
+    "averageVisitDuration": "1-1.5 hours",
+    "bestTimeToVisit": "Late morning, while tour groups are inside the Jerónimos cloister. Avoid Monday mornings from October to May, when the museum is closed until 13:00.",
     "busyPeriods": [
-      "Weekends, especially Sundays",
-      "School holidays and summer months",
-      "Free admission days (1st Sunday of month)",
-      "Afternoons 14:00-17:00"
+      "First Sunday of the month (free until 14:00)",
+      "Weekends",
+      "School-group mornings in term time"
     ],
-    "adviceForVisitors": "Allow 2-2.5 hours for a thorough visit. Combine with nearby Jerónimos Monastery, Belém Tower, and Monument to the Discoveries for a full day in Belém. Audio guides available via QR codes in multiple languages. The museum is completely indoors - perfect for rainy days. Photography allowed without flash. The collection is extensive, so consider focusing on sections of most interest (Discoveries, Royal Barges, Modern Navy, etc.). Buy tickets online to save time. Family-friendly with engaging exhibits for children."
+    "adviceForVisitors": "Entrance is at the western end of the Jerónimos building, separate from the monastery. Prioritise the Discoveries rooms and the Barge Pavilion. Tripods and artificial lighting are not allowed. Tickets can be bought online at bilheteiracultura.marinha.pt."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half day (4-5 hours including travel and visit to multiple Belém attractions)",
-    "accessibility": "Good - easy access via tram 15E from cruise terminal area or quick taxi ride",
+    "timeNeededFromPort": "About 2.5-3 hours return from the ship for the museum alone; 4-5 hours if combined with the Jerónimos Monastery and Pastéis de Belém",
+    "accessibility": "Not walkable from the ship (7.5 km). Taxi 15-20 minutes, tram 15E or the Cascais-line train to Belém. Inside, ramps and a lift serve the galleries.",
     "combinableWith": [
-      "Jerónimos Monastery (adjacent)",
-      "Belém Tower (10-minute walk)",
-      "Monument to the Discoveries (5-minute walk)",
-      "Pastéis de Belém bakery (10-minute walk)",
-      "MAAT Museum",
-      "Belém Cultural Centre",
-      "Ajuda National Palace",
-      "Coach Museum"
+      "Jerónimos Monastery (same building)",
+      "Navy Planetarium (opposite)",
+      "Padrão dos Descobrimentos",
+      "Belém Tower",
+      "Pastéis de Belém bakery",
+      "MAAT Museum"
     ],
     "tips": [
-      "Take scenic tram 15E along the waterfront from cruise port area (25 minutes)",
-      "Belém is a must-visit district with multiple world-class attractions within walking distance",
-      "Purchase Lisboa Card for discounts and free public transport",
-      "Try the famous Pastéis de Belém custard tarts nearby (always crowded but worth it)",
-      "The museum is inside Jerónimos Monastery complex - entrance is separate",
-      "Allow 3-4 hours minimum to see museum plus monastery",
-      "Bring comfortable walking shoes - lots of standing and walking",
-      "Accessible for wheelchairs and strollers",
-      "Audio guides via QR code available in English and other languages",
-      "Free admission first Sunday of month until 14:00",
-      "Combine with waterfront lunch at one of Belém's many restaurants"
+      "From 1 October to 31 May the museum opens only at 13:00 on Mondays, and the Jerónimos Monastery is closed all day; on a Monday call, plan Belém for the afternoon.",
+      "Adult entry is €8 and seniors 65+ pay €4, so it is a cheap add-on to the €18 Jerónimos cloister.",
+      "Go to the Barge Pavilion even if you skip the rest: the royal barges and the 1922 Santa Cruz seaplane are the museum's main draw.",
+      "Last admission is 30 minutes before closing: 16:30 from October to April, 17:30 from May to September.",
+      "Entry is free on the first Sunday of each month until 14:00; expect more families that morning.",
+      "Tripods and photographic lighting are not allowed; handheld photos are fine.",
+      "Tram 15E stops at Mosteiro dos Jerónimos, a few steps from the museum entrance at the west end of the monastery.",
+      "A family ticket (2 adults + 2 children aged 4-12) costs €21."
     ]
   },
   "features": {
     "highlights": [
-      "Vasco da Gama's portable altar from his voyage to India (1497-99)",
-      "Wooden statue of Archangel Raphael that accompanied Vasco da Gama",
-      "Lavishly decorated royal barges used by Portuguese monarchs",
-      "Over 2,500 meticulously crafted ship models from all eras",
-      "Navigation instruments: astrolabes, sextants, compasses from the Age of Discovery",
-      "Historic maps showing Portuguese exploration routes worldwide",
-      "Santa Cruz seaplane - one of the world's first seaplanes",
-      "Full-scale traditional Portuguese fishing boats",
-      "Naval uniforms, weapons, and maritime artifacts",
-      "Interactive displays about Portuguese maritime heritage",
-      "Models of caravels, galleons, frigates, and modern warships",
-      "Exhibits on famous Portuguese explorers and navigators"
+      "Discoveries-era ship models and navigation instruments, including astrolabes",
+      "Carved figure of the Archangel Raphael associated with Vasco da Gama's 1497 voyage",
+      "Barge Pavilion with six royal barges, five of them 18th-century; the largest dates from 1780",
+      "Fairey III seaplane Santa Cruz, used for the first aerial crossing of the South Atlantic in 1922",
+      "FBA Schreck seaplane of 1917 and a Grumman Widgeon from the last years of naval aviation",
+      "Traditional working boats: a Douro valboeiro, an Aveiro moliceiro, an Azorean whaleboat and a cod-fishing dory",
+      "Rooms on the merchant fleet, cod fishing and the modern Portuguese Navy"
     ],
     "facilities": [
-      "Museum shop with nautical gifts and books",
-      "Audio guides via QR codes (multiple languages)",
-      "Restrooms throughout the museum",
-      "Seating areas in exhibition halls",
-      "Climate-controlled galleries",
-      "Information desk with multilingual staff",
-      "Temporary exhibition spaces",
-      "Educational activity areas",
-      "Coat check and lockers",
-      "Gift shop with maritime souvenirs",
-      "Nearby cafés and restaurants in Belém"
+      "Ticket office with card payment",
+      "First-aid station",
+      "Lift and ramps",
+      "Wheelchairs on loan during the visit",
+      "Online ticket sales via bilheteiracultura.marinha.pt",
+      "Event spaces in the Barge Pavilion"
     ],
     "accessibility": {
       "wheelchairAccessible": true,
-      "mobilityNotes": "Fully accessible with ramps and elevators. Wheelchair-friendly throughout. Accessible restrooms available. Some exhibits may be at different heights.",
-      "visualAidServices": "Audio descriptions available via QR codes",
-      "hearingAidServices": "Visual displays and written information throughout"
+      "mobilityNotes": "The museum states it meets EU accessibility standards, with ramps and a lift; wheelchairs can be borrowed for the visit.",
+      "visualAidServices": false,
+      "hearingAidServices": false
     },
     "languages": [
       "Portuguese",

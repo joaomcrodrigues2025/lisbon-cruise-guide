@@ -1,49 +1,7 @@
 {
   "source": "https://lisboncruiseport.pt/schedule",
-  "fetchedAt": "2026-09-26T12:28:43.547Z",
+  "fetchedAt": "2026-10-04T20:17:52.355Z",
   "calls": [
-    {
-      "ship": "Mein Schiff 2",
-      "line": "TUI Cruises",
-      "arrival": "2026-09-28T09:00",
-      "departure": "2026-09-28T23:00"
-    },
-    {
-      "ship": "Nautica",
-      "line": "Oceania Cruises",
-      "arrival": "2026-09-28T09:00",
-      "departure": "2026-09-28T21:00"
-    },
-    {
-      "ship": "VidantaWorld's Elegant",
-      "line": "Vidanta Cruises",
-      "arrival": "2026-09-30T08:00",
-      "departure": "2026-09-30T18:00"
-    },
-    {
-      "ship": "Silver Dawn",
-      "line": "Silversea Cruises",
-      "arrival": "2026-10-01T07:00",
-      "departure": "2026-10-01T23:00"
-    },
-    {
-      "ship": "Insignia",
-      "line": "Oceania Cruises",
-      "arrival": "2026-10-01T07:00",
-      "departure": "2026-10-01T15:00"
-    },
-    {
-      "ship": "Costa Diadema",
-      "line": "Costa Cruises",
-      "arrival": "2026-10-01T07:00",
-      "departure": "2026-10-02T14:00"
-    },
-    {
-      "ship": "Ambition",
-      "line": "Ambassador Cruise Line",
-      "arrival": "2026-10-03T09:00",
-      "departure": "2026-10-03T18:00"
-    },
     {
       "ship": "Celebrity Equinox",
       "line": "Celebrity Cruises",
@@ -769,6 +727,54 @@
       "line": "Ambassador Cruise Line",
       "arrival": "2026-12-26T11:00",
       "departure": "2026-12-26T18:00"
+    },
+    {
+      "ship": "Celestyal Discovery",
+      "line": "Celestyal Cruises",
+      "arrival": "2026-12-26T12:00",
+      "departure": "2026-12-27T18:00"
+    },
+    {
+      "ship": "Mein Schiff Flow",
+      "line": "TUI Cruises",
+      "arrival": "2026-12-27T08:00",
+      "departure": "2026-12-27T23:00"
+    },
+    {
+      "ship": "Mein Schiff 3",
+      "line": "TUI Cruises",
+      "arrival": "2026-12-29T08:00",
+      "departure": "2026-12-29T19:00"
+    },
+    {
+      "ship": "Iona",
+      "line": "P&O Cruises",
+      "arrival": "2026-12-31T07:00",
+      "departure": "2026-12-31T23:59"
+    },
+    {
+      "ship": "Queen Anne",
+      "line": "Cunard Line",
+      "arrival": "2026-12-31T07:00",
+      "departure": "2027-01-01T02:00"
+    },
+    {
+      "ship": "Balmoral",
+      "line": "Fred Olsen Cruise Lines",
+      "arrival": "2027-01-02T13:00",
+      "departure": "2027-01-03T12:30"
+    },
+    {
+      "ship": "Arcadia",
+      "line": "P&O Cruises",
+      "arrival": "2027-01-03T07:00",
+      "departure": "2027-01-03T17:00"
+    },
+    {
+      "ship": "Hamburg",
+      "line": "Plantours",
+      "arrival": "2027-01-04T08:00",
+      "departure": "2027-01-04T20:00"
     }
   ]
 }

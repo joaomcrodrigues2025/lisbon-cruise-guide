@@ -10,6 +10,7 @@ export const sintraOnACruiseStop: Guide = {
     'Sintra is genuinely magnificent — and it is the most common way cruise passengers ruin a Lisbon port day. Here is the arithmetic nobody selling you a tour will show you.',
   author: 'João Rodrigues',
   publishedDate: '2026-07-23',
+  updatedDate: '2026-10-04',
   readingTime: '9 min read',
   sections: [
     {
@@ -27,7 +28,7 @@ export const sintraOnACruiseStop: Guide = {
         'Terminal to Rossio station on foot/metro: **25–35 min**.',
         'Rossio to Sintra by train: **about 40 min**, a few departures per hour, €2.45 single plus the reusable card.',
         'Sintra station to the historic centre: **10–15 min** on foot.',
-        'Sintra centre up to [Pena Palace](/attractions/palacio-da-pena) by the 434 tourist bus (€7.60 round trip, €4.10 single): **15–25 min** driving, but the queue for the bus itself in high season can add 30–60 min.',
+        'Sintra centre up to [Pena Palace](/attractions/palacio-da-pena) by the 434 tourist bus (sold as a 24-hour ticket, about €11 in 2026): **15–25 min** driving, but the queue for the bus itself in high season can add 30–60 min.',
       ],
       note: 'Total, gangway to Pena gate, on a smooth day: about 2 hours. On an August day with a bus queue: closer to 3. Now double it for the return, and remember the return has a deadline.',
     },

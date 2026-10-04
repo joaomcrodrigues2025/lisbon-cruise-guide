@@ -1,7 +1,8 @@
 {
   "id": "by-the-wine",
   "name": "By The Wine",
-  "tagline": "Portugal's finest wines paired with gourmet tapas in the heart of Chiado",
+  "seoTitle": "By The Wine, Chiado: Portuguese Wine by the Glass",
+  "tagline": "A Chiado wine bar pouring Sogrape's Portuguese wines and ports by the glass, with tapas-style plates",
   "type": "wine-bar",
   "categories": [
     "wine-bar",
@@ -12,10 +13,10 @@
     "wine-tasting"
   ],
   "description": {
-    "short": "By The Wine brings the complete range of Sogrape wines - Portugal's largest wine producer - to a relaxed, cosmopolitan wine bar in Chiado. Since 2015, it has been the perfect spot to discover Portuguese wines alongside carefully curated tapas and regional specialties.",
-    "full": "By The Wine opened in the heart of Chiado in 2015 as a flagship wine bar showcasing the extensive portfolio of Sogrape, Portugal's largest and most prestigious wine producer. Since March 2021, the bar exclusively presents the entire range of Sogrape wines, including iconic brands such as Mateus Rosé, Casa Ferreirinha (Douro), Herdade do Peso (Alentejo), Quinta dos Carvalhais (Dão), Quinta da Romeira (Lisboa), and the famous Port wines from Sandeman and Ferreira. The selection extends to Sogrape's international properties in New Zealand, Argentina, Chile, and Spain, offering around 80 wine references in total. The relaxed and cosmopolitan space pairs these exceptional wines with a diverse gastronomic menu featuring homemade Algarvian bread, Iberian bellota ham platters, salmon ceviche, loin steak sandwiches (bifanas), beef carpaccio, veal cheek, and an array of Portuguese and Spanish tapas. The atmosphere is warm and welcoming, perfect for an informal snack between sightseeing or a full dining experience. The knowledgeable staff guide guests through wine selections, making it ideal for both wine connoisseurs and curious beginners. Whether stopping for a quick glass and petiscos (Portuguese tapas) or settling in for a multi-course meal, By The Wine offers an authentic taste of Portugal's rich wine culture. In November 2024, a second location opened in Porto, expanding this successful concept. The Chiado location's central position makes it a convenient stop during city exploration, and the vibrant atmosphere attracts a mix of locals and tourists throughout the day and evening.",
-    "history": "By The Wine opened in Chiado in 2015 as an innovative wine bar concept, initially showcasing various Portuguese wines. In March 2021, it became exclusively dedicated to Sogrape wines, becoming the winery's flagship tasting venue in Lisbon. Sogrape, founded by Fernando van Zeller Guedes, has been producing Portuguese wines since the early 20th century and is known worldwide for Mateus Rosé. The partnership created a unique space where Sogrape's full range - from everyday table wines to premium reserves and vintage Ports - could be experienced in a casual setting.",
-    "significance": "By The Wine serves as an ambassador for Portuguese wine culture in one of Lisbon's most visited neighborhoods. It democratizes wine tasting by offering high-quality wines by the glass in a relaxed atmosphere, making premium Portuguese wines accessible to all. The bar plays an educational role in promoting Portuguese wine regions and varieties to international visitors while maintaining popularity with discerning locals."
+    "short": "By The Wine is a wine bar and restaurant on Rua das Flores in Chiado, opened in 2015. Since 2021 its list has been built around Sogrape, Portugal's largest wine producer: Douro, Dão, Alentejo, Vinho Verde and Port, much of it by the glass, with Portuguese and Spanish small plates.",
+    "full": "By The Wine suits a port day only if you check the day of the week. The Portuguese version of its website gives Lisbon hours of 19:00 to midnight from Monday to Wednesday and 13:00 to midnight from Thursday to Sunday; the English page still says Tuesday to Sunday from 13:00. In August it opens only in the evening, from 18:00. On a typical day call that sails in the early evening, aim for a Thursday to Sunday lunch, and call ahead on +351 213 420 319 to confirm.\n\nFrom the terminal it is about 1.8 km and 27 minutes on foot: west along the river to Praça do Comércio, then up through the Baixa into Chiado, with a short climb at the end. Rua das Flores runs downhill from Largo do Camões, so you can also take the metro to Baixa-Chiado and walk about five minutes. A taxi takes 8 to 10 minutes.\n\nThe point of coming is to taste Portuguese wine without committing to a bottle. Glasses start at around €4 and run to about €15 for top Douro and Port; ask for a Dão white or a Douro red, and finish with a Sandeman or Ferreira port. The food is shared plates, mostly €6.50 to €27, such as octopus carpaccio, garlic prawns, codfish salad and a loin-steak prego sandwich. Bread, olive oil and butter arrive as a €5 couvert; send it back if you do not want it.\n\nLunch on Thursday to Sunday is the calmest time. Evenings, especially Friday and Saturday, are busier, and the website takes reservations. If you want to take a bottle back on board, the wine list has separate, lower 'drink out' prices for bottles to go, but check your cruise line's policy on bringing alcohol aboard.\n\nSkip it on a Monday to Wednesday day call: it will not open until after most ships have sailed.",
+    "history": "By The Wine opened on Rua das Flores in 2015, originally as a showcase for the wines of José Maria da Fonseca, the Setúbal producer. In March 2021 it switched to Sogrape, Portugal's largest wine group, founded in 1942 and known worldwide for Mateus Rosé. Since then the list has centred on Sogrape's Portuguese estates, including Casa Ferreirinha in the Douro, Quinta dos Carvalhais in the Dão, Herdade do Peso in the Alentejo, Quinta da Romeira near Lisbon and the Sandeman and Ferreira port houses, plus its properties in Spain, Chile, Argentina and New Zealand. In November 2024 a second By The Wine opened in Porto.",
+    "significance": "For a visitor with a few hours, it offers a structured tasting of Portugal's main wine regions in one sitting: Vinho Verde, Dão, Douro, Alentejo, Bucelas and Port, most available by the glass at modest prices. Because the list belongs largely to one producer it is not a neutral survey, but it covers the main grape styles and both table wine and Port."
   },
   "location": {
     "address": {
@@ -55,25 +56,25 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily except Monday daytime",
+      "currentStatus": "Open daily; afternoons only from Thursday to Sunday (check by phone: the official site's Portuguese and English pages differ)",
       "seasonal": [
         {
-          "season": "Year-round",
-          "days": "Monday",
-          "hours": "19:00 - 00:00 (midnight)",
-          "notes": "Dinner service only"
+          "season": "September – July",
+          "days": "Monday to Wednesday",
+          "hours": "19:00 - 00:00",
+          "notes": "Per the Portuguese page of bythewine.pt. The English page lists Monday only as evening-only, so Tuesday and Wednesday lunch may also be possible: call to confirm."
         },
         {
-          "season": "Year-round",
-          "days": "Tuesday to Sunday",
-          "hours": "13:00 - 00:00 (midnight)",
-          "notes": "Lunch and dinner service"
+          "season": "September – July",
+          "days": "Thursday to Sunday",
+          "hours": "13:00 - 00:00",
+          "notes": "Lunch, afternoon and dinner service."
         },
         {
           "season": "August",
           "days": "Monday to Sunday",
-          "hours": "18:00 - 00:00 (midnight)",
-          "notes": "Special summer hours"
+          "hours": "18:00 - 00:00",
+          "notes": "Evening service only."
         }
       ],
       "closedDates": []
@@ -81,21 +82,21 @@
     "admissionPrices": {
       "currency": "EUR",
       "adult": 0,
-      "notes": "No entry fee. Wine by the glass €4-12. Tapas and small plates €6-18. Full meals €15-30 per person. Tasting menus available."
+      "notes": "No entry fee. Lisbon menu and wine list (2026): wine by the glass about €3.90–€15; shared plates about €6.50–€27; couvert €5 (charged only if you eat it). Bottles to take away are sold at lower 'drink out' prices."
     },
-    "averageVisitDuration": "1-2 hours for wine and tapas",
-    "bestTimeToVisit": "Late afternoon (17:00-19:00) for aperitivo hour. Lunch (13:00-15:00) for quieter experience. Reserve ahead for dinner on weekends.",
+    "averageVisitDuration": "About 1–1.5 hours for a few glasses and shared plates",
+    "bestTimeToVisit": "Thursday to Sunday lunch, from 13:00. Evenings, especially Friday and Saturday, are busiest; reserve for dinner.",
     "busyPeriods": [
       "Friday and Saturday evenings",
-      "Dinner service (20:00-22:00)",
+      "Dinner service (about 20:00-22:00)",
       "Weekend afternoons"
     ],
-    "adviceForVisitors": "Staff are knowledgeable about wines - ask for recommendations based on your taste preferences. Try wine flights to sample different Portuguese regions. Reservations recommended for dinner, especially weekends. Sharing plates encouraged for variety. Many wines available by the glass. English-speaking staff available. Casual dress code."
+    "adviceForVisitors": "Hours differ between the official site's Portuguese and English pages, so phone +351 213 420 319 before planning around a lunchtime visit. Reservations are available through the website. Most wines are poured by the glass, so ask staff to suggest a short sequence across regions."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "1.5-2.5 hours total (short journey, leisurely dining)",
-    "accessibility": "Good - central Chiado location, short taxi ride or pleasant walk through downtown, ground floor venue",
+    "timeNeededFromPort": "About 2–2.5 hours: 20–27 minutes each way plus 1–1.5 hours at the table",
+    "accessibility": "Mostly flat walk along the river to Praça do Comércio, then a moderate climb into Chiado; the metro to Baixa-Chiado shortens it. Ground-floor venue; phone ahead about steps at the entrance and space between tables.",
     "combinableWith": [
       "Chiado shopping",
       "Carmo Convent ruins",
@@ -105,35 +106,24 @@
       "Príncipe Real"
     ],
     "tips": [
-      "Perfect introduction to Portuguese wines",
-      "Centrally located in shopping/tourist district",
-      "Great stop during Chiado/Bairro Alto exploration",
-      "Ask about wine and food pairings",
-      "Try vinho verde (young Portuguese white wine)",
-      "Excellent Iberian ham and cheese platters",
-      "Sogrape wines showcase all Portuguese regions",
-      "Good value wine by the glass selection",
-      "Comfortable atmosphere - not overly formal",
-      "Can purchase wines to take away",
-      "Staff speak English - happy to educate about Portuguese wines",
-      "Combine with shopping in Chiado district"
+      "Go Thursday to Sunday from 13:00; on Monday to Wednesday it opens at 19:00, after most day-call sail-aways.",
+      "Phone +351 213 420 319 to confirm hours: the official site's Portuguese and English pages give different weekday times.",
+      "In August it opens only from 18:00 every day, which rules out lunch.",
+      "Order by the glass (from about €3.90) to compare regions: for example a Vinho Verde, a Dão white, a Douro red and a port.",
+      "The €5 couvert (bread, olive oil, butter, olives) is charged only if you eat it; send it back if you do not want it.",
+      "From Baixa-Chiado metro, walk to Largo do Camões and down Rua das Flores: about five minutes.",
+      "Bottles to take away are priced lower than to drink in, but check your cruise line's rules on bringing wine aboard.",
+      "Allow 27 minutes to walk back to the terminal, mostly downhill and then flat along the river."
     ]
   },
   "features": {
     "highlights": [
-      "Approximately 80 Portuguese wine references",
-      "Complete Sogrape wine portfolio (Portugal's largest producer)",
-      "Iconic brands: Mateus Rosé, Casa Ferreirinha, Sandeman Port, Ferreira Port",
-      "Wines from all major Portuguese regions (Douro, Alentejo, Dão, Lisboa)",
-      "International Sogrape wines from Spain, Chile, Argentina, New Zealand",
-      "Portuguese and Spanish tapas menu",
-      "Iberian bellota ham platters",
-      "Fresh seafood including salmon ceviche",
-      "Homemade Algarvian bread",
-      "Gourmet sandwiches and carpaccio",
-      "Wine flights and tasting options",
-      "Knowledgeable sommelier staff",
-      "Relaxed, cosmopolitan atmosphere"
+      "Around 80 wines, centred on Sogrape's Portuguese estates",
+      "Most wines available by the glass",
+      "Sandeman and Ferreira ports, from ruby and tawny to LBV",
+      "Douro, Dão, Alentejo, Vinho Verde and Bucelas whites and reds",
+      "Shared plates such as octopus carpaccio, garlic prawns and codfish salad",
+      "Lower 'drink out' prices for bottles to take away"
     ],
     "facilities": [
       "Indoor seating",

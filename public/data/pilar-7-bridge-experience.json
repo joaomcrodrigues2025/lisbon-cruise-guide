@@ -1,7 +1,8 @@
 {
   "id": "pilar-7-bridge-experience",
   "name": "Pilar 7 Bridge Experience",
-  "tagline": "Interactive journey inside the iconic 25 de Abril Bridge with panoramic observation deck",
+  "seoTitle": "Pilar 7 Bridge Viewpoint: 372 Steps While Lift Is Out",
+  "tagline": "A visitor centre inside a pillar of the 25 de Abril Bridge, with a viewing platform 80 metres up that is currently reached only by stairs.",
   "type": "museum",
   "categories": [
     "museum",
@@ -12,10 +13,10 @@
     "cultural-attraction"
   ],
   "description": {
-    "short": "An innovative interactive center located inside Pillar 7 of the iconic Ponte 25 de Abril, offering a unique journey through the bridge's history, multimedia exhibits, virtual reality experiences, and a stunning panoramic viewing platform.",
-    "full": "The Pilar 7 Bridge Experience is a cutting-edge cultural attraction that transforms one of the seven massive pillars supporting Lisbon's iconic Ponte 25 de Abril into an immersive journey of discovery. Located in the Alcântara district along the Avenida da Índia waterfront, this interactive center invites visitors to explore both the exterior and interior of this key structural pillar of one of the world's most beautiful suspension bridges. The experience begins with a fascinating tour through the history of the bridge's construction, utilizing state-of-the-art multimedia devices that bring the engineering marvel to life. Visitors explore the exterior areas surrounding the pillar before venturing inside for a truly unique sensory experience. The journey culminates with an exhilarating elevator ride ascending to a panoramic viewing platform positioned at bridge level, providing unrivalled views of Lisbon, the Tagus River, and the surrounding landscape from a perspective few ever get to see. The observation deck offers breathtaking vistas that stretch across the city's hills, out to the Atlantic, and along the river's expanse. Following the viewing platform visit, guests participate in an immersive virtual reality experience that transports them to parts of the bridge that are normally inaccessible to the public, including the top of the towers and the main cable walkways high above the river. The VR technology provides a thrilling sense of what it's like to be a bridge worker performing maintenance hundreds of meters above the water. The visit concludes with a stop at the PhotoBooth, where visitors can capture and memorialize their unforgettable experience. Throughout the center, interactive displays explain the bridge's engineering, its historical significance in connecting Lisbon to the south bank, and its cultural impact on the city and country. The Ponte 25 de Abril, often compared to San Francisco's Golden Gate Bridge due to their similar appearance and engineering, opened in 1966 and remains one of the longest suspension bridges in Europe.",
-    "history": "The Ponte 25 de Abril was inaugurated on August 6, 1966, as the Salazar Bridge, named after Portugal's dictator. Following the Carnation Revolution of April 25, 1974, which brought democracy to Portugal, the bridge was renamed '25 de Abril Bridge' to commemorate that historic date. The Pilar 7 Bridge Experience opened as a cultural attraction in 2017, transforming the seventh pillar into an interactive museum and observation point, allowing the public to engage with this engineering icon for the first time.",
-    "significance": "The experience offers unprecedented public access to one of Portugal's most iconic modern structures. The Ponte 25 de Abril is a symbol of Lisbon and represents both the country's engineering prowess and its democratic transformation. The Pilar 7 experience democratizes access to this monument, allowing visitors to understand and appreciate the bridge's construction, history, and ongoing importance to the city."
+    "short": "Pilar 7 Bridge Experience is a small visitor centre inside one of the 25 de Abril Bridge's pillars in Alcântara, with a viewing platform 80 metres up. The lift is under maintenance, so the platform is reached by 372 steps. Open daily 10:00–18:00.",
+    "full": "Know this before you go: the lift inside Pilar 7 is under maintenance, and the only way up to the viewing platform is 372 steps, about 80 metres up the pillar. Visit Lisboa, which sells the tickets, flags the lift problem on its pages and has cut the online price to €3 for every ticket type while it lasts. If you have mobility problems, heart trouble or little time, skip it: the ground-floor model room and virtual reality booth are not worth the trip on their own.\n\nIf you are fit and want the view, it is one you cannot get elsewhere. From the platform, part of which has a glass floor, you look across the Tagus to Cristo Rei on the south bank, down on the Alcântara docks and east towards the city centre, with the bridge's steelwork close by.\n\nGetting there: it is about 5.2 km from the terminal. Take a Cascais-line train from Cais do Sodré to Alcântara-Mar and walk a short way to Avenida da Índia, or take a taxi, which takes 12–15 minutes. Tram 15E also stops at Alcântara.\n\nOpening hours are 10:00 to 18:00 daily, with last entry at 17:00; it is closed on 25 December. Allow about an hour inside, more if you rest on the stairs. The platform is exposed, so bring a layer and skip the visit on a day of low cloud or strong wind. Visitors have also reported closed rooms and out-of-order toilets during the lift outage, so set your expectations accordingly.\n\nIt works best paired with LX Factory, about 15 minutes' walk inland, or as a stop on the way west to Belém.\n\nContext: the attraction opened in 2017, giving the public access to the inside of the bridge for the first time.",
+    "history": "The suspension bridge across the Tagus was built between 1962 and 1966 and opened on 6 August 1966 as the Ponte Salazar, named after the dictator. After the Carnation Revolution of 25 April 1974 it was renamed after that date. Its main span is 1,013 metres, and a lower railway deck opened in 1999, carrying trains to the south bank. The Pilar 7 project, inaugurated on 27 September 2017, opened one of the pillars on the Alcântara side to visitors, with an exhibition on the bridge's construction, a model room, virtual reality and a viewing platform 80 metres above the ground.",
+    "significance": "The 25 de Abril Bridge was the first fixed crossing of the Tagus at Lisbon, and it changed how the city and the south bank grew. Its name records the end of the dictatorship. Pilar 7 is the only place where the public can go up inside the structure, which is the one thing here that a riverside photo cannot give you."
   },
   "location": {
     "address": {
@@ -55,13 +56,14 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open year-round except December 25",
+      "currentStatus": "Open daily 10:00–18:00, closed 25 December. Lift under maintenance: the viewpoint is reachable only by 372 steps.",
       "seasonal": [
         {
           "season": "Year-round",
           "days": "Daily",
           "hours": "10:00 - 18:00",
-          "lastAdmission": "17:00"
+          "lastAdmission": "17:00",
+          "notes": "Lift under maintenance; access to the viewpoint by stairs only (372 steps)."
         }
       ],
       "closedDates": [
@@ -70,78 +72,64 @@
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 6,
-      "youth": 3,
+      "adult": 5.5,
+      "youth": 3.7,
       "child": 0,
-      "senior": 3,
+      "senior": 3.7,
       "lisboaCardFree": true,
-      "notes": "Children under 6 free. Youth 6-12 years. Free with Lisboa Card. Tickets available online or at entrance."
+      "notes": "Regular prices: adult €5.50; child 6–15, student and senior 65+ €3.70; children up to 5 free. While the lift is under maintenance the Visit Lisboa online shop sells all ticket types at €3. Virtual reality is an optional €1.50 add-on. Free with the Lisboa Card."
     },
-    "averageVisitDuration": "60-90 minutes",
-    "bestTimeToVisit": "Early morning or late afternoon for best light from observation deck. Weekdays less crowded than weekends. Clear days offer best views.",
+    "averageVisitDuration": "About 1 hour (more if you take the stairs slowly)",
+    "bestTimeToVisit": "A clear, calm day, any time from opening at 10:00 to last entry at 17:00. Avoid low cloud and strong wind.",
     "busyPeriods": [
       "Mid-morning to early afternoon (11:00-15:00)",
       "Weekends",
       "Summer months (June-September)",
       "School holidays"
     ],
-    "adviceForVisitors": "Book tickets online to avoid queues. Allow at least 90 minutes for full experience including VR. Observation deck can be windy - bring a jacket. Photography encouraged but no tripods on observation platform. Virtual reality experience may not be suitable for those with motion sickness or fear of heights. Combine visit with Belém district attractions (1.5km away). Audio guides available in multiple languages."
+    "adviceForVisitors": "Check the lift status on the Visit Lisboa page before setting off: while it is out, the platform is 372 steps up. Bring a layer for the exposed platform and use the toilets before you arrive. Allow about an hour."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "2.5-3 hours including travel and visit",
-    "accessibility": "Good - located along waterfront with tram access. Elevator to observation deck.",
+    "timeNeededFromPort": "2.5–3 hours, including train or taxi each way",
+    "accessibility": "Not suitable for wheelchair users or anyone who cannot climb stairs while the lift is out: the viewing platform is 372 steps up. Too far to walk from the terminal; take the train to Alcântara-Mar or a taxi.",
     "combinableWith": [
-      "Belém Tower",
-      "Jerónimos Monastery",
-      "Monument to the Discoveries",
-      "MAAT Museum",
-      "LX Factory",
-      "Belém waterfront walk"
+      "LX Factory (about 15 minutes' walk)",
+      "Belém: Jerónimos Monastery and Belém Tower",
+      "MAAT museum",
+      "Alcântara and Doca de Santo Amaro riverside"
     ],
     "tips": [
-      "Easily combinable with Belém attractions",
-      "Take tram 15E for scenic waterfront ride",
-      "Free with Lisboa Card (great value)",
-      "VR experience is highlight - don't miss it",
-      "Best views on clear days",
-      "Can get windy on observation deck",
-      "Perfect for engineering/architecture enthusiasts",
-      "PhotoBooth creates great souvenirs",
-      "Visit early or late to avoid crowds",
-      "Allow 90 minutes minimum for full experience"
+      "The lift is out of service and the viewing platform is 372 steps up; check the Visit Lisboa page for the lift status before you set off.",
+      "Online tickets from the Visit Lisboa shop are €3 for all ages while the lift is under maintenance (normally €5.50 adult); children up to 5 go free, and entry is free with the Lisboa Card.",
+      "Virtual reality is an optional €1.50 add-on; skip it if you are short of time.",
+      "Open daily 10:00–18:00 with last entry at 17:00; closed on 25 December.",
+      "Take a Cascais-line train from Cais do Sodré to Alcântara-Mar and walk a short way to Avenida da Índia, or take a taxi from the terminal (12–15 minutes).",
+      "The platform is exposed: bring a layer and skip the visit on low-cloud or very windy days.",
+      "Pair it with LX Factory, about 15 minutes' walk inland, for a half day west of the centre.",
+      "Use the toilets before you arrive; visitors have reported facilities out of order during the lift outage."
     ]
   },
   "features": {
     "highlights": [
-      "Panoramic observation deck at bridge level",
-      "Stunning 360-degree views of Lisbon and Tagus River",
-      "Immersive virtual reality experience",
-      "Access to normally inaccessible bridge areas via VR",
-      "Interactive multimedia exhibits",
-      "Journey through bridge construction history",
-      "Elevator ride to viewing platform",
-      "PhotoBooth for memorable photos",
-      "Unique perspective from inside bridge pillar",
-      "Educational displays about engineering",
-      "Audio guides in multiple languages",
-      "Views extending to Atlantic Ocean and Cristo Rei"
+      "Viewing platform 80 metres up, partly glass-floored, currently reached by 372 steps",
+      "Views across the Tagus to Cristo Rei and over the Alcântara docks",
+      "Close-up view of the bridge's steelwork",
+      "Model room and exhibition on the bridge's construction",
+      "Mirror room and cable room on the 4th floor",
+      "Optional virtual reality experience of inaccessible parts of the bridge (€1.50)"
     ],
     "facilities": [
-      "Observation deck",
-      "Virtual reality room",
-      "Interactive exhibition space",
-      "PhotoBooth",
-      "Elevator to viewing platform",
-      "Audio guide system",
-      "Gift shop",
-      "Restrooms",
-      "Information desk",
-      "Accessible throughout"
+      "Viewing platform",
+      "Model room and exhibition",
+      "Virtual reality booth",
+      "Gift shop (10% off with the Lisboa Card)",
+      "Lift (currently under maintenance)",
+      "Toilets (reported out of order at times)"
     ],
     "accessibility": {
-      "wheelchairAccessible": true,
-      "mobilityNotes": "Fully accessible via elevator to observation deck. All exhibition areas wheelchair accessible. Observation platform has safety barriers suitable for all visitors.",
+      "wheelchairAccessible": false,
+      "mobilityNotes": "While the lift is under maintenance the viewing platform and upper rooms are reached only by stairs (372 steps to the platform). Only the ground floor is accessible without climbing.",
       "visualAidServices": false,
       "hearingAidServices": false
     },
@@ -227,7 +215,7 @@
     "technology-fans",
     "all-ages"
   ],
-  "weatherDependent": false,
+  "weatherDependent": true,
   "indoorActivities": true,
   "outdoorActivities": true,
   "priceRange": "$",

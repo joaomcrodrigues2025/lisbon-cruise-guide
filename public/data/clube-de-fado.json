@@ -1,7 +1,8 @@
 {
   "id": "clube-de-fado",
   "name": "Clube de Fado",
-  "tagline": "Experience authentic Portuguese soul through traditional Fado music in historic Alfama",
+  "seoTitle": "Clube de Fado: €78 Dinner and Fado Near the Ship",
+  "tagline": "A fado house below the Sé, founded by a guitarist, six minutes on foot from the cruise terminal.",
   "type": "fado-house",
   "categories": [
     "fado-music",
@@ -12,10 +13,10 @@
     "live-music"
   ],
   "description": {
-    "short": "Clube de Fado, one of Lisbon's most iconic Fado venues, has been showcasing Portugal's soulful traditional music since its establishment in historic Alfama. Just steps from Lisbon Cathedral, this intimate venue offers authentic Fado performances alongside refined Portuguese cuisine.",
-    "full": "Nestled in the heart of Alfama, Lisbon's oldest neighborhood, Clube de Fado stands as one of the city's most respected and iconic Fado houses. Located just steps from the imposing Lisbon Cathedral (Sé de Lisboa), this intimate venue occupies a historic building where centuries-old stone walls and an ancient Moorish well create an atmospheric setting for Portugal's most emotional musical tradition. Fado, recognized by UNESCO as Intangible Cultural Heritage, is Portugal's soul-stirring musical genre characterized by mournful tunes and lyrics expressing saudade - a deep emotional state of nostalgic longing. At Clube de Fado, this tradition comes alive nightly through performances by both renowned fadistas and emerging talents, accompanied by the haunting sounds of Portuguese guitar. The venue has hosted some of Fado's greatest names over the years, from the legendary Amália Rodrigues to contemporary stars like Camané, Mariza, and Ana Moura. The intimate atmosphere places audiences close to performers, creating powerful emotional connections as voices rise with feeling in the candlelit space. Clube de Fado pairs these memorable musical experiences with elevated Portuguese cuisine, offering traditional dishes prepared with quality ingredients and modern technique. The menu features classics like bacalhau (codfish), grilled meats, fresh seafood, and regional specialties. The evening unfolds with dinner service beginning around 20:00, followed by Fado performances that typically start around 20:30 and continue until 01:00, with sets rotating between different singers and musicians. The venue's intimate size means advance reservations are essential, and the dress code leans smart casual out of respect for the tradition.",
-    "history": "Clube de Fado has been a cornerstone of Lisbon's Fado scene for decades, occupying a historic building in Alfama that dates back centuries. The venue's location near the Sé Cathedral places it at the heart of Fado's birthplace - the narrow streets of Alfama where this music originated among the working-class neighborhoods of 19th-century Lisbon. The building itself features architectural elements from different eras, including Moorish influences visible in the ancient well and stone construction. Throughout its history, Clube de Fado has been a training ground for emerging fadistas while also attracting established stars, making it a living museum of Fado tradition.",
-    "significance": "Clube de Fado represents the preservation and continuation of authentic Fado tradition in an era of commercialization. Unlike tourist-oriented venues, it maintains high artistic standards while making Fado accessible to visitors seeking genuine cultural experiences. The venue's location in Alfama, Fado's birthplace, adds historical authenticity. It serves as a cultural ambassador, introducing international audiences to this UNESCO-recognized art form while remaining a favorite among local Fado enthusiasts."
+    "short": "Clube de Fado is a fado house on Rua de São João da Praça, below Lisbon Cathedral, opened in 1995 by the guitarist Mário Pacheco. One set menu at €78 includes the fado; the first set starts at 20:30.",
+    "full": "Clube de Fado only fits a port day if your ship stays in Lisbon into the evening or overnight. It is an evening venue: the kitchen opens at 19:30, the first fado set starts at 20:30 and the night runs until about 01:00. Check your all-aboard time before you book.\n\nGetting there is easy. The house is on Rua de São João da Praça, the street that curves round below the Sé, about 400 m and six minutes on foot from the terminal: walk west along the riverside avenue and turn up into lower Alfama behind the cathedral. Coming back late, the walk is short and mostly downhill, or a taxi takes a few minutes.\n\nThere is one menu, at €78 per person (2026): couvert, starter, main course and dessert, with the fado included. Drinks are extra; wine by the glass starts at €9. The seafood cataplana adds €40 per person. Book online (free, up to 10 people); the room is small and evenings fill in advance, especially in summer and at weekends.\n\nArrive between 19:30 and 20:00 so the first courses are on the table before the singing starts. Sets alternate with the courses. When someone stands to sing, service stops and the room goes silent: that is the house's one rule, and it covers phones too. If you have to be back on board by about 22:30, you will hear the first sets but not the full night, so tell staff when you sit down.\n\nThe house was opened in January 1995 by the guitarist Mário Pacheco, who accompanied Amália Rodrigues. It is a dinner venue with professional musicians, not a casual tasca where neighbours take turns to sing, and it is priced accordingly. The house also has a petiscos menu (€4–20) for people arriving after dinner; ask when booking whether a later, lighter visit is possible.",
+    "history": "Clube de Fado opened in January 1995. Its founder, Mário Pacheco, is a Portuguese guitar player who accompanied Amália Rodrigues, Alfredo Marceneiro and Carlos do Carmo and has composed for Mariza, Camané and Mísia. He set out to build a house around the music rather than a restaurant that added fado later. It occupies part of a building more than 300 years old on Rua de São João da Praça, which runs round the cathedral, and stone arches divide the dining room into alcoves. In 2006 the Casa da Imprensa awarded it its Prémio Casa de Fado. Fado itself took shape in 19th-century Lisbon, in neighbourhoods such as Alfama and Mouraria.",
+    "significance": "UNESCO inscribed fado on the Representative List of the Intangible Cultural Heritage of Humanity in 2011, and evening fado houses are where most visitors hear it live. Clube de Fado is one of the established professional houses in Alfama, run by a musician, with singers performing between the tables rather than on a raised stage. For a cruise passenger it is also one of the closest fado houses to the ship."
   },
   "location": {
     "address": {
@@ -43,7 +44,7 @@
     }
   },
   "contact": {
-    "phone": "+351 213 422 281",
+    "phone": "+351 218 852 704",
     "email": "clubedefado@fadoandfood.pt",
     "website": "https://www.clubedefado.pt/en/",
     "bookingUrl": "https://www.clubedefado.pt/en/booking/",
@@ -55,36 +56,36 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open every evening year-round",
+      "currentStatus": "Open every evening",
       "seasonal": [
         {
           "season": "Year-round",
-          "days": "Daily",
+          "days": "Every evening",
           "hours": "19:30 - 01:00",
-          "notes": "Dinner service from 19:30, Fado performances 20:30-01:00"
+          "notes": "Kitchen opens at 19:30; first fado set at 20:30. Sets alternate with the courses until closing."
         }
       ],
       "closedDates": []
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 0,
-      "notes": "No admission fee but dinner reservation required. Dinner with Fado show typically €45-75 per person including meal and performance. À la carte menu available. Minimum consumption required. Reserve in advance - essential."
+      "adult": 78,
+      "lisboaCardFree": false,
+      "notes": "No separate entry ticket: the €78 set menu (couvert, starter, main course and dessert, 2026) includes the fado. Drinks are extra (wine by the glass from €9). Seafood cataplana +€40 per person. A petiscos menu (€4–20) is available for later arrivals. Children's prices are not published; ask when booking."
     },
-    "averageVisitDuration": "3-4 hours (full evening experience)",
-    "bestTimeToVisit": "Any evening - book several days to weeks in advance during summer and peak season. Tuesday-Thursday slightly less busy than weekends.",
+    "averageVisitDuration": "2.5–3 hours for dinner and the first sets; up to 5 hours if you stay until closing",
+    "bestTimeToVisit": "Arrive 19:30–20:00 so you have eaten your starter before the first set at 20:30. Book ahead for summer and weekend evenings.",
     "busyPeriods": [
-      "Friday and Saturday nights",
-      "Summer season (June-September)",
-      "Holiday periods",
-      "Weekends year-round"
+      "Friday and Saturday evenings",
+      "Summer",
+      "Holiday periods"
     ],
-    "adviceForVisitors": "MUST book in advance - walk-ins rarely possible. Arrive on time for dinner reservation. Silence is essential during Fado performances - talking/phone use not permitted. Photography usually allowed without flash between songs - check with staff. Smart casual dress code recommended. Plan for full evening commitment. Budget appropriately - this is an upscale experience."
+    "adviceForVisitors": "Book online; it is free and immediate for up to 10 people. Stay silent during each fado and keep phones away; talk and order between sets. Drinks are not included in the €78 menu. Groups of more than 10 should phone or email."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Full evening - 5-6 hours total (include time to/from ship, dinner, performances)",
-    "accessibility": "Moderate - a short walk from port but evening commitment required. Venue has stairs and historic building limitations.",
+    "timeNeededFromPort": "3–4 hours for dinner and several sets, plus about 6 minutes' walk each way",
+    "accessibility": "Six minutes on foot from the terminal, ending on a sloping Alfama street. The house is in an old building with stone arches; contact it before booking to ask about steps and access.",
     "combinableWith": [
       "Alfama daytime exploration",
       "Lisbon Cathedral visit",
@@ -92,46 +93,34 @@
       "Evening in Alfama"
     ],
     "tips": [
-      "BOOK WELL IN ADVANCE - essential for cruise passengers",
-      "Perfect evening cultural experience near cruise port",
-      "Allows time to return to ship - ends by 01:00",
-      "Combine with daytime Alfama exploration",
-      "Authentic Fado in intimate historic setting",
-      "Respect silence during performances - cultural tradition",
-      "Budget €50-80 per person for full experience",
-      "Smart casual dress - show respect for tradition",
-      "No need to speak Portuguese - universal emotional experience",
-      "6-minute walk from the Jardim do Tabaco terminal - easy logistics",
-      "Consider dining earlier in venue before main performances",
-      "Photography between songs usually permitted"
+      "Check your all-aboard time first: fado starts at 20:30 and the night runs to about 01:00.",
+      "Book online at clubedefado.pt (free and immediate for up to 10 people); larger groups book by phone on +351 218 852 704 or by email.",
+      "Budget €78 per person for the set menu with fado, plus drinks: wine by the glass starts at €9.",
+      "Arrive between 19:30 and 20:00 so you have eaten your starter before the first set.",
+      "Stay silent during each fado and keep phones away; service pauses while someone sings.",
+      "From the terminal, walk west along the river and up behind the Sé: about six minutes. Late at night a taxi back takes a few minutes.",
+      "If your ship leaves before evening, the Fado Museum on Largo do Chafariz de Dentro, a few minutes from the terminal, is open Tuesday to Sunday, 10:00–18:00 (€5).",
+      "The set menu has vegetarian main courses; mention allergies when you book."
     ]
   },
   "features": {
     "highlights": [
-      "Authentic traditional Fado performances nightly",
-      "Historic Alfama building with ancient Moorish well",
-      "Intimate candlelit atmosphere",
-      "Renowned fadistas and Portuguese guitar musicians",
-      "Has hosted Fado legends: Amália Rodrigues, Camané, Mariza, Ana Moura",
-      "Elevated Portuguese cuisine and traditional dishes",
-      "Multiple Fado sets throughout evening",
-      "Close proximity to performers",
-      "UNESCO Intangible Cultural Heritage experience",
-      "Centuries-old stone walls and architecture",
-      "Professional sound system enhancing acoustics",
-      "Rotating lineup of talented fadistas"
+      "Founded in 1995 by the guitarist Mário Pacheco, who accompanied Amália Rodrigues",
+      "One set menu at €78 with the fado included (drinks extra)",
+      "Fado sung between the tables, with no raised stage",
+      "Stone-arched dining room in a building over 300 years old, below the Sé",
+      "First set at 20:30; sets alternate with courses until about 01:00",
+      "About six minutes' walk from the cruise terminal"
     ],
     "facilities": [
       "Restaurant dining room",
       "Bar",
-      "Intimate performance space",
-      "Restrooms",
-      "Coat check",
-      "Air conditioning"
+      "Online booking",
+      "Restrooms"
     ],
     "accessibility": {
       "wheelchairAccessible": false,
-      "mobilityNotes": "Historic building with stairs and uneven floors. Not suitable for wheelchairs or significant mobility limitations. Narrow doorways and passages. Contact venue in advance for specific accessibility questions.",
+      "mobilityNotes": "Old building with stone arches and a sloping street outside. Contact the house before booking about steps and seating if you have limited mobility.",
       "visualAidServices": false,
       "hearingAidServices": false
     },

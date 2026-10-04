@@ -1,7 +1,8 @@
 {
   "id": "castelo-dos-mouros",
   "name": "Castelo dos Mouros",
-  "tagline": "8th-century Moorish castle ruins with spectacular mountain views from ancient battlements",
+  "seoTitle": "Moorish Castle Sintra: Worth It Instead of Pena?",
+  "tagline": "Granite walls on the ridge beside Pena: the cheaper, untimed way to Sintra's big views, best on a clear day.",
   "type": "castle",
   "categories": [
     "castle",
@@ -13,10 +14,10 @@
     "unesco-heritage"
   ],
   "description": {
-    "short": "Dramatic 8th-century Moorish fortress ruins perched high on Sintra's rocky crags. Ancient battlements snake across mountain ridges offering breathtaking panoramic views over Sintra, Pena Palace, and the Atlantic Ocean. UNESCO World Heritage Site built during Muslim occupation of Iberian Peninsula.",
-    "full": "The Castelo dos Mouros (Moorish Castle or Castle of the Moors) is a spectacular ancient fortress dramatically situated atop the Sintra mountain range, its crenellated walls snaking across rocky granite outcrops like a miniature Great Wall. Built by North African Moors during the 8th-9th centuries following the Muslim conquest of the Iberian Peninsula, the castle served as a strategic military fortification controlling the region between Sintra, Mafra, Cascais, and the Tagus estuary. The fortress was constructed to complement the region's natural defenses, with walls following the mountain's natural contours and taking advantage of massive granite boulders. Following the Christian Reconquista in 1147, when King Afonso Henriques captured Lisbon and Sintra from Moorish control, the castle gradually lost military importance and fell into ruin over the centuries. The devastating 1755 Lisbon earthquake caused significant damage, leaving the castle in the romantic ruined state visible today. In the 19th century, King Ferdinand II, the same monarch who built Pena Palace, became fascinated by the romantic ruins and initiated restoration efforts, preserving the walls, adding romantic Gothic elements, and integrating the castle into his park. Today, visitors can walk along 450 meters of restored battlements, climb ancient towers, explore medieval cisterns, and discover the remains of a 12th-century Romanesque chapel. The castle offers some of Sintra's most spectacular views - on clear days, visitors can see from the Atlantic Ocean to Lisbon, with Pena Palace's colorful towers rising majestically nearby. Archaeological excavations have uncovered artifacts from Neolithic settlements through the Islamic period, displayed in the castle's interpretation center. Listed as a UNESCO World Heritage Site as part of Sintra's Cultural Landscape, the Castelo dos Mouros represents an extraordinary fusion of natural landscape, medieval military architecture, and romantic preservation.",
-    "history": "The Castelo dos Mouros was constructed by the Moors during the 8th-9th centuries following the Islamic conquest of the Iberian Peninsula. The fortress was strategically positioned to control vital territory and served as a military outpost protecting the Muslim kingdom centered in Lisbon. The castle was populated by a small Mozarabic community living within its walls. In 1147, after a three-month siege, the castle surrendered to King Afonso Henriques' crusading forces during the Christian Reconquista. A Romanesque chapel dedicated to São Pedro was built within the walls in the 12th century. After the Christian conquest, the castle's military importance diminished, and by the 15th-16th centuries, it was largely abandoned, with the Jewish quarter within the walls eventually emptying. The Great Lisbon Earthquake of 1755 severely damaged the already ruined structure. The castle remained in romantic ruins until the 19th century, when King Ferdinand II of Portugal, captivated by medieval romanticism, acquired the ruins and undertook restoration efforts, integrating the castle into his vast Pena Park estate. Ferdinand preserved and partially restored the walls and towers while maintaining the romantic character of the ruins. In 2000, Parques de Sintra initiated comprehensive archaeological studies and conservation work. In 2009, the restored castle reopened to the public with improved access, interpretation centers, and safe walkways along the battlements. UNESCO designated the site as World Heritage in 1995 as part of the Cultural Landscape of Sintra.",
-    "significance": "The Castelo dos Mouros is one of the most important examples of medieval Islamic military architecture in Portugal and a crucial monument to the period of Moorish occupation of the Iberian Peninsula. As a UNESCO World Heritage Site, it represents eight centuries of Portuguese history from Islamic rule through Christian reconquest to 19th-century Romanticism. The castle's dramatic setting and well-preserved battlements make it one of Portugal's most photographed historic monuments and an essential stop for understanding the country's multicultural medieval heritage."
+    "short": "A 10th-century Islamic fortification on a ridge of the Sintra hills, restored by Ferdinand II in the 19th century. Bus 434 stops here just before Pena; the visit takes 60 to 90 minutes and is all outdoors.",
+    "full": "The Moorish Castle sits on the ridge just below Pena, and most cruise passengers who reach it treat it as an add-on: bus 434 stops at the castle and then at Pena, and the two entrances are a short walk apart on the same road. The more useful question is whether to visit it instead of Pena.\n\nIt is worth choosing over Pena if you mainly want the views. From the walls you look across to Pena itself, down to the town and the National Palace, and on clear days out to the Atlantic. There is no timed entry, the ticket is 12 euros against 20 for Pena's Essential Visit, and the visit is shorter, 60 to 90 minutes. Choose Pena if you want an interior: the castle is a walled ruin with no furnished rooms.\n\nThe visit is physical. The walls follow the rock, with uneven steps, steep stretches and drops beside the walkways, and the ridge is exposed to wind. In low cloud the views, which are the point of coming, disappear, so check the forecast before committing a long call to it.\n\nInside the walls are the Arms Square, where the garrison gathered; the Castle Keep at one of the highest points; grain silos cut into the rock; and the church of São Pedro de Canaferrim, now an interpretation centre with finds from the Neolithic to the Middle Ages. Nearby is the tomb Ferdinand II built for bones found during his restoration, inscribed 'What man brought together, only God may separate', because no one could tell whether they were Christian or Moorish.\n\nFrom the Jardim do Tabaco terminal allow 75 to 90 minutes each way: metro to Restauradores, train from Rossio, then bus 434. The castle alone fits a call of seven to eight hours; with Pena as well, plan on about ten. Last entry is 17:30, earlier than at Pena.",
+    "history": "The castle was founded in the 10th century, under Islamic rule, to watch over the land and sea approaches to Lisbon. A population lived inside and around the walls, storing grain in silos cut into the rock. In 1147, after Afonso Henriques took Lisbon and Santarém, Sintra surrendered to him, and in 1154 the Templar master Gualdim Pais received a charter for the town. A Christian village with the church of São Pedro de Canaferrim grew up between the two rings of walls, but it was gradually abandoned from the 15th century. In the 19th century Ferdinand II restored the walls in a Romantic spirit. Excavations have continued since 1976, and Parques de Sintra has managed the site since 2000.",
+    "significance": "The castle shows two layers of Sintra's history at once: a 10th-century Islamic fortification built to control the approaches to Lisbon, and its 19th-century Romantic restoration by Ferdinand II, who made it part of the view from Pena. It is a key part of the Cultural Landscape of Sintra listed by UNESCO in 1995, and excavations here have documented occupation of the hills from the Neolithic to the Middle Ages."
   },
   "location": {
     "address": {
@@ -32,10 +33,10 @@
       "longitude": -9.3894
     },
     "directions": {
-      "general": "Located on Sintra mountain ridge between Pena Palace (above) and Sintra town (below). Accessed via scenic woodland walking trails or road.",
-      "fromCruisePort": "From Lisbon cruise port: Train from Rossio Station to Sintra (40 min), then bus 434 'Circuito da Pena' to castle stop. Or organized shore excursion. Total journey 75-100 minutes.",
-      "publicTransport": "Train from Lisbon Rossio to Sintra station (40 min). Then bus 434 to Castelo dos Mouros stop (10 min). Or scenic 40-min uphill walk through forest trails from Sintra town (steep but beautiful).",
-      "parking": "Very limited parking near entrance. Better to park in Sintra and take bus 434 or walk. Parking at Pena Palace entrance (500m away)."
+      "general": "On a ridge of the Sintra hills between the historic centre and Pena. Private vehicles cannot drive to the castle.",
+      "fromCruisePort": "Walk about 10 minutes to Santa Apolónia and take the metro Blue Line to Restauradores; Rossio station is a two-minute walk. Trains from Rossio reach Sintra in about 40 minutes. From Sintra station take Scotturb bus 434, which stops at the castle before continuing to Pena. Allow 75 to 90 minutes door to door each way.",
+      "publicTransport": "Train from Lisbon Rossio to Sintra (about 40 minutes), then Scotturb bus 434 to the Castelo dos Mouros stop. On foot, the marked Santa Maria trail climbs from the historic centre to the castle (about 1.8 km, around an hour uphill).",
+      "parking": "Private vehicles are not allowed up to the castle. Park in the historic centre or the outer car parks and take bus 434 or walk."
     },
     "distanceFromCruisePort": {
       "meters": 35500,
@@ -56,80 +57,72 @@
   },
   "visitingInformation": {
     "openingTimes": {
-      "currentStatus": "Open daily year-round",
+      "currentStatus": "Open daily except 24, 25 and 31 December and 1 January",
       "seasonal": [
         {
-          "season": "Year-round",
+          "season": "Castle",
           "days": "Daily",
-          "hours": "09:30 - 19:00 (last admission 18:00)",
-          "lastAdmission": "18:00"
+          "hours": "09:30 - 18:00",
+          "lastAdmission": "17:30 (last ticket 17:30)",
+          "notes": "Ticket office closed 12:00-13:00; ticket machines available"
         }
       ],
       "closedDates": [
+        "December 24",
         "December 25",
+        "December 31",
         "January 1"
       ]
     },
     "admissionPrices": {
       "currency": "EUR",
-      "adult": 8,
-      "youth": 6.5,
-      "child": 6.5,
-      "senior": 6.5,
-      "family": 26,
+      "adult": 12,
+      "youth": 10,
+      "child": 0,
+      "senior": 10,
+      "family": 33,
       "lisboaCardFree": false,
-      "notes": "Children under 6 free. Youth 6-17 years. Seniors 65+. Family ticket: 2 adults + 2 children. Combined tickets with Pena Palace and other Sintra monuments available at discounted rates. Online booking recommended."
+      "notes": "2026 prices: adults 18-64 12 euros, youths 6-17 and seniors 65+ 10 euros, family (2 adults + 2 youths) 33 euros. The official price table does not list a fare for under-6s; confirm when booking. Tickets are for a specific date with no time slot; online tickets can be rescheduled until 18:00 the day before. Dogs are allowed."
     },
-    "averageVisitDuration": "1.5-2 hours",
-    "bestTimeToVisit": "Early morning (9:30-11:00) or late afternoon (16:00-18:00) for best light and fewer crowds. Clear days essential for panoramic views. Spring and autumn offer pleasant weather for walking battlements. Avoid midday heat in summer.",
+    "averageVisitDuration": "60-90 minutes",
+    "bestTimeToVisit": "Clear, calm days, from opening time. In fog or strong wind the views are lost and the walls are unpleasant.",
     "busyPeriods": [
       "Weekends year-round",
       "Summer months (June-August)",
       "Midday hours (12:00-15:00)",
       "Portuguese holidays"
     ],
-    "adviceForVisitors": "Wear sturdy walking shoes - uneven stone surfaces, steep stairs, and narrow battlements. Bring water - limited facilities. Check weather - slippery when wet, exposed to wind. Allow 1.5-2 hours to walk all battlements. Not suitable for those with fear of heights - battlements have sheer drops. Combine with Pena Palace visit (15-min walk uphill). Bring camera - spectacular photo opportunities. Start early for solitude and best light. Moderately strenuous - many stairs and uphill sections. Not recommended in heavy rain or strong wind."
+    "adviceForVisitors": "Wear shoes with grip: the walkways are uneven granite steps with drops alongside. Check the forecast; skip it in low cloud. Last entry 17:30."
   },
   "cruisePassengerInfo": {
     "idealForCruisePassengers": true,
-    "timeNeededFromPort": "Half-day excursion (4-5 hours) or combine with Pena Palace for full day (7-8 hours)",
-    "accessibility": "Moderate - requires train + bus or steep uphill walk. Less crowded than Pena Palace, offering more authentic medieval experience.",
+    "timeNeededFromPort": "About 4-4.5 hours door to door on its own (needs a call of 7-8 hours or more); with Pena as well, a call of about 10 hours",
+    "accessibility": "Metro, a 40-minute train and bus 434 up a winding hill road. On site, steep uneven steps and exposed walkways; not suitable for wheelchairs or for anyone uneasy with heights.",
     "combinableWith": [
-      "Palácio da Pena (15-min uphill walk)",
-      "Quinta da Regaleira",
-      "Palácio de Monserrate",
-      "Sintra historic town center",
-      "Scenic forest walking trails"
+      "Palácio da Pena (next stop on bus 434)",
+      "Sintra historic centre (Santa Maria trail or bus 434)",
+      "National Palace of Sintra"
     ],
     "tips": [
-      "Perfect complement to Pena Palace - visit both in one trip",
-      "Less crowded than other Sintra attractions - more peaceful experience",
-      "Spectacular 360-degree views - bring camera with wide-angle lens",
-      "Can be combined with scenic forest walk from/to Sintra town",
-      "Buy combined ticket with Pena Palace to save money and time",
-      "Wear layers - windy and cooler on exposed battlements",
-      "Not suitable for mobility issues - steep stairs and uneven surfaces",
-      "Photography paradise - especially at sunset",
-      "Allow 90 minutes minimum to explore properly",
-      "Less physically demanding than climbing to Pena Palace",
-      "Authentic medieval atmosphere - great for history buffs",
-      "Check weather forecast - visibility crucial for enjoying views"
+      "No time slot is needed: buy a date ticket online (12 euros) and enter whenever you arrive.",
+      "Bus 434 stops at the castle before Pena; if you plan both, visit the castle first and walk along the road to the Pena entrance afterwards.",
+      "Last entry is 17:30 and the castle closes at 18:00, earlier than Pena's park.",
+      "Check the forecast: in low cloud the views disappear, and in strong wind the exposed walls are hard going. On such a day choose the National Palace instead.",
+      "Wear shoes with grip; the walkways are uneven granite steps with drops alongside.",
+      "The ticket office closes from 12:00 to 13:00; the ticket machines keep working.",
+      "The marked Santa Maria trail links the castle and the historic centre (about 1.8 km); on a port day use it only with time in hand.",
+      "Closed 24, 25 and 31 December and 1 January, and may close at short notice when fire risk is very high."
     ]
   },
   "features": {
     "highlights": [
-      "450 meters of walkable medieval battlements",
-      "Panoramic 360-degree views over Sintra, Atlantic, and Lisbon",
-      "Dramatic setting on rocky mountain crags",
-      "Ancient Moorish fortification towers and gates",
-      "Ruins of 12th-century Romanesque Chapel of São Pedro",
-      "Medieval cisterns and water storage systems",
-      "Archaeological interpretation center",
-      "Artifacts from Neolithic to Islamic periods",
-      "Stunning views of Pena Palace towering above",
-      "UNESCO World Heritage Site - Cultural Landscape of Sintra",
-      "Romantic 19th-century restoration by King Ferdinand II",
-      "Ancient forest surroundings with walking trails"
+      "Walls along the granite ridge, with views to Pena, the town and, on clear days, the Atlantic",
+      "Castle Keep, the last stronghold, at one of the highest points of the walls",
+      "Arms Square, the walled square where the garrison gathered",
+      "Grain silos cut into the rock during the Islamic period",
+      "Church of São Pedro de Canaferrim, now the interpretation centre with archaeological finds",
+      "Ferdinand II's tomb for the bones found during his restoration",
+      "Close view of Pena Palace across the valley"
     ],
     "facilities": [
       "Small interpretation center with archaeological exhibits",
@@ -181,7 +174,7 @@
       "name": "Palácio da Pena",
       "distance": "500 meters",
       "type": "palace",
-      "walkingTime": "15 minutes uphill"
+      "walkingTime": "Short walk along the road, or the next stop on bus 434"
     },
     {
       "name": "Quinta da Regaleira",
@@ -193,7 +186,7 @@
       "name": "Sintra Historic Town Center",
       "distance": "1.5 km",
       "type": "historic-town",
-      "walkingTime": "40 minutes downhill through forest (steep)"
+      "walkingTime": "About 1.8 km on the Santa Maria trail (around an hour uphill)"
     },
     {
       "name": "Palácio de Monserrate",
